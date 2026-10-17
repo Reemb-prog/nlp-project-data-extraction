@@ -1,0 +1,58 @@
+qa_id,fact_id,question,question_style
+S029_Q0001,S029_F0001,Who is the chairperson of the Design Department?,direct
+S029_Q0002,S029_F0001,Who teaches full-time in RHU's design department?,paraphrase
+S029_Q0003,S029_F0002,What is the vision of the Design Department?,direct
+S029_Q0004,S029_F0002,What does the RHU design department aspire to?,paraphrase
+S029_Q0005,S029_F0003,What programs does the Design Department offer?,direct
+S029_Q0006,S029_F0003,Is there a graphic design minor at RHU?,paraphrase
+S029_Q0007,S029_F0004,What is the mission of the Graphic Design program?,direct
+S029_Q0008,S029_F0004,Does the graphic design program teach VR and 3D printing?,paraphrase
+S029_Q0009,S029_F0005,What are the outcomes of the BS in Graphic Design?,direct
+S029_Q0010,S029_F0005,Will I build a portfolio during the graphic design degree?,contextual
+S029_Q0011,S029_F0006,What jobs can graphic design graduates get?,direct
+S029_Q0012,S029_F0006,Can I work freelance after studying graphic design at RHU?,contextual
+S029_Q0013,S029_F0007,How many credits and semesters is the Graphic Design degree?,direct
+S029_Q0014,S029_F0007,How many summer sessions are in the graphic design study plan?,paraphrase
+S029_Q0015,S029_F0008,What fine arts courses do graphic design students take?,direct
+S029_Q0016,S029_F0008,How many fine arts credits are in the Graphic Design BS?,paraphrase
+S029_Q0017,S029_F0009,Which business course is required for graphic design majors?,direct
+S029_Q0018,S029_F0009,Do graphic design students take marketing?,paraphrase
+S029_Q0019,S029_F0010,What are the mandatory GRDS courses in the graphic design major?,direct
+S029_Q0020,S029_F0010,How many credits of mandatory graphic design courses are required?,paraphrase
+S029_Q0021,S029_F0011,What major electives can graphic design students choose?,direct
+S029_Q0022,S029_F0011,What is the prerequisite for the UI/UX Design elective?,paraphrase
+S029_Q0023,S029_F0011,Can I take 3D Animation as a graphic design elective?,contextual
+S029_Q0024,S029_F0012,Why do graphic design students take an extra social science course?,direct
+S029_Q0025,S029_F0012,How many extra social science credits are required in graphic design?,paraphrase
+S029_Q0026,S029_F0013,What are the co-op requirements for graphic design students?,direct
+S029_Q0027,S029_F0013,When do graphic design majors do their co-op?,paraphrase
+S029_Q0028,S029_F0014,What courses do graphic design students take in their first semester?,direct
+S029_Q0029,S029_F0014,Graphic design year 1 semester 1 courses?,short
+S029_Q0030,S029_F0015,What is in graphic design year 1 semester 2?,direct
+S029_Q0031,S029_F0015,When do graphic design students take Type I and Drawing II?,paraphrase
+S029_Q0032,S029_F0016,What courses are in the first summer of the graphic design plan?,direct
+S029_Q0033,S029_F0016,When is Photography I taken in graphic design?,paraphrase
+S029_Q0034,S029_F0017,What courses are in graphic design year 2 semester 1?,direct
+S029_Q0035,S029_F0017,When do graphic design students take Illustration and Design I?,paraphrase
+S029_Q0036,S029_F0018,What is in graphic design year 2 semester 2 and the following summer?,direct
+S029_Q0037,S029_F0018,When is Motion Graphics scheduled in the graphic design plan?,paraphrase
+S029_Q0038,S029_F0019,What courses are in graphic design year 3 semester 1?,direct
+S029_Q0039,S029_F0019,When do graphic design students take Web and Interactive Design?,paraphrase
+S029_Q0040,S029_F0020,What is in the final semester of graphic design?,direct
+S029_Q0041,S029_F0020,When do graphic design majors take Branding & Advertising?,paraphrase
+S029_Q0042,S029_F0021,What is FADR 200 Drawing I about?,direct
+S029_Q0043,S029_F0021,Which course introduces drawing with wet and dry media?,paraphrase
+S029_Q0044,S029_F0022,What does FADR 202 Drawing II cover?,direct
+S029_Q0045,S029_F0022,Do I need Drawing I before figure drawing?,paraphrase
+S029_Q0046,S029_F0023,What is FADR 210 Rendering and Perspective Techniques?,direct
+S029_Q0047,S029_F0023,Which course teaches perspective drawing for designers?,paraphrase
+S029_Q0048,S029_F0024,What does FADR 220 Fundamentals of 2D cover?,direct
+S029_Q0049,S029_F0024,Which course covers 2-D design elements and color theory?,paraphrase
+S029_Q0050,S029_F0025,What is FADR 222 Fundamentals of 3D about?,direct
+S029_Q0051,S029_F0025,What is the prerequisite of Fundamentals of 3D?,paraphrase
+S029_Q0052,S029_F0026,What does GRDS 203 Introduction to Graphic Design cover?,direct
+S029_Q0053,S029_F0026,Do I need Type I before Introduction to Graphic Design?,paraphrase
+S029_Q0054,S029_F0027,What is GRDS 205 Type I about?,direct
+S029_Q0055,S029_F0027,Which course teaches the anatomy of type?,paraphrase
+S029_Q0056,S029_F0028,What is the prerequisite for GRDS 205?,direct
+S029_Q0057,S029_F0028,Can I take Type I together with Introduction to Digital Media?,contextual

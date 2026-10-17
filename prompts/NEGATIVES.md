@@ -1,0 +1,3 @@
+TASK: Add a small, balanced negative-question set for classifier abstention.
+
+Read `docs/SCHEMA_AND_QA.md`, `data/plan/labels.json`, and `docs/PROJECT_BRIEF.md`. Write only `data/plan/negative_questions.csv` with the exact five-column contract. Produce 30 to 60 realistic, genuinely different student questions. Include queries where the undergraduate catalog has no answer and questions requiring live schedules, student records, grades, tuition balances, lecturer availability, etc. Do NOT invent an answer or suggest the catalog contains confidential records. Separate intents `not_in_catalog` and `live_data_needed` according to plan; both category `out_of_scope`. No external sources, no sentiment data, no code edits. Finish with a one-line count.

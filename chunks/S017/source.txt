@@ -1,0 +1,256 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S017 | General education
+ORIGINAL PDF PAGES: 104 to 108 (inclusive)
+ONLY extract facts whose source page is between 104 and 108.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 104 ==========
+BIOL 222  Introduction to Food Safety and Lab                       3(2, 2)
+This course aims to teach the general principles of food microbiology and food safety.
+It covers the biology and epidemiology of foodborne microorganisms of public health
+significance, including bacteria,  fungi, protozoa, and viruses, and food spoilage
+microorganisms; chemical pollution of foodstuffs; safety and preservation of food
+commodities; Principal methods for examination of foods; food quality control and
+implementation of the Hazard Analysis Critical Control Point (HACCP) scheme. The
+course also offers a set of experiments to cover the laboratory methods used in the
+microbiological analysis of foods and to identify the characteristics of the major groups
+of microorganisms associated with food spoilage, foodborne disease, and food
+fermentations. Prerequisite: None.
+
+BITM 300  Business IT Management                                  3(3,0)
+This course provides a comprehensive introduction to information systems and their
+application. It explains how to use and manage information technology to revitalize
+business processes, conduct e-commerce, improve business decision-making, and
+gain a competitive advantage. Prerequisite: BITM 200
+
+
+CHEM 210  Principles of Chemistry                                   3(3,0)
+This course emphasizes the fundamental principles of chemistry, including atomic
+structure, bonding, stoichiometry, gases, solutions, acids and bases, and solution
+equilibria. Prerequisite: None.
+
+CHEM 211  Environmental Chemistry and Lab                        3(2,2)
+This course provides an opportunity to develop an understanding of several basic
+environmental functions, the complicated nature of environmental systems, and the
+need for multidisciplinary solutions to environmental problems. Topics covered include
+the hydrosphere, water quantity and quality, soil and the soil ecosystem, biological
+resources, waste disposal, air pollution, ozone depletion, acid rain, and global warming.
+The course also includes a set of experiments that provide students with practical
+experience in various environmental analysis settings, including air and water quality.
+Prerequisite: None.
+
+COSC 214   Introduction to Programming                             3(3,0)
+This course presents the fundamentals of structured and modular programming
+concepts. It covers primitive data types, expressions, control statements, functions,
+arrays, basic search and  sorting  algorithms, and an  introduction  to  pointers.
+Prerequisite: None. Equivalent to CCEE 214.
+
+EDUC 317  Neurological Development and Cognitive Change        3(3,0)
+This course provides a unified view of neurological development, beginning with the
+growth of the  first neural cells and extending through the emergence of complex
+thought and behavior. It considers brain mechanisms underlying cognitive, perceptual,
+social, and emotional development during infancy and childhood.
+
+
+
+                                                                  Page 104
+
+========== ORIGINAL PDF PAGE 105 ==========
+EDUC 222  Computer Applications in Education                     3(3,0)
+ This course focuses on general knowledge of the use of microcomputers in education,
+ including common computer applications such as word processing, spreadsheet,
+ database, and  presentation software  in  teaching/learning  activities, as  well as
+ evaluating the effectiveness  of educational software  in teaching/learning across
+ various subject matter areas.
+
+GEOL 300   Human Geography: People and Culture                3(3,0)
+ Different cultures in different landscapes are compared to those in the Middle East.
+ This course examines the many issues surrounding human population, perceptions of
+ the environment, the diffusion of ideas, and the cultural aspects of resources and urban
+ growth. Co-requisite: ENGL 210.
+
+ PHYS 211     Physics: Electricity and Magnetism and Lab          3(3,1)
+ This course covers fundamental topics in Electricity and Magnetism: Electric forces
+ and Electric Fields for discrete and continuous charge distributions; Gauss’s Law;
+ Electric Potential; Capacitance and Dielectrics; Kirchhoff’s rules; Magnetic Fields and
+ Forces;  Biot-Savart Law; Ampere’s Law; Magnetic Flux and Gauss’s Law  in
+ Magnetism. It also includes a laboratory component that introduces students to the
+ “real world” through experiments in electricity and magnetism. Prerequisite: None.
+
+ PHYS 312  Modern Physics                                           3(3,0)
+ This course introduces the principles of revolutionary developments of the 20th
+ century. It covers the interaction of light and matter (Photoelectric effect, Compton
+ effect, Auger effect, etc.), the dual nature of light, various models of atomic description,
+ quantum numbers, the relativistic approach, the Heisenberg Uncertainty Principle, the
+ Schrödinger Equation, and an introduction to the band theory of solids and particle
+ physics.
+
+Quantitative Reasoning Electives
+
+BADM 250    Business Statistics                                      3(3,0)
+ Business Statistics introduces students to the fundamentals of applied  statistics.
+ Accordingly, students are exposed to statistics as they are directly applied in solving
+ business problems. The course will cover random variables, sampling, probability
+ distributions, expectation, hypothesis testing and confidence intervals, analysis of
+ variance, correlation, and simple linear regression.
+
+BADM 420    Quantitative Methods for Business                     3(3,0)
+ This course introduces students to managerial decision analysis using quantitative
+ tools. The course will introduce students to the use and development of mathematical
+ models to help managers make informed decisions. The focus is on the applied aspects
+ of statistics and math. As such, the course will cover the basics of probabilistic and
+ statistical techniques, decision analysis, linear programming, optimization, forecasting,
+ and waiting-line theory. Prerequisite: BADM 250, MATH 351, or Senior Standing.
+
+
+                                                                   Page 105
+
+========== ORIGINAL PDF PAGE 106 ==========
+ENGR 300    Engineering Economics and Management              3(3,0)
+Concepts and techniques in basic Engineering economy principles and applications.
+Interest and financial mathematics: present worth, annual worth, benefit/cost ratio,
+internal rate of return, multiple alternatives, income tax,  inflation, Risk analysis,
+Investment and investment choice, equivalence, loans, cost of capital, retirement and
+replacement, sector analysis and viewpoint, sensitivity analysis, accounting, and
+financial statements.
+
+GRDS 220    Introduction to Digital Media                            3(3,0)
+In this course, students will develop a solid foundation in the tools and techniques of
+Adobe Illustrator and Adobe Photoshop. Students will learn the difference between
+vector-based and pixel-based programs and how to integrate both work fields to
+produce creative graphics. Moreover, students will be briefly introduced to Adobe
+InDesign, including its workspace, functions, and tools.
+
+GRDS 335    Production                                               3(3,0)
+In  this course, students  will develop an understanding of the “process flow”  of
+contemporary print production methods. The course covers the entire production
+timeline: Prepress, Press, and Postpress. In addition to printing technologies, students
+will learn about various types of ink and paper, binding, varnishes, finishing techniques,
+and the effect of the printing process on the product. Students will also learn how to
+handle projects and deal with clients as freelance designers or as designers working
+for companies. Prerequisite: GRDS 222.
+
+MATH 210    Discrete Mathematics                                   3(3,0)
+Logic, propositional equivalences, predicates and quantifiers, methods of proof, proof
+strategy, mathematical induction, recursive definitions, strong induction, structural
+induction, sets and set operations, functions, growth of functions, relations and their
+properties, representing relations, equivalence relations, introduction to graphs, and
+graph terminology.
+
+MATH 220     Statistics for Social & Behavioral Sciences            3(3,0)
+This course introduces statistical techniques for analyzing social science research
+data. Topics include frequency distribution, central tendency, variability, probability
+theory, Bayes’ rule, mathematical expectation, variance and covariance, binomial,
+Poisson, hypergeometric and normal distributions, sampling distributions, estimation
+problems, and hypothesis testing. Prerequisite: None.
+
+MATH 351     Probability and Statistics                               3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215.
+
+
+
+                                                                  Page 106
+
+========== ORIGINAL PDF PAGE 107 ==========
+PHIL 302      Introduction to Formal Logic                           3(3,0)
+ This course is a standard introduction to the formal techniques of argument analysis.
+ Formal logic was invented to mirror and evaluate mathematical reasoning; however,
+ this course will concentrate on the relationship between formal logic and everyday
+ reasoning and language usage in general. Co-requisite: ENGL 210.
+
+Community and Sustainability Electives
+
+BADM 215    Personal Development and Management              1(1,0)
+ This course engages the student  in  self-reflection, self-discovery  activities, and
+ lectures. It is intended to encourage students to develop themselves and plan for the
+ present and the future by becoming more self-aware.  Topics and issues include
+ personality  types, communication  styles,  personal performance  factors,  career
+ choices, and personal development planning.
+
+BADM 290   Community Engagement Experience                  0(0,1)
+ The Community Engagement experience consists of a specific number of volunteer
+ hours by students at community organizations under the supervision of a faculty
+ member.  Community  organizations may  include governmental agencies, non-
+ governmental organizations, and civil society organizations.
+
+CMNS 200    Etiquette                                                 1(1,0)
+ This course is designed to help students develop interpersonal and communication
+ skills that are fundamental to success in the workplace, regardless of the industry,
+ organization, or sector  in which they are employed. Students  will improve  their
+ professional  style as  they study  topics  including  polite  conversation, personal
+ appearance, office politics, diplomacy, telephone, cell phone, and voicemail etiquette,
+ meeting protocol, job interview presentations, and even international travel. Students
+ will participate in an off-campus formal dining experience. Co-requisite: ENGL 210.
+
+CMNS 205     First Aid                                                 1(1,0)
+ This course provides an overview of the principles of first aid, including preserving life,
+ preventing  further  injury, and protecting the unconscious.  It enhances students’
+ knowledge of first-aid procedures and their application in real-life situations. The course
+ also helps them develop the skills necessary to assist until medical help arrives.  It
+ raises students’ awareness  of  different types  of medical emergencies and the
+ appropriate steps to take in both mild and life-threatening conditions. Co-requisite:
+ ENGL 210.
+
+EDUC 315    Children’s Health and Safety in the School        3(3,0)
+             Environment
+ This course introduces students to childcare facilities and to environmental health
+ concepts related to children’s health and well-being. It examines current policies and
+ practices of environmental health. It covers indoor and outdoor safety concerns, safe
+ food handling, Universal Precautions, and other aspects of disease prevention, as well
+ as the recognition and reporting of child abuse.  It includes specific strategies to
+
+
+                                                                   Page 107
+
+========== ORIGINAL PDF PAGE 108 ==========
+strengthen families to reduce the risk of child abuse and neglect. Co-requisite ENGL
+210.
+
+EDUC 480    Special Topics in Education                            3(3,0)
+This course provides students with advanced study on selected topics or emerging
+issues in Arab or international education. It is designed for seminar format, multimedia
+presentation, experiential learning activities, interactive assignments, and cooperative
+group work. Prerequisite: EDUC 201 or consent of advisor.
+
+ENVS 201   Introduction to Environmental Science                  3(3,0)
+The main goal of the Introduction to Environmental Science (ENVS201) course is to
+provide students (except engineering) with the scientific principles and concepts
+required to understand the interrelationships of the natural world, to identify and
+analyze environmental problems, both natural and man-made; to evaluate the relative
+risks associated with these problems; and to examine alternative solutions  for
+resolving and preventing environmental problems. Prerequisite: None.
+
+GRDS 440  Design and Social Impact                                3(3,0)
+This course prepares students to become leading agents of social change through
+community engagement. It aims to promote collaboration between computer science
+and graphic design students to develop effective solutions to existing community
+issues. The course is structured around a balance of classroom theory, extensive field
+research, and the implementation  of a real-world solution  that draws on both.
+Prerequisite: Junior Standing.
+
+INDS 335    Design Issues and Sustainability                        3(3,0)
+This course investigates theoretical and philosophical constructs, as well as design
+issues, related to the study of interior architecture and design. It examines philosophical
+and practical principles of sustainable design by exploring environmental issues,
+sustainable materials and methods, and professional practice. Students will develop
+an awareness of the environmental implications of design decisions. They will gain a
+foundation for evaluating materials, processes, and practices in accordance with
+sustainable and environmentally responsible design principles.
+
+PSYC 314   Psychology for Sustainability                           3(3,0)
+This course will take a holistic approach to the topic, drawing on most major areas of
+psychology to explore environmental sustainability from a psychological perspective.
+We will use psychological principles, theories, and methods to examine the reciprocal
+relationship between human beings and the natural world, discuss the complex nature
+of environmental problems, and review important psychological and social factors that
+underlie sustainable and non-sustainable behaviors. Co-requisite: ENGL 210.
+
+
+
+
+
+                                                                  Page 108

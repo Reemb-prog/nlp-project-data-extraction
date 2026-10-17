@@ -1,0 +1,81 @@
+qa_id,fact_id,question,question_style
+S020_Q0001,S020_F0001,Who coordinates the Languages and Liberal Arts Unit?,direct
+S020_Q0002,S020_F0001,Who are the full-time faculty in the LLA unit?,paraphrase
+S020_Q0003,S020_F0002,What programs does the Languages and Liberal Arts Unit offer?,direct
+S020_Q0004,S020_F0002,Which unit runs the psychology minor?,paraphrase
+S020_Q0005,S020_F0003,What are the objectives of the BA in English Language?,direct
+S020_Q0006,S020_F0003,What does the English Language program prepare students for?,paraphrase
+S020_Q0007,S020_F0004,What are the learning outcomes of the English Language program?,direct
+S020_Q0008,S020_F0004,What will I be able to do after finishing the English BA?,paraphrase
+S020_Q0009,S020_F0005,What jobs can English Language graduates get?,direct
+S020_Q0010,S020_F0005,Can I become a translator with an English degree from RHU?,contextual
+S020_Q0011,S020_F0006,How many credits is the English Language BA?,direct
+S020_Q0012,S020_F0006,How many semesters does the English degree take?,paraphrase
+S020_Q0013,S020_F0007,What are the mandatory courses in the English Language major?,direct
+S020_Q0014,S020_F0007,Is Introduction to Phonetics required for English majors?,paraphrase
+S020_Q0015,S020_F0008,How many major elective credits do English majors need?,direct
+S020_Q0016,S020_F0008,What are the recommended electives for the English BA?,paraphrase
+S020_Q0017,S020_F0009,What is required to take ENGL 497I?,direct
+S020_Q0018,S020_F0009,Do I need instructor consent for Advanced Topics in English?,paraphrase
+S020_Q0019,S020_F0010,What is the co-requisite of ENGL 221?,direct
+S020_Q0020,S020_F0010,Can I take English Composition and Rhetoric II with ENGL 210?,paraphrase
+S020_Q0021,S020_F0011,What courses do English majors take in their first fall semester?,direct
+S020_Q0022,S020_F0011,English BA year 1 fall courses?,short
+S020_Q0023,S020_F0012,What is in the first-year spring semester of the English BA?,direct
+S020_Q0024,S020_F0012,How many credits do English majors take in year 1 spring?,paraphrase
+S020_Q0025,S020_F0013,Which courses are scheduled in year 2 fall for English majors?,direct
+S020_Q0026,S020_F0013,When do English majors take Introduction to Shakespeare?,paraphrase
+S020_Q0027,S020_F0014,What do English majors study in second-year spring?,direct
+S020_Q0028,S020_F0014,When is Modern English Grammar taken in the English study plan?,paraphrase
+S020_Q0029,S020_F0015,What courses are in year 3 fall of the English Language plan?,direct
+S020_Q0030,S020_F0015,When do English majors take Psycholinguistics?,paraphrase
+S020_Q0031,S020_F0016,What is in the last semester of the English BA study plan?,direct
+S020_Q0032,S020_F0016,When is the English senior project taken?,paraphrase
+S020_Q0033,S020_F0017,What does ENGL 222 cover in the English major?,direct
+S020_Q0034,S020_F0017,Is Introduction to Language a mandatory course for English majors?,paraphrase
+S020_Q0035,S020_F0018,What is ENGL 342 Introduction to Shakespeare about?,direct
+S020_Q0036,S020_F0018,Which mandatory English course studies Shakespeare's plays?,paraphrase
+S020_Q0037,S020_F0019,What is the prerequisite for ENGL 342?,direct
+S020_Q0038,S020_F0019,Do I need ENGL 210 before Introduction to Shakespeare?,paraphrase
+S020_Q0039,S020_F0020,What does ENGL 250 cover?,direct
+S020_Q0040,S020_F0020,Which English literature course covers Anglo-Saxon to 18th century?,paraphrase
+S020_Q0041,S020_F0021,What is ENGL 251 Introduction to English Literature II about?,direct
+S020_Q0042,S020_F0021,Which course covers English literature from Blake to Eliot?,paraphrase
+S020_Q0043,S020_F0022,What is the prerequisite of ENGL 251?,direct
+S020_Q0044,S020_F0022,Can I take English Literature II before English Literature I?,contextual
+S020_Q0045,S020_F0023,What does ENGL 350 History of the English Language cover?,direct
+S020_Q0046,S020_F0023,Is there a course on Old and Middle English?,paraphrase
+S020_Q0047,S020_F0024,What is the prerequisite for ENGL 350?,direct
+S020_Q0048,S020_F0024,Can I take History of the English Language without ENGL 222?,contextual
+S020_Q0049,S020_F0025,What is ENGL 360 Introduction to Phonetics about?,direct
+S020_Q0050,S020_F0025,Which English course teaches sound transcription?,paraphrase
+S020_Q0051,S020_F0026,What is the prerequisite for ENGL 360?,direct
+S020_Q0052,S020_F0026,Do I need Introduction to Language before Phonetics?,paraphrase
+S020_Q0053,S020_F0027,What does ENGL 370 Modern English Grammar cover?,direct
+S020_Q0054,S020_F0027,Is there a course on pragmatics and word formation?,paraphrase
+S020_Q0055,S020_F0028,What is the prerequisite of ENGL 370?,direct
+S020_Q0056,S020_F0028,Modern English Grammar prerequisite?,short
+S020_Q0057,S020_F0029,What is ENGL 400 Advanced English Grammar about?,direct
+S020_Q0058,S020_F0029,Which course compares traditional and transformational grammar?,paraphrase
+S020_Q0059,S020_F0030,What do I need before ENGL 400?,direct
+S020_Q0060,S020_F0030,Is ENGL 370 the prerequisite for Advanced English Grammar?,paraphrase
+S020_Q0061,S020_F0031,What does ENGL 450 Advanced Academic Writing cover?,direct
+S020_Q0062,S020_F0031,Which English course prepares students for graduate research writing?,paraphrase
+S020_Q0063,S020_F0032,What is the prerequisite of ENGL 450?,direct
+S020_Q0064,S020_F0032,Advanced Academic Writing prerequisite?,short
+S020_Q0065,S020_F0033,What is the ENGL 465 Senior Project?,direct
+S020_Q0066,S020_F0033,Is the English senior project done in groups?,paraphrase
+S020_Q0067,S020_F0034,What are the prerequisites for ENGL 465 Senior Project?,direct
+S020_Q0068,S020_F0034,Can I take the English senior project before ENGL 217?,contextual
+S020_Q0069,S020_F0035,What does ENGL 365 Applied Linguistics cover?,direct
+S020_Q0070,S020_F0035,Is there an applied linguistics elective for English majors?,paraphrase
+S020_Q0071,S020_F0036,What is ENGL 430 Advanced Language Acquisition about?,direct
+S020_Q0072,S020_F0036,Which course covers bilingualism and children's pragmatics?,paraphrase
+S020_Q0073,S020_F0037,What is the prerequisite for ENGL 430?,direct
+S020_Q0074,S020_F0037,Do I need Applied Linguistics before Advanced Language Acquisition?,paraphrase
+S020_Q0075,S020_F0038,What does ENGL 460 Discourse Analysis cover?,direct
+S020_Q0076,S020_F0038,Is there a discourse analysis elective in the English program?,paraphrase
+S020_Q0077,S020_F0039,What is ENGL 462 Introduction to Psycholinguistics about?,direct
+S020_Q0078,S020_F0039,Which course studies language and thought?,paraphrase
+S020_Q0079,S020_F0040,Is ENGL 210 a prerequisite or co-requisite for ENGL 300?,direct
+S020_Q0080,S020_F0040,"As an English major, do I need to finish ENGL 210 before World Literature?",contextual

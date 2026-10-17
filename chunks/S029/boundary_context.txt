@@ -1,0 +1,97 @@
+PREVIOUS PAGE 173 (reference only; do not make a fact for this page):
+MATH 351   Probability and Statistics                                  3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215
+
+MATH 421   Numerical Analysis                                        3(3,0)
+Error Analysis, solutions of nonlinear equations using fixed-point Newton-Raphson-
+Muller’s methods, solution of linear systems using Gaussian elimination-iterative
+methods,   interpolation  and   approximation   using   Taylor   series-Lagrange
+approximation-Newton  polynomials,  numerical   differentiation  and   integration,
+numerical optimization, solutions of ordinary and partial differential equations using
+Euler’s and Heun’s and Rung-Kutta methods, MATLAB codes related to the topics
+mentioned above. Prerequisite: MATH 311.
+
+MATH 316   Introduction to Analysis                                   3(3,0)
+Ordered, finite, countable and uncountable sets, sequences, subsequences, Cauchy
+sequences, upper and lower limits, series, limits of sequences of functions, continuity
+and compactness, connectedness, infinite limits, and limits at infinity, differentiation of
+vector-valued functions, series of functions, uniform convergence and continuity,
+functions of several variables, the inverse function and the implicit function theorems,
+the rank theorem. Prerequisite: MATH 217.
+
+MATH 318   Vector Calculus                                            3(3,0)
+Theory of vector-valued functions, divergence, gradient, curl, vector fields, path
+integrals, surface integrals, constrained extrema, and Lagrange multipliers. Implicit
+function theorem. Green’s and Stokes’ theorems: an introduction to differential
+geometry. Prerequisites: MATH 217 and MATH 311.
+
+MATH 425   Introduction to Complex Variables                        3(3,0)
+Complex numbers, geometric representation, analytic functions, real line integrals,
+complex  integration, power  series,  residues,  poles, and  conformal mappings.
+Prerequisite: MATH215.
+
+MATH 442   Introduction to Graph Theory                             3(3,0)
+Combinatorics through graph theory. Topics include connectedness, factorization,
+Hamiltonian  graphs,  network  flows, Ramsey  numbers,  graph  coloring,  graph
+automorphisms, and Pólya’s Enumeration Theorem—prerequisites: MATH 316 and
+Math 210.
+
+
+
+
+
+                                                                  Page 173
+
+NEXT PAGE 183 (reference only; do not make a fact for this page):
+GRDS 220   Introduction to Digital Media                              3(3,0)
+In this course, students will develop a solid foundation in the tools and techniques of
+Adobe Illustrator and Adobe Photoshop. Students will learn the difference between
+vector-based and pixel-based programs and how to integrate both work fields to
+produce creative graphics. Moreover, students will be briefly introduced to Adobe
+InDesign, including its workspace, functions, and tools.
+
+GRDS 222   Advanced Digital Media                                   3(3,0)
+The first section of the course teaches students advanced tools and techniques in
+Adobe  Illustrator (mesh 3D) and Adobe Photoshop (masks). The second  part
+emphasizes learning technical skills in Adobe InDesign, a computer-based page layout
+software. Students will learn to use master pages, style sheets, typographic controls,
+and flow and format text; place and manipulate images; combine images and text;
+create tables, gradients, and PDFs; and correctly prepare digital files for offset printing.
+Prerequisite: GRDS 220.
+
+GRDS 230   Photography I                                             3(3,0)
+This course teaches students the basics of black-and-white digital photography. It is a
+lecture-based course with extensive hands-on practical training. Students learn how to
+develop an eye for photography and for framing objects. They also enhance their
+knowledge of the different parts of a camera and the mechanisms of film printing and
+development while continuously scanning other photographers' work in contemporary
+and historical scenes.
+
+GRDS 300   Illustration                                                 3(2,2)
+This class  is designed to introduce students to the art of illustration and visual
+storytelling. It teaches students a range of technical skills to enhance their ideas and
+creativity. This class allows students to discover their style through line quality, colors,
+and shapes. Students will be aided in developing their own ‘style’ through visual
+analysis and personal  visions. Hands-on projects  will help enhance ideas and
+techniques such as ink and brush, scraperboard, monoprints, watercolor, relief printing,
+and collage. Prerequisites: GRDS 220; FADR 202.
+
+GRDS 305   Type II                                                      3(3,0)
+This intermediate-level course studies the marriage of Latin and Arabic typography.
+This course develops students' ability to create typographic designs by visually and
+aesthetically merging Arabic and Latin Fonts. This multi-script combination targets the
+needs of our direct Arab and Lebanese markets. Students will learn to dissect fonts,
+create modules, experiment with type, generate Arabic adaptations, and construct
+typographical patterns that evolve into 3D objects. The student further learns the rules
+of the typographic grid system and experiments with breaking the Grid when designing
+layouts, spreads, and posters. Prerequisite: GRDS 205.
+
+
+
+
+
+                                                                  Page 183

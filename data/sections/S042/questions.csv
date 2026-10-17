@@ -1,0 +1,24 @@
+qa_id,fact_id,question,question_style
+S042_Q0001,S042_F0001,What does ELEC 210 Electric Circuits cover?,direct
+S042_Q0002,S042_F0001,Which engineering course covers RLC circuits and phasors?,paraphrase
+S042_Q0003,S042_F0002,What is the prerequisite for ELEC 210?,direct
+S042_Q0004,S042_F0002,Do I need PHYS 191 before Electric Circuits?,paraphrase
+S042_Q0005,S042_F0003,What is ENGR 510 Engineering Project Management about?,direct
+S042_Q0006,S042_F0003,What do I need before Engineering Project Management?,paraphrase
+S042_Q0007,S042_F0004,What does GEOL 221 Fundamentals of Geology cover?,direct
+S042_Q0008,S042_F0004,Which geology course do civil engineers take?,paraphrase
+S042_Q0009,S042_F0005,What is PHYS 210 Fundamentals of Physics and Lab?,direct
+S042_Q0010,S042_F0005,Does PHYS 210 have a prerequisite?,paraphrase
+S042_Q0011,S042_F0006,How many independent study courses can count toward an engineering degree?,direct
+S042_Q0012,S042_F0006,Who can supervise an engineering independent study?,paraphrase
+S042_Q0013,S042_F0007,How do I register for an independent study in engineering?,direct
+S042_Q0014,S042_F0007,What form do I fill to request an engineering independent study?,paraphrase
+S042_Q0015,S042_F0008,What are ENGR 597 and ENGR 598?,direct
+S042_Q0016,S042_F0008,What is the prerequisite for engineering independent study courses?,paraphrase
+S042_Q0017,S042_F0009,How are engineering course codes structured?,direct
+S042_Q0018,S042_F0009,What does the first digit of an engineering course number mean?,paraphrase
+S042_Q0019,S042_F0010,Where is the engineering learning support center?,direct
+S042_Q0020,S042_F0010,Is there tutoring for engineering students?,paraphrase
+S042_Q0021,S042_F0011,What is ENGR 499 My Idea to Innovate?,direct
+S042_Q0022,S042_F0011,Can I design my own course around an innovative idea?,contextual
+S042_Q0023,S042_F0011,Does My Idea to Innovate count as a technical elective?,paraphrase

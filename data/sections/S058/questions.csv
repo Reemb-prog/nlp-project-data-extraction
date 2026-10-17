@@ -1,0 +1,33 @@
+qa_id,fact_id,question,question_style
+S058_Q0001,S058_F0001,Who is the chairperson of the Mechanical and Mechatronics Engineering Department?,direct
+S058_Q0002,S058_F0001,Who are the full-time faculty in the MME department?,paraphrase
+S058_Q0003,S058_F0002,Which programs does the MME department offer?,direct
+S058_Q0004,S058_F0002,What is the vision of the Mechanical and Mechatronics department?,paraphrase
+S058_Q0005,S058_F0003,What is the mission of the Mechanical Engineering program?,direct
+S058_Q0006,S058_F0003,What are the objectives of mechanical engineering graduates?,paraphrase
+S058_Q0007,S058_F0004,What are the program outcomes of Mechanical Engineering?,direct
+S058_Q0008,S058_F0004,What abilities will mechanical engineering graduates have?,paraphrase
+S058_Q0009,S058_F0005,Is the Mechanical Engineering BE ABET accredited?,direct
+S058_Q0010,S058_F0005,Under which ABET criteria is mechanical engineering accredited?,paraphrase
+S058_Q0011,S058_F0006,What careers can mechanical engineers pursue?,direct
+S058_Q0012,S058_F0006,Can mechanical engineers work in aerospace or automotive industries?,paraphrase
+S058_Q0013,S058_F0007,How many credits are the BE and BS in Mechanical Engineering?,direct
+S058_Q0014,S058_F0007,How many semesters is the mechanical BE?,paraphrase
+S058_Q0015,S058_F0008,How are credits distributed in the BS in Mechanical Engineering?,direct
+S058_Q0016,S058_F0008,How many program credits are in the mechanical BS?,paraphrase
+S058_Q0017,S058_F0009,What is the credit distribution of the mechanical BE?,direct
+S058_Q0018,S058_F0009,How many major elective credits are in the mechanical BE?,paraphrase
+S058_Q0019,S058_F0010,What are the mandatory courses in Mechanical Engineering?,direct
+S058_Q0020,S058_F0010,Is HVAC required for mechanical students?,paraphrase
+S058_Q0021,S058_F0011,What technical electives can mechanical BE students take?,direct
+S058_Q0022,S058_F0011,What are the two elective areas in mechanical engineering?,paraphrase
+S058_Q0023,S058_F0012,How many credits is the mechanical summative learning project?,direct
+S058_Q0024,S058_F0012,How is the mechanical BE project split across semesters?,paraphrase
+S058_Q0025,S058_F0013,What is the co-op requirement for mechanical engineering?,direct
+S058_Q0026,S058_F0013,How many credits is MECH 499 Co-op?,paraphrase
+S058_Q0027,S058_F0014,What courses do mechanical students take in year 1?,direct
+S058_Q0028,S058_F0014,When do mechanical students take Material Science and Dynamics?,paraphrase
+S058_Q0029,S058_F0015,What courses are in mechanical year 2?,direct
+S058_Q0030,S058_F0015,When do mechanical students take Thermodynamics I and II?,paraphrase
+S058_Q0031,S058_F0016,What courses are in mechanical year 3 fall?,direct
+S058_Q0032,S058_F0016,When do mechanical students take Heat Transfer and Mechanical Design I?,paraphrase

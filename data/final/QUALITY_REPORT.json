@@ -1,0 +1,96 @@
+{
+  "pdf_pages": 429,
+  "chunks": 68,
+  "facts": 1513,
+  "qa_all": 3212,
+  "qa_eligible": 3059,
+  "needs_review_facts": 74,
+  "distinct_exact_semantic_groups": 1513,
+  "review_status_counts": {
+    "draft": 1439,
+    "needs_review": 74
+  },
+  "split_eligible": {
+    "validation": 449,
+    "train": 2163,
+    "test": 447
+  },
+  "categories": {
+    "university_info": 88,
+    "academic_policies": 57,
+    "academic_calendar": 41,
+    "programs": 380,
+    "admissions": 57,
+    "registration": 37,
+    "fees_financial_aid": 31,
+    "student_services": 33,
+    "coop_career": 33,
+    "courses": 756
+  },
+  "intents": {
+    "about_university": 33,
+    "student_conduct": 8,
+    "office_contact": 35,
+    "staff_faculty_role": 20,
+    "calendar_date": 41,
+    "program_credits": 47,
+    "program_overview": 109,
+    "application_process": 6,
+    "admission_requirements": 22,
+    "registration_procedure": 22,
+    "english_proficiency": 13,
+    "tuition_fees": 17,
+    "transfer_admission": 9,
+    "non_degree_admission": 7,
+    "payment_refund": 11,
+    "library_it": 18,
+    "student_life_support": 15,
+    "scholarship_aid": 3,
+    "study_duration_level": 5,
+    "course_load": 8,
+    "repeat_substitute_course": 4,
+    "attendance_exams": 9,
+    "grading_gpa": 11,
+    "academic_standing": 9,
+    "graduation_requirements": 11,
+    "course_withdrawal": 7,
+    "program_requirements": 130,
+    "coop_training": 31,
+    "career_services": 2,
+    "course_description": 639,
+    "study_plan": 94,
+    "course_prerequisite": 95,
+    "course_credits": 11,
+    "course_equivalency": 11
+  },
+  "retrieval_passages": 1014,
+  "intent_split_gaps": {
+    "application_process": [
+      "test",
+      "validation"
+    ],
+    "career_services": [
+      "test",
+      "validation"
+    ],
+    "course_credits": [
+      "test"
+    ],
+    "not_in_catalog": [
+      "test"
+    ],
+    "repeat_substitute_course": [
+      "test",
+      "validation"
+    ],
+    "scholarship_aid": [
+      "test",
+      "validation"
+    ],
+    "study_duration_level": [
+      "test",
+      "validation"
+    ]
+  },
+  "note": "Quote matching is automated; semantic correctness and generated paraphrases still need human review."
+}

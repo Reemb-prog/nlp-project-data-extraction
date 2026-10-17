@@ -1,0 +1,356 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S056 | Biomedical engineering courses
+ORIGINAL PDF PAGES: 361 to 367 (inclusive)
+ONLY extract facts whose source page is between 361 and 367.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 361 ==========
+ELEC 451    Control Systems                     3     CCEE 331
+ Year 3, Spring Semester (16 Credits)
+ BIOM 418     Clinical Laboratory Instruments       3       BIOM 311
+ BIOM 440    Computational Neuroscience         3       BIOM  312  and
+                                          MATH 311
+CCEE 460     Artificial Intelligence                3       CCEE 214
+CCEE 460L   Artificial Intelligence Lab            1          Co-req.:  CCEE
+                                                     460
+ ELEC 432   Power Electronics                 3       ELEC 320
+              Engineering Technical Elective 1      3
+ Year 3, Summer Semester (3 Credits)
+ BIOM 499    Co‐op Work Experience             3       ENGL 217
+ The above 118 credits complete the requirements for a Bachelor of Science degree
+ in Biomedical Engineering.
+ Year 4, Fall Semester (16 Credits)
+ BIOM 519    Advanced Therapeutic Devices       3       BIOM 414
+ BIOM 522    Advanced Medical Imaging          3       BIOM 421
+ BIOM 595A  BE Summative Learning Project 1     1       ENGL 217
+CCEE 534    Signal Processing                 3       CCEE 331
+ENGR 510   Engineering Project Management     3
+              Engineering Technical Elective 2      3
+ Year 4, Spring Semester (18 Credits)
+ BIOM 531     Clinical Engineering                3       BIOM 417
+                                               BIOM 421
+ BIOM 595B  BE Summative Learning Project 2     3       BIOM 595A
+              Engineering Technical Elective 3      3
+              Engineering Technical Elective 4      3
+              Engineering Technical Elective 5      3
+               Social Sciences/ Humanities Elective II 3
+ Total BE credits: 152
+* BS-bound students are required to take BIOM 400 – Summative Learning (BS) Project instead.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+6 credits restricted Departmental Electives
+9 credits from any Engineering discipline at the 400 level or above.
+
+Courses Description
+
+I.  Mandatory Courses
+
+Non-Major Courses
+
+A description of the non-major mandatory courses follows.
+
+ BIOL 210   Human Anatomy and Physiology and Lab               3(2,2)
+ A general overview of cell structure and function, and the anatomy and physiology of
+ human body systems. These include cardiovascular, central nervous, respiratory,
+
+                                                           Page 361
+
+========== ORIGINAL PDF PAGE 362 ==========
+urinary, digestive, immune, and musculoskeletal systems. The course also offers a set
+of experiments that deal with basic biological processes and advanced biological
+assessments. Prerequisite: None.
+
+CCEE 214   Programming                                             3(2,2)
+Understanding  of the basic principles  of programming and computer systems;
+Applications  of programming  to the  solution  of engineering problems; Control
+structures, functions, arrays, pointers, and structures.
+
+CCEE 221    Logic Design                                             3(3,0)
+This course addresses Boolean algebra and logic simplification techniques, data
+representation, and  the design  of combinational  logic networks  for decoders,
+encoders, multiplexers, and demultiplexers.  Design of sequential logic devices,
+including flip-flops, registers, and counters, as well as analysis of devices used to build
+logic networks, including programmable logic devices.
+
+CCEE 221L  Logic Design Lab                                         1(0,2)
+This Lab covers design techniques and implementation  of combinational and
+sequential  logic  circuits.  Experiments  include  logic  gates;  the  design  and
+implementation of logic circuits; combinational logic circuits (decoders, encoders,
+multiplexers, demultiplexers, and adders); and the design of sequential logic devices
+using  flip-flops, registers, and counters. Prerequisite: CCEE 221. Prerequisite:
+CCEE 221. Equivalent to COSC 351L.
+
+CCEE 331    Signals and Systems                                    3(3,0)
+This course covers the mathematical description and classification of continuous and
+discrete signals and systems. Topics include signal types, Fourier series, Fourier
+transforms, Discrete-Time Fourier Transform (DTFT), Fast Fourier Transform (FFT),
+Laplace transforms, z-transforms, linear time-invariant systems, transfer functions,
+and state-space representation. Prerequisite: MATH 216.
+
+CCEE 426   Design of Embedded Systems                           3(3,0)
+This course addresses the design  of embedded  real-time systems, models  of
+computation, validation techniques, and automatic synthesis. Finite-state machines,
+synchronous languages, data-flow networks, Petri nets, software optimization and
+performance estimation, operating systems and scheduling, system-level simulation,
+and interface-based design. Prerequisite: CCEE 221. Equivalent to COSC 356.
+
+CCEE 426L  Design of Embedded Systems Lab                      1(0,2)
+This lab complements topics covered in the CCEE 426 course. It involves the design
+of embedded real-time systems, models of computation, validation techniques, and
+automatic  synthesis.  Experiments  include  Design  using  finite-state  machines,
+synchronous languages, data-flow networks, Petri nets, software optimization and
+performance estimation, scheduling, system-level simulation, and interface-based
+design. Co-requisite: CCEE 426. Equivalent to COSC 356L.
+
+
+                                                          Page 362
+
+========== ORIGINAL PDF PAGE 363 ==========
+CCEE 460   Artificial Intelligence                                      3(3,0)
+This course introduces students to the fundamentals of knowledge representation and
+learning in artificial intelligence. The emphasis will be on understanding fundamental
+concepts in artificial intelligence and applying corresponding approaches to solve
+practical problems and develop useful software applications. Covered topics include
+intelligent agents, informed and uninformed search strategies, and adversarial search.
+Prerequisite: CCEE 214 or equivalent.
+
+CCEE 460L  Artificial Intelligence Lab                                 1(0,2)
+This lab will help prepare students to handle the huge amount of data produced by
+both humans and machines today. The student will learn to use state-of-the-art AI tools
+to analyze data and make complex decisions based on that data using real-world
+practical examples and case studies. At the end of the lab, the student will be able to
+apply AI knowledge in their field at work or in day-to-day life to make better decisions.
+Co-req.: CCEE 460.
+
+CCEE 534    Signal Processing                                       3(3,0)
+This course covers time series analysis, frequency analysis, time-frequency, and time-
+scale analysis.  It also covers the design of  digital  filters and signal modeling.
+Prerequisite: CCEE 331.
+
+ELEC 200   Introduction   to   Electrical  and  Computer       3(3,0)
+            Engineering
+In this course, the student will be trained in core skills to excel in electrical, biomedical,
+computer, and communications engineering. The student will be trained in application
+programming using an appropriate programming environment. Students will build on
+the basics  of Programming learned  in the introductory programming course  to
+implement Digital Signal Processing applications and perform data analysis. Students
+will also be introduced to basic lab equipment such as Oscilloscopes, Function
+Generators, and Multi-Meters. Students will be introduced to microcontroller-based
+projects to further explore the Electrical and Computer Engineering majors (CCE,
+BIOM, and ELEC). Throughout the course, students will work in multidisciplinary teams
+to study engineering cases for the community and implement a project to address a
+community need.
+
+ELEC 210   Electric Circuits                                           3(3,0)
+This course covers circuit elements and laws; mesh and node equations; network
+theorems;  energy-storage  elements; RC, RL, and RLC  circuits;  transformers;
+sinusoidal (AC) steady-state analysis; power calculation; and an introduction to three-
+phase circuits. Prerequisite: PHYS 191 or Equivalent.
+
+ELEC 320    Electronics                                               3(3,0)
+A course on semiconductors, PN junctions, diode theory and circuits, bipolar junction
+transistors, transistor fundamentals, transistor biasing, amplifiers, JFETs, MOSFETs,
+and operational amplifiers. Prerequisite: ELEC 210
+
+
+                                                          Page 363
+
+========== ORIGINAL PDF PAGE 364 ==========
+ELEC 320L   Electronics Lab                                          1(0,2)
+This is a Lab course with experiments in Electrical and Electronic Circuits. It covers
+passive electrical elements and sources; lab instruments; voltage divider circuits;
+Thevenin’s theorem; RC circuits; diode circuits; Op-Amp circuits; BJT and MOSFET
+characteristics. Co-requisite: ELEC 320.
+
+ELEC 340    Engineering Electromagnetics                          3(3,0)
+Introduction  to  vector  analysis;  Electrostatic  fields  in vacuum and  dielectrics;
+Conductors; Capacitance;  Electrostatic energy and  forces;  Poisson's equation.
+Magnetic fields, Maxwell's equations, static electric and magnetic fields, boundary-
+value problems, Laplace's and Poisson's equations, and static electromagnetic fields.
+Time dependence in Maxwell’s equations and plane-wave propagation. Prerequisite:
+PHYS 211.
+
+ELEC 451   Control Systems                                         3(3,0)
+ Introduction to control systems; Modeling of systems in various energy domains;
+ transfer  functions and block diagrams; time-domain analyses; Laplace-domain
+ analyses; frequency-domain analyses; stability; precision; rapidity; root locus; Bode,
+ Nyquist, and Nichols diagrams; design of PID controllers and dynamic compensators.
+ Prerequisite: CCEE 331.
+
+ENGL 210    English Composition and Rhetoric                     3(3,0)
+This course reviews the fundamentals of good academic writing in English, teaches
+essay writing essentials and research skills in two rhetorical modes (persuasion and
+argumentation), and provides practice in writing essays in these modes, a research
+paper, and an oral presentation. Prerequisite: ENGL 101 or TOEFL 550+ (paper) or
+80+ (computer).
+
+ENGL 217    Professional English Communication                   3(3,0)
+This required course  is designed to help students develop effective professional
+communication skills, both orally and in writing. In this course, students learn how to
+write emails, memos, letters, proposals, reports, and other forms of employment
+correspondence. In addition, this course helps students sharpen their presentation
+skills. Broadly, this course enables students to behave professionally and effectively in
+their prospective jobs. Prerequisite: ENGL 210.
+
+ENGR 300   Engineering Economics and Management             3(3,0)
+ Concepts and techniques in basic Engineering economy principles and applications.
+ Interest and financial mathematics; present worth, annual worth, benefit/cost ratio,
+ internal rate of return, multiple alternatives, income tax, inflation, Risk analysis,
+ Investment and investment choice, equivalence, loans, cost of capital, retirement and
+ replacement, sector analysis and viewpoint, sensitivity analysis, accounting, and
+ financial statements. Prerequisite: None.
+
+
+
+
+                                                          Page 364
+
+========== ORIGINAL PDF PAGE 365 ==========
+ENGR 510   Engineering Project Management                       3(3,0)
+The course covers key components of engineering project management including
+projects election and planning, project time management, cost estimation and pricing,
+contract and specifications, quality management, engineering ethics and professional
+conduct,  realizing impact  of engineering  solutions  in  various  contexts  (global,
+economic, environmental, societal, etc...), sustainability in engineering designs, human
+resources  consideration,  communications,  risk management, and  procurement
+management. Prerequisite: ENGR 300.
+
+MATH 215    Calculus III                                                3(3,0)
+This course covers complex numbers, trigonometric functions, inverse trigonometric
+functions, hyperbolic functions, and integration techniques. The course also covers
+infinite sequences and series: limits of sequences of numbers, bounded sequences,
+integral test for series, comparison tests, ratio and root tests, alternating series,
+absolute and conditional convergence, power series, Taylor and MacLaurin series, and
+applications of power series. Polar functions, polar coordinates, and graphing of polar
+curves are also covered. In addition, topics from multivariable calculus are introduced:
+double integrals, applications to double integrals, and double integrals in polar form.
+
+MATH 216    Calculus IV                                               3(3,0)
+Multivariable calculus and vector analysis for three-dimensional problems. Topics
+include 3-D vectors, dot and cross products; quadratic surfaces; limits, continuity, and
+partial derivatives; gradient, chain rule, and directional derivatives; tangent planes,
+differentials, extrema, and saddle points; triple integrals in rectangular, cylindrical, and
+spherical coordinates with applications to mass and moments; vector fields, work, flux,
+and Green’s Theorem; and an introduction to Fourier series. Prerequisite: MATH 215.
+
+MATH 311   Linear Algebra with Applications                        3(3,0)
+Systems of linear equations, matrix algebra, linear transformations, determinants,
+vector spaces, eigenvalues and eigenvectors, symmetric matrices, orthogonality,
+diagonalization.
+
+MATH 314   Ordinary Differential Equations                          3(3,0)
+First-order linear differential equations; linear differential equations of second and
+higher order; linear differential equations with variable coefficients; series solutions;
+systems of differential equations; Laplace transforms and their inverses. Prerequisite:
+MATH 216.
+
+MATH 351   Probability and Statistics                                3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215
+
+
+
+                                                          Page 365
+
+========== ORIGINAL PDF PAGE 366 ==========
+MATH 421   Numerical Analysis                                      3(3,0)
+ Error Analysis, solutions of nonlinear equations using fixed-point, Newton-Raphson-
+ Muller’s methods, solution of linear systems using Gaussian elimination-iterative
+ methods,   interpolation  and   approximation   using   Taylor   series-Lagrange
+ approximation-Newton  polynomials,  numerical   differentiation  and   integration,
+ numerical optimization, solutions of ordinary and partial differential equations using
+ Euler’s and Heun’s and Rung-Kutta methods, MATLAB codes related to the above-
+ mentioned topics. Prerequisite: MATH 311.
+
+ PHYS 211   Physics: Electricity and Magnetism and Lab                  3(3,1)
+ This course covers fundamental topics in Electricity and Magnetism: Electric forces
+ and Electric Fields for discrete and continuous charge distributions; Gauss’s Law;
+ Electric Potential; Capacitance and Dielectrics; Kirchhoff’s rules; Magnetic Fields and
+ Forces;  Biot-Savart Law; Ampere’s Law; Magnetic Flux and Gauss’s Law  in
+ Magnetism. It also includes a laboratory component that introduces students to the
+ “real world” through experiments in electricity and magnetism. Prerequisite: None.
+
+ PHYS 312   Modern Physics                                          3(3,0)
+ This course introduces the principles of revolutionary developments of the 20th
+ century. It covers the interaction of light and matter (Photoelectric effect, Compton
+ effect, Auger effect, etc.), the dual nature of light, various models of atomic description,
+ quantum numbers, the relativistic approach, the Heisenberg Uncertainty Principle, the
+ Schrödinger Equation, and an introduction to the band theory of solids and particle
+ physics.
+
+Major Courses
+
+Mandatory biomedical engineering courses are described below.
+
+ BIOM 301    Biomedical Sensors                                     3(3,0)
+ This course provides an introductory overview of the multidisciplinary field of sensors.
+ The student is first introduced to the fundamental concepts of signals and noise in
+ measurement, the characteristics of the measurement system, and the determination
+ of the absolute quantity. Then the student learns about the different types of sensors
+ to measure pressure, force, flow, motion, and temperature. Prerequisite: ELEC 210.
+
+ BIOM 301L   Biomedical Sensors Lab                                 1(0,2)
+ The lab teaches students how to measure and interpret different types of signals.
+ Experiments include measurements of signal, noise, pressure (strain gauge), and
+ temperature; flow, motion, and force; and applications using research and simulation
+ kits. Co-requisite: BIOM 301.
+
+ BIOM 311    Biomedical Instrumentation                             3(3,0)
+ The course describes the major medical electronic instruments used in diagnostic
+ medicine.  It explains the theoretical background, block diagrams, and circuitry of
+ prosthetic devices, including different types of cardiac pacemakers, muscle and
+
+
+                                                           Page 366
+
+========== ORIGINAL PDF PAGE 367 ==========
+bladder prostheses, cochlear prostheses, and cardiac defibrillators and cardioverters.
+Prerequisite: BIOM 301.
+
+BIOM 312   Biomedical Engineering Design                         3(3,0)
+This course examines the origins of various bioelectric phenomena and signals
+routinely recorded in modern clinical practice. Given adequate monitoring equipment,
+the engineer of today can record many forms of bioelectric phenomena with relative
+ease. This course describes the theoretical, block-diagram, and circuitry aspects of
+electrophysiological  devices  such  as  electrocardiogram,  electroencephalogram,
+electroneurogram, electromyogram, and the like. Prerequisite: BIOM 301.
+
+BIOM 312L  Biomedical Engineering Design Lab                    1(0,2)
+The accompanying lab for BIOM 301 teaches students to measure and interpret
+biological and medical signals. Experiments cover the following topics: signal, noise,
+pressure (strain gauge), and temperature measurements; blood and gas flow, motion,
+and force measurements; and applications using electrodes based on medical
+equipment and research and simulation kits. Co-requisite: BIOM 312.
+
+BIOM 400   Summative Learning (BS) Project                       3(3,0)
+Team-oriented, project-based experience culminating in the creation of an artifact;
+milestones include project selection and proposal, a creative solution, a report, a
+presentation, and a demonstration of the device. Prerequisite: ENGL 217 taken in the
+last semester of the BS Program. Annually.
+
+BIOM 313    Bio-electronics Circuit Design                          3(3,0)
+This course focuses on design and measurement processes for medical systems and
+associated constraints. Students are required to apply the learned concepts in projects
+to design healthcare technology. Prerequisites: BIOM 301, ELEC 320.
+
+BIOM 414    Advanced Biomedical Instrumentation                 3(3,0)
+The  course  describes  the advanced  medical  electronic  instruments used  in
+therapeutic and diagnostic medicine. It includes extracorporeal shock wave lithotripsy,
+an infant incubator, a medical laser, a ventilator, and various medical devices used in
+the operating room, such as electrosurgical units and anesthesia units. Prerequisite:
+BIOM 311.
+
+BIOM 415L   Advanced Biomedical Lab                              1(0,2)
+The accompanying lab for BIOM 414 teaches students about advanced medical
+electronic instruments used in therapeutic and diagnostic medicine. Experiments
+cover the following topics: extracorporeal shock wave lithotripsy, infant incubator,
+medical laser applications, ventilator, and various medical devices used  in the
+operating room, such as electrosurgical units and anesthesia units. Co-requisite:
+BIOM 414.
+
+
+
+
+                                                          Page 367

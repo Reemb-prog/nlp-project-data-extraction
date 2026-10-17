@@ -1,0 +1,97 @@
+PREVIOUS PAGE 308 (reference only; do not make a fact for this page):
+Year 1, Summer Semester (10 Credits)
+CCEE 221L Logic Design Lab                    1     CCEE 221
+MATH 311   Linear Algebra and Applications         3
+             Humanities/ Fine Arts Elective I         3
+            Science Elective                     3
+Year 2, Fall Semester (17 Credits)
+CCEE 331   Signals and Systems                 3     MATH 216
+ELEC 301   Sensors and Sensor Circuit Design      3     ELEC 210
+ELEC 301L  Sensors and Sensor Circuit Design Lab   1        Co-req.: ELEC 301
+ELEC 320   Electronics                         3     ELEC 210
+ELEC 320L  Electronics Lab                      1        Co-req.: ELEC 320
+ENGL 217   Professional English                  3     ENGL 210
+MATH 351   Probability and Statistics              3     MATH 216
+Year 2, Spring Semester (17 Credits)
+ELEC 323   Electronics Circuit Design              3     ELEC 301, ELEC
+                                                    320
+ELEC 330  Power Systems                      3     ELEC 210
+ELEC 331   Electric Machines                    3     ELEC 210
+ELEC 331L  Electric Machines Lab                1        Co-req.: ELEC 331
+ELEC 340   Engineering Electromagnetics          3     PHYS 211
+MATH 314  Ordinary Differential Equations          3     MATH 216
+           Community and Sustainability Elective    1
+Year 2, Summer Semester (9 Credits)
+ENGR 300  Engineering Economics and            3
+          Management
+MATH 421  Numerical Analysis                   3     MATH 311
+             Social Science Elective I              3
+Year 3, Fall Semester (16 Credits)
+CCEE 426  Design of Embedded Systems          3     CCEE 221
+CCEE 426L Design of Embedded Systems Lab      1        Co-req.: CCEE 426
+ELEC 405   Electrical System Design              3     ELEC 210
+ELEC 406   Modeling and Simulation              3     ELEC 210
+ELEC 431   Introduction to Renewable Energy       3     ELEC 210
+           Systems
+ELEC 451   Control Systems                     3     CCEE 331
+Year 3, Spring Semester (17 Credits)
+CCEE 341  Communication Systems              3     CCEE 331
+CEE 460      Artificial Intelligence                  3     CCEE 214
+CCEE 460L  Artificial Intelligence Lab               1        Co-req.:   CCEE
+                                                    460
+ELEC 432  Power Electronics                    3     ELEC 320
+ELEC 432L Power Electronics Lab                1        Co-req.: ELEC 432
+ELEC       Engineering Technical Elective 1* or BS  3
+              Project
+MECH 333  Thermal Fluid Sciences               3     MATH 216
+
+                                                          Page 308
+
+NEXT PAGE 316 (reference only; do not make a fact for this page):
+controlled single-phase and 3-phase rectifiers using thyristors; DC-to-AC converters;
+ DC-to-DC buck and boost converters; and applications of DIAC, TRIAC, and IGBT.
+ Co-requisite: ELEC 432.
+
+ELEC 451    Control Systems                                          3(3,0)
+ This course is to explore the modeling of linear dynamic systems via differential
+ equations  and   transfer   functions   utilizing   state-space  and   input-output
+ representations; analysis of control systems in the time and frequency domains, study
+ of the classical stability tests, such as the Routh-Hurwitz and Nyquist criteria, and
+ design methods using root-locus plots and Bode plots; and the development of control
+ techniques based on PID, lead and lag networks. Prerequisite: CCEE 331.
+
+ELEC 499   Co-op Work Experience                                  3(3,0)
+ This Co-op work experience is designed to provide students with 5 weeks of short-
+ term work in electrical engineering. Students are encouraged to network in the
+ discipline-related industries. A report, a poster, and a PowerPoint presentation are
+ required. Prerequisites: ENGL 217; Senior Standing.
+
+ELEC 533   Advanced Electric Machines and Drives                 3(3,0)
+This course focuses on the basic structure and principles of DC and AC drive systems.
+Constant flux and field weakening. Constant torque and constant hp operation. Effect
+of non-ideal waveform on motor performance. Application of Space Vector to AC
+machine analysis. Pulse Width Modulation techniques. Multi-level converters and multi-
+phase motor drives. Modern methods of motor control: Field Oriented Control, Direct
+Torque Control, etc. Methods of Sensorless Control. Prerequisite: ELEC 331 and
+ELEC 432.
+
+ELEC 534   Advanced Power Systems                               3(3,0)
+The course is designed to give students a deeper understanding of power system
+analysis by covering the following topics: Circuit models, Per-unit representation,
+Network methods, Load-flow studies, Load-flow control, and Economic dispatch.  It
+also covers the Symmetrical three-phase faults, Unsymmetrical faults, Power system
+stability, and computer methods. Prerequisite: ELEC 330.
+
+ELEC 595A BE Summative Learning Project 1                        1(1,0)
+The first phase of a team-oriented, project-based experience that culminates in the
+creation of an artifact; milestones include: project selection and proposal, a creative
+solution, a  report, a presentation, and a demonstration  of the created device.
+Prerequisite: ENGL 217.
+
+ELEC 595B BE Summative Learning Project 2                        3(3,0)
+The second phase of a team-oriented, project-based experience that culminates in the
+creation of an artifact; milestones include: project selection and proposal, a creative
+solution, a  report, a presentation, and a demonstration  of the created device.
+Prerequisite: ELEC 595A.
+
+                                                          Page 316

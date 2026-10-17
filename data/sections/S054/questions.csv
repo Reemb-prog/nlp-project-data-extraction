@@ -1,0 +1,15 @@
+qa_id,fact_id,question,question_style
+S054_Q0001,S054_F0001,What is the Computer Networks minor?,direct
+S054_Q0002,S054_F0001,Can the networking minor help me get CCNA certified?,paraphrase
+S054_Q0003,S054_F0002,What are the learning outcomes of the Computer Networks minor?,direct
+S054_Q0004,S054_F0002,Will the networks minor teach me to troubleshoot networks?,paraphrase
+S054_Q0005,S054_F0003,Who can take the Computer Networks minor?,direct
+S054_Q0006,S054_F0003,"I'm a business student, can I minor in computer networks?",contextual
+S054_Q0007,S054_F0004,How many credits is the Computer Networks minor?,direct
+S054_Q0008,S054_F0004,What are the requirements to complete the networking minor?,paraphrase
+S054_Q0009,S054_F0005,What careers suit a computer networks minor?,direct
+S054_Q0010,S054_F0005,Can networking skills help me work in a bank or hospital?,paraphrase
+S054_Q0011,S054_F0006,Which courses are mandatory in the Computer Networks minor?,direct
+S054_Q0012,S054_F0006,What electives can I take for the networking minor?,paraphrase
+S054_Q0013,S054_F0007,How many credits is CCEE 555 Advanced Computer Networks?,direct
+S054_Q0014,S054_F0007,Is Advanced Computer Networks a lab or a 3-credit course?,paraphrase

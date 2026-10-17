@@ -1,0 +1,99 @@
+PREVIOUS PAGE 380 (reference only; do not make a fact for this page):
+Year 1, Spring Semester (15 Credits)
+ELEC 210     Electric Circuits                       3     PHYS  191  or
+                                                                 Equivalent
+MATH 216    Calculus IV                           3     MATH 215
+MECH 200    Introduction to Mechanical Engineering     3
+MECH 220   Dynamics                            3      CIVE 211
+MECH 223    Material Science                      3
+Year 1, Summer Semester (9 Credits)
+CHEM 211   Environmental Chemistry and Lab         3
+MECH 224   Mechanical Engineering Graphics and CAD 3
+MATH 311    Linear Algebra with Applications          3
+Year 2, Fall Semester (17 Credits)
+ELEC 320     Electronics                           3     ELEC 210
+ELEC 320L   Electronic Lab                        1       Co-req:  ELEC
+                                                       320
+MATH 314    Ordinary Differential Equations           3     MATH 216
+MECH 330   Thermodynamics I                     3     MATH 215
+MECH 320   Mechanics of Materials                 3      CIVE 211
+             Mechanics of Materials Lab              1        Co-req.: MECH
+MECH 320L
+                                                       320
+MECH 321   Mechanisms and Dynamics of Machinery   3     MECH 200 and
+                                         MECH 220
+Year 2, Spring Semester (17 Credits)
+ENGL 217    Professional English                   3     ENGL 210
+MATH 351    Probability and Statistics                3     MATH 215
+MECA 340   Dynamic Systems Modeling             3     MATH 314
+MECH 334   Thermodynamics II                    3     MECH 330
+MECH 334L  Thermodynamics II Lab                 1       Co-req: MECH
+                                                       334
+MECH 335    Fluid Mechanics                       3     MECH 330
+MECH 335L   Fluid Mechanics Lab                   1        Co-req.: MECH
+                                                       335
+Year 2, Summer Semester (9 Credits)
+ENGR 300    Engineering Economics and Management  3
+MATH 317    Partial Differential Equations             3     MATH 314
+               Social Sciences/Cultural Elective I        3
+Year 3, Fall Semester (16 Credits)
+MATH 421    Numerical Analysis                    3     MATH 311
+MECA 440    Control Systems Design                3     MECA 340
+MECA 541   CAD/CAM/CAE                       3     MECH    224,
+                                         MECH 421
+MECH 421   Mechanical Design I                   3     MECH 320
+MECH 431   Heat Transfer                         3     MECH 333  or
+                                         MECH 335 and
+                                           MATH 317
+
+                                                          Page 380
+
+NEXT PAGE 382 (reference only; do not make a fact for this page):
+* BS-bound students are required to take MECH 400 – Summative Learning (BS) Project I instead.
+** Students are required to choose at least one technical elective (i.e., 3 credits) from the list of AI-
+Restricted elective courses.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+9 credits restricted Departmental Electives
+6 credits from any engineering discipline at the 400-level or above.
+
+Courses Description
+
+I.  Mandatory Courses
+
+Non-Major Courses
+
+Description of the mandatory, non-major courses follows.
+ CCEE 214    Introduction to Programming                            2(2,0)
+ Understanding  of the basic principles  of programming and computer systems;
+ Applications  of programming  to the  solution  of engineering problems; Control
+ structures, functions, arrays, pointers, and structures. Prerequisite: None.
+
+ CCEE 214L   Introduction to Programming Lab                       1(0,2)
+ Laboratory experiments in programming for concepts covered in CCEE 212. Co-req:
+ CCEE 214.
+
+ CHEM 211   Environmental Chemistry and Lab                       3(2,2)
+ This course provides an opportunity to develop an understanding of several basic
+ environmental functions, the complicated nature of environmental systems, and the
+ need for multidisciplinary solutions to environmental problems. Topics covered include
+ the hydrosphere, water quantity and quality, soil and the soil ecosystem, biological
+ resources, waste disposal,  air  pollution, ozone depletion, acid  rain, and global
+ warming. The course also includes a set of experiments that provide students with
+ practical experience in various environmental analysis settings, including air and water
+ quality. Prerequisite: None.
+
+ CIVE 211     Statics                                                    3(3,0)
+ Static laws; force vectors and operations; force systems and moments; free-body
+ diagrams; equilibrium of particles and rigid bodies in 2D and 3D; plane trusses and
+ frames; cables; internal forces: shear and moment diagrams; centroid and center of
+ mass; moment of inertia; and friction. Prerequisite: None. Annually.
+
+ ELEC 210   Electric Circuits                                           3(3,0)
+ This course covers circuit elements and laws; mesh and node equations; network
+ theorems; energy-storage elements; RC, RL, and RLC  circuits;  transformers;
+ sinusoidal (AC) steady-state analysis; power calculation; and an introduction to three-
+ phase circuits. Prerequisite: PHYS 191 or Equivalent.
+
+
+
+                                                           Page 382

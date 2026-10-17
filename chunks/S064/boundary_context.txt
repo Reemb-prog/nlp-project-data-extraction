@@ -1,0 +1,84 @@
+PREVIOUS PAGE 403 (reference only; do not make a fact for this page):
+MECH 424     Manufacturing Systems & Facilities Planning         3(3,0)
+ This course  focuses on  the  strategic  design and  organization  of  integrated
+ manufacturing environments. Moving from individual machine operations to system-
+ wide flow, students will study Systematic Layout Planning (SLP), group technology,
+ and  the  design  of  Cellular  Manufacturing  units. The  curriculum emphasizes
+ quantitative methods  for  line balancing, machine-requirement  calculations, and
+ material-handling systems. Students will analyze the physical constraints of the shop
+  floor to minimize "waste" in movement and optimize the integration of automated
+ workstations and robotic cells. Prerequisite: MECH 224 and MECH 422
+
+ MECA 425      Digital Twin & System Simulation                     3(3,0)
+ This course explores the creation and use of Digital Twins to model, simulate, and
+ predict the behavior of complex manufacturing and mechatronic systems. Utilizing
+ discrete-event simulation (DES) software, students will develop virtual replicas of
+ physical systems to analyze the impact of stochastic variables, such as machine
+ downtimes and fluctuating arrival rates. The course covers data distribution fitting,
+ model verification, and the statistical validation of simulation outputs. By performing
+  "what-if" experimental analyses, students will learn to identify system bottlenecks and
+ optimize throughput in a risk-free virtual environment before physical deployment.
+ Prerequisite: MATH 351 and MECA 541
+
+
+
+
+
+Page 403
+
+NEXT PAGE 411 (reference only; do not make a fact for this page):
+Advanced  Programming  for  AI  and
+MECA 445                                     3     MECA 444L
+              Robotics
+                                            ENGL 217; Senior
+MECA 595A BE Summative Learning Project I       1
+                                                            Standing
+MECH 422   Manufacturing Processes             3     MECH 320
+                                                         Per        course
+              Engineering Technical Elective II        3
+                                                             requirements
+                                                         Per        course
+              Engineering Technical Elective III       3
+                                                             requirements
+ Year 4, Spring Semester (18 Credits)
+MECA 542    Industrial and Manufacturing Control     3 (2+2) ELEC 320
+MECA 544   Robotics                           3     MECH 321
+MECA 595B BE Summative Learning Project II       3     MECA 595A
+                                                         Per        course
+              Engineering Technical Elective IV       3
+                                                             requirements
+              Engineering Technical  Elective V  (AI-         Per        course
+                                              3
+                Restricted**)                                   requirements
+               Social Sciences/ Humanities Elective II   3
+ Total BE credits: 152
+* BS-bound students are required to take the MECA 400 – Summative Learning (BS) Project
+instead.
+** Students are required to choose at least one technical elective (i.e., 3 credits) from the list of AI-
+Restricted Elective courses.
+
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+9 credit restricted Departmental Electives
+6 credits from any engineering discipline at the 400-level or above.
+
+Courses Description
+
+I.  Mandatory Courses
+
+Non-Major Courses
+
+Description of the mandatory, non-major courses follows.
+
+ CCEE 214   Programming & Lab                                     3(2,2)
+ Understanding  of the basic principles  of programming and computer systems;
+ Applications  of programming  to the  solution  of engineering problems; Control
+ structures,  functions,  arrays,  pointers, and  structures. Laboratory experiments.
+ Prerequisite: None.
+
+ CCEE 221   Logic Design                                             3(3,0)
+ This course addresses Boolean algebra and logic simplification techniques, data
+ representation, and  the design  of combinational  logic networks  for decoders,
+ encoders, multiplexers, and demultiplexers.  Design of sequential logic devices,
+
+
+Page 411

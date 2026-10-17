@@ -1,0 +1,52 @@
+qa_id,fact_id,question,question_style
+S032_Q0001,S032_F0001,How do I contact the College of Business Administration office?,direct
+S032_Q0002,S032_F0001,What is the email of the RHU business college?,paraphrase
+S032_Q0003,S032_F0002,When was RHU's College of Business Administration established?,direct
+S032_Q0004,S032_F0002,Does RHU offer an MBA in Oil and Gas Management?,paraphrase
+S032_Q0005,S032_F0003,Is the RHU business college ACBSP accredited?,direct
+S032_Q0006,S032_F0003,When did the CBA get full ACBSP accreditation?,paraphrase
+S032_Q0007,S032_F0004,What makes the College of Business Administration distinctive?,direct
+S032_Q0008,S032_F0004,Do business students do community engagement?,paraphrase
+S032_Q0009,S032_F0005,What is the vision and mission of the College of Business Administration?,direct
+S032_Q0010,S032_F0005,What does the business college aim to become?,paraphrase
+S032_Q0011,S032_F0006,What are the core values of the College of Business Administration?,direct
+S032_Q0012,S032_F0006,Which values guide the RHU business college?,paraphrase
+S032_Q0013,S032_F0007,What are the CBA learning goals?,direct
+S032_Q0014,S032_F0007,What does CLG3 refer to in the business college goals?,paraphrase
+S032_Q0015,S032_F0008,Which programs does the College of Business Administration offer?,direct
+S032_Q0016,S032_F0008,What minors are offered by the business college?,paraphrase
+S032_Q0017,S032_F0008,Can I do an MBA at RHU?,contextual
+S032_Q0018,S032_F0009,What do business course prefixes like BHRM and BACC mean?,direct
+S032_Q0019,S032_F0009,Which prefix is used for marketing courses?,paraphrase
+S032_Q0020,S032_F0010,Do business applicants take a math placement exam?,direct
+S032_Q0021,S032_F0010,What if my baccalaureate math score is low and I want to study business?,contextual
+S032_Q0022,S032_F0011,How many credits is a BBA at RHU and how are they split?,direct
+S032_Q0023,S032_F0011,Are college requirements the same for all business majors?,paraphrase
+S032_Q0024,S032_F0012,What is the credit distribution of the BBA in Accounting?,direct
+S032_Q0025,S032_F0012,How many program requirement credits are in Accounting?,paraphrase
+S032_Q0026,S032_F0013,How are credits distributed in the Business IT Management BBA?,direct
+S032_Q0027,S032_F0013,How many major credits are in BITM?,paraphrase
+S032_Q0028,S032_F0014,What is the credit breakdown of Finance and Banking?,direct
+S032_Q0029,S032_F0014,How many major elective credits are in the Finance and Banking BBA?,paraphrase
+S032_Q0030,S032_F0015,How are the 99 credits of the HRM degree distributed?,direct
+S032_Q0031,S032_F0015,How many mandatory major credits are in Human Resources Management?,paraphrase
+S032_Q0032,S032_F0016,What is the credit distribution of the BBA in Management?,direct
+S032_Q0033,S032_F0016,How many non-major credits are in the Management degree?,paraphrase
+S032_Q0034,S032_F0017,How are credits allocated in Marketing and Advertising?,direct
+S032_Q0035,S032_F0017,How many college requirement credits does the marketing BBA have?,paraphrase
+S032_Q0036,S032_F0018,What are the graduation requirements for business students?,direct
+S032_Q0037,S032_F0018,What grade do I need in BADM 490 to graduate?,paraphrase
+S032_Q0038,S032_F0018,Is community engagement required to graduate from the business college?,paraphrase
+S032_Q0039,S032_F0019,What general education courses do business students take?,direct
+S032_Q0040,S032_F0019,Which quantitative reasoning course is required for BBA students?,paraphrase
+S032_Q0041,S032_F0019,Is BITM 200 part of the business gen ed?,contextual
+S032_Q0042,S032_F0020,Do non-Arabic speakers in business have to take ARAB 212?,direct
+S032_Q0043,S032_F0020,What can I take instead of Arabic if I'm not a native speaker in the business college?,contextual
+S032_Q0044,S032_F0021,What does BADM 225 Business Math cover?,direct
+S032_Q0045,S032_F0021,Which course covers compound interest and elasticity?,paraphrase
+S032_Q0046,S032_F0022,What is BITM 200 in the business college?,direct
+S032_Q0047,S032_F0022,Does Information Technology Essentials focus on MS Office?,paraphrase
+S032_Q0048,S032_F0023,What TOEFL computer score does the business college list for ENGL 210?,direct
+S032_Q0049,S032_F0023,Is the ENGL 210 TOEFL requirement 80 or 100 for business students?,paraphrase
+S032_Q0050,S032_F0024,Does the remedial math course count toward the BBA?,direct
+S032_Q0051,S032_F0024,Will business students need a remedial math course?,paraphrase

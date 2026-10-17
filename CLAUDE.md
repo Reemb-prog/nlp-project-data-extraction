@@ -1,0 +1,14 @@
+# RHU QA dataset: Claude operating rules
+
+You are building **labeled question classification data and a sourced knowledge base** for the Rafik Hariri University (RHU) student-assistance NLP course project. Scope is the **2026–2027 undergraduate catalog only**. Sentiment analysis, voice, implementation of the chatbot, and scraping are **out of scope for this dataset phase**.
+
+1. Read `docs/PROJECT_BRIEF.md` and `docs/SCHEMA_AND_QA.md` once for orientation. Follow the phase-specific prompt exactly.
+2. **PLAN FIRST.** Write `data/plan/plan.md` and `data/plan/labels.json` using `prompts/PLAN.md`. Do not process chunks until the plan passes `python scripts/workflow.py check-plan` (the local orchestrator performs this command). Thereafter labels are frozen; do not invent new labels in section runs.
+3. **ONE CHUNK PER RUN.** Read only the assigned `chunks/Sxxx/source.txt` plus its `chunk.pdf` when text order, tables, or prerequisites are unclear. `boundary_context.txt` is for detecting page-continuations only. Never extract facts from a page outside the assigned source page range.
+4. The PDF and local extracted text are the ONLY fact sources. A prior generated dataset, outside webpages, plausible assumptions, and general university knowledge are not sources. Never invent a course, credit, prerequisite, deadline, policy or answer.
+5. Extract **atomic facts**, with an exact short quotation and source page. Then produce 2–4 semantically distinct student questions per fact. Store each answer **once in facts.csv**; questions.csv references its fact_id. Use the locked categories and intents.
+6. Prioritize useful student questions: admission, registration, fees, scholarship/aid eligibility, academic rules, programs and credits, course descriptions/prerequisites/equivalencies, study plans, co-op, student services and dates. Retain conditions and qualifiers. Do not turn every adjective or biography into a QA pair.
+7. When page layout is ambiguous, conflicting, outdated or incomplete, set fact `review_status=needs_review`, explain in `review_note`; never silently correct catalog content. Otherwise use `review_status=draft`; only a human may mark `human_approved`.
+8. Write **only** the output files assigned in the current prompt, in valid UTF-8 CSV, with the exact headers in `docs/SCHEMA_AND_QA.md`. No external tools, keys, browser calls, internet searches, package installs, shell commands, or software modifications.
+9. Do not train a generative model to memorize catalog answers. Final classifier is `question -> category -> intent`; retrieval uses source-grounded facts/passages. The current task prepares data, not model weights.
+10. Do not repeat source text or generated CSV rows in your chat reply. A very short completion summary and problems are enough. Keep costs low and work resumable.

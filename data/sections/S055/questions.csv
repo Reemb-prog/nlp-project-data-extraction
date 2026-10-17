@@ -1,0 +1,33 @@
+qa_id,fact_id,question,question_style
+S055_Q0001,S055_F0001,What is the mission of the Biomedical Engineering program?,direct
+S055_Q0002,S055_F0001,What are the educational objectives of biomedical engineering?,paraphrase
+S055_Q0003,S055_F0002,What are the student outcomes of Biomedical Engineering?,direct
+S055_Q0004,S055_F0002,Does biomedical engineering at RHU follow ABET outcomes?,paraphrase
+S055_Q0005,S055_F0003,Is the Biomedical Engineering BE ABET accredited?,direct
+S055_Q0006,S055_F0003,Under which ABET criteria is biomedical engineering accredited?,paraphrase
+S055_Q0007,S055_F0004,What careers can biomedical engineers pursue?,direct
+S055_Q0008,S055_F0004,Can biomedical engineers work on medical imaging and artificial organs?,paraphrase
+S055_Q0009,S055_F0005,How many credits are the BE and BS in Biomedical Engineering?,direct
+S055_Q0010,S055_F0005,How many semesters does the biomedical BS take?,paraphrase
+S055_Q0011,S055_F0006,How are credits distributed in the BS in Biomedical Engineering?,direct
+S055_Q0012,S055_F0006,How many program credits are in the biomedical BS?,paraphrase
+S055_Q0013,S055_F0007,What is the credit distribution of the biomedical BE?,direct
+S055_Q0014,S055_F0007,How many major elective credits are in the biomedical BE?,paraphrase
+S055_Q0015,S055_F0008,What are the mandatory courses in Biomedical Engineering?,direct
+S055_Q0016,S055_F0008,Is Computational Neuroscience required for biomedical students?,paraphrase
+S055_Q0017,S055_F0009,How many technical elective credits do biomedical BE students take?,direct
+S055_Q0018,S055_F0009,What focus areas are available for biomedical electives?,paraphrase
+S055_Q0019,S055_F0010,Which technical electives are offered in biomedical engineering?,direct
+S055_Q0020,S055_F0010,Is Biomaterials a biomedical elective?,paraphrase
+S055_Q0021,S055_F0011,How many credits is the biomedical summative learning project?,direct
+S055_Q0022,S055_F0011,How is the biomedical BE project split across semesters?,paraphrase
+S055_Q0023,S055_F0012,What is the co-op requirement for biomedical engineering students?,direct
+S055_Q0024,S055_F0012,How many credits is BIOM 499 Co-op?,paraphrase
+S055_Q0025,S055_F0013,What does the middle digit of a BIOM course code mean?,direct
+S055_Q0026,S055_F0013,Which BIOM code digit stands for Medical Imaging?,paraphrase
+S055_Q0027,S055_F0014,What courses do biomedical students take in year 1?,direct
+S055_Q0028,S055_F0014,When do biomedical students take Human Anatomy and Physiology?,paraphrase
+S055_Q0029,S055_F0015,What courses are in biomedical year 2?,direct
+S055_Q0030,S055_F0015,When do biomedical students take Biomedical Sensors and Instrumentation?,paraphrase
+S055_Q0031,S055_F0016,What courses are in biomedical year 3 fall?,direct
+S055_Q0032,S055_F0016,When do biomedical students take Medical Imaging?,paraphrase

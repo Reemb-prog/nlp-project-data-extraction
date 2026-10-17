@@ -1,0 +1,15 @@
+qa_id,fact_id,question,question_style
+S027_Q0001,S027_F0001,What does HCIS 342 Health Information Systems II cover?,direct
+S027_Q0002,S027_F0001,Which HCIS course covers HIPAA and HL7 standards?,paraphrase
+S027_Q0003,S027_F0002,What is HCIS 343 Information Security and Privacy in Healthcare about?,direct
+S027_Q0004,S027_F0002,Is there a course on healthcare data privacy and compliance?,paraphrase
+S027_Q0005,S027_F0003,What is HCIS 399 Co-op Training Experience?,direct
+S027_Q0006,S027_F0003,How many credits is the HCIS co-op course?,paraphrase
+S027_Q0007,S027_F0004,What does HCIS 444 cover?,direct
+S027_Q0008,S027_F0004,Which course covers health information exchange and healthcare analytics?,paraphrase
+S027_Q0009,S027_F0005,What is HCIS 445 Research in Healthcare Information Systems?,direct
+S027_Q0010,S027_F0005,Is the HCIS research course only one credit?,paraphrase
+S027_Q0011,S027_F0006,What is HCIS 490 Summative Learning Experience?,direct
+S027_Q0012,S027_F0006,What is the prerequisite of the HCIS graduation project?,paraphrase
+S027_Q0013,S027_F0007,What is HCIS 498 Special Topics in Healthcare?,direct
+S027_Q0014,S027_F0007,How many credits is HCIS 498 and who can take it?,paraphrase

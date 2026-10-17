@@ -1,0 +1,41 @@
+question,category,intent,answerability,reason
+What is my current GPA?,out_of_scope,live_data_needed,live_data_needed,Personal academic record; only available in the student's CampusVue account.
+How much do I still owe on my tuition this semester?,out_of_scope,live_data_needed,live_data_needed,Personal financial balance; requires the student's statement of fees.
+Is there still a free seat in COSC 316 section 2?,out_of_scope,live_data_needed,live_data_needed,Real-time section availability is not in the catalog.
+What grade did I get on my ENGL 210 final exam?,out_of_scope,live_data_needed,live_data_needed,Individual grades are private records.
+Which room is my Calculus III class in tomorrow?,out_of_scope,live_data_needed,live_data_needed,Class schedules and room assignments change each term and are not in the catalog.
+Is Dr. Halablab in his office right now?,out_of_scope,live_data_needed,live_data_needed,Faculty availability is real-time information.
+Has my transfer credit application been approved yet?,out_of_scope,live_data_needed,live_data_needed,Status of an individual application requires office records.
+Did my scholarship request get accepted?,out_of_scope,live_data_needed,live_data_needed,Individual financial aid decisions are not in the catalog.
+Am I on academic probation this semester?,out_of_scope,live_data_needed,live_data_needed,Requires the student's personal academic standing.
+How many credits have I completed so far?,out_of_scope,live_data_needed,live_data_needed,Personal record available only through the Registrar or CampusVue.
+Who is my academic advisor?,out_of_scope,live_data_needed,live_data_needed,Advisor assignments are individual and not listed in the catalog.
+Is the shuttle bus running late today?,out_of_scope,live_data_needed,live_data_needed,Real-time transport status.
+What is on the cafeteria menu today?,out_of_scope,live_data_needed,live_data_needed,Daily menu is not catalog information.
+When will my co-op placement company contact me?,out_of_scope,live_data_needed,live_data_needed,Depends on an individual placement process.
+Are there any dorm rooms available for next semester?,out_of_scope,live_data_needed,live_data_needed,Current housing availability is not in the catalog.
+Did the professor post the midterm grades on Moodle?,out_of_scope,live_data_needed,live_data_needed,Course-specific real-time information.
+What time does the library close tonight?,out_of_scope,live_data_needed,live_data_needed,The catalog does not list current library hours.
+Is my financial hold removed now?,out_of_scope,live_data_needed,live_data_needed,Status of an individual account.
+Which internship openings are available this week?,out_of_scope,live_data_needed,live_data_needed,Current vacancies change continuously.
+What is my exam schedule for the fall finals?,out_of_scope,live_data_needed,live_data_needed,Individual final exam timetables are not in the catalog.
+What will the tuition fees be in 2027-2028?,out_of_scope,not_in_catalog,not_in_catalog,The catalog only covers 2026-2027 fees.
+Does RHU offer a medical or pharmacy degree?,out_of_scope,not_in_catalog,not_in_catalog,No such program is documented in the undergraduate catalog.
+What is the acceptance rate at RHU?,out_of_scope,not_in_catalog,not_in_catalog,Admission statistics are not published in the catalog.
+How does RHU rank compared to AUB or LAU?,out_of_scope,not_in_catalog,not_in_catalog,Rankings are not catalog content.
+What is the average salary of RHU computer science graduates?,out_of_scope,not_in_catalog,not_in_catalog,Salary data is not in the catalog.
+Does RHU offer online degrees?,out_of_scope,not_in_catalog,not_in_catalog,The catalog does not document online degree programs.
+What are the requirements for the RHU PhD program?,out_of_scope,not_in_catalog,not_in_catalog,Doctoral programs are not described in the undergraduate catalog.
+Which student clubs exist at RHU and when do they meet?,out_of_scope,not_in_catalog,not_in_catalog,The catalog mentions clubs generally but does not list them or their schedules.
+Is there a gym membership fee for students?,out_of_scope,not_in_catalog,not_in_catalog,No gym fee is documented in the catalog.
+Can I bring my pet to the dormitory?,out_of_scope,not_in_catalog,not_in_catalog,Pet policy is not in the catalog.
+What is the WiFi password on campus?,out_of_scope,not_in_catalog,not_in_catalog,Not catalog information; contact the IT helpdesk.
+Does RHU have exchange programs with European universities?,out_of_scope,not_in_catalog,not_in_catalog,Exchange agreements are not documented in the catalog.
+What are the graduate MBA course requirements?,out_of_scope,not_in_catalog,not_in_catalog,Graduate details are in the separate Graduate Catalog.
+Is there a dress code for students at RHU?,out_of_scope,not_in_catalog,not_in_catalog,No dress code is stated in the catalog.
+How do I get a student discount on public transport in Lebanon?,out_of_scope,not_in_catalog,not_in_catalog,External service not covered by the catalog.
+Which professor is the easiest for MATH 215?,out_of_scope,not_in_catalog,not_in_catalog,Subjective instructor opinions are not catalog content.
+Can I get a refund for my laptop bought from the store?,out_of_scope,not_in_catalog,not_in_catalog,Store purchase policies are not in the catalog.
+What visa documents does the Lebanese embassy in Egypt require?,out_of_scope,not_in_catalog,not_in_catalog,External embassy requirements are not in the catalog.
+Does RHU accept the Indian CBSE certificate directly?,out_of_scope,not_in_catalog,not_in_catalog,Specific foreign certificate equivalencies beyond the listed ones are not documented.
+When will RHU open a law school?,out_of_scope,not_in_catalog,not_in_catalog,Future plans are not documented in the catalog.

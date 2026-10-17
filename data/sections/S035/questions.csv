@@ -1,0 +1,53 @@
+qa_id,fact_id,question,question_style
+S035_Q0001,S035_F0001,What is the Business IT Management program about?,direct
+S035_Q0002,S035_F0001,Does BITM combine business with information technology?,paraphrase
+S035_Q0003,S035_F0002,What are the mandatory courses in Business IT Management?,direct
+S035_Q0004,S035_F0002,Is Big Data Analytics required for BITM majors?,paraphrase
+S035_Q0005,S035_F0003,What major electives can BITM students choose?,direct
+S035_Q0006,S035_F0003,Can BITM students take Enterprise Resource Planning as an elective?,contextual
+S035_Q0007,S035_F0004,What jobs can Business IT Management graduates get?,direct
+S035_Q0008,S035_F0004,Can a BITM graduate work in e-commerce or mobile app development?,paraphrase
+S035_Q0009,S035_F0005,What are the learning outcomes of the BITM program?,direct
+S035_Q0010,S035_F0005,Will BITM students learn to use ICT tools for business efficiency?,paraphrase
+S035_Q0011,S035_F0006,What is the co-op requirement for Business IT Management students?,direct
+S035_Q0012,S035_F0006,When do BITM majors do co-op?,paraphrase
+S035_Q0013,S035_F0007,What courses do BITM students take in year 1?,direct
+S035_Q0014,S035_F0007,When do Business IT Management students take Introduction to Programming?,paraphrase
+S035_Q0015,S035_F0008,What courses are in BITM year 2 fall?,direct
+S035_Q0016,S035_F0008,When do BITM majors take Database Management Systems?,paraphrase
+S035_Q0017,S035_F0009,What is in BITM year 2 spring?,direct
+S035_Q0018,S035_F0009,When do BITM students take Project Management?,paraphrase
+S035_Q0019,S035_F0010,What courses are in BITM year 3 fall?,direct
+S035_Q0020,S035_F0010,When do BITM students take Networking and Business Intelligence?,paraphrase
+S035_Q0021,S035_F0011,What is in the last semester of the BITM study plan?,direct
+S035_Q0022,S035_F0011,When is the BITM co-op scheduled?,paraphrase
+S035_Q0023,S035_F0012,What does BITM 305 Introduction to Programming cover?,direct
+S035_Q0024,S035_F0012,Which programming language is used in BITM 305?,paraphrase
+S035_Q0025,S035_F0013,What is BITM 305 equivalent to?,direct
+S035_Q0026,S035_F0013,What is the prerequisite of BITM 305?,paraphrase
+S035_Q0027,S035_F0014,What is BITM 310 Database Management Systems about?,direct
+S035_Q0028,S035_F0014,Does the BITM database course cover macros and forms?,paraphrase
+S035_Q0029,S035_F0015,Which courses are equivalent to BITM 310?,direct
+S035_Q0030,S035_F0015,What do I need before BITM 310?,paraphrase
+S035_Q0031,S035_F0016,What does BITM 340 cover?,direct
+S035_Q0032,S035_F0016,Which BITM course covers the system life cycle and UML?,paraphrase
+S035_Q0033,S035_F0017,What is the prerequisite and equivalent of BITM 340?,direct
+S035_Q0034,S035_F0017,Is BITM 340 equivalent to COSC 341?,paraphrase
+S035_Q0035,S035_F0018,What is BITM 355 Networking about?,direct
+S035_Q0036,S035_F0018,What is the prerequisite for BITM 355?,paraphrase
+S035_Q0037,S035_F0019,What does BITM 401 Web Programming cover?,direct
+S035_Q0038,S035_F0019,Is BITM 401 equivalent to COSC 333?,paraphrase
+S035_Q0039,S035_F0020,What is the credit breakdown of BITM 415 in the BITM program?,direct
+S035_Q0040,S035_F0020,What do BITM students need before Business Intelligence?,paraphrase
+S035_Q0041,S035_F0021,What does BITM 450 Big Data Analytics cover?,direct
+S035_Q0042,S035_F0021,Which BITM course uses Hadoop and Hive?,paraphrase
+S035_Q0043,S035_F0022,What is BITM 320 Enterprise Resource Planning?,direct
+S035_Q0044,S035_F0022,What is the prerequisite for the ERP course?,paraphrase
+S035_Q0045,S035_F0023,What does BITM 402 Advanced Web Programming cover?,direct
+S035_Q0046,S035_F0023,Which BITM elective covers server-side programming?,paraphrase
+S035_Q0047,S035_F0024,What is the prerequisite for BITM 402?,direct
+S035_Q0048,S035_F0024,Do I need BITM 401 or BITM 400 before Advanced Web Programming?,paraphrase
+S035_Q0049,S035_F0025,What is BITM 410 about?,direct
+S035_Q0050,S035_F0025,Which BITM course teaches advanced C++?,paraphrase
+S035_Q0051,S035_F0026,What does BITM 455 Advanced Networking cover?,direct
+S035_Q0052,S035_F0026,Is BITM 455 equivalent to COSC 461?,paraphrase

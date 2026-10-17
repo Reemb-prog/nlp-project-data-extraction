@@ -1,0 +1,41 @@
+qa_id,fact_id,question,question_style
+S046_Q0001,S046_F0001,Who is the chairperson of the Electrical and Computer Engineering Department?,direct
+S046_Q0002,S046_F0001,Who are the professors in RHU's ECE department?,paraphrase
+S046_Q0003,S046_F0002,What is the vision of the ECE department?,direct
+S046_Q0004,S046_F0002,What does the Electrical and Computer Engineering department aim for?,paraphrase
+S046_Q0005,S046_F0003,Which programs does the ECE department offer?,direct
+S046_Q0006,S046_F0003,Is biomedical engineering part of the ECE department?,paraphrase
+S046_Q0007,S046_F0004,What is the mission of the Electrical Engineering program?,direct
+S046_Q0008,S046_F0004,What are the educational objectives of electrical engineering?,paraphrase
+S046_Q0009,S046_F0005,What are the student outcomes of Electrical Engineering?,direct
+S046_Q0010,S046_F0005,Does the electrical program use ABET outcomes?,paraphrase
+S046_Q0011,S046_F0006,Is the BE in Electrical Engineering ABET accredited?,direct
+S046_Q0012,S046_F0006,Under which ABET criteria is electrical engineering accredited?,paraphrase
+S046_Q0013,S046_F0007,What careers are available to electrical engineers?,direct
+S046_Q0014,S046_F0007,Can an electrical engineer work in renewable energy or robotics?,paraphrase
+S046_Q0015,S046_F0008,How many credits are the BE and BS in Electrical Engineering?,direct
+S046_Q0016,S046_F0008,How many semesters is the electrical engineering BS?,paraphrase
+S046_Q0017,S046_F0009,How are credits distributed in the BS in Electrical Engineering?,direct
+S046_Q0018,S046_F0009,How many program credits are in the electrical BS?,paraphrase
+S046_Q0019,S046_F0010,What is the credit distribution of the electrical BE?,direct
+S046_Q0020,S046_F0010,How many major elective credits are in the electrical BE?,paraphrase
+S046_Q0021,S046_F0011,What are the mandatory courses in Electrical Engineering?,direct
+S046_Q0022,S046_F0011,Is Smart Grid Technology required for electrical students?,paraphrase
+S046_Q0023,S046_F0012,How many technical elective credits do electrical BE students need?,direct
+S046_Q0024,S046_F0012,What standing do I need to take electrical engineering technical electives?,paraphrase
+S046_Q0025,S046_F0013,Which technical electives are offered in electrical engineering?,direct
+S046_Q0026,S046_F0013,Is Wind Energy Technology an electrical elective?,paraphrase
+S046_Q0027,S046_F0014,How many credits is the electrical engineering SLP?,direct
+S046_Q0028,S046_F0014,Is the electrical summative project done in groups?,paraphrase
+S046_Q0029,S046_F0015,What is the co-op requirement for electrical engineering students?,direct
+S046_Q0030,S046_F0015,When do electrical students do co-op?,paraphrase
+S046_Q0031,S046_F0016,What does the middle digit of an ELEC course code mean?,direct
+S046_Q0032,S046_F0016,Which ELEC code area number refers to Power?,paraphrase
+S046_Q0033,S046_F0017,What courses do electrical students take in year 1?,direct
+S046_Q0034,S046_F0017,When do electrical engineering students take Electric Circuits?,paraphrase
+S046_Q0035,S046_F0018,What is in the electrical first summer and year 2 fall?,direct
+S046_Q0036,S046_F0018,When do electrical students take Electronics and Sensors?,paraphrase
+S046_Q0037,S046_F0019,What courses are in electrical year 2 spring?,direct
+S046_Q0038,S046_F0019,When do electrical students take Power Systems and Electric Machines?,paraphrase
+S046_Q0039,S046_F0020,What courses are in electrical year 3?,direct
+S046_Q0040,S046_F0020,When do electrical students take Control Systems and Power Electronics?,paraphrase

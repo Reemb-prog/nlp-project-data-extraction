@@ -1,0 +1,65 @@
+qa_id,fact_id,question,question_style
+S017_Q0001,S017_F0001,What is BIOL 222 Introduction to Food Safety and Lab?,direct
+S017_Q0002,S017_F0001,Is there a gen ed course on food microbiology and HACCP?,paraphrase
+S017_Q0003,S017_F0002,What does BITM 300 Business IT Management cover?,direct
+S017_Q0004,S017_F0002,Is there a technology gen ed course on information systems in business?,paraphrase
+S017_Q0005,S017_F0003,What is the prerequisite for BITM 300?,direct
+S017_Q0006,S017_F0003,Do I need BITM 200 before Business IT Management?,paraphrase
+S017_Q0007,S017_F0004,What does CHEM 210 Principles of Chemistry cover?,direct
+S017_Q0008,S017_F0004,Is there a chemistry gen ed with no prerequisite?,paraphrase
+S017_Q0009,S017_F0005,What is CHEM 211 Environmental Chemistry and Lab?,direct
+S017_Q0010,S017_F0005,Which gen ed covers acid rain and global warming with a lab?,paraphrase
+S017_Q0011,S017_F0006,How many credit hours is COSC 214 in the gen ed list?,direct
+S017_Q0012,S017_F0006,Can non-CS students take Introduction to Programming as a natural sciences and technology gen ed?,contextual
+S017_Q0013,S017_F0007,What does EDUC 317 cover?,direct
+S017_Q0014,S017_F0007,Is there a course on brain development in children?,paraphrase
+S017_Q0015,S017_F0008,What is EDUC 222 Computer Applications in Education?,direct
+S017_Q0016,S017_F0008,Which course teaches using software in teaching?,paraphrase
+S017_Q0017,S017_F0009,What does GEOL 300 Human Geography cover?,direct
+S017_Q0018,S017_F0009,Is there a geography gen ed about people and culture?,paraphrase
+S017_Q0019,S017_F0010,What is PHYS 211 Physics: Electricity and Magnetism and Lab?,direct
+S017_Q0020,S017_F0010,What credit notation does PHYS 211 have and does it include a lab?,paraphrase
+S017_Q0021,S017_F0011,What does PHYS 312 Modern Physics cover?,direct
+S017_Q0022,S017_F0011,Is there a course on quantum physics and relativity?,paraphrase
+S017_Q0023,S017_F0012,What is BADM 250 Business Statistics about?,direct
+S017_Q0024,S017_F0012,Which quantitative reasoning course covers regression and hypothesis testing for business?,paraphrase
+S017_Q0025,S017_F0013,What does BADM 420 Quantitative Methods for Business cover?,direct
+S017_Q0026,S017_F0013,Is there a course on linear programming for managers?,paraphrase
+S017_Q0027,S017_F0014,What is the prerequisite for BADM 420?,direct
+S017_Q0028,S017_F0014,"I'm a senior without BADM 250, can I take Quantitative Methods for Business?",contextual
+S017_Q0029,S017_F0015,What does ENGR 300 Engineering Economics and Management cover?,direct
+S017_Q0030,S017_F0015,Which course covers present worth and internal rate of return?,paraphrase
+S017_Q0031,S017_F0016,What is GRDS 220 Introduction to Digital Media?,direct
+S017_Q0032,S017_F0016,Which course teaches Illustrator and Photoshop basics?,paraphrase
+S017_Q0033,S017_F0017,What does GRDS 335 Production cover and what is its prerequisite?,direct
+S017_Q0034,S017_F0017,Is there a course on print production and prepress?,paraphrase
+S017_Q0035,S017_F0018,What does MATH 210 Discrete Mathematics cover?,direct
+S017_Q0036,S017_F0018,Which math course covers logic proofs and induction?,paraphrase
+S017_Q0037,S017_F0019,What is MATH 220 Statistics for Social & Behavioral Sciences?,direct
+S017_Q0038,S017_F0019,Is there a statistics course for psychology and social science students?,paraphrase
+S017_Q0039,S017_F0020,What does MATH 351 Probability and Statistics cover?,direct
+S017_Q0040,S017_F0020,Which course covers random variables and confidence intervals?,paraphrase
+S017_Q0041,S017_F0021,What is the prerequisite for MATH 351?,direct
+S017_Q0042,S017_F0021,Do I need MATH 215 before Probability and Statistics?,paraphrase
+S017_Q0043,S017_F0022,What is PHIL 302 Introduction to Formal Logic?,direct
+S017_Q0044,S017_F0022,Can formal logic count as quantitative reasoning gen ed?,paraphrase
+S017_Q0045,S017_F0023,What does BADM 215 Personal Development and Management cover?,direct
+S017_Q0046,S017_F0023,How many credits is BADM 215?,paraphrase
+S017_Q0047,S017_F0024,What is BADM 290 Community Engagement Experience?,direct
+S017_Q0048,S017_F0024,Does the community engagement course involve volunteering?,paraphrase
+S017_Q0049,S017_F0025,What is CMNS 200 Etiquette about?,direct
+S017_Q0050,S017_F0025,Is there a 1-credit etiquette course with a formal dinner?,paraphrase
+S017_Q0051,S017_F0026,What does CMNS 205 First Aid cover?,direct
+S017_Q0052,S017_F0026,Is first aid offered as a community and sustainability gen ed?,paraphrase
+S017_Q0053,S017_F0027,What is EDUC 315 about?,direct
+S017_Q0054,S017_F0027,Which course covers child safety and reporting child abuse in schools?,paraphrase
+S017_Q0055,S017_F0028,What does ENVS 201 Introduction to Environmental Science cover?,direct
+S017_Q0056,S017_F0028,"I'm an engineering student, can I take ENVS 201?",contextual
+S017_Q0057,S017_F0029,What is GRDS 440 Design and Social Impact about?,direct
+S017_Q0058,S017_F0029,Is there a course where CS and graphic design students solve community problems together?,paraphrase
+S017_Q0059,S017_F0030,What does INDS 335 Design Issues and Sustainability cover?,direct
+S017_Q0060,S017_F0030,Is there a course on sustainable interior design?,paraphrase
+S017_Q0061,S017_F0031,What is PSYC 314 Psychology for Sustainability?,direct
+S017_Q0062,S017_F0031,Which course looks at sustainability from a psychological perspective?,paraphrase
+S017_Q0063,S017_F0032,What is the prerequisite of GRDS 440?,direct
+S017_Q0064,S017_F0032,Can a freshman take Design and Social Impact?,contextual

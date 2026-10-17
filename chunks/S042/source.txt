@@ -1,0 +1,285 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S042 | Engineering college requirements
+ORIGINAL PDF PAGES: 274 to 279 (inclusive)
+ONLY extract facts whose source page is between 274 and 279.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 274 ==========
+Descriptions of the required Engineering, mathematics, and science courses are given
+below.
+
+C.  Engineering Courses
+
+Descriptions of the Engineering required courses are given below.
+
+ ELEC 210       Electric Circuits                                        3(3,0)
+ Circuit elements and laws; mesh and node equations; network theorems; energy-
+ storage elements; RC, RL, and RLC circuits; Laplace Transform; sinusoids and
+ phasors; and an introduction to network theory. Sinusoidal (AC) steady-state, mutual
+ inductance, transformers, and an introduction to three-phase circuits. Prerequisite:
+ PHYS 191 or Equivalent.
+
+ENGR 510     Engineering Project Management                     3(3,0)
+ The course covers key components of engineering project management including
+ projects election and planning, project time management, cost estimation and pricing,
+ contract and specifications, quality management, engineering ethics and professional
+ conduct,  realizing impact  of engineering  solutions  in  various  contexts  (global,
+ economic, environmental, societal, etc...), sustainability in engineering designs, human
+ resources  consideration,  communications,  risk management, and  procurement
+ management. Prerequisite: ENGR 300.
+
+D.  Mathematics
+
+A description of the required mathematics courses is given below.
+
+ MATH 210     Discrete Mathematics                                  3(3,0)
+ Logic, propositional equivalences, predicates and quantifiers, methods of proof, proof
+ strategy, mathematical induction, recursive definitions, strong induction, and structural
+ induction, sets and set operations, functions, growth of functions, relations, and their
+ properties, representing relations, equivalence relations, introduction to graphs, and
+ graph terminology.
+
+MATH 215    Calculus III                                                3(3,0)
+ This course covers complex numbers, trigonometric functions, inverse trigonometric
+ functions, hyperbolic functions, and integration techniques. The course also covers
+ infinite sequences and series: limits of sequences of numbers, bounded sequences,
+ integral test for series, comparison tests, ratio and root tests, alternating series,
+ absolute and conditional convergence, power series, Taylor and MacLaurin series, and
+ applications of power series. Polar functions, polar coordinates, and graphing of polar
+ curves are also covered. In addition, topics from multivariable calculus are introduced:
+ double integrals, applications to double integrals, and double integrals in polar form.
+
+MATH 216    Calculus IV                                               3(3,0)
+ Multivariable calculus and vector analysis for three-dimensional problems. Topics
+ include 3-D vectors, dot and cross products; quadratic surfaces; limits, continuity, and
+ partial derivatives; gradient, chain rule, and directional derivatives; tangent planes,
+ differentials, extrema, and saddle points; triple integrals in rectangular, cylindrical, and
+                                                           Page 274
+
+========== ORIGINAL PDF PAGE 275 ==========
+spherical coordinates with applications to mass and moments; vector fields, work, flux,
+ and Green’s Theorem; and an introduction to Fourier series. Prerequisite: MATH 215.
+
+MATH 311     Linear Algebra with Applications                      3(3,0)
+ Systems of linear equations, matrix algebra, linear transformations, determinants,
+ vector spaces, eigenvalues and eigenvectors, symmetric matrices, orthogonality,
+ diagonalization.
+
+ MATH 314     Ordinary Differential Equations                       3(3,0)
+ First-order linear differential equations; linear differential equations of second and
+ higher order; linear differential equations with variable coefficients; series solutions;
+ systems  of   differential  equations;  Laplace  transforms  and   their  inverses.
+ Prerequisite: MATH 216.
+
+ MATH 317      Partial Differential Equations                          3(3,0)
+ Lagrange's theorem, boundary conditions for first-order equations, non-linear first-
+ order PDEs, Charpit’s equations, second-order PDEs,  classification: hyperbolic,
+ parabolic, and elliptic, the method of separation of variables, introduction to Fourier
+ series and integrals, boundary value problems: heat equation, wave equation, Laplace
+ equation, and finite-length strings. Prerequisite: MATH 314.
+
+ MATH 421     Numerical Analysis                                    3(3,0)
+ Error Analysis, solutions of nonlinear equations using fixed-point, Newton-Raphson-
+ Muller’s methods, solution of linear systems using Gaussian elimination-iterative
+ methods,   interpolation  and   approximation   using   Taylor   series-Lagrange
+ approximation-Newton  polynomials,  numerical   differentiation  and   integration,
+ numerical optimization, solutions of ordinary and partial differential equations using
+ Euler’s and Heun’s and Rung-Kutta methods, MATLAB codes related to the above-
+ mentioned topics. Prerequisite: MATH 311.
+
+E.  Science Courses
+
+A description of the required Sciences courses is given below.
+
+ BIOL 210    Human Anatomy and Physiology and Lab            3(2,2)
+ A general overview of cell structure and function, and the anatomy and physiology of
+ human body systems. These include cardiovascular, central nervous, respiratory,
+ urinary, digestive, immune, and musculoskeletal systems. The course also offers a set
+ of experiments that deal with basic biological processes and advanced biological
+ assessments. Prerequisite: None.
+
+ CHEM 211     Environmental Chemistry and Lab                    3(2,2)
+ This course provides an opportunity to develop an understanding of several basic
+ environmental functions, the complicated nature of environmental systems, and the
+ need for multidisciplinary solutions to environmental problems. Topics covered include
+ the hydrosphere, water quantity and quality, soil and the soil ecosystem, biological
+ resources, waste disposal,  air  pollution, ozone depletion, acid  rain, and global
+
+                                                           Page 275
+
+========== ORIGINAL PDF PAGE 276 ==========
+warming. The course also includes a set of experiments that provide students with
+ practical experience in various environmental analysis settings, including air and water
+ quality. Prerequisite: None.
+
+ GEOL 221     Fundamentals of Geology                             3(3,0)
+ Physical and chemical properties of the earth, structure of the earth, plate tectonic
+ theory and  continental  drift,  volcanism, mountain  building  processes,  surface
+ processes, mineralogy, formation and classification of rocks, earth hazards, geological
+ problems related to civil engineering such as landslides and earthquakes, geologic
+ maps, geophysical exploration methods, earthworks and tunneling. Prerequisite:
+ None. Annually.
+
+ PHYS 210     Fundamentals of Physics and Lab                     3(3,1)
+ Welcome to the Introductory Physics course. This course consists of: Review of
+ Classical Mechanics; Fluid Mechanics; General Properties of Waves; Electric Forces;
+  Electric Fields for Discrete and Continuous Charge Distributions; Gauss’s Law;
+  Electric Potential; Kirchhoff’s Rules; Magnetic Fields and Forces; and Qualitative
+ Discussion of Maxwell’s Equations. Prerequisite: None.
+
+ PHYS 211      Physics: Electricity and Magnetism and Lab          3(3,1)
+ This course covers fundamental topics in Electricity and Magnetism: Electric forces
+ and Electric Fields for discrete and continuous charge distributions; Gauss’s Law;
+ Electric Potential; Capacitance and Dielectrics; Kirchhoff’s rules; Magnetic Fields and
+ Forces;  Biot-Savart Law; Ampere’s Law; Magnetic Flux and Gauss’s Law  in
+ Magnetism. It also includes a laboratory component that introduces students to the
+ “real world” through experiments in electricity and magnetism. Prerequisite: None.
+
+ PHYS 312    Modern Physics                                        3(3,0)
+ This course introduces the principles of revolutionary developments of the 20th
+ century. It covers the interaction of light and matter (Photoelectric effect, Compton
+ effect, Auger effect, etc.), the dual nature of light, various models of atomic description,
+ quantum numbers, the relativistic approach, the Heisenberg Uncertainty Principle, the
+ Schrödinger Equation, and an introduction to the band theory of solids and particle
+ physics.
+
+F.  Independent Study Courses
+
+The College  of Engineering  offers an Independent Study course  option  at the
+undergraduate level. Typically, a maximum of two independent studies (totaling not more
+than 6 credits) may be counted towards your degree as part of your technical elective
+credits. To begin an Independent Study, you must reach an agreement with a faculty
+member willing to supervise your work. The supervisor must either be a full-time College
+of Engineering faculty member or be affiliated with one of the college's engineering
+departments. The faculty member approves the specific number of credits the proposed
+work will qualify for, approves a reading list, and meets with you periodically to discuss
+the reading and your overall progress.  'Independent Study' courses are created by
+students who work with a faculty member to explore a topic of mutual interest. Students
+
+                                                           Page 276
+
+========== ORIGINAL PDF PAGE 277 ==========
+and faculty  in Engineering use independent study courses  for several purposes,
+including a capstone design and/or experimental project, conducting research, or writing
+a substantial research paper.
+
+Registering for an Independent Study
+
+Follow this procedure to register for an independent study:
+
+1.   Identify a faculty advisor and work with them to decide on the content and
+     structure for your course, including how to assess your work, and set up the work
+    timeframe.
+2.  Complete the “independent study proposal form”.
+3.  Once your form is submitted, your faculty advisor will review the application. They
+      will either issue approval and forward it to the corresponding department chair or
+    ask you to revise and resubmit your application. You will be notified by email once
+    you can register for the course, after the college issues final approval.
+
+ENGR 597     Independent Study I                                     3(3,0)
+ This  course  provides  students  with  the  possibility  to  explore new academic
+ research/study that may not be available in regular courses. The student needs to
+ identify a faculty advisor within their department and work with them to decide on the
+ content and structure of the work, including how to assess the student’s work and set
+ the timeframe. The student needs to complete the “independent study proposal form,”
+ which includes an abstract that identifies the nature of the research, goals, and
+ expected outcomes, and submit it to the faculty advisor. Once the form is submitted,
+ the faculty advisor will review the application. They will either issue approval and
+ forward  it to the corresponding department chair, ask the student to revise and
+ resubmit the proposal form, or deny it. The student will be notified by email after the
+ college issues final approval. The faculty member approves the specific number of
+ credits the proposed work will qualify for, approves a reading list, and meets with the
+ student periodically to discuss the reading and the overall progress. At the end of the
+ semester, the student is required to submit a paper or a project report acceptable to
+ the faculty supervisor. This course is subject to the same rules and regulations for
+ dropping and withdrawing as any other regular course. Prerequisite: Senior Standing
+
+ENGR 598     Independent Study II                                    3(3,0)
+ This  course  provides  students  with  the  possibility  to  explore new academic
+ research/study that may not be available in regular courses. The student needs to
+ identify a faculty advisor within their department and work with them to decide on the
+ content and structure of the work, including how to assess  it and set the timeframe.
+ The student needs to complete the “independent study proposal form,” which includes
+ an abstract that identifies the nature of the research, goals, and expected outcomes,
+ and submit it to the faculty advisor. Once the form is submitted, the faculty advisor will
+ review the  application. They  will  either issue  approval and forward   it  to  the
+ corresponding department chair, ask the student to revise and resubmit the proposal
+ form, or deny  it. The student will be notified by email after the college issues final
+ approval. The faculty member approves the specific number of credits the proposed
+
+                                                           Page 277
+
+========== ORIGINAL PDF PAGE 278 ==========
+work will qualify for, approves a reading list, and meets with the student periodically to
+ discuss the reading and the overall progress. At the end of the semester, the student
+ is required to submit a paper or a project report acceptable to the faculty supervisor.
+ This course is subject to the same rules and regulations for dropping and withdrawing
+ as any other regular course. Prerequisite: Senior Standing.
+
+III. Program Requirements
+
+Requirements for the Bachelor of Science and Bachelor of Engineering degrees are
+program-specific. They encompass two categories: Major and non-major. Each category
+consists of mandatory and elective courses. The program requirements for the Bachelor
+of Science and Bachelor of Engineering degrees across the different engineering majors
+are presented in the following sections. Details and titles of relevant courses are included
+in the Student’s Study Plan (SSP) that every engineering student will have.
+
+Course Coding
+
+The courses offered by the College of Engineering programs are designated according
+to the following coding System (xxxx abc):
+
+ xxxx    Program as indicated above
+ abc      “a” designates the Year or level 1, 2, 3, 4;
+           “b” program focus area;
+           “c” course sequence - 0, 1, …, 9
+
+The designation used to represent the credit-hour breakdown (t, p) of a course is as
+follows: “c” is the total credit hours, “t” is the theoretical component of the course, and
+“p” is the practical or laboratory component. For example, 3(3, 0) denotes a 3-credit-hour
+course with 3 contact lecture hours and 0 laboratory hours.
+
+Learning Support Center
+
+The  Learning Support Center (LSC)  at  the  College  of Engineering  is another
+manifestation of RHU’s resolute commitment to students’ academic success. The LSC
+offers the students a peer-to-peer learning opportunity that complements classroom
+learning. The Center aims to support students in advancing their knowledge and skills,
+reinforcing what they learn in the classroom or overcoming learning and performance
+difficulties. In addition to being a focal point for inquiry and two-way “asker-replier”
+learning, the LSC provides space  for academic interactions that can  significantly
+enhance learning.
+
+The Center is in room D205 and is open to all students throughout the week. The LSC
+is staffed by Teaching Assistants, who are graduate and upper-level undergraduate
+students, and are always  available and ready  to  assist  their  fellow students  in
+overcoming their academic challenges. Additionally, “on-call” faculty members are
+assigned to ensure that the LSC is acting in the best interests of the students.
+
+                                                           Page 278
+
+========== ORIGINAL PDF PAGE 279 ==========
+The center’s resource portfolio includes books, study guides, course materials, boards,
+computers, videos, DVDs, documentaries, large-screen LCD panels, and internet-
+connected PCs.
+
+My Idea to Innovate
+
+My Idea to Innovate (ENGR 499 – 3 credits) is an open course that encourages
+innovation. A student or a group of students who have a passion for and a dream to
+nurture and pursue an innovative idea of their own may collaborate with faculty mentors
+to design the course to cover topics and experiences that could not be achieved within
+the course offering framework of the concerned program and require collaboration
+across disciplines and/or fields. Course contents, prerequisites, number of credits,
+scope, experiences, required resources, outcomes, assessment tools and rubrics, and
+timeline for completion will be formulated by the student (s) and the faculty mentor(s)
+once the University Academic Board approves the idea. Student(s) supported by faculty
+advisor(s) may request approval to design and offer the course after the first year of
+studies at RHU. The course could count as technical elective credits.
+
+
+
+
+
+                                                           Page 279

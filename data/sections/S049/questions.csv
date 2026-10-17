@@ -1,0 +1,15 @@
+qa_id,fact_id,question,question_style
+S049_Q0001,S049_F0001,What is the Renewable Energy Systems minor?,direct
+S049_Q0002,S049_F0001,Why does RHU offer a renewable energy minor?,paraphrase
+S049_Q0003,S049_F0002,What will I be able to do after the RES minor?,direct
+S049_Q0004,S049_F0002,Does the renewable energy minor teach energy storage and distribution?,paraphrase
+S049_Q0005,S049_F0003,Who can take the Renewable Energy Systems minor?,direct
+S049_Q0006,S049_F0003,"I'm a mechanical engineering student, can I take the renewable energy minor?",contextual
+S049_Q0007,S049_F0004,What are the requirements to complete the RES minor?,direct
+S049_Q0008,S049_F0004,How many renewable energy minor credits must be outside my major?,paraphrase
+S049_Q0009,S049_F0005,What are the mandatory courses in the renewable energy minor?,direct
+S049_Q0010,S049_F0005,Is Power Electronics required for the RES minor?,paraphrase
+S049_Q0011,S049_F0006,Which electives count for the Renewable Energy Systems minor?,direct
+S049_Q0012,S049_F0006,Can MECH 541 Renewable Energy count toward the RES minor?,contextual
+S049_Q0013,S049_F0007,What does ELEC 563 Smart Grid Technology cover?,direct
+S049_Q0014,S049_F0007,What is the prerequisite for Smart Grid Technology?,paraphrase

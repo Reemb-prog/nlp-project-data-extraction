@@ -1,0 +1,135 @@
+qa_id,fact_id,question,question_style
+S005_Q0001,S005_F0001,How many programs does RHU offer?,direct
+S005_Q0002,S005_F0001,What colleges make up Rafik Hariri University?,paraphrase
+S005_Q0003,S005_F0002,What language are classes taught in at RHU?,direct
+S005_Q0004,S005_F0002,Is English the language of instruction at Rafik Hariri University?,paraphrase
+S005_Q0005,S005_F0003,How many general education credits are included in every RHU program?,direct
+S005_Q0006,S005_F0003,Do all majors at RHU have the same number of gen ed credits?,paraphrase
+S005_Q0007,S005_F0004,Is the English Language BA program currently open at RHU?,direct
+S005_Q0008,S005_F0004,I want to major in English Language. Is that program frozen?,contextual
+S005_Q0009,S005_F0004,English Language BA status and credits?,short
+S005_Q0010,S005_F0005,Is the Healthcare Information Systems program frozen?,direct
+S005_Q0011,S005_F0005,Can I still apply to the HCIS bachelor's program at RHU?,contextual
+S005_Q0012,S005_F0006,How many credits is the Computer Science degree according to the programs table?,direct
+S005_Q0013,S005_F0006,What degree does the RHU Computer Science program award?,paraphrase
+S005_Q0014,S005_F0007,How many credits do I need for the Graphic Design degree?,direct
+S005_Q0015,S005_F0007,Is Graphic Design at RHU a BS or BA and how many credits?,paraphrase
+S005_Q0016,S005_F0008,How many credits is the freshman Arts/Science program?,direct
+S005_Q0017,S005_F0008,Freshman program total credits?,short
+S005_Q0018,S005_F0009,How many credits are required for a BBA at RHU?,direct
+S005_Q0019,S005_F0009,Do all business majors like Accounting and Marketing require the same credits?,paraphrase
+S005_Q0020,S005_F0009,What degree do business students get at RHU?,paraphrase
+S005_Q0021,S005_F0010,What degrees does RHU offer in engineering?,direct
+S005_Q0022,S005_F0010,How many credits is a BE versus a BS in engineering at RHU?,paraphrase
+S005_Q0023,S005_F0010,Does civil engineering at RHU offer an MS too?,contextual
+S005_Q0024,S005_F0011,How can I contact the RHU Admissions Office?,direct
+S005_Q0025,S005_F0011,What is the email for RHU admissions?,paraphrase
+S005_Q0026,S005_F0011,Admissions office phone extension and email?,short
+S005_Q0027,S005_F0012,In what ways can I submit my application to RHU?,direct
+S005_Q0028,S005_F0012,Can I send my RHU application by email or mail?,paraphrase
+S005_Q0029,S005_F0013,How long does RHU take to give an admission decision?,direct
+S005_Q0030,S005_F0013,I submitted my complete application. When will RHU tell me if I'm accepted?,contextual
+S005_Q0031,S005_F0013,Admission decision waiting time?,short
+S005_Q0032,S005_F0014,Does RHU offer early admission?,direct
+S005_Q0033,S005_F0014,Can students with excellent high school grades get admitted early?,paraphrase
+S005_Q0034,S005_F0015,If I meet all admission requirements am I guaranteed a place at RHU?,direct
+S005_Q0035,S005_F0015,Is admission to RHU programs competitive?,paraphrase
+S005_Q0036,S005_F0016,What are the basic admission requirements for RHU?,direct
+S005_Q0037,S005_F0016,Can someone expelled from another university apply to RHU?,paraphrase
+S005_Q0038,S005_F0016,"I'm non-Lebanese, what extra documents does basic admission require?",contextual
+S005_Q0039,S005_F0017,When can new students register for courses?,direct
+S005_Q0040,S005_F0017,Can I register for classes before finishing all admission requirements?,paraphrase
+S005_Q0041,S005_F0018,How many years of schooling do I need to be admitted to RHU?,direct
+S005_Q0042,S005_F0018,Is 12 years of school required for admission?,paraphrase
+S005_Q0043,S005_F0019,Which Lebanese Baccalaureate tracks are accepted in each college?,direct
+S005_Q0044,S005_F0019,Can a General Sciences or Life Sciences student join engineering?,paraphrase
+S005_Q0045,S005_F0019,Which baccalaureate track do I need for the business college?,contextual
+S005_Q0046,S005_F0020,What remedial courses must Sociology & Economics students take to join engineering?,direct
+S005_Q0047,S005_F0020,I'm from the SE track. Can I study Computer Science at RHU?,contextual
+S005_Q0048,S005_F0020,How many remedial math courses do SE students need for computer science?,paraphrase
+S005_Q0049,S005_F0021,Can Humanities and Literature track students study computer science?,direct
+S005_Q0050,S005_F0021,"I'm in the Humanities track, what do I need to enter business?",contextual
+S005_Q0051,S005_F0021,Which majors are open to Humanities & Literature baccalaureate holders?,paraphrase
+S005_Q0052,S005_F0022,Can Technical Baccalaureate holders apply to RHU?,direct
+S005_Q0053,S005_F0022,Which majors can I choose with a Lebanese technical baccalaureate?,paraphrase
+S005_Q0054,S005_F0023,What remedial courses do Technical Baccalaureate students need for engineering?,direct
+S005_Q0055,S005_F0023,How many remedial credits must a BT student take for business majors?,paraphrase
+S005_Q0056,S005_F0023,"With a technical bac, what remedial math, physics and chemistry do I need for computer science?",contextual
+S005_Q0057,S005_F0024,Can I apply with a French Baccalaureate or IB diploma?,direct
+S005_Q0058,S005_F0024,Are foreign secondary certificates like the German Abitur accepted at RHU?,paraphrase
+S005_Q0059,S005_F0025,Can students with an American high school diploma join RHU?,direct
+S005_Q0060,S005_F0025,What conditions apply for American-system diploma holders to join the freshman program?,paraphrase
+S005_Q0061,S005_F0026,What are the admission requirements for British GCE students?,direct
+S005_Q0062,S005_F0026,Can A-level students be admitted directly to the sophomore year?,paraphrase
+S005_Q0063,S005_F0026,"I have 5 O-levels and 1 A-level, which program can I join?",contextual
+S005_Q0064,S005_F0027,Do I need to take a placement exam at RHU?,direct
+S005_Q0065,S005_F0027,Can SAT or TOEFL scores replace the RHU placement exam?,paraphrase
+S005_Q0066,S005_F0027,What placement exam do engineering applicants take?,contextual
+S005_Q0067,S005_F0028,What score do I need on the RHU English Entrance Exam?,direct
+S005_Q0068,S005_F0028,Minimum RHU English entrance exam score?,short
+S005_Q0069,S005_F0029,What TOEFL score does RHU require?,direct
+S005_Q0070,S005_F0029,Is an IELTS of 6.5 enough for RHU admission?,paraphrase
+S005_Q0071,S005_F0029,What SAT reading and writing score counts as English proficiency?,paraphrase
+S005_Q0072,S005_F0030,What happens if I don't reach the required English score?,direct
+S005_Q0073,S005_F0030,How many levels does the Intensive English Program have?,paraphrase
+S005_Q0074,S005_F0030,"I failed the English entrance exam, will I be placed in IELP?",contextual
+S005_Q0075,S005_F0031,How long is a TOEFL score valid at RHU?,direct
+S005_Q0076,S005_F0031,Are IELTS scores from last year still accepted?,contextual
+S005_Q0077,S005_F0031,Validity period of IBT and SAT scores?,short
+S005_Q0078,S005_F0032,How do I apply to RHU?,direct
+S005_Q0079,S005_F0032,What is the link to apply online to RHU?,paraphrase
+S005_Q0080,S005_F0032,Where can I apply in person?,paraphrase
+S005_Q0081,S005_F0033,What documents are required for undergraduate admission?,direct
+S005_Q0082,S005_F0033,How many passport photos do I need for my RHU application?,paraphrase
+S005_Q0083,S005_F0033,"I'm applying with a French Bac, do I need an equivalency certificate?",contextual
+S005_Q0084,S005_F0034,How much is the application fee at RHU?,direct
+S005_Q0085,S005_F0034,Where do I pay the application fee?,paraphrase
+S005_Q0086,S005_F0034,Is the RHU application fee refundable?,paraphrase
+S005_Q0087,S005_F0035,What extra documents do freshman program applicants need?,direct
+S005_Q0088,S005_F0035,Do I need permission from the Equivalence Committee to join the freshman class?,paraphrase
+S005_Q0089,S005_F0036,What SAT score is required for Freshman Sciences?,direct
+S005_Q0090,S005_F0036,What ACT score do I need for Freshman Arts?,paraphrase
+S005_Q0091,S005_F0036,Minimum SAT for freshman arts at RHU?,short
+S005_Q0092,S005_F0037,Which school accreditations let freshman students move directly to sophomore year?,direct
+S005_Q0093,S005_F0037,My school is accredited by Cognia. Do I need ACT subject tests?,contextual
+S005_Q0094,S005_F0038,What ACT subject tests are required if my school is not accredited?,direct
+S005_Q0095,S005_F0038,What total ACT subject test score do Freshman Sciences students need?,paraphrase
+S005_Q0096,S005_F0038,When must I submit ACT subject test scores as a freshman?,paraphrase
+S005_Q0097,S005_F0039,When can Lebanese freshman students declare a major?,direct
+S005_Q0098,S005_F0039,Can a Lebanese freshman join the sophomore class before meeting ministry requirements?,paraphrase
+S005_Q0099,S005_F0040,What are the requirements to transfer to RHU from another university?,direct
+S005_Q0100,S005_F0040,How many semesters must I have studied elsewhere before transferring?,paraphrase
+S005_Q0101,S005_F0040,"I was dismissed for disciplinary reasons, can I transfer to RHU?",contextual
+S005_Q0102,S005_F0041,What documents does a transfer student need to submit?,direct
+S005_Q0103,S005_F0041,I'm transferring from a university outside Lebanon. What extra letter do I need?,contextual
+S005_Q0104,S005_F0042,What if RHU discovers a transfer student was dismissed for discipline?,direct
+S005_Q0105,S005_F0042,Can transfer acceptance be cancelled later?,paraphrase
+S005_Q0106,S005_F0043,Who decides on transfer applications at RHU?,direct
+S005_Q0107,S005_F0043,How are transfer applications reviewed?,paraphrase
+S005_Q0108,S005_F0044,How many semesters must a transfer student study at RHU to graduate?,direct
+S005_Q0109,S005_F0044,Do transfer students need to do co-op at RHU?,paraphrase
+S005_Q0110,S005_F0044,Are transfer students treated as new students for probation rules?,paraphrase
+S005_Q0111,S005_F0045,What conditions must be met for transfer credits to count at RHU?,direct
+S005_Q0112,S005_F0045,What grade do I need in a course for it to transfer?,paraphrase
+S005_Q0113,S005_F0045,I took a course four years ago at another university. Can it transfer?,contextual
+S005_Q0114,S005_F0045,Minimum share of degree credits a transfer student must complete at RHU?,short
+S005_Q0115,S005_F0046,Do transferred courses count in my GPA?,direct
+S005_Q0116,S005_F0046,What grade appears on my transcript for a transferred course?,paraphrase
+S005_Q0117,S005_F0046,Can I retake at RHU a course I already transferred?,contextual
+S005_Q0118,S005_F0047,What is a visiting student at RHU?,direct
+S005_Q0119,S005_F0047,What English score does a visiting student need?,paraphrase
+S005_Q0120,S005_F0047,I study at another university and want to take summer courses at RHU. What do I need?,contextual
+S005_Q0121,S005_F0048,What documents are required for visiting students?,direct
+S005_Q0122,S005_F0048,Do visiting students need permission from their home university?,paraphrase
+S005_Q0123,S005_F0049,Can I take courses at RHU as a non-degree student?,direct
+S005_Q0124,S005_F0049,What are the requirements for non-degree students?,paraphrase
+S005_Q0125,S005_F0049,I already have a degree and want to take a few courses for professional growth. How?,contextual
+S005_Q0126,S005_F0050,Does being a visiting student guarantee admission to an RHU degree?,direct
+S005_Q0127,S005_F0050,Can credits I take as a non-degree student count toward a degree later?,paraphrase
+S005_Q0128,S005_F0051,Can I attend classes at RHU without getting credit?,direct
+S005_Q0129,S005_F0051,What do auditing students need to submit?,paraphrase
+S005_Q0130,S005_F0052,Can I study part-time at RHU?,direct
+S005_Q0131,S005_F0052,What counts as part-time study at RHU?,paraphrase
+S005_Q0132,S005_F0052,"I work full time, can I take fewer than 12 credits per semester?",contextual
+S005_Q0133,S005_F0053,How do I apply to a graduate program at RHU?,direct
+S005_Q0134,S005_F0053,Which semesters can I start a master's at RHU?,paraphrase

@@ -1,0 +1,111 @@
+qa_id,fact_id,question,question_style
+S013_Q0001,S013_F0001,What is the RHU freshman program?,direct
+S013_Q0002,S013_F0001,"I don't have a Lebanese Baccalaureate, which program should I start with?",contextual
+S013_Q0003,S013_F0001,How many credits and semesters is each freshman track?,paraphrase
+S013_Q0004,S013_F0002,How are the 30 credits distributed in Freshman Arts?,direct
+S013_Q0005,S013_F0002,How many humanities credits are in the Freshman Arts track?,paraphrase
+S013_Q0006,S013_F0003,What is the credit breakdown of Freshman Sciences?,direct
+S013_Q0007,S013_F0003,How many natural science credits does Freshman Sciences require?,paraphrase
+S013_Q0008,S013_F0004,Do freshman students have to take Arabic?,direct
+S013_Q0009,S013_F0004,"I'm exempted from Arabic, what do I take instead in the freshman year?",contextual
+S013_Q0010,S013_F0005,Which certificates qualify me for the freshman program?,direct
+S013_Q0011,S013_F0005,My high school was 11 years. Can I join the freshman program?,contextual
+S013_Q0012,S013_F0005,What GCE subjects are needed to enter the freshman program?,paraphrase
+S013_Q0013,S013_F0006,How can I tell if a course is a freshman-level course?,direct
+S013_Q0014,S013_F0006,What does the first digit 1 in a course number mean?,paraphrase
+S013_Q0015,S013_F0007,What courses do Freshman Arts students take in the fall?,direct
+S013_Q0016,S013_F0007,Freshman Arts first semester courses?,short
+S013_Q0017,S013_F0008,Is BECN 190 required to apply to the College of Business?,direct
+S013_Q0018,S013_F0008,"I'm in Freshman Arts and want to study business later, which course must I take?",contextual
+S013_Q0019,S013_F0009,What courses are in the Freshman Arts spring semester?,direct
+S013_Q0020,S013_F0009,Which electives do Freshman Arts students take in spring?,paraphrase
+S013_Q0021,S013_F0010,What do Freshman Science students take in the fall semester?,direct
+S013_Q0022,S013_F0010,Freshman Science fall courses?,short
+S013_Q0023,S013_F0011,What courses are in the Freshman Science spring semester?,direct
+S013_Q0024,S013_F0011,When do Freshman Science students take Calculus II and Physics II?,paraphrase
+S013_Q0025,S013_F0012,What is ARAB 180 about?,direct
+S013_Q0026,S013_F0012,Is Arabic Reading and Writing mandatory for native Arabic speakers?,paraphrase
+S013_Q0027,S013_F0013,What does BECN 190 Introduction to Economics cover?,direct
+S013_Q0028,S013_F0013,Does the freshman economics course teach supply and demand?,paraphrase
+S013_Q0029,S013_F0014,What is covered in ENGL 101 Freshman English?,direct
+S013_Q0030,S013_F0014,Which citation style is used in Freshman English?,paraphrase
+S013_Q0031,S013_F0015,What topics are in MATH 189?,direct
+S013_Q0032,S013_F0015,Does Fundamentals of Algebra cover logarithmic functions?,paraphrase
+S013_Q0033,S013_F0016,What does MATH 190 Calculus I cover?,direct
+S013_Q0034,S013_F0016,Calculus I course content at RHU?,short
+S013_Q0035,S013_F0017,What topics are taught in MATH 191 Calculus II?,direct
+S013_Q0036,S013_F0017,Does Calculus II include L'Hôpital's rule and volumes?,paraphrase
+S013_Q0037,S013_F0018,What is the prerequisite for MATH 191?,direct
+S013_Q0038,S013_F0018,Do I need Calculus I before taking Calculus II?,paraphrase
+S013_Q0039,S013_F0019,What is PHYS 190 about?,direct
+S013_Q0040,S013_F0019,Does General Physics Mechanics cover Newton's laws?,paraphrase
+S013_Q0041,S013_F0020,What does PHYS 191 cover?,direct
+S013_Q0042,S013_F0020,Is circuits part of the freshman electricity and magnetism course?,paraphrase
+S013_Q0043,S013_F0021,What is the prerequisite of PHYS 191?,direct
+S013_Q0044,S013_F0021,Can I take Electricity and Magnetism without PHYS 190?,contextual
+S013_Q0045,S013_F0022,What is BACC 150 Introduction to Accounting about?,direct
+S013_Q0046,S013_F0022,Is there an accounting elective in the freshman program?,paraphrase
+S013_Q0047,S013_F0023,What does BADM 155 cover?,direct
+S013_Q0048,S013_F0023,Is there an introduction to law elective for freshmen?,paraphrase
+S013_Q0049,S013_F0024,What is BIOL 102 Introduction to Biology about?,direct
+S013_Q0050,S013_F0024,Does the freshman intro biology course cover genetics?,paraphrase
+S013_Q0051,S013_F0025,What does BIOL 170 Basic Concepts in Biology cover?,direct
+S013_Q0052,S013_F0025,Which freshman biology course covers evolution and ecology?,paraphrase
+S013_Q0053,S013_F0026,What is BMGT 150 about?,direct
+S013_Q0054,S013_F0026,Is there a basics of management elective for freshman students?,paraphrase
+S013_Q0055,S013_F0027,What is BMGT 155 Introduction to Hospitality Management?,direct
+S013_Q0056,S013_F0027,Can freshmen take a hospitality course?,paraphrase
+S013_Q0057,S013_F0028,What does BMKT 150 cover?,direct
+S013_Q0058,S013_F0028,Which freshman elective introduces business and commerce?,paraphrase
+S013_Q0059,S013_F0029,What is CCEE 111 Computer Programming about?,direct
+S013_Q0060,S013_F0029,Is there a beginner programming elective in the freshman year?,paraphrase
+S013_Q0061,S013_F0030,What topics does CCEE 112 cover?,direct
+S013_Q0062,S013_F0030,Which freshman course covers web servers and TCP/IP?,paraphrase
+S013_Q0063,S013_F0031,What is CCEE 121 Computer Technology about?,direct
+S013_Q0064,S013_F0031,Is there a freshman course on spreadsheets and word processing?,paraphrase
+S013_Q0065,S013_F0032,What does CCEE 122 Computer Hardware cover?,direct
+S013_Q0066,S013_F0032,Which freshman elective introduces computer organization?,paraphrase
+S013_Q0067,S013_F0033,What is CCEE 123 about?,direct
+S013_Q0068,S013_F0033,Is there a course on fixing basic computer problems for freshmen?,paraphrase
+S013_Q0069,S013_F0034,What does CCEE 131 Audio-Visual Technology include?,direct
+S013_Q0070,S013_F0034,Is there a freshman elective on video production and photography?,paraphrase
+S013_Q0071,S013_F0035,What is CCEE 141 Switching Systems Technology about?,direct
+S013_Q0072,S013_F0035,Which freshman course covers the telephone network?,paraphrase
+S013_Q0073,S013_F0036,What does CCEE 142 cover?,direct
+S013_Q0074,S013_F0036,Is there a freshman course on modulation and demodulation?,paraphrase
+S013_Q0075,S013_F0037,What is CHEM 160 Chemistry I about?,direct
+S013_Q0076,S013_F0037,Does freshman Chemistry I cover the periodic table and naming formulas?,paraphrase
+S013_Q0077,S013_F0038,What does CHEM 170 Chemistry II cover?,direct
+S013_Q0078,S013_F0038,Which freshman chemistry course covers acids and bases?,paraphrase
+S013_Q0079,S013_F0039,What is CIVE 105 History of Architectural Technology?,direct
+S013_Q0080,S013_F0039,Is there a freshman elective on the history of architecture?,paraphrase
+S013_Q0081,S013_F0040,What does CIVE 120 cover?,direct
+S013_Q0082,S013_F0040,Is there an introductory strength of materials course for freshmen?,paraphrase
+S013_Q0083,S013_F0041,What is CIVE 121 about?,direct
+S013_Q0084,S013_F0041,Which freshman course covers concrete structures and foundations?,paraphrase
+S013_Q0085,S013_F0042,What does CIVE 135 Plumbing and Air Conditioning cover?,direct
+S013_Q0086,S013_F0042,Is there a freshman elective about plumbing?,paraphrase
+S013_Q0087,S013_F0043,What is CIVE 140 Introduction to Surveying?,direct
+S013_Q0088,S013_F0043,Which freshman course teaches use of surveying instruments?,paraphrase
+S013_Q0089,S013_F0044,What does CIVE 141 Fundamentals of Topometry cover?,direct
+S013_Q0090,S013_F0044,Is topometry offered as a freshman elective?,paraphrase
+S013_Q0091,S013_F0045,What is CIVE 142 Photogrammetry about?,direct
+S013_Q0092,S013_F0045,Which freshman course studies aerial photographs?,paraphrase
+S013_Q0093,S013_F0046,What does CIVE 143 Geodesy cover?,direct
+S013_Q0094,S013_F0046,Is there a freshman elective on the geoid and gravity measurements?,paraphrase
+S013_Q0095,S013_F0047,What is CIVE 144 Mapping about?,direct
+S013_Q0096,S013_F0047,Which freshman course covers cartography and map projections?,paraphrase
+S013_Q0097,S013_F0048,What does CIVE 145 Geomorphology cover?,direct
+S013_Q0098,S013_F0048,Is there a freshman course about landforms and weathering?,paraphrase
+S013_Q0099,S013_F0049,What is CIVE 146 about?,direct
+S013_Q0100,S013_F0049,Which freshman elective covers Lebanese construction laws?,paraphrase
+S013_Q0101,S013_F0050,What does CIVE 148 Introduction to Public Works cover?,direct
+S013_Q0102,S013_F0050,Is there a freshman course on public works administration?,paraphrase
+S013_Q0103,S013_F0051,What is CVLN 160 about?,direct
+S013_Q0104,S013_F0051,"Is there a freshman course comparing Judaism, Christianity and Islam?",paraphrase
+S013_Q0105,S013_F0052,What does CVLN 161 The Arabs cover?,direct
+S013_Q0106,S013_F0052,Which freshman elective covers Arab history?,paraphrase
+S013_Q0107,S013_F0053,What is CVLN 170 God and Creation about?,direct
+S013_Q0108,S013_F0053,Is there a freshman literature course on the origins of the universe?,paraphrase
+S013_Q0109,S013_F0054,What does CVLN 180 Youth and the Growing Up Process cover?,direct
+S013_Q0110,S013_F0054,Which freshman elective studies autonomy and youth in literature?,paraphrase

@@ -1,0 +1,255 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S033 | Business college requirements
+ORIGINAL PDF PAGES: 204 to 208 (inclusive)
+ONLY extract facts whose source page is between 204 and 208.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 204 ==========
+MATH 189    Fundamentals of Algebra                               3(3,0)
+ Real number systems, radicals and  rational exponents, polynomials,  factoring,
+  fractional expressions, lines in the plane, functions and their graphs, inverse functions,
+ solving equations and inequalities, real zeros and the Fundamental Theorem of
+ Algebra, exponential functions and their graphs, logarithmic functions and their
+ graphs.
+
+B.  Mandatory Courses
+
+All College of Business Administration students must take 41 credit hours of mandatory
+foundational and business functional courses. Marketing and Advertising Program
+students take Introduction to Digital Media instead of Quantitative Methods for Business.
+A list of these courses and their descriptions follows.
+
+ Course       Title                                   Credits   Prerequisite
+BACC 205    Financial Accounting                  3
+BACC 255   Managerial Accounting                3      BACC 205
+BADM 215   Personal Development and Management  1
+BADM 235   Business Research Methodology        1
+BADM 230   Business Law                       3
+BADM 250   Business Statistics                   3
+BADM 290   Community Engagement Experience     0
+BADM 4201  Quantitative Methods for Business       3      BADM  250  or
+                                           MATH  351  or
+                                                                Senior Standing
+BECN 301   Microeconomics                     3          Junior Standing
+BECN 302   Macroeconomics                     3          Junior Standing
+ BFIN 300     Financial Management I               3      BACC 205
+ BITM 300    Business IT Management              3       BITM 200
+ BITM 350    Fundamentals of Data Analytics         3      BADM  250  or
+                                           MATH 351.
+BMGT 200   Introduction to Management            3         Co-req.  ENGL
+                                                               210.
+BMKA 200    Introduction to Marketing               3          Co-req.:  ENGL
+                                                       210
+MATH 2072  College Algebra                      3        Placement
+ 1 Students in the Marketing and Advertising program take GRDS 220 – Introduction to
+ Digital Media instead of BADM 420- Quantitative Methods for Business
+ 2 Students who do not pass the Mathematics Placement Test must take MATH 207.
+ Students who pass the test take a free elective instead of MATH 207.
+
+
+
+
+Descriptions of these courses are given below.
+
+BACC 205   Financial Accounting                                     3(3,0)
+
+                                                                   Page 204
+
+========== ORIGINAL PDF PAGE 205 ==========
+This course introduces the basic concepts and principles of financial accounting. It
+covers major areas of financial accounting: generally accepted accounting principles,
+the accounting cycle, financial reporting, and the accrual basis of accounting.  It
+provides the necessary understanding of basic accounting principles and procedures
+for recording the financial assets, inventories, noncurrent assets, liabilities, and owner’s
+equity.
+
+BACC 255   Managerial Accounting                                   3(3,0)
+This course introduces students to the basic concepts, analyses, uses, and procedures
+of management accounting. It would enable students to understand and view cost as
+part  of  activities planned and implemented by a company.  It aims  to develop
+managerial decision-making skills by covering the following topics: cost categories,
+cost-volume-profit  analysis,  master  and  flexible  budgets,  direct  costs,  and
+manufacturing overhead variances and relevant costs. Prerequisite: BACC 205.
+
+BADM 215   Personal Development and Management                1(1,0)
+This course engages the student  in  self-reflection, self-discovery  activities, and
+lectures. It is intended to encourage students to develop themselves and plan for the
+present and the future by becoming more self-aware.  Topics and issues include
+personality  types, communication  styles,  personal performance  factors,  career
+choices, and personal development planning.
+
+BADM 230   Business Law                                             3(3,0)
+This course introduces the legal framework of business, emphasizing Lebanese law
+governing business conduct. Topics include legal concepts, sources of law, types and
+classes of contracts, legal forms of business organizations, the commercial code, and
+labor issues.
+
+BADM 235   Business Research Methodology                        1(1,0)
+This course exposes students to business research methodology and the steps for
+systematically solving a business problem or addressing a market opportunity. The
+course's main topics include problem definition, research design and methodology,
+data collection, and sampling techniques. The course concludes with students writing
+a research proposal.
+
+BADM 250   Business Statistics                                       3(3,0)
+Business Statistics introduces students to the fundamentals of applied  statistics.
+Accordingly, students are exposed to statistics as they are directly applied in solving
+business problems. The course will cover random variables, sampling, probability
+distributions, expectation, hypothesis testing and confidence intervals, analysis of
+variance, correlation, and simple linear regression.
+
+BADM 290  Community Engagement Experience                     0(0,1)
+The Community Engagement experience consists of a specific number of volunteer
+hours by students at community organizations under the supervision of a faculty
+
+                                                                  Page 205
+
+========== ORIGINAL PDF PAGE 206 ==========
+member.  Community  organizations may  include governmental agencies, non-
+governmental organizations, and civil society organizations.
+
+BADM 420   Quantitative Methods for Business                       3(3,0)
+This course introduces students to managerial decision analysis using quantitative
+tools. The course will introduce students to the use and development of mathematical
+models to help managers make informed decisions. The focus is on the applied aspects
+of statistics and math. As such, the course will cover the basics of probabilistic and
+statistical techniques, decision analysis, linear programming, optimization, forecasting,
+and waiting-line theory. Prerequisite: BADM 250, MATH 351, or Senior Standing.
+
+BECN 301   Microeconomics                                          3(3,0)
+Students  will study the general principles  of microeconomics. Included are the
+theoretical constructs of consumer behavior, cost structure, and the operations of
+business firms  in the market economy under conditions of perfect competition,
+oligopoly, monopoly, and monopolistic competition. Prerequisite: Junior Standing.
+
+BECN 302   Macroeconomics                                          3(3,0)
+Students will study the general principles of macroeconomics. This course presents the
+formal Keynesian theory of income determination and  its contemporary critiques,
+including the possible causes and solutions to unemployment and inflation, as well as
+the importance of the international economy. Government fiscal and monetary policies
+are examined in detail. Prerequisite: Junior Standing.
+
+BFIN 300     Financial Management I                                  3(3,0)
+ This course  will expose students  to the foundational  principles,  theories, and
+ applications of corporate and business finance and financial management.  It covers
+ simple and compound interest, risk and rates of return, the time value of money, stock
+ and  bond  valuations,  discounted  cash  flow  analysis,  and  financial  ratios.
+ Prerequisite: BACC 205.
+
+BITM 300    Business IT Management                                3(3,0)
+ This course provides a comprehensive introduction to information systems and their
+ application. It explains how to use and manage information technology to revitalize
+ business processes, conduct e-commerce, improve business decision-making, and
+ gain a competitive advantage. Prerequisite: BITM 200
+
+BITM 350    Fundamentals of Data Analytics                          3(3,0)
+This course introduces students to statistical techniques for analyzing large datasets.
+The course covers the theory and application of both parametric and nonparametric
+methods. Students will learn to visualize the data using univariate and bivariate plots,
+factor analysis, and cluster analysis to investigate whether correlations exist in a
+multidimensional space and to build and test predictive models such as linear, logistic,
+and time-series models. Prerequisite: BADM 250 or MATH 351.
+
+
+
+                                                                  Page 206
+
+========== ORIGINAL PDF PAGE 207 ==========
+BMGT 200    Introduction to Management                             3(3,0)
+ Students study the basic functions of management and are exposed to modern
+ management practices, current events, problem-solving, and  ethical dilemmas.
+ Topics include decision-making, strategic and operational planning, organizational
+ structure, Human Resources management, leadership, and control techniques. The
+  instructor facilitates discussion and integrates these topics through contemporary
+ business issues and case studies. Co-requisite: ENGL 210.
+
+ BMKA 200   Introduction to Marketing                                3(3,0)
+ This course introduces the basic principles, theories, and marketing practices in our
+ modern, ever-changing business environment. The course covers the marketing
+ process activities of creating value for customers and capturing value from customers
+  in return. It also discusses the marketing mix and how to build long-term customer
+ relationships. Students will analyze case studies about a “real-life” product or service.
+ Videos and in-class discussions on current marketing topics will assist in the learning
+ experience. Co-requisite.: ENGL 210
+
+GRDS 220   Introduction to Digital Media                              3(3,0)
+ In this course, students will develop a solid foundation in the tools and techniques of
+ Adobe Illustrator and Adobe Photoshop. Students will learn the difference between
+ vector-based and pixel-based programs and how to integrate both work fields to
+ produce creative graphics. Moreover, students will receive a brief introduction to Adobe
+ InDesign, including its workspace, functions, and tools.
+
+ MATH 207   College Algebra                                          3(3,0)
+ Solving linear and non-linear equations, modeling with equations, functions, and their
+ graphs, increasing and decreasing functions-transformation, quadratic functions and
+ minima, modeling with functions, combining functions, polynomial functions and their
+ graphs, dividing polynomials, real zeros of polynomials, complex numbers, complex
+ zeros  of  polynomials,  exponential and  logarithmic  functions, sequences and
+ summation notation-arithmetic sequences, counting and probability.
+
+Program Requirements
+
+Requirements for the Bachelor of Business Administration degree are program-specific.
+They encompass two categories: Major and non-major. Each category consists of
+mandatory and elective courses. The program requirements for the Bachelor of Business
+Administration degree in the different business majors are given below. Details and titles
+of relevant courses are included in the Student’s Study Plan (SSP), which every business
+student will have.
+
+
+
+
+
+                                                                   Page 207
+
+========== ORIGINAL PDF PAGE 208 ==========
+Course Coding
+
+Each course offered by the College of Business Administration is designated by a four-
+letter code representing the college and program, followed by a three-digit number
+denoting the course number, “BABC xyz.” The letter “B” refers to the College of
+Business Administration, and “ABC” refers to the program as follows:
+
+ACC:   Accounting
+ADM:   General Business Administration
+ECN   Economics
+FIN:    Finance
+HRM:  Human Resources Management
+ITM:    Information Technology Management
+MGT:   Management
+MKA:   Marketing and Advertising
+
+The three-digit number “xyz,” between 200 and 599, denotes the course number. The
+first digit indicates the course level: 1 for freshman, 2 for sophomore, 3 for junior, 4 for
+senior, and 5 for graduate.
+
+The following example demonstrates the coding system: BMKA 200 is a sophomore-
+level marketing course in the College of Business Administration.
+
+The designation used to represent the credit-hour breakdown c (t, p) of a course is as
+follows: “c” is the total credit hours, “t” stands for the theoretical component of the
+course, and “p” is the practical or laboratory component. For example, 3(3, 0) denotes
+a 3-credit course with 3 contact lecture hours and 0 laboratory hours.
+
+Learning Support Center
+
+The Learning Support Center (LSC) at the College of Business Administration is another
+manifestation of RHU’s unwavering commitment to students’ academic success. The
+LSC  offers  the students a  peer-to-peer  learning environment  that complements
+classroom learning. The Center aims to support students in advancing their knowledge
+and skills, reinforcing what they learn in the classroom, or overcoming learning and
+performance difficulties. In addition to being a focal point for inquiry and two-way
+“questioner-replier” learning, the LSC provides space for academic interactions that can
+significantly enhance learning.
+
+The Center is in room H 101 and is open to all students throughout the week. The LSC
+is staffed by carefully selected Teaching Assistants, who are graduate students and
+upper-level undergraduates. Teaching Assistants are always available and ready to
+assist their fellow students in overcoming their academic challenges. Additionally, an
+“on-call” faculty member is assigned to ensure that the LSC acts in the best interests of
+students and to intervene when necessary to help them.
+
+The  Center’s resources  include books, study  guides, course  materials, boards,
+computers, videos, DVDs, documentaries, and other learning tools.
+
+                                                                   Page 208

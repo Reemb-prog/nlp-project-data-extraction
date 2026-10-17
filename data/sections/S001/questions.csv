@@ -1,0 +1,21 @@
+qa_id,fact_id,question,question_style
+S001_Q0001,S001_F0001,Which academic year does the RHU undergraduate catalog apply to?,direct
+S001_Q0002,S001_F0001,Is this RHU catalog valid for 2026-2027?,short
+S001_Q0003,S001_F0001,From what date does the 2026-2027 RHU catalog information take effect?,paraphrase
+S001_Q0004,S001_F0002,Can RHU change programs or course offerings without notice?,direct
+S001_Q0005,S001_F0002,Is it possible that requirements in the RHU catalog get changed during the year?,paraphrase
+S001_Q0006,S001_F0002,"If RHU decides to change teaching staff or courses, do they have to warn students first?",contextual
+S001_Q0007,S001_F0003,What happens if the RHU catalog contradicts Lebanese law or DoHE rules?,direct
+S001_Q0008,S001_F0003,Which takes precedence at RHU: the catalog or Directorate of Higher Education regulations?,paraphrase
+S001_Q0009,S001_F0004,Am I responsible for knowing the rules in the RHU catalog?,direct
+S001_Q0010,S001_F0004,"If I didn't know about an RHU regulation, can I still be penalized for breaking it?",contextual
+S001_Q0011,S001_F0004,Does ignorance of the catalog rules exempt RHU students from penalties?,paraphrase
+S001_Q0012,S001_F0005,What is the main phone number of Rafik Hariri University?,direct
+S001_Q0013,S001_F0005,Does RHU have a WhatsApp number I can contact?,paraphrase
+S001_Q0014,S001_F0005,RHU fax number?,short
+S001_Q0015,S001_F0006,What is RHU's general information email?,direct
+S001_Q0016,S001_F0006,Which email should I write to for general inquiries at RHU?,contextual
+S001_Q0017,S001_F0007,What is the postal address of Rafik Hariri University?,direct
+S001_Q0018,S001_F0007,RHU P.O. Box address?,short
+S001_Q0019,S001_F0008,Where can I find the RHU student catalog online?,direct
+S001_Q0020,S001_F0008,Is the undergraduate catalog available on the RHU website?,paraphrase

@@ -1,0 +1,98 @@
+PREVIOUS PAGE 417 (reference only; do not make a fact for this page):
+properties; inverse Laplace transform; transfer function, frequency response, first- and
+ second-order systems. Prerequisite: MATH 314. Annually.
+
+MECA 341  Measurements and Instrumentation                      3(3,0)
+ This course covers the fundamentals of instrumentation and measurement of various
+ physical quantities. Topics include sensor types, technologies, characteristics, and
+ calibration; design of a measurement system; statistical analysis of measured data;
+ measurement noise and uncertainties; data acquisition, data storage and display
+ devices; signal conditioning and interface electronics concepts including filtering, A/D
+ and  D/A  conversion,   amplification,  modulation,  compensation;   applications;
+ Prerequisite: ELEC 320. Annually.
+
+MECA 341L  Measurements and Instrumentation Lab                 1(0,2)
+ The lab experience complements the topics covered in MECA 341. Students learn to
+ use the NI ELVIS platform, LabVIEW programming, and the characteristics of data
+ acquisition systems to build a measurement system, perform data analysis and sensor
+ calibration, and design and build signal-conditioning  circuits for various types of
+ measurements. The lab involves a team project to integrate all instrumentation and
+ measurement tools and techniques to build a measurement system and submit a
+ report. Co-requisite: MECA 341. Annually.
+
+MECA 400   Summative Learning (BS) Project                       3(3,0)
+ Team-oriented, project-based experience culminating in the creation of an artifact;
+ milestones include project selection and proposal, a creative solution, a report, a
+ presentation, and a demonstration of the device. Prerequisite: ENGL 217 for the last
+ semester of the BS Program. Annually.
+
+MECA 440    Control Systems Design                                3(3,0)
+ This course focuses on the analysis and design of control systems. Measure control
+ system performance; Transient and steady-state response analyses; Topics include
+ analytical solutions in the time and S domains, root locus, Bode, Nyquist, Lead-Lag
+ controller design, and PID compensator design; Analysis and design of control systems
+ in state space. Control system analysis and design using MATLAB and SIMULINK; set
+ up a control system, understand  it, and optimize  its performance; Prerequisites:
+MECA 340. Annually.
+
+MECA 440L   Control Systems Design Lab                            1(0,2)
+ This 1-credit laboratory course provides students with practical experience in the
+ design, analysis, and implementation of linear control systems. Students will gain
+ hands-on proficiency in using MATLAB and Simulink as powerful tools for modeling,
+ simulating, and analyzing control system behavior in both the time and frequency
+ domains. A  significant component  of  the  lab  involves  the  implementation  of
+ fundamental automatic controllers, including ON/OFF, Proportional-Derivative (PD),
+ Proportional-Integral (PI), and Proportional-Integral-Derivative (PID) controllers, using
+ Arduino microcontrollers  for various real-world applications such as temperature
+ control and speed regulation. Students will also be introduced to the diverse range of
+
+Page 417
+
+NEXT PAGE 423 (reference only; do not make a fact for this page):
+MINOR IN MANUFACTURING AND AUTOMATION
+ENGINEERING
+
+Rationale
+
+The Manufacturing and Automation  Engineering (MAE) minor aims  to broaden
+engineering  students’  knowledge   of  up-to-date  automation  techniques  and
+manufacturing methods. It also prepares undergraduate students for potential graduate
+studies in Manufacturing and Automation Engineering and related fields.
+
+It primarily targets mechanical and mechatronics engineering students, but it should also
+accommodate students from a  variety  of engineering backgrounds, provided  all
+prerequisite courses are completed.
+
+The program mainly focuses on decision-making, materials science, manufacturing
+processes, quality control, system integration, automation, and many other related
+topics. Therefore, by the end of this minor, a student is expected to be familiar with the
+economic study, design, material selection, manufacturing, assembly, control, and
+automation of the entire engineering production process.
+
+Program participants are required to complete at least 18 credits of related coursework.
+Although not required, with proper and timely advising, they may also complete their Co-
+op work experience or their BE project in Manufacturing and Automation Engineering,
+thereby enhancing their capabilities.
+
+Program Objectives
+
+The primary educational objectives of the MAE minor program are to:
+
+ •  Give engineering students basic knowledge of the Manufacturing and Automation
+    Engineering principles
+
+ •  Equip students with the knowledge  to pursue graduate studies  in  Industrial
+    Engineering,  Manufacturing  Engineering,  Automation  Engineering,  Materials
+    Science, Engineering Management, and other related disciplines
+
+Learning Outcomes
+
+After completing the minor program, students should have the ability to:
+ •  Apply relevant knowledge of mathematics, science, and engineering to identify,
+     formulate, and solve practical problems related to Automation Engineering and
+    modern Manufacturing processes
+ •  Use modern CAD/CAM/CAE engineering tools
+ •  Automate and control complex industrial equipment and processes
+ •  Make apt decisions based on their comprehension of Professional and Ethical
+    Behavior
+Page 423

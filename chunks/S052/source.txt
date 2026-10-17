@@ -1,0 +1,297 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S052 | Computer and communications engineering courses
+ORIGINAL PDF PAGES: 339 to 344 (inclusive)
+ONLY extract facts whose source page is between 339 and 344.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 339 ==========
+CCEE 543  Mobile Communications                                   3(3,0)
+ This course deals with the evolution of cellular technologies from 2G to LTE: cellular
+ systems; medium access  techniques;  wireless  standardization; GSM networks
+ (history, architecture overview, access network, GSM  air interface, dimensioning
+ aspects, network design and planning, handover, call handling, network operation); 3G
+ mobile systems architecture, 3G air interface, protocols and procedures used in 3G,
+ 3G  functionalities such  as:  idle mode  camping, power  control and  capacity
+ management, handover in 3G; introduction to 4G/LTE. Co-requisite: CCEE 449.
+
+ CCEE 562   Artificial Intelligence                                      3(3,0)
+ This course introduces students to the fundamentals of knowledge representation and
+ learning in artificial intelligence. The emphasis will be on understanding fundamental
+ concepts in artificial intelligence and applying corresponding approaches to solve
+ practical problems and develop useful software applications. Covered topics include
+ intelligent agents, informed and uninformed search strategies, and adversarial search.
+ Prerequisite: CCEE 214 or equivalent.
+
+ CCEE 564 Machine Learning and Data Mining                         3(3,0)
+ This course introduces students to the basic knowledge representation and learning
+ techniques. The emphasis is on understanding the data mining process and applying
+ the corresponding approaches to solve practical problems and develop intelligent
+ software applications. The course covers several topics that lie within classification,
+ prediction, and clustering. Prerequisite: CCEE 214. Equivalent to COSC 480.
+
+ CCEE 595A Summative Learning Project 1                           1(1,0)
+ The first phase of a team-oriented, project-based experience culminates in the creation
+ of an artifact; milestones include project selection and proposal, a creative solution, a
+ report, a presentation, and a demonstration of the device. Prerequisites: ENGL 217,
+ Senior Standing.
+
+ CCEE 595B BE Summative Learning Project 2                       3(3,0)
+ The second phase of a team-oriented, project-based experience that culminates in the
+ creation of an artifact; milestones include: project selection and proposal, a creative
+ solution, a  report, a presentation, and a demonstration  of the created device.
+ Prerequisite: CCEE 595A.
+
+II.  Elective Courses
+
+Students may meet their engineering technical electives requirements from the following
+selection of elective courses.
+
+ CCEE 457   Cybersecurity Fundamentals                             3(3,0)
+ This course equips learners with workforce preparedness skills and establishes a
+ foundation  for success  in cybersecurity.  Participants acquire,  apply, and  refine
+ cybersecurity knowledge and skills through a sequence of comprehensive, practical
+ experiences that solidify their learning. This course imparts fundamental cybersecurity
+
+
+                                                           Page 339
+
+========== ORIGINAL PDF PAGE 340 ==========
+concepts and abilities at the introductory level, encompassing threat reduction, defense
+strategies, and post-incident forensics. Prerequisite: CCEE 354
+
+CCEE 498   Special Topics in Computer & Communication Engineering  3(3,0)
+This course is designed to enable students to study current special topics of interest,
+carefully selected from CCE-related topics. The contents of such a course are to be
+determined by the instructor and the department.
+
+CCEE 511   Mobile Application Development                         3(3,0)
+Today’s applications are increasingly mobile. Computers are no longer confined to
+desks and laps; they live in our pockets and hands. This course teaches students how
+to build mobile apps for Android and iOS, two of today’s most popular platforms, and
+how to deploy them in the Android Market and the App Store. Students learn how to
+write native apps for Android using Eclipse and the Android SDK, for iPhones, iPod
+touches, and iPads using Xcode and the iOS SDK, and for web apps on both platforms.
+Prerequisite: CCEE 214. Equivalent to COSC 435.
+
+CCEE 513   Operating Systems                                       3(3,0)
+This  course  covers  operating  systems  principles;  scheduling  and  resource
+management;   virtual  memory;    file   systems;   concurrent   processing  and
+synchronization; security and protection; the Internet; network structures; distributed
+operating systems; Web technologies; and operating systems (URL, HTML, HTTP,
+applets). A case study of a UNIX operating system is covered during the course.
+Prerequisite: CCEE 214. Equivalent to COSC 451.
+
+CCEE 514  Advanced Web Programming                            3(3,0)
+This course focuses on server-side programming. It teaches students how to connect
+their website or web application to a database and save and retrieve data from it. The
+course exposes students to web controls, validation controls, data source controls,
+data binding controls, state management, and working with third-party media such as
+XML and web services. Prerequisite: CCEE 411/COSC 333. Equivalent to COSC 434.
+
+CCEE 515   Distributed Computing                                   3(3,0)
+This course will introduce students to the challenges faced in constructing parallel and
+distributed applications, including testing, debugging, and performance evaluation. The
+student will be trained in various implementation techniques, paradigms, architectures,
+and programming languages. Prerequisite: CCEE 528 or equivalent.
+
+CCEE 516  Advanced   Programming   and   Database       3(2,2)
+          Management Systems
+This course will introduce students to managing their own databases and querying
+them, as well as to managing Data Warehousing. Students will also learn advanced
+programming tools, including Bigtable, NoSQL, R, Python, SCALA, MapReduce,
+Elasticsearch, and apply these tools to address big data issues.
+Prerequisite: CCEE 315 or equivalent.
+
+
+                                                          Page 340
+
+========== ORIGINAL PDF PAGE 341 ==========
+CCEE 520    Parallel Processing                                       3(3,0)
+ This course introduces students to various aspects of parallel processing, including
+ parallel   architectures,   algorithms,  systems,  programming  languages,  and
+ implementations. Students  will be expected to work with recent existing parallel
+machines and design and implement parallel processing projects. Prerequisite: CCEE
+221.
+
+CCEE 521   Hardware-Software Co-Design                           3(3,0)
+ This course introduces the student to the design of complex embedded systems.
+ Several models and methods are presented to help the student design software and
+hardware components that work together. Models to describe hardware and software
+components are introduced (specifications). Then, hardware-software partitioning and
+ design space exploration are introduced as part of the system design. Performance
+ analysis and estimation techniques are then explained. Finally, a current hardware-
+ software co-design topic is chosen and introduced. Students will be expected to design
+and implement a project using the information in this course. Prerequisite: CCEE 221.
+
+CCEE 535   Digital Signal Processing                                 3(3,0)
+ This course focuses on digital signal processing (DSP) and its applications. It helps
+ students understand how digital signal processing can be applied  in operational
+ systems. Students are required to develop simulations of the learned concepts using
+MATLAB. Specific topics covered include a review of mathematical tools used in DSP,
+ digital filter structure, digital filter design, simple DSP algorithm implementation, and
+ spectral analysis of signals. Prerequisite: CCEE 331.
+
+CCEE 536   Digital Image Processing                                 3(3,0)
+ Two-dimensional   signals  and  systems.  Image  formation  and   perception.
+ Representation, coding, filtering, restoration, and enhancements. Feature extraction
+and scene analysis. Introduction to computer vision. Introduction to Medical Imaging.
+ Prerequisite: CCEE 331 or Equivalent.
+
+CCEE 540   Satellite Communication Systems                       3(3,0)
+ This course focuses on the fundamentals of satellite technology. Topics include the
+ history of satellites; satellite missions and applications; the study of satellite orbits and
+ trajectories; satellite launch and in-orbit operations; satellite link fundamentals; satellite
+ hardware;  Communication  Satellites;  GPS;  and  Direct  Broadcast  Satellites.
+ Prerequisite: CCEE 447.
+
+CCEE 542   Microwave Communications                             3(3,0)
+ This course introduces the fundamental principles of microwave circuit analysis and
+ design. Topics include review of electromagnetic theory, Transmission Line Theory,
+Impedance Matching and Tuning, Microwave Network Analysis, Power Dividers, and
+Microwave Propagation. This course also includes some laboratory experiments on
+microwave circuits—prerequisite: ELEC 340.
+
+
+
+                                                          Page 341
+
+========== ORIGINAL PDF PAGE 342 ==========
+CCEE 545  Advanced Mobile Communications                      3(3,0)
+This course seeks to provide insight into the development of the latest generations of
+mobile networks. In this course, we will focus mainly on LTE and LTE-Advanced (LTE-
+A): Motivation, architecture, air interface, radio procedures, quality of service, and
+planning. In addition, we will briefly discuss 5G networks and the Internet of Things.
+Co-requisite: CCEE 449.
+
+CCEE 546   Array Processing                                         3(3,0)
+This course includes an introduction to Mono- and Multi-Antenna Concepts: multi-
+antenna  benefits; beamforming techniques; adaptive antennas; MIMO systems:
+diversity/multiplexing tradeoff; multi-antenna transmission techniques (Alamouti and
+spatio-temporal  techniques);  multi-antenna  reception  techniques;  transmission
+strategies; applications (MIMO in 3G and LTE). Prerequisite: CCEE 444.
+
+CCEE 547   Optical Communications                                 3(3,0)
+This course is designed to progress from the description of the components in a fiber
+link to the interconnections within a link or a network. The components of fiber links will
+be discussed (fiber, connections, sources, and receivers). These optical components
+will be integrated into a complete optical link. Prerequisite: CCEE 331.
+
+CCEE 552   Network Security                                         3(3,0)
+Network security is the protection of the underlying networking infrastructure from
+unauthorized access, misuse, or theft. It involves creating a secure infrastructure for
+devices, applications, and users to operate securely. Pre-requisite: CCEE 354 or
+COSC 360.
+
+CCEE 553  Advanced Communication Networks                    3(3,0)
+In this course, we will explore current network architectures and topologies, such as
+telephone systems (PDH/SDH, SONET), Frame Relay, ATM, and MPLS, as well as
+technologies under development. We  will  also  learn how  to assess  network
+performance and which technologies are used to enhance service quality. At the end
+of the course, the student will be able to identify the technologies to be used in a given
+environment and study its performance. Prerequisite: CCEE 354.
+
+CCEE 554L  Computer Networks Lab 2                               1(0,2)
+This Lab helps prepare students seeking to pass advanced Cisco Certifications (CCNA
+1). The student will acquire knowledge of network equipment and protocol functionality,
+learn to build a simple Ethernet network using routers, switches, and computers, and
+use router CLI commands to perform basic configuration and verification. The student
+will also learn valuable network problem-solving techniques and concepts through
+hands-on skills using hardware devices. Co-requisite: CCEE 354L.
+
+CCEE 555   Advanced Computer Networks                         3(3,0)
+This is an advanced networking course that requires active student participation. In
+this course, we will explore TCP; Internet inter-domain routing; Internet quality of
+service and  traffic engineering; Internet  traffic measurement and analysis; data
+
+                                                          Page 342
+
+========== ORIGINAL PDF PAGE 343 ==========
+centers; the analysis and performance of content distribution networks; and Software-
+defined networking. In addition, the student  will learn how to build client/server
+computer network applications using sockets. Prerequisite: CCEE 354.
+
+CCEE 555L  Computer Networks Lab 3                               1(0,2)
+This Lab helps prepare students seeking to pass the Cisco Routing and Switching
+Essentials (CCNA 2) Certification. The primary focus of this Lab is routers and switches
+in small networks. The student will learn the architecture, components, and operations
+of routers and switches, as well as their basic configuration and functionality. They will
+also learn how to configure and troubleshoot static and dynamic routing protocols,
+access-control lists, VLANs, DHCP for IPv4 and IPv6 networks, and NAT operations.
+Prerequisite: CCEE 354L.
+
+CCEE 556   Network and System Administration                    3(3,0)
+This course will help students become system administrators and install, configure,
+maintain, and troubleshoot a Microsoft Windows Server Operating system.
+It provides them  with the knowledge and  skills  to work  with Active  Directory
+technologies in environments including complex network services. This course also
+provides students with basic knowledge of installing, configuring, and maintaining
+Linux operating systems. By the end of this course, students will have all the required
+materials  to submit and pass the MCSA: Windows Server  certification exam.
+Prerequisite: CCEE 354.
+
+CCEE 556L  Computer Networks Lab 4                               1(0,2)
+This Lab helps prepare students seeking to pass the Cisco Routing and Switching
+Essentials (CCNA 3) Certification. The primary focus of this Lab is routers and switches
+in large and complex networks. The student will learn how to configure routers and
+switches with advanced functionalities. They will also learn how to configure and
+troubleshoot enhanced switching technologies, first-hop redundancy protocols in a
+switched network, wireless routers and clients, and routers in complex networks.
+Finally, they will learn how to manage CISCO IOS software licensing and configuration
+files. Prerequisite: CCEE 555L.
+
+CCEE 561   Computer Vision                                         3(3,0)
+This course introduces the principles, models, and applications of computer vision. The
+course will cover image structure, projection, stereo vision, and the interpretation of
+visual motion. Case studies of industrial (robotic) applications of computer vision,
+including visual navigation for autonomous robots, robot hand-eye coordination, and
+novel man-machine interfaces. Prerequisite: CCEE 214 or COSC 214.
+CCEE 563   Robotics                                                 3(3,0)
+Introductory historical development of robotics; rigid-object kinematics; robot arm
+kinematics; inverse kinematics; dynamics; introduction to trajectory planning and
+manipulator control.  Prerequisite: MATH 311 and MATH 314. Equivalent to MECA
+524.
+
+
+
+                                                          Page 343
+
+========== ORIGINAL PDF PAGE 344 ==========
+CCEE 566    Natural Language Processing                           3(3,0)
+This course introduces students to the field of natural language processing (NLP). The
+student is first introduced to word and sentence tokenization. The student then uses
+the learned skills to implement systems for text classification and sentiment analysis,
+spelling correction, information extraction, parsing, meaning extraction, and question
+answering, Machine learning algorithms as well as algorithms like n-gram language
+modeling, naive bayes and maxent classifiers, sequence models like Hidden Markov
+Models, probabilistic dependency and constituent parsing, and vector-space models of
+meaning will be introduced as needed for the above NLP applications. Prerequisite:
+CCEE 214, COSC 214, or Equivalent.
+
+CCEE 567    Optimization                                             3(3,0)
+This course introduces students  to the  theory, algorithms, and applications  of
+optimization. The optimization methodologies include linear programming, network
+optimization, integer programming, and decision trees. It includes a team project in
+which students select and solve a problem in practice. Prerequisite: MATH 215 or
+equivalent. Equivalent to: BADM 420 and MECH 571.
+
+CCEE 568   Big Data and Analytics/Big Data System               3(3,0)
+This course enables students to understand why the Big Data Era has emerged.
+Students will become conversant in the terminology and core concepts of big data
+problems, applications, and systems. Students will learn how to make Big Data useful
+in their business or career. Students will be introduced to one of the most common
+frameworks, Hadoop, that has made big data analysis easier and more accessible --
+increasing the potential for data to transform our world. Prerequisite: CCEE 564 or
+equivalent.
+
+CCEE 597   Advanced   Topics    in   Computer   &         3(3,0)
+           Communications Engineering
+This course is designed to enable students to study a selected advanced topic of
+interest, carefully chosen from the CCE engineering-related topics. The content
+outline of such a topic is to be determined by the instructor and approved by the
+department. Prerequisite: Instructor’s consent.
+
+
+
+
+
+                                                          Page 344

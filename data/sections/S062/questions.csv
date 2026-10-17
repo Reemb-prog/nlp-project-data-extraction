@@ -1,0 +1,31 @@
+qa_id,fact_id,question,question_style
+S062_Q0001,S062_F0001,What is the Applied Petroleum Engineering Technology minor?,direct
+S062_Q0002,S062_F0001,What are the objectives of the APET minor?,paraphrase
+S062_Q0003,S062_F0002,Can I do my co-op in oil and gas as part of the APET minor?,direct
+S062_Q0004,S062_F0002,How many credits must APET minor students complete?,paraphrase
+S062_Q0005,S062_F0003,What are the learning outcomes of the APET minor?,direct
+S062_Q0006,S062_F0003,Will the petroleum minor teach risk in refining and storage?,paraphrase
+S062_Q0007,S062_F0004,What careers does the APET minor lead to?,direct
+S062_Q0008,S062_F0004,Can a petroleum minor help me work at a refinery?,paraphrase
+S062_Q0009,S062_F0005,Who can take the APET minor?,direct
+S062_Q0010,S062_F0005,"I'm a civil engineering BS student, can I minor in petroleum engineering technology?",contextual
+S062_Q0011,S062_F0006,What topics does the APET curriculum cover?,direct
+S062_Q0012,S062_F0006,Does the petroleum minor cover pipeline design and NDT?,paraphrase
+S062_Q0013,S062_F0007,What courses are in the APET minor?,direct
+S062_Q0014,S062_F0007,Which elective can I choose in the petroleum minor?,paraphrase
+S062_Q0015,S062_F0008,What does APET 200 Petroleum Engineering cover?,direct
+S062_Q0016,S062_F0008,Is there an introductory petroleum engineering course?,paraphrase
+S062_Q0017,S062_F0009,What is APET 201 about?,direct
+S062_Q0018,S062_F0009,What is the prerequisite for the oil and gas transportation course?,paraphrase
+S062_Q0019,S062_F0010,What does APET 203 Modern Refining Technology cover?,direct
+S062_Q0020,S062_F0010,Do I need APET 200 before Modern Refining Technology?,paraphrase
+S062_Q0021,S062_F0011,What is CHEM 213 Physical and Organic Chemistry?,direct
+S062_Q0022,S062_F0011,What is the prerequisite for CHEM 213?,paraphrase
+S062_Q0023,S062_F0012,What does GEOL 210 Petroleum Geology cover?,direct
+S062_Q0024,S062_F0012,Is there a petroleum geology course in the APET minor?,paraphrase
+S062_Q0025,S062_F0013,What is APET 202 about?,direct
+S062_Q0026,S062_F0013,Which petroleum course covers corrosion monitoring?,paraphrase
+S062_Q0027,S062_F0014,What does APET 300 Applied Fluid Mechanics cover?,direct
+S062_Q0028,S062_F0014,Is Applied Fluid Mechanics an APET elective?,paraphrase
+S062_Q0029,S062_F0015,What are the prerequisites for the APET minor?,direct
+S062_Q0030,S062_F0015,Which courses must I finish before starting the petroleum minor?,paraphrase

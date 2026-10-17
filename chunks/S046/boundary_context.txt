@@ -1,0 +1,79 @@
+PREVIOUS PAGE 300 (reference only; do not make a fact for this page):
+disposing of stormwater and sewage; design of storm and sewage systems; excess
+ stormwater management; environmental risk and protection measures. Prerequisite:
+ CIVE 435. On demand.
+
+ CIVE 576     Hydraulic Structures                                    3(3,0)
+ Hydraulic aspects of the theory and design of hydraulic structures; types of dams and
+  their  functions;  stability  analysis  of  gravity dams;  culverts,  navigation  canals,
+ reservoirs, and port  facilities; and control structures such as gates and weirs.
+ Prerequisite: CIVE 435 and CIVE 536. On demand.
+
+5.  Public Works Sequence
+
+ CIVE 540     GIS for Civil Engineering                               3(3,0)
+ Review of basic cartographic principles and the use of geographic information
+ systems for thematic mapping, spatial analysis, and application in the water resources
+ sector. The laboratory emphasizes experience with GIS software. Prerequisite:
+ Senior Standing. On demand.
+
+ CIVE 541     Pavement Design                                       3(3,0)
+ Analysis and design of flexible and rigid pavements; pavement type selection; loading;
+  failure criteria and reliability; mechanistic pavement design; design exercises using
+ existing methods. Prerequisite: CIVE 423. On demand.
+
+
+
+
+
+                                                           Page 300
+
+NEXT PAGE 309 (reference only; do not make a fact for this page):
+Year 3, Summer Semester (3 Credits)
+ ELEC 499   Co‐op Work Experience               3     ENGL 217
+ The above 118 credits complete the requirements for a Bachelor of Science degree in
+ Electrical Engineering.
+ Year 4, Fall Semester (16 Credits)
+CCEE 534   Signal Processing                    3     CCEE 331
+ ELEC 534   Advanced Power Systems             3     ELEC 330
+ ELEC 595A BE Summative Learning Project 1       1     ENGL 217,
+                                                             Senior standing
+ENGR 510  Engineering Project Management       3     ENGR 300
+             Engineering Technical Elective 2        3
+             Engineering Technical Elective 3        3
+ Year 4, Spring Semester (18 Credits)
+ ELEC 533   Advanced Machines and Drives         3     ELEC 331, 432
+ ELEC 563   Smart Grid Technology                3     ELEC 432
+ ELEC 595B BE Summative Learning Project 2       3     ELEC 595A
+             Engineering Technical Elective 4        3
+             Engineering Technical Elective 5        3
+              Social Sciences/ Humanities Elective II   3
+ Total BE credits: 152
+* BS-bound students are required to take ELEC 400 – Summative Learning (BS) Project
+instead.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+6 credits restricted Departmental Electives
+9 credits from any Engineering discipline at the 400 level or above.
+
+Courses Description
+
+I.  Mandatory Courses
+
+Non-Major Courses
+
+Description of the mandatory, non-major courses follows.
+
+CCEE 214     Introduction to Programming                            3(2,2)
+ This course presents the fundamentals of structured programming concepts. It covers
+ primitive data types, expressions, control statements, functions, arrays, basic search
+ and sorting algorithms, and an introduction to pointers. Prerequisite: None. Equivalent
+ to COSC 214.
+
+CCEE 221    Logic Design                                             3(3,0)
+ This course addresses Boolean algebra and logic simplification techniques, data
+ representation, and the design of combinational logic networks for decoders, encoders,
+ multiplexers, and demultiplexers. Design of sequential logic devices, including flip-
+ flops, registers, and counters, as well as analysis of devices used to build logic
+ networks, including programmable logic devices. Equivalent to COSC 351.
+
+                                                           Page 309

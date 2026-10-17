@@ -1,0 +1,39 @@
+qa_id,fact_id,question,question_style
+S066_Q0001,S066_F0001,What does MECA 441 Sensors and Actuators cover?,direct
+S066_Q0002,S066_F0001,What is the prerequisite for Sensors and Actuators?,paraphrase
+S066_Q0003,S066_F0002,What is MECA 442 Microcontrollers for Mechatronics about?,direct
+S066_Q0004,S066_F0002,What are the prerequisites for Microcontrollers for Mechatronics?,paraphrase
+S066_Q0005,S066_F0003,What does MECA 443 Mechatronic System Design cover?,direct
+S066_Q0006,S066_F0003,What do I need before Mechatronic System Design?,paraphrase
+S066_Q0007,S066_F0004,What is done in MECA 443L?,direct
+S066_Q0008,S066_F0004,What is the co-requisite of the mechatronic system design lab?,paraphrase
+S066_Q0009,S066_F0005,What is MECA 444L Mechatronic Systems Programming?,direct
+S066_Q0010,S066_F0005,Which programming language does MECA 444L teach?,paraphrase
+S066_Q0011,S066_F0006,What is MECA 499 Co-op Work Experience?,direct
+S066_Q0012,S066_F0006,How long is the mechatronics co-op according to the course description?,paraphrase
+S066_Q0013,S066_F0007,What does MECA 542 Industrial and Manufacturing Control cover?,direct
+S066_Q0014,S066_F0007,Which mechatronics course teaches PLC ladder logic?,paraphrase
+S066_Q0015,S066_F0008,What is MECA 544 Robotics about?,direct
+S066_Q0016,S066_F0008,What is the prerequisite for MECA 544?,paraphrase
+S066_Q0017,S066_F0009,What are MECA 595A and MECA 595B?,direct
+S066_Q0018,S066_F0009,What do I need for the mechatronics BE project part I?,paraphrase
+S066_Q0019,S066_F0010,What is MECA 484 Civionics?,direct
+S066_Q0020,S066_F0010,Is there a course applying mechatronics to civil infrastructure?,paraphrase
+S066_Q0021,S066_F0011,What does MECA 485 Autotronics cover?,direct
+S066_Q0022,S066_F0011,Which course covers the CAN protocol and engine management?,paraphrase
+S066_Q0023,S066_F0012,What is MECA 498 Special Topics in Mechatronics Engineering?,direct
+S066_Q0024,S066_F0012,What is required to take MECA 498?,paraphrase
+S066_Q0025,S066_F0013,What does MECA 515 Modern Control Systems cover?,direct
+S066_Q0026,S066_F0013,What is the prerequisite for Modern Control Systems?,paraphrase
+S066_Q0027,S066_F0014,What is MECA 543 Fluid Power Systems about?,direct
+S066_Q0028,S066_F0014,Which elective covers hydraulic and pneumatic circuits?,paraphrase
+S066_Q0029,S066_F0015,What is done in MECA 545 Integrated Automation Lab?,direct
+S066_Q0030,S066_F0015,What is the co-requisite of the integrated automation lab?,paraphrase
+S066_Q0031,S066_F0016,What does MECA 581 Systems Engineering cover?,direct
+S066_Q0032,S066_F0016,What is required to take Systems Engineering?,paraphrase
+S066_Q0033,S066_F0017,What is MECA 586 Mechatronics Drives about?,direct
+S066_Q0034,S066_F0017,Which elective covers buck and boost converters for drives?,paraphrase
+S066_Q0035,S066_F0018,What is MECA 597 Advanced Topics in Mechatronics Engineering?,direct
+S066_Q0036,S066_F0018,How often is MECA 597 offered?,paraphrase
+S066_Q0037,S066_F0019,Which AI-restricted electives can mechatronics students take?,direct
+S066_Q0038,S066_F0019,Do mechatronics BE students have to take an AI elective?,paraphrase

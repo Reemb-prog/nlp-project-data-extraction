@@ -1,0 +1,55 @@
+qa_id,fact_id,question,question_style
+S047_Q0001,S047_F0001,When do electrical students complete the BS degree?,direct
+S047_Q0002,S047_F0001,When is ELEC 499 Co-op taken in the electrical plan?,paraphrase
+S047_Q0003,S047_F0002,What courses are in electrical BE year 4 fall?,direct
+S047_Q0004,S047_F0002,When do electrical BE students take Advanced Power Systems?,paraphrase
+S047_Q0005,S047_F0003,What is in the last semester of the electrical BE?,direct
+S047_Q0006,S047_F0003,When do electrical students take Smart Grid Technology?,paraphrase
+S047_Q0007,S047_F0004,How are electrical engineering technical electives chosen?,direct
+S047_Q0008,S047_F0004,What do BS-bound electrical students take instead of Technical Elective 1?,paraphrase
+S047_Q0009,S047_F0005,What does CCEE 221 Logic Design cover?,direct
+S047_Q0010,S047_F0005,Is CCEE 221 equivalent to COSC 351?,paraphrase
+S047_Q0011,S047_F0006,What is CCEE 221L Logic Design Lab?,direct
+S047_Q0012,S047_F0006,What is the prerequisite of CCEE 221L?,paraphrase
+S047_Q0013,S047_F0007,What does CCEE 331 Signals and Systems cover?,direct
+S047_Q0014,S047_F0007,What do I need before Signals and Systems?,paraphrase
+S047_Q0015,S047_F0008,What is CCEE 341 Communication Systems about?,direct
+S047_Q0016,S047_F0008,What is the prerequisite for Communication Systems?,paraphrase
+S047_Q0017,S047_F0009,What does CCEE 426L cover?,direct
+S047_Q0018,S047_F0009,What is the co-requisite of the embedded systems lab?,paraphrase
+S047_Q0019,S047_F0010,What is CCEE 460 Artificial Intelligence about?,direct
+S047_Q0020,S047_F0010,What do I need before CCEE 460?,paraphrase
+S047_Q0021,S047_F0011,What is CCEE 460L Artificial Intelligence Lab?,direct
+S047_Q0022,S047_F0011,What is the co-requisite of the AI lab in engineering?,paraphrase
+S047_Q0023,S047_F0012,What does CCEE 534 Signal Processing cover?,direct
+S047_Q0024,S047_F0012,How many credits is Signal Processing?,paraphrase
+S047_Q0025,S047_F0013,What is ELEC 200 Introduction to Electrical and Computer Engineering?,direct
+S047_Q0026,S047_F0013,Does ELEC 200 include microcontroller projects?,paraphrase
+S047_Q0027,S047_F0014,What does ELEC 301 Sensors and Sensor Circuit Design cover?,direct
+S047_Q0028,S047_F0014,What is the prerequisite for the sensors course?,paraphrase
+S047_Q0029,S047_F0015,What is done in ELEC 301L?,direct
+S047_Q0030,S047_F0015,What is the co-requisite of the sensors lab?,paraphrase
+S047_Q0031,S047_F0016,What does ELEC 320 Electronics cover?,direct
+S047_Q0032,S047_F0016,What do I need before Electronics?,paraphrase
+S047_Q0033,S047_F0017,What is ELEC 320L Electronics Lab?,direct
+S047_Q0034,S047_F0017,What is the co-requisite of the electronics lab?,paraphrase
+S047_Q0035,S047_F0018,What does ELEC 323 Electronics Circuit Design cover?,direct
+S047_Q0036,S047_F0018,What are the prerequisites for Electronics Circuit Design?,paraphrase
+S047_Q0037,S047_F0019,What is ELEC 330 Power Systems about?,direct
+S047_Q0038,S047_F0019,What do I need before Power Systems?,paraphrase
+S047_Q0039,S047_F0020,What does ELEC 331 Electric Machines cover?,direct
+S047_Q0040,S047_F0020,What is the prerequisite for Electric Machines?,paraphrase
+S047_Q0041,S047_F0021,What is ELEC 331L Electric Machines Lab?,direct
+S047_Q0042,S047_F0021,What is the co-requisite of the electric machines lab?,paraphrase
+S047_Q0043,S047_F0022,What does ELEC 340 Engineering Electromagnetics cover?,direct
+S047_Q0044,S047_F0022,What do I need before Engineering Electromagnetics?,paraphrase
+S047_Q0045,S047_F0023,What is ELEC 400 Summative Learning (BS) Project?,direct
+S047_Q0046,S047_F0023,When should electrical BS students take the BS project?,paraphrase
+S047_Q0047,S047_F0024,What does ELEC 405 Electrical System Design cover?,direct
+S047_Q0048,S047_F0024,What is the prerequisite for Electrical System Design?,paraphrase
+S047_Q0049,S047_F0025,What is ELEC 406 Modeling and Simulation about?,direct
+S047_Q0050,S047_F0025,What are the prerequisites for Modeling and Simulation?,paraphrase
+S047_Q0051,S047_F0026,What does ELEC 431 Introduction to Renewable Energy Systems cover?,direct
+S047_Q0052,S047_F0026,What do I need before the intro renewable energy course?,paraphrase
+S047_Q0053,S047_F0027,What is ELEC 432 Power Electronics about?,direct
+S047_Q0054,S047_F0027,What is the prerequisite for Power Electronics?,paraphrase

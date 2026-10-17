@@ -1,0 +1,29 @@
+qa_id,fact_id,question,question_style
+S021_Q0001,S021_F0001,What does ENGL 463 Introduction to Sociolinguistics cover?,direct
+S021_Q0002,S021_F0001,Which English course studies dialects and gender in language?,paraphrase
+S021_Q0003,S021_F0002,What is ENGL 497 Advanced Topics in English?,direct
+S021_Q0004,S021_F0002,Is ENGL 497 research-based and does it need instructor consent?,paraphrase
+S021_Q0005,S021_F0003,What is the prerequisite for ENGL 101 Freshman English?,direct
+S021_Q0006,S021_F0003,What TOEFL score places me into ENGL 101?,paraphrase
+S021_Q0007,S021_F0004,What is the mission of the Intensive English Language Program?,direct
+S021_Q0008,S021_F0004,What does IELP aim to do for new students?,paraphrase
+S021_Q0009,S021_F0005,What score places a student in IELP 085?,direct
+S021_Q0010,S021_F0005,"My IELTS is 3.5, which English level will I be placed in?",contextual
+S021_Q0011,S021_F0006,What TOEFL ITP range places me in IELP 095?,direct
+S021_Q0012,S021_F0006,"With an IBT of 45, which IELP level do I start at?",contextual
+S021_Q0013,S021_F0007,What scores place a student in IELP 100?,direct
+S021_Q0014,S021_F0007,How many major credits can an IELP 100 student take according to the placement chart?,paraphrase
+S021_Q0015,S021_F0008,What IELTS score lets me start directly in ENGL 101?,direct
+S021_Q0016,S021_F0008,"My TOEFL ITP is 530, do I go to IELP or ENGL 101?",contextual
+S021_Q0017,S021_F0009,What score do I need to place directly into ENGL 210?,direct
+S021_Q0018,S021_F0009,Can I skip ENGL 101 with an IBT score of 85?,contextual
+S021_Q0019,S021_F0010,What is the passing grade for IELP courses?,direct
+S021_Q0020,S021_F0010,Do I need 60 to pass an IELP level?,paraphrase
+S021_Q0021,S021_F0011,Can I skip an IELP level with a higher TOEFL score?,direct
+S021_Q0022,S021_F0011,"I'm in IELP 100 and scored 550 on TOEFL, where do I go next?",contextual
+S021_Q0023,S021_F0012,What is IELP 085 Elementary English?,direct
+S021_Q0024,S021_F0012,How many hours per week is IELP 085?,paraphrase
+S021_Q0025,S021_F0013,What does IELP 095 Intermediate English involve?,direct
+S021_Q0026,S021_F0013,Is IELP 095 a credit course?,paraphrase
+S021_Q0027,S021_F0014,What is IELP 100 Advanced English about?,direct
+S021_Q0028,S021_F0014,What TOEFL score is needed for IELP 100?,paraphrase

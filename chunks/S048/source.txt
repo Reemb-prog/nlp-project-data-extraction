@@ -1,0 +1,198 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S048 | Electrical engineering courses
+ORIGINAL PDF PAGES: 316 to 319 (inclusive)
+ONLY extract facts whose source page is between 316 and 319.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 316 ==========
+controlled single-phase and 3-phase rectifiers using thyristors; DC-to-AC converters;
+ DC-to-DC buck and boost converters; and applications of DIAC, TRIAC, and IGBT.
+ Co-requisite: ELEC 432.
+
+ELEC 451    Control Systems                                          3(3,0)
+ This course is to explore the modeling of linear dynamic systems via differential
+ equations  and   transfer   functions   utilizing   state-space  and   input-output
+ representations; analysis of control systems in the time and frequency domains, study
+ of the classical stability tests, such as the Routh-Hurwitz and Nyquist criteria, and
+ design methods using root-locus plots and Bode plots; and the development of control
+ techniques based on PID, lead and lag networks. Prerequisite: CCEE 331.
+
+ELEC 499   Co-op Work Experience                                  3(3,0)
+ This Co-op work experience is designed to provide students with 5 weeks of short-
+ term work in electrical engineering. Students are encouraged to network in the
+ discipline-related industries. A report, a poster, and a PowerPoint presentation are
+ required. Prerequisites: ENGL 217; Senior Standing.
+
+ELEC 533   Advanced Electric Machines and Drives                 3(3,0)
+This course focuses on the basic structure and principles of DC and AC drive systems.
+Constant flux and field weakening. Constant torque and constant hp operation. Effect
+of non-ideal waveform on motor performance. Application of Space Vector to AC
+machine analysis. Pulse Width Modulation techniques. Multi-level converters and multi-
+phase motor drives. Modern methods of motor control: Field Oriented Control, Direct
+Torque Control, etc. Methods of Sensorless Control. Prerequisite: ELEC 331 and
+ELEC 432.
+
+ELEC 534   Advanced Power Systems                               3(3,0)
+The course is designed to give students a deeper understanding of power system
+analysis by covering the following topics: Circuit models, Per-unit representation,
+Network methods, Load-flow studies, Load-flow control, and Economic dispatch.  It
+also covers the Symmetrical three-phase faults, Unsymmetrical faults, Power system
+stability, and computer methods. Prerequisite: ELEC 330.
+
+ELEC 595A BE Summative Learning Project 1                        1(1,0)
+The first phase of a team-oriented, project-based experience that culminates in the
+creation of an artifact; milestones include: project selection and proposal, a creative
+solution, a  report, a presentation, and a demonstration  of the created device.
+Prerequisite: ENGL 217.
+
+ELEC 595B BE Summative Learning Project 2                        3(3,0)
+The second phase of a team-oriented, project-based experience that culminates in the
+creation of an artifact; milestones include: project selection and proposal, a creative
+solution, a  report, a presentation, and a demonstration  of the created device.
+Prerequisite: ELEC 595A.
+
+                                                          Page 316
+
+========== ORIGINAL PDF PAGE 317 ==========
+II.  Elective Courses
+
+Students may meet their engineering technical electives requirements from the following
+selection of elective courses.
+
+ELEC 433   High Voltage Engineering                                 3(3,0)
+ This course introduces high-voltage engineering, withstand levels, S curves, insulation
+ coordination, and breakdown mechanisms. Non-destructive testing of apparatus:
+ insulation resistance, partial discharge, and HV production measurements for test
+ objects. System  over-voltages,  switching,  lightning, and  over-voltage  protection
+ devices. Prerequisite: ELEC 330.
+
+ ELEC 434    Electrical Power Distribution                             3(3,0)
+ This course covers general considerations; load characteristics; sub-transmission and
+ distribution  substations; primary and secondary  distribution; secondary network
+ systems; distribution transformers; voltage regulation and the application of capacitors;
+ voltage fluctuations; and protective device coordination. Prerequisite: ELEC 330.
+
+ ELEC 444    Electromagnetic Compatibility                            3(3,0)
+ This course  introduces  Electromagnetic  Interference, Conducted and Radiated
+ Emission, Conducted and Radiated  Susceptibility, and Product Slippage. EMC
+ standards and Regulations. EMC Theory and Materials Relating to EMC Design. EMC
+ Measurement and test facilities. Prerequisite: ELEC 210.
+
+ ELEC 498    Special Topics in Electrical Engineering                 3(3,0)
+ This course is designed to enable students to study current special topics of interest,
+ carefully selected from ELEC-related areas. The contents of such a course are to be
+ determined by the instructor and the department.
+
+ ELEC 503     Artificial Neural Systems                                  3(3,0)
+ This course focuses on the foundations of neural network theory and its application in
+ engineering, cognitive science, and artificial intelligence. The course also covers the
+ foundations of machine learning and neural processing algorithms: supervised and
+ unsupervised learning of feed-forward and recurrent neural networks, perception
+ layers, associative memories, and feature maps. Prerequisite: MATH 311
+
+ ELEC 504   Lasers and Laser Applications in Engineering           3(3,0)
+ This course is designed to give students a functional knowledge of lasers. The course
+ covers light, atoms, absorption processes, and spontaneous and stimulated emission
+ of radiation. Moreover, the types and characteristics of lasers are discussed. Laser
+ sources,  resonators, and  amplifiers are discussed.  In  addition,  applications  in
+ engineering, technology, and the biomedical field will be discussed.
+
+ ELEC 531    Electrical  Power  Systems   for   Transportation     3(3,0)
+              Applications
+ Electrical power and energy systems are at the forefront of application development in,
+ for example, electric and hybrid road vehicles, more-electric and all-electric aircraft,
+
+                                                           Page 317
+
+========== ORIGINAL PDF PAGE 318 ==========
+and traction applications. The associated hardware, technologies, and control methods
+are crucial to achieving critical global targets in energy efficiency, low-carbon, and low-
+emissions  operations. The  greatest  challenges  arise when we combine new
+technologies at a large scale and at complex system levels. This course will focus on
+power systems and control equipment for electric transportation. The course will focus
+on the equipment needed to support new forms of electric transportation, such as
+Electric cars, aircraft, and trains. Prerequisite: ELEC 432.
+
+ELEC 532    Application of Power Electronics in Power Systems       3(3,0)
+This course focuses on power electronics and its applications in power systems,
+covering the following topics: Flexible AC transmission systems (FACTS), conventional
+thyristor-controlled reactors and phase shifters, voltage source inverter (VSI)- based
+static  condenser  (STATCON),  and  unified  power  flow   controller  (UPFC).
+Prerequisites: ELEC 330; ELEC 432.
+
+ELEC 535   Renewable Energy Systems for the Built Environment     3(3,0)
+This course covers Energy and carbon emissions in the built environment, including
+data on energy consumption in Lebanon. Overview of building services – HVAC,
+Lighting, HWS, Lifts, and Small Power; data and benchmarks for energy consumption
+by end use in buildings; methods for estimating predicted energy consumption in
+buildings; time-based energy demand schedules; the importance of energy efficiency
+and the Lean-Clean-Green principle. Prerequisite: ELEC 210.
+
+ELEC 536   Renewable Energy Systems                              3(3,0)
+This course aims to provide knowledge about energy production from renewable
+sources, the structure and nature of the interconnected electric power system, and the
+critical need for environmentally sensitive solutions. In addition, the economic and
+regulatory policy aspects of electricity and electricity markets are discussed. The
+course covers the basics of Wind energy conversion systems and microgrids with
+hybrid power sources. Modeling and control of renewable energy sources such as wind
+turbine generation, solar panels, fuel cells, and power electronics interfaces will be
+presented. Prerequisite: ELEC 431.
+
+ELEC 542   Advanced Power Electronics                             3(3,0)
+This course is designed to provide students with a functional knowledge of modeling
+switching power converters, advanced power converter topologies, design constraints,
+and control methods. It also covers the operation of multi-level DC/AC inverters and
+matrix converters. Prerequisite: ELEC 432.
+
+ELEC 550   Advanced Control Systems                              3(3,0)
+This course focuses on the formulation of the linear control problem using state-space
+methods, frequency-response and time-response analysis;  it introduces students to
+advanced concepts such as  controllability,  observability, canonical forms,  state
+transition matrices, stability, nonlinear system linearization, and discrete and time-
+invariant systems. Prerequisite: ELEC 451.
+
+
+                                                          Page 318
+
+========== ORIGINAL PDF PAGE 319 ==========
+ELEC 551    Nonlinear Adaptive Control                               3(3,0)
+This course presents a comprehensive exposition of the theory of nonlinear dynamical
+systems and their control. It will focus on methods for characterizing and understanding
+the behavior of systems described by nonlinear ordinary differential equations, as well
+as methods for designing controllers for such systems. In this course, both classical
+and modern concepts from nonlinear system theory will be introduced. Prerequisite:
+ELEC 451.
+
+ELEC 560    Sustainable Energy                                      3(3,0)
+This course is designed to provide you with the methods, tools, and perspectives to
+understand, critique, and ultimately influence the management of technical, economic,
+and policy choices regarding energy generation and use. We will focus equally on the
+technical, economic, political, and environmental impacts of energy. Prerequisites:
+ELEC 431
+
+ELEC 561   Wind Energy Technology                                3(3,0)
+This course aims to provide the students with an in-depth understanding of the
+theoretical, technological, and economic aspects of wind energy systems. Upon
+successful completion of this course, students will be able to identify, assess, and
+select the types of wind turbines, estimate the power output of specific wind energy
+devices and systems, assess the structural suitability of wind towers, and evaluate the
+key aspects of onshore (urban) and offshore wind energy systems. Prerequisite:
+ELEC 210.
+
+ELEC 562    Solar Energy Technology                                 3(3,0)
+This course aims to provide students with a systematic understanding of current
+knowledge, problems, and insights in solar photovoltaic technologies; enable students
+to evaluate current research and advances  in the  field; and assess solar PV
+technologies, develop critiques, and propose solutions. Prerequisite: ELEC 210.
+
+ELEC 597   Advanced Topics in Electrical Engineering             3(3,0)
+ This course is designed to enable students to study a specific advanced topic of
+ interest in Electrical Engineering. The content outline for such a topic  is to be
+ determined by the instructor and approved by the department Chair. Prerequisite:
+ Instructor’s consent. On demand.
+
+
+
+
+
+                                                          Page 319

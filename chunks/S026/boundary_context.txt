@@ -1,0 +1,88 @@
+PREVIOUS PAGE 157 (reference only; do not make a fact for this page):
+responsive websites. The course covers HTML5, CSS3, JavaScript/jQuery, and
+responsive design. Prerequisite: COSC 214. Equivalent to CCEE 411.
+
+COSC 480   Machine Learning and Data Mining                        3(3,0)
+This course introduces students to the basic knowledge representation and learning
+techniques. The emphasis is on understanding the data mining process, applying
+appropriate approaches  to solve  practical problems, and developing  intelligent
+software applications. The course covers several topics about classification, prediction,
+and clustering. Prerequisites: COSC 214 and MATH 351 or BADM 250. Equivalent to
+CCEE 564.
+
+COSC 481    Artificial Intelligence                                        3(3,0)
+This course introduces students to the fundamentals of knowledge representation and
+learning in artificial intelligence. The emphasis will be on understanding fundamental
+concepts in  artificial intelligence and applying corresponding approaches to solve
+practical problems and develop useful software applications. Covered topics include
+Intelligent agents, informed and uninformed search strategies, and adversarial search.
+The Python language libraries  will also be introduced. Prerequisite: COSC 214.
+Equivalent to CCEE 562.
+
+COSC 482 Data Science and Web Scraping                             3(3,0)
+Data is becoming the fuel of the 21st century, and acquiring data processing and
+analysis skills is becoming necessary. This course introduces data science processes,
+with a focus on web scraping as an application. The course will combine different
+domains,  i.e., web programming, system programming, and machine learning. In
+particular, the course focuses on analyzing webpage HTML using Python, extracting
+available information, and generating dashboards. Co-requisite: COSC 333 or CCEE
+411 and MATH 351 or BADM 250.
+
+MATH 351  Probability and Statistics                                   3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215
+
+
+
+
+
+                                                                  Page 157
+
+NEXT PAGE 166 (reference only; do not make a fact for this page):
+HCIS 342  Health Information Systems II                               3(3,0)
+In this course, students explore current technologies, regulations, and standards,
+including picture archiving and communication systems (PACS); the Health Insurance
+Portability and Accountability Act (HIPAA); 21CFR Part 11; FDA General Principles of
+Software Validation; and Health Level Seven (HL7), and examine their effects on
+software development. Other topics include information technologies for storing and
+maintaining data quality, ensuring safety, enforcing security, and electronic health
+record systems. Prerequisite: HCIS 341.
+
+HCIS 343  Information Security and Privacy in Healthcare             3(3,0)
+This course introduces students to emerging issues in healthcare information security,
+privacy, and regulatory compliance. It also provides the students with a substantive
+overview and analysis of relevant information security subject matter that directly and
+materially impacts the healthcare system. Prerequisite: HCIS 341.
+
+HCIS 399  Co-op Training Experience                                  1(1,0)
+Each student must complete 8 weeks of practical training in a field related to their
+interests. This Co-op work experience is usually fulfilled during the summer semester
+of the third year in the program. Students must submit a formal report and poster and
+make a formal presentation about their Co-op experience. Prerequisites: ENGL 217;
+Senior Standing.
+
+HCIS 444  Healthcare Business Intelligence and Data Analysis       3(3,0)
+This course enables students to learn how Healthcare Analytics and Health Information
+Exchange (HIE) solutions can help uncover new growth opportunities and gain an
+advantage in the profitable healthcare technology market. Other areas covered include
+providing quality patient care while complying with government regulations, controlling
+costs, and increasing your organization’s  visibility in a crowded healthcare  field.
+Prerequisite: HCIS 341.
+
+HCIS 445  Research in Healthcare Information Systems               1(1,0)
+This course focuses on current research trends in healthcare information systems. It
+may incorporate technical seminars, advanced readings, and special projects as
+required/approved by the department. Prerequisite: Senior Standing.
+
+HCIS 490  Summative Learning Experience                            3(3,0)
+This is a graduation project directed at individual problems and research. Each student
+must complete it in their emphasis area. Prerequisite: ENGL 217.
+
+
+
+
+
+                                                                  Page 166

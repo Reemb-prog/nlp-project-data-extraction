@@ -1,0 +1,87 @@
+qa_id,fact_id,question,question_style
+S010_Q0001,S010_F0001,Who decides on academic cases not covered by RHU regulations?,direct
+S010_Q0002,S010_F0001,Who is responsible for implementing the academic regulations?,paraphrase
+S010_Q0003,S010_F0002,Can I be excused from a regulation if I didn't see the announcement on the board?,contextual
+S010_Q0004,S010_F0002,Is not knowing an academic regulation an acceptable excuse at RHU?,direct
+S010_Q0005,S010_F0003,Who must verify my petition to bypass an academic rule?,direct
+S010_Q0006,S010_F0003,Does my advisor need to check my academic petition first?,paraphrase
+S010_Q0007,S010_F0004,What is the minimum time to finish a bachelor's degree at RHU?,direct
+S010_Q0008,S010_F0004,Can I finish a Bachelor of Engineering in less than four years?,contextual
+S010_Q0009,S010_F0004,Minimum duration of a BBA?,short
+S010_Q0010,S010_F0005,What is the maximum time allowed to complete a bachelor's degree?,direct
+S010_Q0011,S010_F0005,How many regular semesters do I have at most to finish a BE?,paraphrase
+S010_Q0012,S010_F0005,Do deferment semesters count toward the maximum study period?,paraphrase
+S010_Q0013,S010_F0006,Can I get an extension if I can't finish my degree within the maximum period?,direct
+S010_Q0014,S010_F0006,Who approves a request to extend the study period beyond the limit?,paraphrase
+S010_Q0015,S010_F0007,How many credits do I need to be considered a second-year student?,direct
+S010_Q0016,S010_F0007,"I have 70 credits, what class level am I?",contextual
+S010_Q0017,S010_F0007,Credits needed for fourth-year standing?,short
+S010_Q0018,S010_F0008,What is the minimum number of credits I must take per semester?,direct
+S010_Q0019,S010_F0008,Can I take only nine credits in a semester?,contextual
+S010_Q0020,S010_F0008,Minimum semester course load at RHU?,short
+S010_Q0021,S010_F0009,What is the maximum number of credits in a regular semester?,direct
+S010_Q0022,S010_F0009,Can I take 21 credits in one semester?,paraphrase
+S010_Q0023,S010_F0009,"My CGPA is 86, how many credits can I register this fall?",contextual
+S010_Q0024,S010_F0010,How many credits can I take in the summer?,direct
+S010_Q0025,S010_F0010,When is a 10-credit summer load allowed?,paraphrase
+S010_Q0026,S010_F0010,"If my summer schedule has a one-credit lab, can I take ten credits?",contextual
+S010_Q0027,S010_F0011,What is the maximum load for a first-year student?,direct
+S010_Q0028,S010_F0011,"As a freshman, can I take 18 credits in the fall?",contextual
+S010_Q0029,S010_F0012,How many credits can IELP students take alongside English courses?,direct
+S010_Q0030,S010_F0012,"I'm in IELP 100, can I take major courses too?",contextual
+S010_Q0031,S010_F0012,Credit limit for IELP 085 students?,short
+S010_Q0032,S010_F0013,How do I change my schedule after registration?,direct
+S010_Q0033,S010_F0013,Whose approval do I need to modify my course schedule?,paraphrase
+S010_Q0034,S010_F0013,Do I need the dean's approval if dropping a course leaves me under 12 credits?,contextual
+S010_Q0035,S010_F0014,What happens if I stop attending a course but don't drop it?,direct
+S010_Q0036,S010_F0014,Am I still charged for a course I drop during drop/add?,paraphrase
+S010_Q0037,S010_F0015,Can I add a course during the drop/add period?,direct
+S010_Q0038,S010_F0015,When must I pay for a course I add late?,paraphrase
+S010_Q0039,S010_F0016,What if I missed the regular registration period?,direct
+S010_Q0040,S010_F0016,Can the late registration fee be waived?,paraphrase
+S010_Q0041,S010_F0017,Can I repeat a course I passed to improve my GPA?,direct
+S010_Q0042,S010_F0017,"If I repeat a course, which grade counts in my GPA?",paraphrase
+S010_Q0043,S010_F0017,How many times can a course be repeated at RHU?,paraphrase
+S010_Q0044,S010_F0017,"I got 68 in a course, can I retake it?",contextual
+S010_Q0045,S010_F0018,When can I take a substitute course for a required major course?,direct
+S010_Q0046,S010_F0018,I failed a required course three times. Can I substitute it?,contextual
+S010_Q0047,S010_F0018,What criteria must a substitute course meet?,paraphrase
+S010_Q0048,S010_F0019,Can an undergraduate take a graduate course at RHU?,direct
+S010_Q0049,S010_F0019,What CGPA do I need to take a graduate course instead of an undergraduate one?,paraphrase
+S010_Q0050,S010_F0020,When should I receive the course syllabus?,direct
+S010_Q0051,S010_F0020,What information must a course syllabus include?,paraphrase
+S010_Q0052,S010_F0021,What happens if my absences reach 15 percent?,direct
+S010_Q0053,S010_F0021,What is the attendance limit for courses at RHU?,paraphrase
+S010_Q0054,S010_F0021,"I've missed a lot of classes, will I be forced to withdraw?",contextual
+S010_Q0055,S010_F0022,How many absences are allowed for students on official university teams?,direct
+S010_Q0056,S010_F0022,"I represent Lebanon in a competition, is my absence limit higher?",contextual
+S010_Q0057,S010_F0023,What should I do if I'm absent because of illness?,direct
+S010_Q0058,S010_F0023,Are excused absences still counted toward the limit?,paraphrase
+S010_Q0059,S010_F0024,Will I know my midterm performance before the withdrawal deadline?,direct
+S010_Q0060,S010_F0024,Is there an exam before the last day to withdraw?,paraphrase
+S010_Q0061,S010_F0025,How soon should graded exams be returned to students?,direct
+S010_Q0062,S010_F0025,When will the instructor give back my corrected exam?,paraphrase
+S010_Q0063,S010_F0026,What if I have three final exams on the same day?,direct
+S010_Q0064,S010_F0026,Can I sit my final exams if I owe money to the university?,paraphrase
+S010_Q0065,S010_F0027,What happens if I miss a final exam?,direct
+S010_Q0066,S010_F0027,I was hospitalized during my final exam. What can I do?,contextual
+S010_Q0067,S010_F0027,When must I take the make-up for a missed final?,paraphrase
+S010_Q0068,S010_F0028,Can I get a make-up exam if I miss a quiz?,direct
+S010_Q0069,S010_F0028,What happens if I miss a midterm with a valid excuse?,paraphrase
+S010_Q0070,S010_F0029,What is the maximum weight of the final exam in a course grade?,direct
+S010_Q0071,S010_F0029,Can a final exam be worth 50% of the grade?,paraphrase
+S010_Q0072,S010_F0030,How long do instructors have to submit final grades?,direct
+S010_Q0073,S010_F0030,What is the process for submitting final course grades?,paraphrase
+S010_Q0074,S010_F0031,How do I appeal a course grade?,direct
+S010_Q0075,S010_F0031,What is the deadline to submit a grade review petition?,paraphrase
+S010_Q0076,S010_F0031,"I think my grade was unfair, who should I talk to first?",contextual
+S010_Q0077,S010_F0032,How do I request an incomplete grade?,direct
+S010_Q0078,S010_F0032,What is a Request for Time Extension Form for?,paraphrase
+S010_Q0079,S010_F0032,What grade do I get if I don't finish incomplete work?,contextual
+S010_Q0080,S010_F0033,When must an incomplete grade be removed?,direct
+S010_Q0081,S010_F0033,Can I graduate with an incomplete on my record?,paraphrase
+S010_Q0082,S010_F0034,Can a course grade be changed after it's submitted?,direct
+S010_Q0083,S010_F0034,Can my grade be changed after I graduate?,paraphrase
+S010_Q0084,S010_F0035,How is the semester GPA calculated?,direct
+S010_Q0085,S010_F0035,Do W grades count in GPA calculation?,paraphrase
+S010_Q0086,S010_F0035,What are quality points in the GPA formula?,paraphrase

@@ -1,0 +1,236 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S045 | Civil engineering courses
+ORIGINAL PDF PAGES: 296 to 300 (inclusive)
+ONLY extract facts whose source page is between 296 and 300.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 296 ==========
+CIVE 536     Hydrology                                               3(3,0)
+ Measurement and  analysis  of  precipitation  data;  flood  analysis; methods  for
+ estimating evaporation and transpiration; streamflow measurement; groundwater
+ hydrology;   groundwater   reservoirs;   groundwater   discharge;   rainfall-runoff
+  relationship; statistical analysis in hydrology. Prerequisite: CIVE 435. Annually.
+
+ CIVE 538     Water and Wastewater Treatment                       3(3,0)
+ Quality and control tests for water and wastewater, design principles of water and
+ wastewater treatment plants, and physical, chemical, and biological operational
+ processes. Prerequisite: CIVE 432, CIVE 435. Annually.
+
+ CIVE 595A   BE Summative Learning Project 1                      1(1,0)
+ Team-oriented  project  that  includes  conducting and  formulating  experimental
+ laboratory work and/or design problems on a specific, approved specialty topic. The
+ project includes a  literature review, a scope of work, and a project proposal.
+ Prerequisites: Senior Standing, ENGL 217. Annually.
+
+ CIVE 595B   BE Summative Learning Project 2                      3(3,0)
+ Team-oriented  project  that  includes  conducting and  formulating  experimental
+ laboratory work and/or design problems on a specific, approved specialty topic. The
+ project includes literature review, design work, data collection, experimentation, data
+ analysis, and technical writing. Prerequisite: CIVE 595A. Annually.
+
+II.  Elective Courses
+
+Students may satisfy their technical elective requirements by selecting from the following
+courses.
+
+1.  Common Courses and Construction Management Sequence
+
+ CIVE 502     Engineering Risk Analysis                              3(3,0)
+ Elements of set theory, basic elements of probability theory, random variables,
+ multiple random variables, functions  of random variables,  probabilistic models,
+  statistical inference, and formulation of the reliability problem. Prerequisite: MATH
+ 351.
+
+ CIVE 503     Computer Methods in Civil Engineering                3(3,0)
+ Using the computer for analysis, design, and decision making in civil engineering.
+ Conversion of CAD or REVIT elements to structural elements. Shop drawings. Value
+ engineering. Applications. Prerequisite: Senior Standing.
+
+ CIVE 504      Infrastructure Asset Management                      3(3,0)
+ Problems of infrastructure, asset management principles, methods of inspection and
+ monitoring of civil infrastructures, risk assessment, asset condition information and
+ data, and the replace/maintain decision. Prerequisite: Senior Standing.
+
+
+
+                                                           Page 296
+
+========== ORIGINAL PDF PAGE 297 ==========
+CIVE 506  LEED and Green Construction Principles in Construction   3(3,0)
+           Management
+ Green construction methods and benefits of applying the Leadership in Energy and
+ Environmental Design (LEED) principles. Prerequisite: Senior Standing.
+
+ CIVE 597     Topics in Civil Engineering                             3(3,0)
+ This course covers topics of special interest in Civil Engineering. These topics may
+ vary each time the course is offered, and the course content will be available with
+ each course offering. May be repeated for credit as topics vary. Prerequisite:
+ Consent of Advisor.
+
+2.  Structural Analysis & Design Sequence
+
+ CIVE 510      Finite Elements Analysis                                3(3,0)
+ Theory of the finite element method; spring, truss, and beam elements; constant-
+  strain elements; plane-stress or plane-strain for axisymmetric problems; plates and
+  shells; introduction to nonlinear material analysis; introduction to structural dynamic
+ analysis; applications. Prerequisite: CIVE 312. On demand.
+
+ CIVE 511      Structural Dynamics                                    3(3,0)
+ Dynamic response of single- and multi-degree-of-freedom systems; modal analysis
+ of lumped and continuous mass systems; natural frequencies and mode shapes;
+ deterministic time-domain approach and design response spectra; seismic response
+ of structures; peak response; seismic design principles. Prerequisite: CIVE 312. On
+ demand.
+
+ CIVE 512    Advanced Structural Analysis                          3(3,0)
+  Flexibility and Stiffness Matrix Methods for Analysis of Indeterminate Trusses, Beams,
+ and Frames. Grid beams and structures on elastic supports. Composite Structural
+ Systems. Influence lines for indeterminate structures using the concepts of virtual
+ work and moment distribution methods – Qualitative and Quantitative approaches.
+ Prerequisite: CIVE 507. On demand.
+
+ CIVE 514     Earthquake Engineering                                3(3,0)
+ Earthquake causes and measures; earthquake faults and waves; plate tectonics;
+  structural dynamics of single- and multi-degree-of-freedom systems; seismic hazard
+ evaluation in engineering practice; response analysis of structures. Equivalent static
+  lateral force method, lateral load-resisting systems, architectural considerations for
+ earthquakes, and mitigation of earthquake forces. Prerequisite: CIVE 312. On
+ demand.
+
+ CIVE 515      Prestressed Concrete                                  3(3,0)
+ Definitions and Methods of prestressing. Materials and their properties. Discussion of
+ losses in prestressing. Elastic behavior of stress distribution under different load
+ stages—analysis and design of homogeneous sections. Shear cracking load. Behavior
+
+
+                                                           Page 297
+
+========== ORIGINAL PDF PAGE 298 ==========
+of beam. Load Balancing Procedures. Deflection. Stresses resulting from shrinkage
+ and creep. Partial prestressing. Prerequisite: CIVE 314. On demand.
+
+ CIVE 519      Tall Building Structures                                 3(3,0)
+ Loadings; structural systems and analysis modeling; braced frames; rigid frame
+ structures; stability of high-rise buildings; dynamic response; shear wall structures;
+ coupled shear wall structures; wall-frames; dual structural systems. Prerequisite:
+ CIVE 413. On demand.
+
+3.  Construction Material and Geotechnics Sequence
+
+ CIVE 521     Special Concretes                                       3(3,0)
+ Design and characteristics  of lightweight concrete, heavyweight concrete,  self-
+ consolidating concrete, fiber-reinforced concrete, mass concrete; concrete in hot
+ weather,  concrete  in  cold  weather,  high-strength  concrete,  high-performance
+ concrete,  roller-compacted  concrete,  and  shrinkage-compensating  concrete.
+ Prerequisite: CIVE 321. On demand.
+
+ CIVE 522      Durability of Construction Materials                    3(3,0)
+ Definition and importance of durability; properties of main building materials (concrete,
+ ferrous and non-ferrous metals, wood, building stones, clay bricks, gypsum, lime,
+  plastics); factors affecting durability; mechanisms of decay; precautions to increase
+  durability; selection of durable material; durability tests; economic aspects and impact
+ of durability. Prerequisite: CIVE 321. On demand.
+
+ CIVE 523     Repair of Concrete Structures                          3(3,0)
+ Conventional methods of investigation; nondestructive methods; structural health
+ monitoring; corrosion risk evaluation; protection of reinforcing steel against corrosion;
+ instrumentation techniques; repair materials and techniques; removal and preparation
+ of concrete for repair; crack repair; concrete patching; structural strengthening; case
+ studies. Prerequisite: CIVE 321. On demand.
+
+ CIVE 524  Nondestructive Evaluation & Instrumentation of        3(3,0)
+             Infrastructure
+ Overview of the different types of civil infrastructure, their problems and durability, use
+ of nondestructive evaluation methods to assess their actual conditions, basic NDE
+ methods, sonic and ultrasonic methods, ground penetrating radar (GPR), infrared
+ thermography,  electrical  resistivity,  radioactive and  nuclear methods,  sensing
+ technologies, different instruments/sensors and their use, wireless technology, and
+  structural  health  monitoring.  Case  studies  and  laboratory  demonstrations.
+ Prerequisite: CIVE 321. On demand.
+
+ CIVE 525     Concrete Technology                                   3(3,0)
+ Cement and supplementary cementitious materials, mechanical behavior of concrete,
+ properties and applications of various specialized concretes, hot weather concreting,
+ cold  weather  concreting,  chemical  admixtures,  concrete  mix  proportioning,
+ deterioration mechanisms, environmental and physical causes of degradation, alkali-
+                                                           Page 298
+
+========== ORIGINAL PDF PAGE 299 ==========
+aggregate reaction, carbonation, chloride attack, sulfate attack, acid and seawater
+ attack, freeze-thaw cycle. Prerequisite: CIVE 321. Annually.
+
+ CIVE 526     Admixtures for Concrete                               3(3,0)
+ Definition and  classification  of concrete admixtures; precautions  in  their use;
+ chemical, mineral, and miscellaneous admixtures; types and properties of admixtures;
+ standard specifications; classification and purpose of use; beneficial and detrimental
+ effects on the properties of fresh and hardened concrete; mechanisms of action;
+ advantages and disadvantages. Prerequisite: CIVE 321. On demand.
+
+ CIVE 527     Seepage and Dams                                     3(3,0)
+ Measurement of hydraulic conductivity (permeability), analysis of seepage using
+  analytical  solutions,  graphical  procedures, and  numerical methods;  control  of
+ seepage; wells, filters, and drains; types of dams; performance of earth and earth-
+ rock dams. Prerequisite: CIVE 424; Co-requisite: CIVE 536. On demand.
+
+ CIVE 528     Earth Retaining Structures                             3(3,0)
+ Types  of  earth-retaining systems; earth pressure  theory; design  of  externally
+ stabilized  walls;  design  of  internally  stabilized  walls;  reinforcing  elements;
+ fundamentals of soil-reinforcement interaction. Prerequisite: CIVE 424, CIVE 314.
+ On demand.
+
+ CIVE 529    Advanced Foundation Engineering                     3(3,0)
+ Lateral earth pressure, retaining walls, sheet-pile walls, anchors, braced cuts, drilled-
+ shaft foundations, foundations on collapsible soils, foundations on expansive soils,
+ foundations on  rock,  soil improvement methods. Prerequisite: CIVE 424. On
+ demand.
+
+4.  Water and Environmental Engineering Sequence
+
+ CIVE 571     Water Quality                                           3(3,0)
+ Water quality parameters; sources of drinking water; drinking water problems and
+  their impact on human life; drinking water treatment methods; common operations in
+ water treatment plants; design of distribution systems; assessment and monitoring of
+ water quality. Prerequisite: CIVE 432. On demand.
+
+ CIVE 573     Solid Waste Management                               3(3,0)
+ Study of the types and sources of non-hazardous municipal solid waste; estimation of
+ waste quantities and storage volumes; identification of collection, transfer, treatment,
+ and disposal alternatives; preliminary design of landfills; solid waste management
+ principles and processes; and pollution control management. Prerequisite: CIVE
+ 432. On demand.
+
+ CIVE 575     Water Supply & Wastewater Systems                  3(3,0)
+  Identification and evaluation of water supply solutions; design of water distribution
+ networks;  pumping;  population  forecasting  and  requirements;  collecting and
+
+                                                           Page 299
+
+========== ORIGINAL PDF PAGE 300 ==========
+disposing of stormwater and sewage; design of storm and sewage systems; excess
+ stormwater management; environmental risk and protection measures. Prerequisite:
+ CIVE 435. On demand.
+
+ CIVE 576     Hydraulic Structures                                    3(3,0)
+ Hydraulic aspects of the theory and design of hydraulic structures; types of dams and
+  their  functions;  stability  analysis  of  gravity dams;  culverts,  navigation  canals,
+ reservoirs, and port  facilities; and control structures such as gates and weirs.
+ Prerequisite: CIVE 435 and CIVE 536. On demand.
+
+5.  Public Works Sequence
+
+ CIVE 540     GIS for Civil Engineering                               3(3,0)
+ Review of basic cartographic principles and the use of geographic information
+ systems for thematic mapping, spatial analysis, and application in the water resources
+ sector. The laboratory emphasizes experience with GIS software. Prerequisite:
+ Senior Standing. On demand.
+
+ CIVE 541     Pavement Design                                       3(3,0)
+ Analysis and design of flexible and rigid pavements; pavement type selection; loading;
+  failure criteria and reliability; mechanistic pavement design; design exercises using
+ existing methods. Prerequisite: CIVE 423. On demand.
+
+
+
+
+
+                                                           Page 300

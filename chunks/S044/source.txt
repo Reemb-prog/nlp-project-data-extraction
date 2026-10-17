@@ -1,0 +1,353 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S044 | Civil engineering courses
+ORIGINAL PDF PAGES: 289 to 295 (inclusive)
+ONLY extract facts whose source page is between 289 and 295.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 289 ==========
+Social  Science/  Humanities/Fine  Arts 3
+               Elective
+* BS bound students are required to take CIVE400 - Summative Learning (BS) Project
+instead.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+6 credit restricted Departmental Electives
+9 credits from any Engineering discipline at the 400 level or above.
+
+Course Coding
+
+Code numbers designate the courses offered in the Civil Engineering program in the
+form of (CIVE abc), where:
+
+  a     Year (level): 2 = first year, 3 = second Year, 4 = Third year, 5 = Fourth Year
+  b     Concentration Areas (as follows)
+         0: Common Courses and Construction Management; 1: Structural Analysis
+       and Design; 2: Construction Materials and Geotechnics; 4: Public Works; 7:
+       Water Resources and Treatment;
+  c     Course sequence in area: 0, 1, …, 9
+
+Courses Description
+
+I.   Mandatory Courses
+
+Non-Major Courses
+
+A description of the non-major mandatory courses follows.
+
+CHEM 211    Environmental Chemistry and Lab                       3(2,2)
+ This course provides an opportunity to develop an understanding of several basic
+ environmental functions, the complicated nature of environmental systems, and the
+ need for multidisciplinary solutions to environmental problems. Topics covered include
+ the hydrosphere, water quantity and quality, soil and the soil ecosystem, biological
+ resources, waste disposal, air pollution, ozone depletion, acid rain, and global warming.
+ The course also includes a set of experiments that provide students with practical
+ experience in various environmental analysis settings, including air and water quality.
+
+COSC 214    Introduction to Programming                            3(2,2)
+ This course presents the fundamentals of structured and modular programming
+ concepts. It covers primitive data types, expressions, control statements, functions,
+ arrays,  basic search and  sorting  algorithms, and an  introduction  to  pointers.
+ Prerequisite: None. Equivalent to CCEE 214.
+
+ ELEC 210     Electrical Circuits                                        3(3,0)
+  Circuit elements and laws; mesh and node equations; network theorems; energy-
+ storage elements; RC, RL, and RLC circuits; Laplace Transform; sinusoids, phasors,
+                                                           Page 289
+
+========== ORIGINAL PDF PAGE 290 ==========
+and an  introduction  to network  theory.  Sinusoidal (AC)  steady-state, mutual
+ inductance, transformers, and an introduction to three-phase circuits. Prerequisite:
+PHYS 191 or Equivalent
+
+ENGL 210    English Composition and Rhetoric                      3(3,0)
+This course reviews the fundamentals of good academic writing in English, teaches
+essay writing essentials and research skills in two rhetorical modes (persuasion and
+argumentation), and provides practice in writing essays in these modes, research
+papers, and oral presentations. Prerequisite: ENGL 101 or TOEFL 550+ (paper) or
+80+ (computer).
+
+ENGL 217    Professional English Communication                   3(3,0)
+This required course  is designed to help students develop effective professional
+communication skills, both orally and in writing. In this course, students learn how to
+write emails, memos, letters, proposals, reports, and other forms of employment
+correspondence. In addition, this course helps students sharpen their presentation
+skills. Broadly, this course enables students to behave professionally and effectively in
+their prospective jobs. Prerequisite: ENGL 210.
+
+ENGR 300    Engineering Economics and Management              3(3,0)
+ Concepts and techniques in basic Engineering economy principles and applications.
+ Interest and financial mathematics: present worth, annual worth, benefit/cost ratio,
+ internal rate of return, multiple alternatives, income tax, inflation, Risk analysis,
+ Investment and investment choice, equivalence, loans, cost of capital, retirement and
+ replacement, sector analysis and viewpoint, sensitivity analysis, accounting, and
+ financial statements. Prerequisite: None. Annually.
+
+ENGR 510    Engineering Project Management                        3(3,0)
+The course covers key components of engineering project management, including
+projects election and planning, project time management, cost estimation and pricing,
+contract and specifications, quality management, engineering ethics and professional
+conduct, realizing the impact of engineering solutions in various contexts (global,
+economic, environmental, societal, etc...), sustainability in engineering designs, human
+resources  consideration,  communications,  risk management, and  procurement
+management. Prerequisite: ENGR 300.
+
+MATH 215    Calculus III                                                3(3,0)
+This course covers complex numbers, trigonometric functions, inverse trigonometric
+functions, hyperbolic functions, and integration techniques. The course also covers
+infinite sequences and series: limits of sequences of numbers, bounded sequences,
+integral test for series, comparison tests, ratio and root tests, alternating series,
+absolute and conditional convergence, power series, Taylor and MacLaurin series, and
+applications of power series. Polar functions, polar coordinates, and graphing of polar
+curves are also covered. In addition, topics from multivariable calculus are introduced:
+double integrals, applications to double integrals, and double integrals in polar form.
+
+                                                          Page 290
+
+========== ORIGINAL PDF PAGE 291 ==========
+MATH 216    Calculus IV                                               3(3,0)
+Multivariable calculus and vector analysis for three-dimensional problems. Topics
+include 3-D vectors, dot and cross products; quadratic surfaces; limits, continuity, and
+partial derivatives; gradient, chain rule, and directional derivatives; tangent planes,
+differentials, extrema, and saddle points; triple integrals in rectangular, cylindrical, and
+spherical coordinates with applications to mass and moments; vector fields, work, flux,
+and Green’s Theorem; and an introduction to Fourier series. Prerequisite: MATH 215.
+
+MATH 311    Linear Algebra with Applications                        3(3,0)
+Systems of linear equations, matrix algebra, linear transformations, determinants,
+vector spaces, eigenvalues and eigenvectors, symmetric matrices, orthogonality,
+diagonalization.
+
+MATH 314    Ordinary Differential Equations                          3(3,0)
+First-order linear differential equations; linear differential equations of second and
+higher order; linear differential equations with variable coefficients; series solutions;
+systems of differential equations; Laplace transforms and their inverses. Prerequisite:
+MATH 216.
+
+MATH 351     Probability and Statistics                                 3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215
+
+MATH 421    Numerical Analysis                                       3(3,0)
+Error Analysis, solutions of nonlinear equations using fixed-point, Newton-Raphson-
+Muller’s methods, solution of linear systems using Gaussian elimination-iterative
+methods,   interpolation  and   approximation   using   Taylor   series-Lagrange
+approximation-Newton  polynomials,  numerical   differentiation  and   integration,
+numerical optimization, solutions of ordinary and partial differential equations using
+Euler’s and Heun’s and Rung-Kutta methods, MATLAB codes related to the above-
+mentioned topics. Prerequisite: MATH 311.
+
+MECH 220    Dynamics                                                3(3,0)
+Brief review of statics; proper use of different coordinate systems: Cartesian and
+normal/tangential axes; kinematics of a particle: rectilinear, curvilinear, and relative
+motion; kinetics of a particle: force and acceleration, work and energy, impulse and
+momentum; planar kinematics of a rigid body: translating and rotating axes, absolute
+and relative motion; planar kinetics of a rigid body: force and acceleration, work and
+energy, impulse and momentum. Prerequisite: CIVE 211. Annually.
+
+MECH 320    Mechanics of Materials                                  3(3,0)
+Mechanical stress, strain, and stress/strain relations under pure tension, compression,
+pure bending, and pure torsion of circular bars; 1-D thermal strain & stress; combined
+
+                                                          Page 291
+
+========== ORIGINAL PDF PAGE 292 ==========
+stresses; principal stresses; plane stress transformation & Mohr’s circle; basic 3-D
+ elastic stress/strain relations; Euler-elastic buckling of columns. Prerequisite: CIVE
+ 211. Annually.
+
+MECH 333    Thermal Fluid Sciences                                  3(3,0)
+ This course seeks  to  impart  fundamental concepts  of  thermal-fluid  (including
+ thermodynamics, fluid mechanics, and heat transfer) to non-mechanical engineering
+ students. These cover: thermodynamic state and properties of pure substances;
+ concepts of work and heat; energy analysis of closed systems (First Law) and simple
+ flow devices; fluid statics; Bernoulli’s equation; Conservation of mass, momentum &
+ energy; viscous flow in pipes; introduction to conduction, convection, and radiation heat
+ transfer. Prerequisite: MATH 216. Annually.
+
+ PHYS 210    Fundamentals of Physics and Lab                      3(3,1)
+ Welcome to the Introductory Physics course. This course consists of: Review of
+ Classical Mechanics; Fluid Mechanics; General Properties of Waves; Electric Forces;
+  Electric Fields for Discrete and Continuous Charge Distributions; Gauss’s Law;
+  Electric Potential; Kirchhoff’s Rules; Magnetic Fields and Forces; and Qualitative
+ Discussion of Maxwell’s Equations. Prerequisite: None.
+
+Major Courses
+
+A description of the civil engineering mandatory courses follows.
+
+ CIVE 200      Introduction to Civil Engineering                       2(2,0)
+ A broad introductory course that exposes students to the history and heritage of civil
+ engineering; specialized sub-disciplines  (Structural, Transportation, Construction
+ Materials,  Geotechnical,  Environmental);  challenges  of  the   civil  engineering
+ profession; professionalism, professional registration, and societies; and Codes and
+ Standards. This course also introduces students to the business aspects of the civil
+ engineering  profession,  including  construction management  and  engineering
+ economics.
+
+ CIVE 202      Civil and Architectural Drawings                       3(2,2)
+ Essential engineering drawing concepts for civil and architectural applications, along
+ with computer drafting skills in 2D and 3D, are taught and applied to produce floor
+ plans, sections, elevations, and reinforcement  detailing  for reinforced concrete
+ elements. Emphasis is directed at teaching students proper placement of symbols,
+ annotation, and scheduling information required for site construction. Prerequisite:
+ None. Annually.
+
+ CIVE 211      Statics                                                   3(3,0)
+ Static laws; force vectors and operations; force systems and moments; free-body
+ diagrams; equilibrium of particles and rigid bodies in 2D and 3D; plane trusses and
+ frames; cables; internal forces: shear and moment diagrams; centroid and center of
+ mass; moment of inertia; and friction. Prerequisite: None. Annually.
+
+                                                           Page 292
+
+========== ORIGINAL PDF PAGE 293 ==========
+CIVE 240     Surveying                                                3(2,2)
+Surveying  fundamentals;  theory  of  errors  in  observations;  leveling;  distance
+measurement; angles, azimuths, and bearings; traversing; topographic surveys and
+maps. The course also has a field component in which students work in groups to
+conduct surveys on the topics covered and write technical reports.  Prerequisite:
+None. Annually.
+
+CIVE 312      Structural Analysis I                                     3(3,0)
+Shear and bending moment diagrams  for  frames,  equilibrium,  stability, and
+determinacy; influence lines for determinate structures; Elastic deformation of beams,
+frames, and trusses; introduction to indeterminate structures. Prerequisite: MECH
+320. Annually.
+
+CIVE 314     Concrete I                                               3(3,0)
+Behavior  of  reinforced concrete  structural elements; concepts  of design and
+proportioning sections for strength and serviceability; theory of flexure and shear;
+analysis and design of beams for flexure and shear; analysis for crack width and
+deflection; design philosophies and process; design of one way solid and joist slabs;
+bond theory; development, anchorage and splicing of reinforcement; bars cut-off;
+continuous beams and one-way slabs. Prerequisite: MECH 320. Annually.
+
+CIVE 321     Construction Materials                                  3(3,0)
+Properties and tests of materials used in the construction of civil structures, such as
+aggregate, cement, mixing water, admixtures, steel, masonry, Portland cement
+concrete, asphalt concrete, and timber; laboratory and field measurement techniques
+to assess material properties and performance; emphasis on fresh and hardened
+concrete, types of concrete and applications, and concrete mix design. Annually.
+
+
+CIVE 321L    Construction Materials Laboratory                     1(0,2)
+Los Angeles abrasion  test; specific gravity and absorption of coarse and  fine
+aggregates and soils; moisture content; bulk unit weight and voids in aggregates and
+soils;  sieve  analysis;  concrete mix  design;  mixing  concrete and slump  test;
+compressive strength of concrete; absorption, moisture content and density of
+concrete masonry  units. Report writing and data analysis. Co-req: CIVE 321.
+Annually.
+
+CIVE 341     Highway Engineering                                   3(3,0)
+Introduction to highway engineering standards; types and classifications of roads;
+characteristics of the driver, the pedestrian, the vehicle, and the road; highway
+location and survey methods; earthwork, geometric design of highway components:
+vertical and horizontal alignment, transition curves, superelevations and intersections,
+highway materials and evaluations, construction techniques and plants, quality control
+and testing, visual assessment, and maintenance. Prerequisite: CIVE 240. Annually.
+
+
+
+                                                          Page 293
+
+========== ORIGINAL PDF PAGE 294 ==========
+CIVE 342      Traffic Engineering                                      3(3,0)
+Social and economic impact  of  traffic engineering on  society; basis  of  traffic
+engineering; transportation planning; traffic flow theory; traffic studies and analysis;
+travel demand modeling and forecasting; queuing theory; capacity analysis; level of
+service; traffic control and analysis at signalized intersections. Prerequisite: CIVE
+341. Annually.
+
+CIVE 400     Summative Learning (BS) Project                      3(3,0)
+Team-oriented, project-based experience in which students work on a meaningful
+problem of concern to industry or the community at large, or to develop a promising
+idea. The project involves whatever is needed to achieve the intended outcome:
+literature review, design work, data collection, experimentation, data analysis, report
+writing, and presentation. Prerequisite: ENGL 217 and Senior Standing. Annually.
+
+CIVE 413     Computer Modeling of Structures                      3(3,0)
+Principles of structural modeling of different types of structural elements: trusses,
+beams, columns, and frames; modeling the structural behavior of buildings under the
+effect of vertical and lateral loads; computational applications using structural analysis
+software; case studies and projects. Prerequisite: CIVE 312. Annually.
+
+CIVE 415     Concrete II                                               3(3,0)
+Short columns, slender columns, uniaxially and biaxially bent columns; two-way slab
+behavior, analysis, and design; retaining walls; wall footings, concentrically and
+eccentrically loaded single column footings, and combined footings; staircases.
+Prerequisite: CIVE 312 and CIVE 314. Annually.
+
+CIVE 417      Steel Structures                                         3(3,0)
+Structural steel properties, loads, design methods, analysis, and design of members
+and connections in steel structures: tension, compression, and flexure members.
+Prerequisite: CIVE 312. Annually.
+
+CIVE 423      Soil Mechanics                                          3(3,0)
+Soil  classification;  origin  of  soil and  grain  size;  soil  structure, weight-volume
+relationships; plasticity and structure of soil; soil compaction; permeability; seepage,
+stresses in a soil mass; compressibility of soil and consolidation; shear strength of
+soil. Prerequisites: MECH 320 and GEOL 221. Annually.
+
+CIVE 423L     Soil Mechanics Laboratory                              1(0,2)
+Experimental testing of soil: Sieve Analysis, Atterberg Limits, Proctor test; sand cone
+field density measurement, consolidation, and direct shear test; report writing, and
+data analysis. Co-requisite: CIVE 423. Annually.
+
+CIVE 424     Foundation Engineering                                3(3,0)
+Geotechnical site investigation; field and laboratory tests; characterization of strata;
+foundation systems; ultimate bearing capacity and settlement of shallow foundations
+(spread footings, strip footings, combined footings, and mat); effect of water table level
+
+                                                          Page 294
+
+========== ORIGINAL PDF PAGE 295 ==========
+on bearing capacity; structural design of mat foundations; ultimate bearing capacity
+and settlement of deep foundations (single pile and group of piles); pile load test.
+Prerequisite: CIVE 423. Annually.
+
+CIVE 432     Environmental Engineering                             3(3,0)
+Chemical and biological processes related to environmental science and engineering,
+materials and energy balances; environmental systems analysis with application to
+air,  water, and  soil;  hydrology;  water  treatment;  water  quality management;
+wastewater treatment; air pollution; noise pollution; solid waste management; analysis
+of environmental problems and development of engineering solutions. Prerequisite:
+CHEM 211. Annually.
+
+CIVE 435     Hydraulics                                               3(3,0)
+Engineering approaches to the measurement, control, and conveyance of water flows,
+with particular emphasis on the analysis, design, characteristics, and selection of
+hydraulic models, as  well as  the design  of water and wastewater systems.
+Prerequisite: MECH 333. Annually.
+
+CIVE 499     Co-op Work Experience                                 3(3, 0)
+This Co-op work experience is designed to provide students with an eight-week short-
+term opportunity in Civil and Environmental Engineering. Students will be aligned with
+discipline-related industries, institutions of higher learning, or government agencies.
+Prerequisites: ENGL 217; Senior Standing.
+
+CIVE 501     Construction Planning and Management               3(3,0)
+Fundamental elements of management of  civil engineering projects; roles of  all
+participants in the process: owners, designers, contractors, and suppliers; emphasis
+on contractual aspect, project estimate, planning and control of construction projects;
+management   functions,  network  techniques  (CPM),  resource  scheduling,
+construction financing, and cost/schedule relationship. Prerequisite: Senior standing.
+Annually.
+
+CIVE 507      Structural Analysis II                                    3(3,0)
+Statically indeterminate structures, force method (beams, trusses, and frames).
+Cable-supported indeterminate  structures. Temperature and settlement  effects.
+Displacement methods: slope-deflection equations and moment distribution (beams
+and rigid frames). Qualitative influence lines for statically indeterminate beams.
+Prerequisite: CIVE 312. Annually.
+
+CIVE 508      AI Applications in Civil Engineering                       3(3,0)
+This course introduces students to the fundamentals of Artificial Intelligence (AI) and
+its  practical  applications  in  civil  engineering. The course  includes hands-on
+programming, case studies from real-world civil projects, and AI-enhanced tools to
+empower  students  with  the  skills  to  lead  data- and  AI-driven  innovation  in
+infrastructure and construction. Prerequisite: CCEE 214. Annually.
+
+
+                                                          Page 295

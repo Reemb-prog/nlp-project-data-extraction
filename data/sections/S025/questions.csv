@@ -1,0 +1,54 @@
+qa_id,fact_id,question,question_style
+S025_Q0001,S025_F0001,What is the purpose of the Computer Science minor?,direct
+S025_Q0002,S025_F0001,What skills will I gain from a CS minor?,paraphrase
+S025_Q0003,S025_F0002,Who can take the Computer Science minor?,direct
+S025_Q0004,S025_F0002,"I'm a Business IT Management student, can I minor in computer science?",contextual
+S025_Q0005,S025_F0003,What GPA do I need to keep in the CS minor?,direct
+S025_Q0006,S025_F0003,How many CS minor credits must be separate from my major?,paraphrase
+S025_Q0007,S025_F0004,What careers can a computer science minor lead to?,direct
+S025_Q0008,S025_F0004,Can a CS minor help me get a web development job?,contextual
+S025_Q0009,S025_F0005,What courses make up the Computer Science minor?,direct
+S025_Q0010,S025_F0005,How many credits is the CS minor and which courses are mandatory?,paraphrase
+S025_Q0011,S025_F0005,Can I take Artificial Intelligence as a CS minor elective?,contextual
+S025_Q0012,S025_F0006,What is the Data Analytics minor about?,direct
+S025_Q0013,S025_F0006,Which industries can I work in with a data analytics minor?,paraphrase
+S025_Q0014,S025_F0007,Who is eligible for the Data Analytics minor?,direct
+S025_Q0015,S025_F0007,Can CCE students take the data analytics minor?,contextual
+S025_Q0016,S025_F0008,What are the requirements to complete the Data Analytics minor?,direct
+S025_Q0017,S025_F0008,Whose approval do I need to declare a data analytics minor?,paraphrase
+S025_Q0018,S025_F0009,What jobs can I get with a data analytics minor?,direct
+S025_Q0019,S025_F0009,Could a DA minor lead to a data engineer role?,paraphrase
+S025_Q0020,S025_F0010,What are the mandatory courses in the Data Analytics minor?,direct
+S025_Q0021,S025_F0010,Can I take MATH 351 instead of BADM 250 in the DA minor?,contextual
+S025_Q0022,S025_F0011,Which electives can I choose for the data analytics minor?,direct
+S025_Q0023,S025_F0011,"As a business student, can I count Web Programming toward the DA minor?",contextual
+S025_Q0024,S025_F0012,What does BADM 250 cover according to the data analytics minor?,direct
+S025_Q0025,S025_F0012,Does Business Statistics include factor analysis and multiple regression?,paraphrase
+S025_Q0026,S025_F0013,What is BITM 350 Fundamentals of Data Analytics about?,direct
+S025_Q0027,S025_F0013,Which course teaches predictive models for large datasets?,paraphrase
+S025_Q0028,S025_F0014,What is the prerequisite for BITM 350?,direct
+S025_Q0029,S025_F0014,Can I take Fundamentals of Data Analytics after MATH 351?,contextual
+S025_Q0030,S025_F0015,What does BITM 415 Business Intelligence cover?,direct
+S025_Q0031,S025_F0015,Is there a course on BI dashboards and visual analytics?,paraphrase
+S025_Q0032,S025_F0016,What are the prerequisites for BITM 415?,direct
+S025_Q0033,S025_F0016,Can a junior take Business Intelligence?,contextual
+S025_Q0034,S025_F0017,What is BMKA 420 Digital and Social Media Marketing?,direct
+S025_Q0035,S025_F0017,Is there a course on SEO and social media marketing?,paraphrase
+S025_Q0036,S025_F0018,What does CCEE 516 cover?,direct
+S025_Q0037,S025_F0018,Which course teaches NoSQL and MapReduce?,paraphrase
+S025_Q0038,S025_F0019,What is CCEE 561 Computer Vision about?,direct
+S025_Q0039,S025_F0019,Is there a course on stereo vision and robot vision?,paraphrase
+S025_Q0040,S025_F0020,What is the prerequisite for CCEE 561?,direct
+S025_Q0041,S025_F0020,Can CS students take Computer Vision with COSC 214?,contextual
+S025_Q0042,S025_F0021,What does CCEE 566 Natural Language Processing cover?,direct
+S025_Q0043,S025_F0021,Is there a course on sentiment analysis and question answering?,paraphrase
+S025_Q0044,S025_F0022,What is the prerequisite of CCEE 566?,direct
+S025_Q0045,S025_F0022,Do I need programming before the NLP course?,paraphrase
+S025_Q0046,S025_F0023,What is CCEE 567 Optimization about?,direct
+S025_Q0047,S025_F0023,Which course covers integer programming and network optimization?,paraphrase
+S025_Q0048,S025_F0024,Which courses are equivalent to CCEE 567?,direct
+S025_Q0049,S025_F0024,Is Optimization the same as BADM 420?,paraphrase
+S025_Q0050,S025_F0025,What does CCEE 568 Big Data cover?,direct
+S025_Q0051,S025_F0025,Is there a course on Hadoop?,paraphrase
+S025_Q0052,S025_F0026,What is CCEE 612 Advanced Data Mining about?,direct
+S025_Q0053,S025_F0026,Which course covers boosting and deep learning?,paraphrase

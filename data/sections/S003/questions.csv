@@ -1,0 +1,131 @@
+qa_id,fact_id,question,question_style
+S003_Q0001,S003_F0001,When is new student orientation for Fall 2026 at RHU?,direct
+S003_Q0002,S003_F0001,I'm a new student starting in fall 2026. What day do I go for orientation and registration?,contextual
+S003_Q0003,S003_F0001,Fall 2026 new students orientation date?,short
+S003_Q0004,S003_F0002,What is the deadline to pay Fall 2026 tuition and fees?,direct
+S003_Q0005,S003_F0002,By when must fall 2026 fees be paid at RHU?,paraphrase
+S003_Q0006,S003_F0002,Last day to pay fall 2026 tuition?,short
+S003_Q0007,S003_F0003,When do classes start in Fall 2026?,direct
+S003_Q0008,S003_F0003,What is the first day of the fall 2026 semester at RHU?,paraphrase
+S003_Q0009,S003_F0004,When is the drop and add period in Fall 2026?,direct
+S003_Q0010,S003_F0004,I want to add a course in fall 2026. Which days is drop/add open?,contextual
+S003_Q0011,S003_F0004,Fall 2026 drop/add dates?,short
+S003_Q0012,S003_F0005,When is Founder's Day celebrated in 2026?,direct
+S003_Q0013,S003_F0005,Is there a holiday for RHU Founder's Day in November 2026?,paraphrase
+S003_Q0014,S003_F0006,When is advising week for Spring 2027 registration?,direct
+S003_Q0015,S003_F0006,"As a continuing student, when should I meet my advisor before spring 2027 registration?",contextual
+S003_Q0016,S003_F0007,What is the last day to withdraw from a course in Fall 2026?,direct
+S003_Q0017,S003_F0007,Until what date can I drop out of a fall 2026 course with a withdrawal?,paraphrase
+S003_Q0018,S003_F0007,Fall 2026 withdrawal deadline?,short
+S003_Q0019,S003_F0008,When is registration week for Spring 2027 for continuing students?,direct
+S003_Q0020,S003_F0008,Which week in November 2026 can returning students register for spring?,paraphrase
+S003_Q0021,S003_F0009,Is Independence Day 2026 a holiday at RHU?,direct
+S003_Q0022,S003_F0009,What date is the Independence Day holiday in the 2026-2027 calendar?,paraphrase
+S003_Q0023,S003_F0010,When is orientation for new students joining in Spring 2027?,direct
+S003_Q0024,S003_F0010,I'm starting at RHU in spring 2027. When are new student orientation and registration?,contextual
+S003_Q0025,S003_F0011,What is the last day of classes in Fall 2026?,direct
+S003_Q0026,S003_F0011,When do fall 2026 lectures end?,paraphrase
+S003_Q0027,S003_F0012,When is the Fall 2026 reading period?,direct
+S003_Q0028,S003_F0012,Are there study days before the fall 2026 finals?,paraphrase
+S003_Q0029,S003_F0013,When are the Fall 2026 final exams?,direct
+S003_Q0030,S003_F0013,What dates does the December 2026 final examinations period cover?,paraphrase
+S003_Q0031,S003_F0013,Fall 2026 finals period?,short
+S003_Q0032,S003_F0014,Is RHU closed for Christmas and New Year in 2026-2027?,direct
+S003_Q0033,S003_F0014,Which dates are the Christmas and New Year holidays this academic year?,paraphrase
+S003_Q0034,S003_F0015,Is Armenian Christmas a holiday at RHU in 2027?,direct
+S003_Q0035,S003_F0015,What date is the Armenian Christmas holiday in January 2027?,paraphrase
+S003_Q0036,S003_F0016,What is the payment deadline for Spring 2027 tuition and fees?,direct
+S003_Q0037,S003_F0016,By when do I need to pay for the spring 2027 semester?,paraphrase
+S003_Q0038,S003_F0016,Spring 2027 tuition deadline?,short
+S003_Q0039,S003_F0017,When do Spring 2027 classes begin?,direct
+S003_Q0040,S003_F0017,What is the first day of the spring 2027 semester?,paraphrase
+S003_Q0041,S003_F0018,When is the Spring 2027 drop and add period?,direct
+S003_Q0042,S003_F0018,Which days in January 2027 can I add or drop courses?,paraphrase
+S003_Q0043,S003_F0019,Is Saint Maroun's Day a holiday at RHU?,direct
+S003_Q0044,S003_F0019,What date is Saint Maroun's Day off in 2027?,paraphrase
+S003_Q0045,S003_F0020,When is Rafik Al Hariri Commemoration Day in 2027?,direct
+S003_Q0046,S003_F0020,What date does RHU commemorate Prime Minister Rafik Hariri?,paraphrase
+S003_Q0047,S003_F0021,When is the Eid Al-Fitr holiday in 2027?,direct
+S003_Q0048,S003_F0021,Are the Eid Al-Fitr holiday dates at RHU fixed or tentative?,paraphrase
+S003_Q0049,S003_F0022,When is advising week for Summer and Fall 2027?,direct
+S003_Q0050,S003_F0022,"In spring 2027, when do continuing students get advising for summer and fall courses?",contextual
+S003_Q0051,S003_F0023,What is the last day to withdraw from courses in Spring 2027?,direct
+S003_Q0052,S003_F0023,Until when can I withdraw from a spring 2027 course?,paraphrase
+S003_Q0053,S003_F0023,Spring 2027 withdrawal deadline?,short
+S003_Q0054,S003_F0024,When is registration for Summer and Fall 2027 for continuing students?,direct
+S003_Q0055,S003_F0024,Which dates can I register for summer 2027 and fall 2027 courses?,paraphrase
+S003_Q0056,S003_F0025,When are the Easter holidays in 2027 at RHU?,direct
+S003_Q0057,S003_F0025,Does RHU give holidays for both Latin and Greek Orthodox Easter in 2027?,paraphrase
+S003_Q0058,S003_F0026,Is Annunciation Day a holiday in March 2027?,direct
+S003_Q0059,S003_F0026,What date is the Annunciation Day holiday at RHU?,paraphrase
+S003_Q0060,S003_F0027,What is the last day of classes in Spring 2027?,direct
+S003_Q0061,S003_F0027,When do spring 2027 lectures end?,paraphrase
+S003_Q0062,S003_F0028,When is the reading period in Spring 2027?,direct
+S003_Q0063,S003_F0028,Are there study days before spring 2027 final exams?,paraphrase
+S003_Q0064,S003_F0029,When are the Spring 2027 final exams?,direct
+S003_Q0065,S003_F0029,What dates does the spring 2027 final examinations period cover?,paraphrase
+S003_Q0066,S003_F0029,Spring 2027 finals period?,short
+S003_Q0067,S003_F0030,Is Labor Day 2027 a holiday at RHU?,direct
+S003_Q0068,S003_F0030,What date is the Labor's Day holiday in the RHU calendar?,paraphrase
+S003_Q0069,S003_F0031,What is the deadline to pay Summer 2027 tuition and fees?,direct
+S003_Q0070,S003_F0031,By when must summer 2027 fees be paid?,paraphrase
+S003_Q0071,S003_F0032,When is the RHU commencement ceremony in 2027?,direct
+S003_Q0072,S003_F0032,What is the tentative graduation ceremony date for 2027?,paraphrase
+S003_Q0073,S003_F0032,RHU 2027 commencement date?,short
+S003_Q0074,S003_F0033,When is the Eid El Adha holiday in 2027?,direct
+S003_Q0075,S003_F0033,Is Eid El Adha 2027 at RHU a confirmed date?,paraphrase
+S003_Q0076,S003_F0034,When do Summer 2027 classes begin?,direct
+S003_Q0077,S003_F0034,What date does co-op work experience start in summer 2027?,paraphrase
+S003_Q0078,S003_F0034,I'm doing my co-op this summer. When does it begin in 2027?,contextual
+S003_Q0079,S003_F0035,When is the Summer 2027 drop and add period?,direct
+S003_Q0080,S003_F0035,Which day can I add or drop summer 2027 courses?,paraphrase
+S003_Q0081,S003_F0036,What is the last day to withdraw from summer 2027 courses?,direct
+S003_Q0082,S003_F0036,Until when can I withdraw from co-op in summer 2027?,paraphrase
+S003_Q0083,S003_F0037,When are the Hijra New Year and Ashoura holidays in 2027?,direct
+S003_Q0084,S003_F0037,Is Ashoura Day a holiday during the summer 2027 semester?,paraphrase
+S003_Q0085,S003_F0038,When do summer 2027 classes end?,direct
+S003_Q0086,S003_F0038,What date does co-op work experience end in summer 2027?,paraphrase
+S003_Q0087,S003_F0039,When are the Summer 2027 final exams?,direct
+S003_Q0088,S003_F0039,Which days are summer 2027 finals held?,paraphrase
+S003_Q0089,S003_F0040,Is Assumption Day a holiday at RHU in 2027?,direct
+S003_Q0090,S003_F0040,What date is the Assumption Day holiday in August 2027?,paraphrase
+S003_Q0091,S003_F0041,Why are some holiday dates in the RHU calendar marked as tentative?,direct
+S003_Q0092,S003_F0041,What happens if public or religious holidays change during the 2026-2027 year?,paraphrase
+S003_Q0093,S003_F0042,Where is the RHU Admissions Office located?,direct
+S003_Q0094,S003_F0042,What extension do I call to reach the Admissions Office?,paraphrase
+S003_Q0095,S003_F0043,Where is the Registrar's Office at RHU?,direct
+S003_Q0096,S003_F0043,What is the Registrar's Office phone extension?,paraphrase
+S003_Q0097,S003_F0044,Where can I find the Co-op and Career Services office?,direct
+S003_Q0098,S003_F0044,Co-op office extension at RHU?,short
+S003_Q0099,S003_F0045,Where is the Student Affairs Office?,direct
+S003_Q0100,S003_F0045,What extension reaches RHU Student Affairs?,paraphrase
+S003_Q0101,S003_F0046,Where is the Finance Department located on campus?,direct
+S003_Q0102,S003_F0046,"I need to ask about a payment, which extension is the Finance Department?",contextual
+S003_Q0103,S003_F0047,Which block is the RHU library in?,direct
+S003_Q0104,S003_F0047,What is the library's phone extension?,paraphrase
+S003_Q0105,S003_F0048,Where is the IT Help Desk at RHU?,direct
+S003_Q0106,S003_F0048,My university account isn't working. Which extension is the help desk?,contextual
+S003_Q0107,S003_F0049,Where is the health clinic on campus?,direct
+S003_Q0108,S003_F0049,What extension do I call for the RHU health clinic?,paraphrase
+S003_Q0109,S003_F0050,Where can I find the dorm supervisor?,direct
+S003_Q0110,S003_F0050,Dorm supervisor extension at RHU?,short
+S003_Q0111,S003_F0051,Where is the RHU gymnasium?,direct
+S003_Q0112,S003_F0051,What extension is the gym at RHU?,paraphrase
+S003_Q0113,S003_F0052,Where is the College of Business Administration office?,direct
+S003_Q0114,S003_F0052,What is the extension of the RHU business college?,paraphrase
+S003_Q0115,S003_F0053,Where is the College of Engineering office?,direct
+S003_Q0116,S003_F0053,What extension do I call for the RHU College of Engineering?,paraphrase
+S003_Q0117,S003_F0054,Where is the College of Arts and Sciences office?,direct
+S003_Q0118,S003_F0054,What extension reaches the RHU Arts and Sciences college?,paraphrase
+S003_Q0119,S003_F0055,What extension is the RHU operator?,direct
+S003_Q0120,S003_F0055,How do I reach campus security by phone extension?,paraphrase
+S003_Q0121,S003_F0056,Where is the Graduate Studies and Research office?,direct
+S003_Q0122,S003_F0056,Extension for graduate studies at RHU?,short
+S003_Q0123,S003_F0057,Where is the Quality Assurance and Institutional Advancement office?,direct
+S003_Q0124,S003_F0057,What extension is RHU quality assurance?,paraphrase
+S003_Q0125,S003_F0058,Where is the university store at RHU?,direct
+S003_Q0126,S003_F0058,What extension is the RHU store?,paraphrase
+S003_Q0127,S003_F0059,Where is the President's Office at RHU?,direct
+S003_Q0128,S003_F0059,What extension do I dial for the president's office?,paraphrase
+S003_Q0129,S003_F0060,Where is the Communication and Alumni Relations office?,direct
+S003_Q0130,S003_F0060,What extension is RHU alumni relations?,paraphrase

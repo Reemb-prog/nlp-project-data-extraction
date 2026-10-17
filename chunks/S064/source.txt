@@ -1,0 +1,377 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S064 | Mechatronics engineering program
+ORIGINAL PDF PAGES: 404 to 410 (inclusive)
+ONLY extract facts whose source page is between 404 and 410.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 404 ==========
+MECHATRONICS ENGINEERING PROGRAM
+
+Mission
+
+The mission of the Mechatronics Engineering program at RHU is to provide a solid
+education that enables students to start a professional career and/or continue graduate
+studies in mechatronics engineering. The program seeks to instill in students a sense of
+and understanding of moral and professional responsibilities, the ability to learn more,
+and the leadership required in their calling, primarily in Lebanon and the Middle East.
+
+Objectives
+
+In a few years after graduation, Mechatronics Engineering program graduates will:
+
+     1.  Apply their multidisciplinary knowledge in Mechatronics engineering to meet
+        employers’ expectations.
+     2.  Possess self-learning motivation and qualifications to pursue advanced studies.
+     3.  Demonstrate  professional  skills and embrace  leadership  roles  in  their
+         profession and/or communities.
+
+Program Outcomes
+
+Upon successful completion of the BS/BE program  in Mechatronics Engineering,
+graduates will have:
+
+ 1.   Ability to identify, formulate, and solve complex engineering problems by applying
+      principles of engineering, science, and mathematics
+ 2.   Ability to apply engineering design to produce solutions that meet specified needs
+      with consideration of public health, safety, and welfare, as well as global, cultural,
+      social, environmental, and economic factors
+ 3.   Ability to communicate effectively with a range of audiences
+ 4.   Ability  to  recognize  ethical and  professional  responsibilities  in  engineering
+      situations and make informed judgments, which must consider the impact of
+     engineering solutions in global, economic, environmental, and societal contexts
+ 5.   Ability  to  function  effectively on a team whose members together provide
+      leadership, create a collaborative and inclusive environment, establish goals, plan
+      tasks, and meet objectives
+ 6.   Ability to develop and conduct appropriate experimentation, analyze and interpret
+      data, and use engineering judgment to draw conclusions
+ 7.   Ability to acquire and apply new knowledge as needed, using appropriate learning
+      strategies.
+
+
+
+
+
+Page 404
+
+========== ORIGINAL PDF PAGE 405 ==========
+Accreditation
+
+The Bachelor of Engineering program in Mechatronics Engineering is accredited by the
+Engineering  Accreditation Commission  of ABET  (https://www.abet.org) under  the
+commission’s General Criteria, with no applicable program criteria.
+
+Career Opportunities
+
+Mechatronics engineers attain a broad spectrum of skills that are central to the practice
+of almost any professional field. Mechatronics engineers can find career opportunities in
+industries and enterprises such as food processing, building and construction, medical
+and pharmaceutical industries, aerospace, automotive, chemical, oil and gas, computer
+and electronics, renewable energy, and far more. Most importantly, you will be prepared
+to imagine something that never was and drive it forward to make it a reality! There is so
+much to be gained in ensuring the future of humanity, and mechatronics engineers can
+tap into these possibilities through the spirit of innovation and entrepreneurship.
+
+Program Overview
+
+At RHU, every experience the student has represents a block in building a competent,
+confident, purposeful, problem-solving, competitive, responsible, and conscientious
+individual. Mechatronics engineering, being a  holistic approach  to designing and
+developing  multifaceted  smart  systems,  has  remarkable  strength.     Student
+transformation is accomplished through a curriculum that orbits the edges of knowledge,
+facilities equipped with the latest technology and conforming to the highest standards,
+faculty members who are passionate and committed to students' academic success and
+personal growth, and an environment that inspires learning and drives discovery.
+
+The Bachelor of Engineering (BE) program in Mechatronics Engineering comprises 152
+credit hours across eight regular semesters and three Summer Semesters. The Bachelor
+of Science (BS) program comprises 118 credit hours across six regular semesters and
+three Summer Semesters. In addition to completing the credit requirements, a BS or a
+BE degree is conferred upon a student if the earned cumulative GPA, major GPA, and
+the Summative Learning Project grades are all 70 or above.
+
+The required credit hours span three categories: University requirements (UR), College
+requirements (CR), and Program requirements (PR). The allocation of credit hours for
+the BS and BE programs is shown in the following tables, which reveal the apparent
+multidisciplinary nature of Mechatronics. This demonstrates the value of a degree in
+Mechatronics as a starting point for several higher degree paths.
+
+BS in Mechatronics Engineering (118 Credits)
+                    Major               Non-Major
+ Courses Category                                                 Credits  Percent
+                   Mandatory  Electives Mandatory  Electives
+ General
+                  0         0       21        6       27     23
+ Education
+
+Page 405
+
+========== ORIGINAL PDF PAGE 406 ==========
+College
+                  0         0       24        0       24     20
+ Requirement
+ Program
+                  28        0       39        0       67     57
+ Requirement
+ Credits            28        0       84        6       118    100
+
+BE in Mechatronics Engineering (152 Credits)
+                    Major               Non-Major
+ Courses Category                                                 Credits  Percent
+                   Mandatory  Electives Mandatory  Electives
+ General
+                  0         0       21        9       30     20
+ Education
+ College
+                  0         0       27        0       27     18
+ Requirement
+ Program
+                  41        15      39        0       95     62
+ Requirement
+ Credits            41        15      87        9       152    100
+
+I.   University Requirements (General Education)
+
+The list of the university's required courses and their descriptions is presented in the
+introductory pages of the College of Engineering section in this catalog.
+
+II.  College Requirements
+
+The list of required courses and descriptions is presented in the introductory pages of
+the College of Engineering section in this catalog.
+
+III. Program Requirements
+
+The program requirements for a Bachelor of Engineering degree in Mechatronics
+Engineering encompass 95 credits (67 credits for the BS degree), distributed as follows:
+80 credits (67 credits for the BS degree) of mandatory courses and 15 credits of
+electives.
+
+A.  Mandatory Requirements
+
+The mandatory core courses in Mechatronics Engineering (major and non-major) are
+listed in the table below.
+Course #         Title                                 Credits  Prerequisites
+ CCEE 221       Logic Design                       3
+ CCEE 221L      Logic Design Lab                   1      CCEE 221
+ CIVE 211         Statics                            3
+ ELEC 320        Electronics                        3      ELEC 210
+                                                                     Co-req.: ELEC
+ ELEC 320L       Electronics Lab                     1
+                                                        320
+ ELEC 331         Electric Machines                   3      ELEC 210
+ MECA 340      Dynamic Systems Modeling           3      MATH 314
+Page 406
+
+========== ORIGINAL PDF PAGE 407 ==========
+MECA 341      Measurements and Instrumentation     3      ELEC 320
+ MECA 341L     Measurements and Instrumentation Lab 1         Co-req.: MECA
+                                                        341
+ MECA 400*     Summative Learning (BS) Project      3      ENGL 217
+ MECA 440       Control Systems Design              3     MECA 340
+ MECA 440L      Control Systems Design Lab          1     MECA 440
+ MECA 441      Sensors and Actuators               3     MECA 341
+ MECA 442       Microcontrollers for Mechatronics       3(2+2)  CCEE 221 and
+                                           MECH 200
+ MECA 443       Mechatronic System Design           3     MECA    440,
+                                                                441, and 442
+ MECA 443L     Mechatronic System Design Lab       1         Co-req.: MECA
+                                                        443
+ MECA 444L      Mechatronic Systems Programming     1      CCEE 214 and
+                                           MECH 200
+ MECA 445      Advanced  Programming  for  AI and 3     MECA 444L
+                 Robotics
+ MECA 444       Mechatronic Systems Programming     3      CCEE 214 and
+                                           MECH 200
+ MECA 499      Co-op Work Experience              3      ENGL 217
+                                                                 Senior
+                                                               Standing
+ MECA 541     CAD/CAM/CAE                     3     MECH 224 and
+                                           MECH 421
+ MECA 542        Industrial and Manufacturing Control    3      ELEC 320
+ MECA 544       Robotics                          3     MECH 321
+ MECA 595A    BE Summative Learning Project I       1      ENGL 217
+                                                                 Senior
+                                                               Standing
+ MECA 595B    BE Summative Learning Project II      3     MECA 595A
+ MECA 4xx/5xx   Technical Electives                  15       Per     course
+                                                                 requirement
+ MECH 200       Introduction to Mechanical Engineering  3
+ MECH 220      Dynamics                         3       CIVE 211
+ MECH 224      Mechanical  Engineering  Graphics & 3
+            CAD
+ MECH 320      Mechanics of Materials               3       CIVE 211
+ MECH 320L     Mechanics of Materials Lab           1         Co-req.: MECH
+                                                        320
+ MECH 321      Mechanisms   and   Dynamics    of 3     MECH 200 and
+                 Machinery                         MECH 220
+ MECH 333      Thermal Fluid Sciences              3      MATH 216
+ MECH 421      Mechanical Design I                 3     MECH 320
+ MECH 422       Manufacturing Processes             3     MECH 320
+* Required for BS-bound students. BE students take a Technical Elective instead.
+
+Page 407
+
+========== ORIGINAL PDF PAGE 408 ==========
+B.  Technical Electives
+
+As part of the Bachelor of Engineering in Mechatronics Engineering program, the student
+is required to take 15 credit hours of technical electives. These courses allow students
+to focus on a specific area to develop in-depth knowledge and understanding. The
+student can also mix and match elective courses from different areas to gain a broader
+exposure to interrelated Engineering disciplines. The student should, in cooperation with
+the academic advisor, select a list of electives that best meet their needs and aspirations.
+The  listed  technical  elective courses and other courses from  other engineering
+programs, in addition to the required program courses, are designed to allow the student
+to develop in-depth knowledge and understanding in the following areas:
+
+•   Mechanisms and Robotics
+•   Automation
+
+The student  is highly recommended to take elective courses after completing the
+mandatory requirements in the related area. Students may select technical electives
+from other programs, subject  to the approval  of the academic advisor and the
+corresponding course instructor.
+
+ Course #   Title                                    Credits  Prerequisites
+ Mechanisms and Robotics
+MECA 485  Autotronics                           3     MECA 440
+MECA 498  Special Topics in Mechatronics Engineering 3
+MECA 535  Expert Systems and Applied Intelligence    3     MECA 444L
+            Applied  Deep  Learning   for   Intelligent
+MECA 536                                     3     MECA 444L
+           Systems
+                                         MECH  333   or
+MECA 543  Fluid Power Systems                   3
+                                         MECH 335
+MECA 581 Systems Engineering                   3
+          Mechanism Synthesis Classical Kinematics
+MECH 522                                     3     MECH 321
+              to AI-Driven Optimization
+ Automation
+MECA 484  Civionics                             3
+MECA 485  Autotronics                           3     MECA 440
+MECA 498  Special Topics in Mechatronics Engineering 3
+MECA 515 Modern Control Systems                3     MECA 440
+                                                               Co-req:   MECA
+MECA 545  Integrated Automation Lab               1
+                                                      542
+MECA 546 Smart Energy Management Systems       3     MECA 442
+MECA 586  Mechatronics Drives                    3      ELEC 320
+
+C.  Summative Learning Project
+
+Students must complete a 3-credit-hour course for the BS (4 credits for the BE; take 1
+credit in the first regular semester and 3 credits in the following regular semester) in
+which they work, preferably in groups, on a problem of concern to industry or the
+community at large, or to develop a promising idea. The SLP could be an extension of
+
+Page 408
+
+========== ORIGINAL PDF PAGE 409 ==========
+the projects students worked on in the Engineering for the Community course, bringing
+them to a more useful outcome.
+
+D.  Co-op Experience
+
+Students must complete 8 weeks of practical training in a field related to their interests.
+The Co-op experience is usually fulfilled during the summer semester of the third year in
+the program. The Co-op office matches the Co-op assignment with the student’s field of
+study and the employer’s interest. A faculty member follows up on a student’s progress
+throughout the Co-op period by conducting field visits and ensuring that the student’s
+performance is aligned with their aspirations and the employer’s needs. Students are
+required to submit a formal report and a poster and to give a formal presentation about
+their Co-op experience. While ENGL 217 and Senior Standing are the essential
+prerequisites for co-op training, the program may stipulate additional conditions.
+
+Study Plan
+
+The following study plan summarizes the courses and credit distribution for the Bachelor
+of Science (BS) and Bachelor of Engineering (BE) in MECA Engineering. The following
+study plan serves as a roadmap for a smooth progression toward graduation.
+
+ Course #     Title                                  Credits Prerequisites
+ Year 1, Fall Semester (15 Credits)
+CCEE 214    Introduction to Programming           3
+ CIVE 211     Statics                            3
+ ENGL 210    English Composition and Rhetoric       3       Placement
+MATH 215    Calculus III                         3
+ PHYS 210   Fundamentals of Physics and Lab       3
+ Year 1, Spring Semester (15 Credits)
+                                            PHYS   191    or
+ ELEC 210     Electric Circuits                     3
+                                                               Equivalent
+MATH 216    Calculus IV                         3     MATH 215
+MECH 200    Introduction to Mechanical Engineering   3
+MECH 220   Dynamics                          3      CIVE 211
+              Humanities/Fine Arts Elective I         3
+ Year 1, Summer Semester (9 Credits)
+CHEM 211   Environmental Chemistry and Lab       3
+MECH 224   Mechanical Engineering Graphics & CAD 3
+MATH 311    Linear Algebra with Applications        3
+ Year 2, Fall Semester (17 Credits)
+CCEE 221    Logic Design                       3
+ ELEC 320    Electronics                         3     ELEC 210
+ ELEC 320L   Electronics Lab                     1       Co-req: ELEC 320
+MATH 314    Ordinary Differential Equations         3     MATH 216
+MECH 320   Mechanics of Materials               3      CIVE 211
+
+
+Page 409
+
+========== ORIGINAL PDF PAGE 410 ==========
+Co-req.:   MECH
+MECH 320L  Mechanics of Materials Lab            1
+                                                     320
+                                        MECH  200  and
+MECH 321   Mechanisms and Dynamics of Machinery 3
+                                        MECH 220
+ Year 2, Spring Semester (17 Credits)
+CCEE 221L   Logic Design Lab                    1     CCEE 221
+ ENGL 217    Professional English Communication    3     ENGL 210
+MATH 351    Probability and Statistics              3     MATH 215
+MECA 340   Dynamic Systems Modeling           3     MATH 314
+MECA 341   Measurements and Instrumentation     3     ELEC 320
+MECA 341L  Measurements and Instrumentation Lab  1       Co-req: MECA 341
+MECH 333   Thermal Fluid Sciences               3     MATH 216
+ Year 2, Summer Semester (9 Credits)
+              Engineering      Economics      and
+ENGR 300                                     3
+            Management
+MATH 317    Partial Differential Equations           3     MATH 314
+               Social Sciences/ Cultural Elective I      3
+ Year 3, Fall Semester (16 Credits)
+MECA 440    Control Systems Design              3     MECA 340
+MECA 441   Sensors & Actuators                 3     MECA 341
+                                           CCEE  221  and
+MECA 442    Microcontrollers for Mechatronics       3 (2+2)
+                                        MECH 200
+                                           CCEE  214  and
+MECA 444L  Mechatronic Systems Programming     1
+                                        MECH 200
+                                        MECH  224  and
+MECA 541   CAD/CAM/CAE                     3
+                                        MECH 421
+MECH 421   Mechanical Design I                 3     MECH 320
+ Year 3, Spring Semester (17 Credits)
+ ARAB 212    Arabic Language & Communication     2
+ ELEC 331     Electric Machines                    3     ELEC 210
+MATH 421   Numerical Analysis                  3     MATH 311
+MECA 440L  Control Systems Design Lab           1     MECA 440
+                                         MECA  440,  441,
+MECA 443   Mechatronic System Design           3
+                                                     and 442
+MECA 443L  Mechatronic System Design Lab        1        Co-req.: MECA 443
+            Community & Sustainability            1        Co-req.: ENGL 210
+                                                         Per course
+              Engineering Technical Elective I*       3
+                                                             requirements
+ Year 3, Summer Semester (3 Credits)
+                                            ENGL 217
+MECA 499   Co‐op Work Experience               3
+                                                             Senior Standing
+ The 118 credits above complete the requirements for a Bachelor of Science Degree in
+ Mechatronics Engineering.
+ Year 4, Fall Semester (16 Credits)
+ENGR 510   Engineering Project Management       3     ENGR 300
+
+Page 410

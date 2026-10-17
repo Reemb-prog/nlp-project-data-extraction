@@ -1,0 +1,43 @@
+qa_id,fact_id,question,question_style
+S039_Q0001,S039_F0001,What is the Marketing and Advertising program about?,direct
+S039_Q0002,S039_F0001,Does the marketing BBA include public relations?,paraphrase
+S039_Q0003,S039_F0002,What are the mandatory courses in Marketing and Advertising?,direct
+S039_Q0004,S039_F0002,Is Consumer Behavior required for marketing majors?,paraphrase
+S039_Q0005,S039_F0003,What electives can marketing and advertising students take?,direct
+S039_Q0006,S039_F0003,Can a marketing major take Introduction to Public Relations as an elective?,contextual
+S039_Q0007,S039_F0004,What is the co-op requirement for marketing and advertising students?,direct
+S039_Q0008,S039_F0004,When do marketing students do co-op?,paraphrase
+S039_Q0009,S039_F0005,What jobs can marketing and advertising graduates get?,direct
+S039_Q0010,S039_F0005,Can I become a brand manager with this degree?,contextual
+S039_Q0011,S039_F0006,What are the learning outcomes of the marketing program?,direct
+S039_Q0012,S039_F0006,Will marketing students learn integrated marketing communication?,paraphrase
+S039_Q0013,S039_F0007,What do marketing and advertising students take in year 1?,direct
+S039_Q0014,S039_F0007,How many summers are in the marketing study plan?,paraphrase
+S039_Q0015,S039_F0008,What courses are in marketing year 2 fall?,direct
+S039_Q0016,S039_F0008,When do marketing majors take Consumer Behavior?,paraphrase
+S039_Q0017,S039_F0009,What is in marketing year 2 spring?,direct
+S039_Q0018,S039_F0009,When do marketing students take Introduction to Digital Media?,paraphrase
+S039_Q0019,S039_F0010,What courses are in marketing year 3 fall?,direct
+S039_Q0020,S039_F0010,When do marketing majors take Social Media Marketing?,paraphrase
+S039_Q0021,S039_F0011,What is in the last semester of the marketing study plan?,direct
+S039_Q0022,S039_F0011,When is Strategic Marketing scheduled?,paraphrase
+S039_Q0023,S039_F0012,What does BMKA 310 Consumer Behavior cover?,direct
+S039_Q0024,S039_F0012,What do I need before Consumer Behavior?,paraphrase
+S039_Q0025,S039_F0013,What is BMKA 370 Marketing Research about?,direct
+S039_Q0026,S039_F0013,Does Marketing Research use SPSS?,paraphrase
+S039_Q0027,S039_F0014,What does BMKA 380 Advertising Media and Strategies cover?,direct
+S039_Q0028,S039_F0014,What is the prerequisite for Advertising Media and Strategies?,paraphrase
+S039_Q0029,S039_F0015,What is BMKA 430 Advertising Design and Creativity about?,direct
+S039_Q0030,S039_F0015,Which marketing course teaches ad design and copywriting?,paraphrase
+S039_Q0031,S039_F0016,What are the prerequisites for BMKA 430?,direct
+S039_Q0032,S039_F0016,Do I need BMKA 380 before Advertising Design and Creativity?,paraphrase
+S039_Q0033,S039_F0017,What does BMKA 440 Social Media Marketing cover?,direct
+S039_Q0034,S039_F0017,Who can take Social Media Marketing?,paraphrase
+S039_Q0035,S039_F0018,What is BMKA 485 Strategic Marketing about?,direct
+S039_Q0036,S039_F0018,Do students write a marketing plan in Strategic Marketing?,paraphrase
+S039_Q0037,S039_F0019,What does BMKA 320 Introduction to Public Relations cover?,direct
+S039_Q0038,S039_F0019,What is the prerequisite for Introduction to Public Relations?,paraphrase
+S039_Q0039,S039_F0020,What is BMKA 405 Media Planning about?,direct
+S039_Q0040,S039_F0020,Is there a course on audience measurement and media buying?,paraphrase
+S039_Q0041,S039_F0021,What is the prerequisite for BMKA 405?,direct
+S039_Q0042,S039_F0021,Can I take Media Planning without BMKA 380?,contextual

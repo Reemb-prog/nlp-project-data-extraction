@@ -1,0 +1,189 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S067 | Manufacturing and automation minor
+ORIGINAL PDF PAGES: 423 to 426 (inclusive)
+ONLY extract facts whose source page is between 423 and 426.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 423 ==========
+MINOR IN MANUFACTURING AND AUTOMATION
+ENGINEERING
+
+Rationale
+
+The Manufacturing and Automation  Engineering (MAE) minor aims  to broaden
+engineering  students’  knowledge   of  up-to-date  automation  techniques  and
+manufacturing methods. It also prepares undergraduate students for potential graduate
+studies in Manufacturing and Automation Engineering and related fields.
+
+It primarily targets mechanical and mechatronics engineering students, but it should also
+accommodate students from a  variety  of engineering backgrounds, provided  all
+prerequisite courses are completed.
+
+The program mainly focuses on decision-making, materials science, manufacturing
+processes, quality control, system integration, automation, and many other related
+topics. Therefore, by the end of this minor, a student is expected to be familiar with the
+economic study, design, material selection, manufacturing, assembly, control, and
+automation of the entire engineering production process.
+
+Program participants are required to complete at least 18 credits of related coursework.
+Although not required, with proper and timely advising, they may also complete their Co-
+op work experience or their BE project in Manufacturing and Automation Engineering,
+thereby enhancing their capabilities.
+
+Program Objectives
+
+The primary educational objectives of the MAE minor program are to:
+
+ •  Give engineering students basic knowledge of the Manufacturing and Automation
+    Engineering principles
+
+ •  Equip students with the knowledge  to pursue graduate studies  in  Industrial
+    Engineering,  Manufacturing  Engineering,  Automation  Engineering,  Materials
+    Science, Engineering Management, and other related disciplines
+
+Learning Outcomes
+
+After completing the minor program, students should have the ability to:
+ •  Apply relevant knowledge of mathematics, science, and engineering to identify,
+     formulate, and solve practical problems related to Automation Engineering and
+    modern Manufacturing processes
+ •  Use modern CAD/CAM/CAE engineering tools
+ •  Automate and control complex industrial equipment and processes
+ •  Make apt decisions based on their comprehension of Professional and Ethical
+    Behavior
+Page 423
+
+========== ORIGINAL PDF PAGE 424 ==========
+Career Options
+
+This minor allows MAE holders to start careers in supply chain management, product
+design and development,  quality  control and  assurance,  production  lines,  cost
+engineering departments, design, automation, and operation of integrated systems, and
+many other fields.
+
+Program Requirements
+
+While most relevant to mechanical and mechatronics engineering students, this minor is
+offered to undergraduate RHU students in the BS/BE program from different disciplines
+(mechanical,  mechatronics,  civil,  electrical,  computer and  communications, and
+biomedical). It may also be offered to students with a BS/BE from other universities,
+subject to a case-by-case evaluation of  their transcripts and other specific RHU
+requirements. Proper advising is pertinent to the timely completion of the minor.
+
+To complete the MAE minor, a student must
+
+ 1) Declare an MAE minor by completing the Minor Declaration Form;
+ 2) Obtain the approval of the dean of the college major;
+ 3) Obtain a Minor Cumulative Grade Point Average of no less than 70 %.
+ 4) Complete 18 credits of coursework as specified below
+
+MAE Curriculum
+
+The program offers a rich blend of fundamental sciences and practical, hands-on
+experience, equipping students with the essential knowledge to delve into Manufacturing
+and Automation Engineering. Accordingly, this minor shall include:
+
+ •  Materials science and metallurgy
+ •  Advanced/modern manufacturing processes
+ •  Product design, optimization, and development
+ •  Manufacturing process quality control
+ •  Economic, environmental, and societal aspects of the industry
+ •   Industrial equipment automation and production process control
+
+The MAE curriculum encompasses 18 mandatory  credits selected  to  satisfy the
+requirements of the proposed program objectives and learning outcomes.
+
+Mandatory Courses
+
+The student must complete a minimum of 3 credit hours of coursework exclusive to
+the MAE minor that will not count toward requirements for their major or any other minor.
+A description of the courses from which a student should select 18 credits is given below:
+
+
+
+Page 424
+
+========== ORIGINAL PDF PAGE 425 ==========
+MECA 515   Modern Control Systems                                3(3,0)
+ In this course, the student learns how to use data and correlate it with physical theory
+ to build state-space and control models; design,  build, and  test  controllability,
+ feedback, observability, and stability; and perform black-box modeling in both the time
+ and frequency domains. Prerequisite: MECA 440. On demand.
+
+MECA 541  CAD/CAM/CAE                                            3(3,0)
+ Fundamental   principles   of  computer-aided  design  (CAD),  computer-aided
+ manufacturing (CAM), and computer-aided  engineering (CAE);  prototyping and
+ distributed systems; specific rapid prototyping technologies; design for assembly; small
+ batch manufacturing; continuous manufacturing; biotechnology and manufacturing.
+ Prerequisite: MECH 224 and MECH 421. Annually.
+
+MECA 542    Industrial and Manufacturing Control                    3(2,2)
+ This course  will give an overview of programmable logic controllers (PLCs) and
+ explores  different PLC  hardware  components;  number  systems  and  codes;
+ fundamentals of Logic; generation, loading and testing of PLC programs required to
+ operate electrical motors and mechanical actuators used in industrial processes;
+ developing fundamental PLC Wiring Diagrams and Ladder Logic Programs with an
+ emphasis on programming timers and counters; integrated automation solutions
+ through various programming architecture such as function-block and ladder diagrams;
+ configuration of process visualization of a panel. Prerequisite: ELEC 320. On demand.
+
+MECA 545   Integrated Automation Lab                               1(0,2)
+ This lab explores PID control algorithms; digital controllers and their components;
+ tuning methods and process  control; diagnosis and error search; analog value
+ processing; communication between two or more PLCs. Co-requisite: MECA 542. On
+ demand.
+
+ MECA 586   Mechatronics Drives                                     3(3,0)
+ Switched-mode converter; steady-state voltages and currents of step-down, step-up,
+  inverting, and other power converters; power semiconductor devices in a switching
+ converter; discontinuous conduction mode; solve converters operating  in DCM;
+ implement transformer  isolation  in a dc-dc converter; design and analyze the
+ feedback systems of switching regulators; Design Project. Prerequisite: ELEC 320.
+ On demand.
+
+MECH 422   Manufacturing Processes                                3(3,0)
+ General  overview  of  manufacturing;  properties  of  materials;  dimensions  and
+ tolerances; machining; casting; sheet metal forming; injection molding; thermoforming;
+ plastic processing; fundamentals of process performance (rate, quality, cost, flexibility);
+ variation and  quality;  sustainability; overview of additive manufacturing.  Project.
+ Prerequisite: MECH 320. Annually.
+
+
+
+
+Page 425
+
+========== ORIGINAL PDF PAGE 426 ==========
+MECH 470   Product Design and Development                       3(3,0)
+ Idea  generation;  concept  generation;  concept  selection;  functional  analysis;
+ engineering design process for systems and components; economic consideration;
+ reliability analysis; product safety; design project. Co-requisite: MECH 421. On
+ demand.
+
+MECH 527   Modern Material Science                                 3(3,0)
+ Advanced coverage of metals and alloys; applications and processing of ceramics;
+ characteristics,  applications,  and  processing  of  polymers;  surface  property
+ enhancement; materials simulation; economic, environmental, and societal issues in
+ materials science; biomaterials and nanoscale materials. Prerequisite: MECH 223. On
+ demand.
+
+MECH 570    Digital Manufacturing                                    3(3,0)
+ In this course, the student will get an insight into diagnosing and correcting operational
+ flaws; modeling and  fabrication based on  additive manufacturing  technologies;
+ automation technologies; production planning, process quality control; use of modern
+ four-axis Computer Numerical Control (CNC) machines, 3D printers, and up-to-date
+ software programs,  including AutoCAD,  Inventor,  SolidWorks, and VisualCam.
+ Prerequisite: MECH 422 and MECA 541. On demand.
+
+MECH 571   Optimization in Engineering Design                     3(3,0)
+ Problem definition, cost function and constraints; local vs. global methods; deterministic
+ vs.  stochastic  methods;  linear  vs.  non-linear  programming;  constrained  vs.
+ unconstrained;  continuous  vs.  discrete;  gradient-based  methods;  combinatorial
+ optimization techniques; applications to various engineering problems (single/multi-
+ objective); project. Prerequisite: MATH 421. On demand.
+
+
+
+
+
+Page 426

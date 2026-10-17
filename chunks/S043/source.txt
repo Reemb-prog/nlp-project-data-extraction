@@ -1,0 +1,434 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S043 | Civil engineering program
+ORIGINAL PDF PAGES: 280 to 288 (inclusive)
+ONLY extract facts whose source page is between 280 and 288.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 280 ==========
+CIVIL  AND  ENVIRONMENTAL  ENGINEERING
+DEPARTMENT (CEE)
+
+Faculty Members
+
+Chairperson:          Meheddene Machaka
+Associate Professor:   Meheddene Machaka, Riad Al Wardany,
+Assistant Professor:    Rana Hajj Chehade
+Instructor:           May Mrad
+
+Programs Offered
+
+Currently, the CEE Department offers one program in Civil Engineering, leading to
+Bachelor of Science, Bachelor of Engineering, and Master of Science degrees.
+
+
+
+
+
+                                                           Page 280
+
+========== ORIGINAL PDF PAGE 281 ==========
+CIVIL ENGINEERING PROGRAM
+
+Mission
+
+The mission of the  Civil & Environmental Engineering Department at Rafik Hariri
+University is fourfold:
+
+  •  To provide high-quality education at the undergraduate and graduate levels.
+  •  To prepare students for successful careers in the civil engineering field and
+     research.
+  •  To equip students with the will and tools to engage in lifelong learning, teamwork,
+    team leading, and continual professional development.
+  •  To cultivate in students habitual ethical and tolerant behavior and the desire to
+      positively contribute to the advancement of their community and their profession.
+
+Objectives
+
+The educational objectives of the  Civil Engineering program intend to enable  its
+graduates, within a few years of graduation, to:
+
+  •  Achieve successful careers in civil engineering and related fields;
+  •  Pursue graduate studies and research in civil engineering and other fields;
+  •   Effectively function as team members or as team leaders;
+  •  Continue their lifelong learning process and their professional development; and
+  •   Participate in community service and positively contribute to their society.
+
+Program Outcomes
+
+The Civil & Environmental Engineering Department adopts ABET Student Learning
+Outcomes as the Civil Engineering (CIVE) Program outcomes. Conforming to the
+Program Objectives, graduates of the CIVE Program will acquire each of the following
+abilities and characteristics:
+
+1.   Ability to identify, formulate, and solve complex engineering problems by applying
+     principles of engineering, science, and mathematics.
+2.   Ability to apply engineering design to produce solutions that meet specified needs
+    with consideration of public health, safety, and welfare, as well as global, cultural,
+     social, environmental, and economic factors.
+3.   Ability to communicate effectively with a range of audiences.
+4.   Ability to recognize ethical and professional responsibilities in engineering situations
+    and make informed judgments, which must consider the impact of engineering
+     solutions in global, economic, environmental, and societal contexts.
+
+
+                                                           Page 281
+
+========== ORIGINAL PDF PAGE 282 ==========
+5.   Ability to function effectively on a team whose members together provide leadership,
+    create a collaborative and inclusive environment, establish goals, plan tasks, and
+    meet objectives.
+6.   Ability to develop and conduct appropriate experimentation, analyze and interpret
+    data, and use engineering judgment to draw conclusions.
+7.   Ability to acquire and apply new knowledge as needed, using appropriate learning
+     strategies.
+
+Accreditation
+
+The Bachelor  of Engineering program  in  Civil Engineering  is accredited by the
+Engineering  Accreditation Commission  of ABET  (https://www.abet.org) under  the
+commission’s General Criteria and Program Criteria for Civil and Similarly Named
+Engineering Programs.
+
+Career Opportunities
+
+Civil engineers attain a broad spectrum of  skills sought after by a wide range of
+professions. Industrial sectors, enterprises, and services in which a civil engineer can
+pursue a career include construction, infrastructure, transportation, consulting, water
+resources,  environmental,  government,  and  other  public  works  sectors.  Most
+importantly, students will be equipped with the skills to pursue entrepreneurial ventures
+that enable them to realize their own ideas. There is so much work to be done to fashion
+a better future, and civil engineers can be major contributors to that objective.
+
+Program Overview
+
+The Civil Engineering Program at Rafik Hariri University puts students' best interests first
+and foremost. Every little experience the student gains represents a block in building a
+competent,  confident,  purposeful,  problem-solving,  competitive,  responsible, and
+conscientious individual. This is accomplished through a curriculum and facilities that
+meet the highest standards, faculty members committed to students' academic and
+personal growth, and an environment that inspires learning and drives creativity.
+
+The Bachelor of Engineering (BE) program in Civil Engineering comprises 152 credit
+hours across eight regular semesters and three summer semesters. The Bachelor of
+Science (BS) program comprises 118 credit hours across six regular semesters and
+three summer semesters. In addition to completing the credit requirements, a BS or a
+BE degree is conferred upon a student if the earned Cumulative GPA, Major GPA, and
+the Summative Learning Project grade are all 70 or above.
+
+The required credit hours span three categories: University requirements (UR), College
+requirements (CR), and Program requirements (PR). The allocation of the credit hours
+for the BS and BE programs is shown in the following table:
+
+
+                                                           Page 282
+
+========== ORIGINAL PDF PAGE 283 ==========
+BS Program in Civil Engineering (118 Credits)
+                   Major                Non-Major
+ Courses Category                                                 Credits  Percent
+                  Mandatory  Electives  Mandatory  Electives
+ General
+                 0         0        20        7        27     23
+ Education
+ College
+                 0         0        24        0        24     21
+ Requirement
+ Program
+                 58        0        9         0        67     56
+ Requirement
+ Credits           58        0        53        7        118    100
+
+BE Program in Civil Engineering (152 Credits)
+                   Major                Non-Major
+ Courses Category                                                 Credits  Percent
+                  Mandatory  Electives  Mandatory  Electives
+ General
+                 0         0        20        10       30     20
+ Education
+ College
+                 0         0        27        0        27     18
+ Requirement
+ Program
+                 71        15       9         0        95     62
+ Requirement
+ Credits           71        15       56        10       152    100
+
+I.   University Requirements (General Education)
+
+The list of the University-required courses and their descriptions is presented in the
+introductory pages of the College of Engineering section in this catalog.
+
+II.  College Requirements
+
+The  list of the College-required courses and their descriptions is presented in the
+introductory pages of the College of Engineering section in this catalog.
+
+III. Program Requirements
+
+The program requirements for a Bachelor of Engineering degree in Civil Engineering
+encompass 95 credits (67 credits for the BS degree), distributed as follows: 80 credits
+(67 credits for the BS degree) of mandatory courses and 15 credits of elective courses
+for the BE degree only. Both categories are summarized below.
+
+A.  Mandatory requirements
+
+The mandatory courses for the major and non-major CIVE programs are listed in the
+table below.
+
+Course #     Title                             Credits Prerequisites
+ CIVE 200     Introduction to Civil Engineering    2
+ CIVE 202      Civil and Architectural Drawings    3
+ CIVE 211     Statics                        3
+                                                           Page 283
+
+========== ORIGINAL PDF PAGE 284 ==========
+CIVE 240    Surveying                     3
+ CIVE 312     Structural Analysis I             3     MECH 320
+ CIVE 314    Concrete I                     3     MECH 320
+ CIVE 321     Construction Materials           3
+ CIVE 321L   Construction Materials Lab        1       Co-req: CIVE 321
+ CIVE 341    Highway Engineering            3      CIVE 240
+ CIVE 342      Traffic Engineering              3      CIVE 341
+ CIVE 400*   Summative Learning (BS) Project   3     ENGL 217
+                                                        Senior Standing
+ CIVE 413    Computer Modeling of Structures   3      CIVE 312
+ CIVE 415    Concrete II                    3      CIVE 312 and CIVE 314
+ CIVE 417     Steel Structures                3      CIVE 312
+ CIVE 423     Soil Mechanics                 3     MECH 320; GEOL 221
+ CIVE 423L    Soil Mechanics Laboratory        1        Co-req.: CIVE 423
+ CIVE 424    Foundation Engineering          3      CIVE 423
+ CIVE 432    Environmental Engineering        3     CHEM 211
+ CIVE 435     Hydraulics                     3     MECH 333
+ CIVE 499    Co-op Work Experience          3     ENGL    217;    Senior
+                                                       Standing
+ CIVE 501     Construction    Planning    and 3       Senior Standing
+            Management
+ CIVE 507     Structural Analysis II             3      CIVE 312
+ CIVE 508     AI Applications in Civil Engineering 3     CCEE 214
+ CIVE 536    Hydrology                     3      CIVE 435
+ CIVE 538    Water and Wastewater Treatment  3      CIVE 432, CIVE 435
+ CIVE 595A  BE Summative Learning Project 1  1       Senior Standing
+ CIVE 595B  BE Summative Learning Project 2  3      CIVE 595A
+ CIVE 5xx     Technical Electives I-V           15      Per course requirements
+MECH 220   Dynamics                     3      CIVE 211
+MECH 320   Mechanics of Materials           3      CIVE 211
+MECH 333   Thermal Fluid Sciences          3     MATH 216
+* Required for BS-bound students. BE students take a technical elective instead.
+
+The civil engineering courses cover five areas, as listed in the following table.
+
+ Code     Course Title                            Credits  Prerequisite
+ Common Courses and Construction Management
+ CIVE 200   Introduction to Civil Engineering          2
+ CIVE 202   Civil and Architectural Drawings          3
+ CIVE 595  BE Summative Learning Project (A + B)   3        Senior standing
+ CIVE 501   Construction Planning and Management   3        Senior standing
+ CIVE 508   AI Applications in Civil Engineering       3     CCEE 214
+ Structural Analysis & Design
+ CIVE 211   Statics                              3
+ CIVE 312   Structural Analysis I                   3     MECH 320
+ CIVE 314  Concrete I                           3     MECH 320
+                                                           Page 284
+
+========== ORIGINAL PDF PAGE 285 ==========
+CIVE 413  Computer Modeling of Structures         3       CIVE 312
+                                                   CIVE  312  and
+ CIVE 415  Concrete II                          3
+                                                   CIVE 314
+ CIVE 417   Steel Structures                      3       CIVE 312
+ CIVE 507   Structural Analysis II                   3       CIVE 312
+ Construction Materials & Geotechnics
+ CIVE 321   Construction Materials                 3
+ CIVE 321L  Construction Materials - Laboratory       1        Co-req: CIVE 321
+                                         MECH   320  &
+ CIVE 423   Soil Mechanics                       3
+                                           GEOL 221
+ CIVE 423L  Soil Mechanics Laboratory              1        Co-req.: CIVE 423
+ CIVE 424   Foundation Engineering                3       CIVE 423
+ Water Resources & Wastewater Treatment
+ CIVE 432   Environmental Engineering              3     CHEM 211
+ CIVE 435   Hydraulics                           3     MECH 333
+ CIVE 536   Hydrology                           3       CIVE 435
+                                                   CIVE  432, CIVE
+ CIVE 538  Water and Wastewater Treatment        3
+                                                     435
+ Public Works
+ CIVE 240   Surveying                           3
+ CIVE 341  Highway Engineering                  3       CIVE 240
+ CIVE 342   Traffic Engineering                    3       CIVE 341
+
+B.  Technical Electives
+
+As part of the Bachelor of Engineering in Civil Engineering program, the student is
+required to complete 15 credit hours of technical electives. These courses allow the
+student to attain in-depth knowledge and understanding in a focused area of interest.
+The students can mix and match elective courses from different areas to gain broader
+knowledge across Civil Engineering disciplines. The student should, in cooperation with
+the academic advisor, select the set of electives that best meets their needs and
+aspirations. The CIVE available technical elective courses are distributed in five areas:
+
+1.  Construction Management
+2.   Structural Analysis and Design
+3.  Construction Materials and Geotechnics
+4.  Water Resources & Wastewater Treatment
+5.   Public Works
+
+It is highly recommended that students take elective courses from the list below after
+completing the mandatory requirements in their respective areas. Students may select
+technical electives from other programs, subject to the approval of the academic advisor
+and the corresponding course instructor.
+
+ Course #    Title                                    Credits  Prerequisites
+ Construction Management Sequence
+ CIVE 502   Engineering Risk Analysis               3      MATH 351
+ CIVE 503   Computer Methods in Civil Engineering    3        Senior Standing
+                                                           Page 285
+
+========== ORIGINAL PDF PAGE 286 ==========
+CIVE 504    Infrastructure Asset Management         3        Senior Standing
+ CIVE 506  LEED    Principles     in    Construction 3        Senior Standing
+           Management
+ Structural Analysis and Design Sequence
+ CIVE 510    Finite Elements Analysis                3       CIVE 312
+ CIVE 511    Structural Dynamics                   3       CIVE 312
+ CIVE 514   Earthquake Engineering                3       CIVE 312
+ CIVE 515   Prestressed Concrete                  3       CIVE 314
+ CIVE 519    Tall Building Structures                 3       CIVE 413
+ Construction Material and Geotechnics Sequence
+ CIVE 521   Special Concretes                     3       CIVE 321
+ CIVE 522    Durability of Construction Materials        3       CIVE 321
+ CIVE 523   Repair of Concrete Structures            3       CIVE 321
+ CIVE 524   Nondestructive Evaluation and           3       CIVE 321
+              Instrumentation of Infrastructure
+ CIVE 525   Concrete Technology                  3       CIVE 321
+ CIVE 526   Admixtures for Concrete                3       CIVE 321
+ CIVE 527   Seepage and Dams                   3       CIVE 424
+                                                                   Co-req.: CIVE 536
+ CIVE 528   Earth Retaining Structures              3       CIVE 314, 424
+ CIVE 529   Advanced Foundation Engineering        3       CIVE 424
+ Water and Environmental Engineering Sequence
+ CIVE 571   Water Quality                        3       CIVE 432
+ CIVE 573   Solid Waste Management               3       CIVE 432
+ CIVE 575   Water Supply & Wastewater Systems     3       CIVE 435
+ Public Works Sequence
+ CIVE 540   GIS for Civil Engineering                3        Senior Standing
+ CIVE 541   Pavement Design                     3       CIVE 423
+
+C.  Summative Learning Project
+
+Students must complete a 3-credit-hour course for the BS (4 credits for the BE; taken 1
+credit in the first regular semester and 3 credits in the following regular semester) in
+which they work, preferably in groups, on a problem of concern to industry or the
+community at large, or to develop a promising idea. The SLP could be an extension of
+the projects students worked on in the Engineering for the Community course, bringing
+them to a more useful outcome.
+
+D.  Co-op Experience
+
+Students must complete 8 weeks of practical training in a field related to their area of
+interest. The Co-op experience is usually fulfilled during the summer semester of the
+third year in the program. The Co-op office matches the Co-op assignment with the
+student’s field of study and the employer’s interest. A faculty member follows up on a
+student’s progress throughout the Co-op period by conducting field visits and ensuring
+that the student’s performance is aligned with their aspirations and the employer’s needs.
+Students are required to submit a formal report and a poster and to give a formal
+
+                                                           Page 286
+
+========== ORIGINAL PDF PAGE 287 ==========
+presentation about their Co-op experience. While ENGL 217 and senior standing are the
+essential  prerequisites  for co-op  training,  the program may  stipulate  additional
+conditions.
+
+Study Plan
+
+The following study plan summarizes the courses and credit distribution for the Bachelor
+of Science (BS) and Bachelor of Engineering (BE) in CIVE Engineering. The following
+study plan serves as a roadmap for smooth progression toward graduation.
+
+Course No.  Title                                  Credits Prerequisites
+Year 1, Fall Semester (15 Credits)
+CCEE 214    Introduction to Programming           3
+CIVE 211     Statics                            3
+ENGL 210   English Composition and Rhetoric      3       Placement
+MATH 215   Calculus III                         3
+PHYS 210   Fundamentals of Physics and Lab      3
+Year 1, Spring Semester (17 Credits)
+ARAB 212   Arabic Language & Communication     2
+MATH 216   Calculus IV                        3     MATH 215
+CIVE 200     Introduction to Civil Engineering        2
+           Community & Sustainability            1        Co-req.: ENGL 210
+GEOL 221   Fundamentals of Geology             3
+MECH 320   Mechanics of Materials               3      CIVE 211
+              Social Sciences                     3
+Year 1, Summer Semester (9 Credits)
+CHEM 211   Environmental Chemistry and Lab      3
+CIVE 240    Surveying                         3
+MATH 311   Linear Algebra and Applications        3
+Year 2, Fall Semester (16 Credits)
+CIVE 312     Structural Analysis I                  3     MECH 320
+CIVE 321    Construction Materials                3
+CIVE 321L   Construction Materials - Laboratory     1       Co-req: CIVE 321
+CIVE 341    Highway Engineering                 3      CIVE 240
+MATH 314   Ordinary Differential Equations         3     MATH 216
+MECH 220  Dynamics                          3      CIVE 211
+Year 2, Spring Semester (18 Credits)
+CIVE 202     Civil and Architectural Drawings        3
+CIVE 314    Concrete I                         3     MECH 320
+CIVE 342     Traffic Engineering                  3      CIVE 341
+ENGL 217   Professional English                 3     ENGL 210
+MATH 351   Probability and Statistics              3     MATH 215
+MECH 333   Thermal Fluid Sciences               3     MATH 216
+
+
+
+                                                           Page 287
+
+========== ORIGINAL PDF PAGE 288 ==========
+Year 2, Summer Semester (9 Credits)
+ELEC 210    Electric Circuits                     3     PHYS    191     or
+                                                              Equivalent
+ENGR 300   Engineering Economics & Management  3
+             Humanities / Fine Arts Elective         3
+Year 3, Fall Semester (16 Credits)
+CIVE 413    Computer Modeling of Structures       3      CIVE 312
+CIVE 415    Concrete II                         3      CIVE 312 and CIVE
+                                                    314
+CIVE 423     Soil Mechanics                     3     MECH 320 & GEOL
+                                                    221
+CIVE 423L   Soil Mechanics Laboratory            1        Co-req.: CIVE 423
+CIVE 435    Hydraulics                         3     MECH 333
+CIVE 432    Environmental Engineering            3     CHEM 211
+Year 3, Spring Semester (15 Credits)
+CIVE 417    Steel Structures                     3      CIVE 312
+CIVE 424    Foundation Engineering              3      CIVE 423
+CIVE 507     Structural Analysis II                 3      CIVE 312
+MATH 421   Numerical Analysis                  3     MATH 311
+             Engineering Technical Elective I*       3       Per course
+                                                            requirements
+Year 3, Summer Semester (3 Credits)
+CIVE 499    Co-op Work Experience              3     ENGL 217; Senior
+                                                           Standing
+The above 118 credits complete the requirements for a Bachelor of Science degree in
+Civil Engineering.
+Year 4, Fall Semester (16 Credits)
+CIVE 501    Construction Planning and Management 3       Senior standing
+CIVE 595A  BE Summative Learning Project 1       1     ENGL 217, senior
+                                                             standing
+ENGR 510   Engineering Project Management       3     ENGR 300
+             Engineering Technical Elective II       3       Per course
+                                                            requirements
+             Engineering Technical Elective III       3       Per course
+                                                            requirements
+CIVE 508    AI Applications in Civil Engineering      3     CCEE 214
+Year 4, Spring Semester (18 Credits)
+CIVE 536    Hydrology                         3      CIVE 435
+CIVE 538    Water and Wastewater Treatment       3      CIVE 432,
+                                                  CIVE 435
+CIVE 595B  BE Summative Learning Project 2       3      CIVE 595A
+             Engineering Technical Elective IV       3       Per course
+                                                            requirements
+             Engineering Technical Elective V       3       Per course
+                                                            requirements
+
+                                                           Page 288

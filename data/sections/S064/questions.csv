@@ -1,0 +1,31 @@
+qa_id,fact_id,question,question_style
+S064_Q0001,S064_F0001,What is the mission of the Mechatronics Engineering program?,direct
+S064_Q0002,S064_F0001,What are the objectives of mechatronics graduates?,paraphrase
+S064_Q0003,S064_F0002,What are the program outcomes of Mechatronics Engineering?,direct
+S064_Q0004,S064_F0002,What abilities will mechatronics graduates have?,paraphrase
+S064_Q0005,S064_F0003,Is the Mechatronics Engineering BE ABET accredited?,direct
+S064_Q0006,S064_F0003,Which ABET criteria apply to mechatronics engineering?,paraphrase
+S064_Q0007,S064_F0004,What careers can mechatronics engineers pursue?,direct
+S064_Q0008,S064_F0004,Can mechatronics engineers work in the automotive or medical industries?,paraphrase
+S064_Q0009,S064_F0005,How many credits are the BE and BS in Mechatronics Engineering?,direct
+S064_Q0010,S064_F0005,How many semesters is the mechatronics BS?,paraphrase
+S064_Q0011,S064_F0006,How are credits distributed in the BS in Mechatronics Engineering?,direct
+S064_Q0012,S064_F0006,How many major credits are in the mechatronics BS?,paraphrase
+S064_Q0013,S064_F0007,What is the credit distribution of the mechatronics BE?,direct
+S064_Q0014,S064_F0007,How many elective credits are in the mechatronics BE?,paraphrase
+S064_Q0015,S064_F0008,What are the mandatory courses in Mechatronics Engineering?,direct
+S064_Q0016,S064_F0008,Is Robotics required for mechatronics students?,paraphrase
+S064_Q0017,S064_F0009,What are the prerequisites for MECA 444 Mechatronic Systems Programming?,direct
+S064_Q0018,S064_F0009,Is MECA 444L a 1-credit or 3-credit course?,paraphrase
+S064_Q0019,S064_F0010,What technical electives can mechatronics BE students take?,direct
+S064_Q0020,S064_F0010,What are the two elective areas in mechatronics engineering?,paraphrase
+S064_Q0021,S064_F0011,How many credits is the mechatronics summative learning project?,direct
+S064_Q0022,S064_F0011,How is the mechatronics BE project split across semesters?,paraphrase
+S064_Q0023,S064_F0012,What is the co-op requirement for mechatronics engineering?,direct
+S064_Q0024,S064_F0012,How many credits is MECA 499 Co-op?,paraphrase
+S064_Q0025,S064_F0013,What courses do mechatronics students take in year 1?,direct
+S064_Q0026,S064_F0013,When do mechatronics students take Mechanical Engineering Graphics & CAD?,paraphrase
+S064_Q0027,S064_F0014,What courses are in mechatronics year 2?,direct
+S064_Q0028,S064_F0014,When do mechatronics students take Dynamic Systems Modeling?,paraphrase
+S064_Q0029,S064_F0015,What courses are in mechatronics year 3?,direct
+S064_Q0030,S064_F0015,When do mechatronics students take Microcontrollers and Sensors & Actuators?,paraphrase

@@ -1,0 +1,64 @@
+qa_id,fact_id,question,question_style
+S006_Q0001,S006_F0001,Who sets tuition fees at RHU?,direct
+S006_Q0002,S006_F0001,Can RHU raise tuition without telling students beforehand?,paraphrase
+S006_Q0003,S006_F0002,How much does one credit cost in the business college?,direct
+S006_Q0004,S006_F0002,What is the per-credit tuition for an undergraduate BBA student?,paraphrase
+S006_Q0005,S006_F0002,Business undergrad tuition per credit?,short
+S006_Q0006,S006_F0003,What is the tuition per credit for engineering students?,direct
+S006_Q0007,S006_F0003,How much will I pay per credit if I study engineering at RHU?,contextual
+S006_Q0008,S006_F0003,Engineering credit price?,short
+S006_Q0009,S006_F0004,How much is a credit in Graphic Design?,direct
+S006_Q0010,S006_F0004,What's the per-credit tuition for graphic design majors?,paraphrase
+S006_Q0011,S006_F0005,What is the tuition per credit for Computer Science?,direct
+S006_Q0012,S006_F0005,How much do HCIS students pay per credit?,paraphrase
+S006_Q0013,S006_F0006,How much is a credit in the Freshman Program?,direct
+S006_Q0014,S006_F0006,What do freshman arts or sciences students pay per credit?,paraphrase
+S006_Q0015,S006_F0007,How much does each IELP level cost?,direct
+S006_Q0016,S006_F0007,What is the fee for IELP 100?,paraphrase
+S006_Q0017,S006_F0007,I was placed in IELP 085. How much will that level cost me?,contextual
+S006_Q0018,S006_F0008,What is the graduate tuition per credit at RHU?,direct
+S006_Q0019,S006_F0008,How much does a master's credit cost in engineering?,paraphrase
+S006_Q0020,S006_F0009,What is the enrollment fee for new students?,direct
+S006_Q0021,S006_F0009,When is the USD 150 deposit refunded?,paraphrase
+S006_Q0022,S006_F0009,"I just decided to join RHU, which initial fees do I pay?",contextual
+S006_Q0023,S006_F0010,What is the NSSF fee and who has to pay it?,direct
+S006_Q0024,S006_F0010,Do Lebanese students pay a social security subscription at RHU?,paraphrase
+S006_Q0025,S006_F0011,How much are the service fees per semester?,direct
+S006_Q0026,S006_F0011,What is the service fee for a summer session?,paraphrase
+S006_Q0027,S006_F0012,How much is the co-op fee?,direct
+S006_Q0028,S006_F0012,Is there a fee for doing co-op training at RHU?,paraphrase
+S006_Q0029,S006_F0013,How much is the late registration fee?,direct
+S006_Q0030,S006_F0013,What will I be charged if I register late?,contextual
+S006_Q0031,S006_F0014,What is the late payment fee per installment?,direct
+S006_Q0032,S006_F0014,What happens if I miss an installment deadline?,contextual
+S006_Q0033,S006_F0015,How many installments can I pay tuition in?,direct
+S006_Q0034,S006_F0015,What is the deferred payment fee per semester?,paraphrase
+S006_Q0035,S006_F0016,How much is the shuttle bus per semester?,direct
+S006_Q0036,S006_F0016,Which areas does the RHU shuttle cover?,paraphrase
+S006_Q0037,S006_F0016,Can I get my shuttle fee back after the second week?,contextual
+S006_Q0038,S006_F0017,How much is parking at RHU?,direct
+S006_Q0039,S006_F0017,What is the motorbike parking fee per semester?,paraphrase
+S006_Q0040,S006_F0018,How much does a dorm room cost per semester?,direct
+S006_Q0041,S006_F0018,What is the price of a single room in Block F?,paraphrase
+S006_Q0042,S006_F0018,I want to share a double room in the dorm. How much is it for the summer?,contextual
+S006_Q0043,S006_F0019,How much is the dorm deposit and when is it refunded?,direct
+S006_Q0044,S006_F0019,Will I get my dorm deposit back if furniture is damaged?,contextual
+S006_Q0045,S006_F0020,What is the penalty for paying dorm fees late?,direct
+S006_Q0046,S006_F0020,Can my dorm residency be cancelled for unpaid fees?,paraphrase
+S006_Q0047,S006_F0021,What happens if I have a financial hold?,direct
+S006_Q0048,S006_F0021,Can I see my grades or get a transcript with unpaid fees?,paraphrase
+S006_Q0049,S006_F0021,I have a financial hold. Can I register during regular registration?,contextual
+S006_Q0050,S006_F0022,Am I charged for a course if I don't drop it by the deadline?,direct
+S006_Q0051,S006_F0022,What risk do I face if I don't pay tuition by the deadline?,paraphrase
+S006_Q0052,S006_F0023,How can I pay my tuition at RHU?,direct
+S006_Q0053,S006_F0023,Can I pay RHU fees at BankMed?,paraphrase
+S006_Q0054,S006_F0023,What do I need to bring when paying fees at the bank?,contextual
+S006_Q0055,S006_F0024,Are tuition payments split automatically into installments?,direct
+S006_Q0056,S006_F0024,How many payments is summer tuition divided into?,paraphrase
+S006_Q0057,S006_F0025,Do I get a refund if I drop a course during drop and add?,direct
+S006_Q0058,S006_F0025,Can I get money back for a course dropped after the add/drop period?,paraphrase
+S006_Q0059,S006_F0026,How much tuition is refunded if I withdraw from the university before classes start?,direct
+S006_Q0060,S006_F0026,"If I withdraw from RHU during drop/add, what percentage do I get back?",contextual
+S006_Q0061,S006_F0026,Is there any refund for students on deferred payment who withdraw?,paraphrase
+S006_Q0062,S006_F0027,How do I get my general deposit back after graduating?,direct
+S006_Q0063,S006_F0027,Where do I get the clearance form for the deposit refund?,paraphrase

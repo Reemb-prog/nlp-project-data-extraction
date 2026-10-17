@@ -1,0 +1,106 @@
+PREVIOUS PAGE 422 (reference only; do not make a fact for this page):
+MECA 535   Expert Systems and Applied Intelligence               3(3,0)
+ This course explores the core principles of intelligent systems and their application in
+ solving complex engineering and decision-making problems. Students  will learn
+ perception methods, reasoning techniques, and search strategies, as well as key AI
+ tools such as neural networks, evolutionary computing, fuzzy logic, and intuitionistic
+ fuzzy logic. The course also introduces intelligent programming using Prolog/python
+  to model knowledge and  build rule-based  expert systems. Through  practical
+ examples, students will gain hands-on experience in developing AI-driven solutions
+  for real-world applications. Prerequisite: MECA 444L.
+
+ MECA 536   Applied Deep Learning for Intelligent Systems         3(3,0)
+ This course introduces the basics of computer vision and machine learning, focusing
+ on their use in intelligent systems. Students will learn techniques for object detection,
+ image understanding, and sensor data interpretation, using deep learning tools to
+ build decision-making models. Hands-on practice with simulation platforms will allow
+ students to design and test vision-based solutions in realistic scenarios. At the end of
+ the course, participants will gain practical skills in combining perception, planning, and
+ control,  preparing  them  for  applications  in  autonomous  systems and  other
+ technologies. Prerequisite: MECA 444L.
+
+ MECA 546    Smart Energy Management Systems                  3(3,0)
+ This course delves into smart energy management systems (SEMS), focusing on
+ versatile operating modes in solar photovoltaic (PV) and battery energy storage
+ (BESS) systems. It equips mechatronics engineering students with the fundamental
+ knowledge and practical skills required to design, implement, and optimize these
+ crucial technologies for a sustainable future. Furthermore, the course discusses the
+ potential of using generative AI for the design and development of smart energy
+ management  systems. A  capstone  case  study  is  presented and  analyzed.
+ Prerequisite: MECA 442.
+
+ MECH 522   Mechanism Synthesis: Classical Kinematics to AI-     3(3,0)
+              Driven Optimization
+ This course  introduces  the theory and computational  practice  of mechanism
+ synthesis, with emphasis on the design of four-bar linkages for path, motion, and
+ function generation. Classical kinematic synthesis methods are integrated with
+ numerical optimization techniques, including Newton–Raphson, least-squares, and
+ gradient-based methods, as well as intelligent metaheuristic algorithms such as
+ genetic algorithms, tabu search, and ant colony optimization. The course also
+ exposes students to data-driven and AI-assisted approaches, including deep neural
+ networks  for inverse mechanism design, as advanced computational  tools  for
+ automation, design-space exploration, and decision support in mechanism synthesis.
+ Computational projects provide students with hands-on experience in mechanism
+ modeling, simulation, error analysis, optimization, and the synthesis of mechanical
+ systems under practical design constraints. Prerequisite: MECH 321.
+
+
+
+Page 422
+
+NEXT PAGE 427 (reference only; do not make a fact for this page):
+Faculty List
+
+Al Wardany, Riad; Associate Professor, Ph.D. in  Civil Engineering, University of
+Sherbrooke, 2005
+
+Arid, Amal; Lecturer, Master’s in Computer and Electrical Engineering, AUB, 2010.
+
+Chaaban, Ahmad; Professor, Ph.D. in Mechanical Engineering, University of Waterloo,
+1985.
+
+Rouaa, El Chammaa; Assistant Professor, Ph.D. in Computer and Communication
+Engineering, USJ/ Lyon University, 2020
+
+Berjaoui, Omar; Instructor, Master in Mechatronics Engineering, RHU,2011.
+
+Diab, Mohammad;  Professor,  Ph.D.  in  Biomedical  Engineering,  University  of
+Compiègne, 2007.
+
+Diab, Nadim; Professor, Ph.D. in Mechanical Engineering, American University of
+Beirut, 2013.
+
+Fawaz, Amani; Lecturer, Ph.D. in Electrical and Energy Engineering, ESIB-USJ, 2025.
+
+Hajj Chehade, Rana; Assistant Professor, Master 2 in Civil Engineering, Lille University,
+2015.
+
+Hijazi, Toufic; Professor, Ph.D. in Electrical Engineering, Clarkson University, 1988.
+
+Kaderi, Mohamad; Lecturer, MS in Mechatronics Engineering, Rafik Hariri University,
+2024
+
+Kasab, Milana; Lecturer, M.Sc. in Biomedical Engineering, Rafik Hariri University, 2021.
+
+Koubeissi, Ahmad;  Associate  Professor,  Ph.D.  in  Robotics  and  Automation
+Engineering, university of Lille, 2015.
+
+Machaka, Muheiddein; Associate Professor, Ph.D. in Civil Engineering, Beirut Arab
+University, 2015.
+
+Maatouk, Maya: Instructor, Master in Mechatronics Engineering, Politecnico di Torino,
+Turin, Italy, 2021.
+
+Moslem, Bassam; Associate Professor, Ph.D. in Signal Processing and Bioengineering,
+UTC, 2011.
+
+Mrad, May;  Instructor, M.Sc.  in  Civil & Environmental Engineering, Rafik  Hariri
+University, 2018.
+
+Moustafa, Ousama;  Associate  Professor,  Ph.D.  in  Engineering,  University Le
+Havre,2008.
+
+Ramadan, Rawan; Lecturer, Ph.D. Structural and Geotechnical Engineering, BAU,
+2024.
+
+Page 427

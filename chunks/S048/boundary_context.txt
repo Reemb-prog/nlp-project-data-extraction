@@ -1,0 +1,96 @@
+PREVIOUS PAGE 315 (reference only; do not make a fact for this page):
+ELEC 331L    Electric Machines Lab                                   1(0,2)
+ This is a Lab course with experiments on electric machines. It covers the following
+ topics: the basics of DC motors and generators; DC series, shunt, and separately
+ excited motors and generators; single-phase AC induction machines; and 3-phase
+ machines. Co-requisite: ELEC 331.
+
+ELEC 340    Engineering Electromagnetics                          3(3,0)
+ This course covers vector analysis, static electric fields, static magnetic fields, time-
+ varying fields, Maxwell’s equations, and electromagnetic waves. Prerequisite: PHYS
+ 211.
+
+ELEC 400   Summative Learning (BS) Project                       3(3,0)
+Team-oriented, project-based experience culminating in the creation of an artifact;
+milestones include project selection and proposal, a creative solution, a report, a
+presentation, and a demonstration of the device. Prerequisite: ENGL 217 taken in
+the last semester of the BS Program. Annually.
+
+ELEC 405    Electrical System Design                                 3(3,0)
+This course aims to teach students how to design various electrical systems, including
+equipment selection, protection systems, EMC and safety requirements, international
+standards,  drawing  and  interpreting  schematics  and  wiring  diagrams,  cost
+considerations, and energy efficiency. Prerequisite: ELEC 210.
+
+ELEC 406   Modeling and Simulation                                 3(3,0)
+This course aims to teach students how to represent, characterize, understand,
+analyze, and solve real-world problems through modeling and simulation. In this
+course, students are introduced to the tools and techniques for modeling and simulating
+systems, ranging from basic circuits to more complex technical systems across various
+engineering domains. Prerequisite: PHYS 211 and ELEC 210.
+
+ELEC 431    Introduction to Renewable Energy Systems             3(3,0)
+ This course aims to provide students with information on renewable energy sources,
+ including solar, wind, and wave energy, as well as biomass energy. This course will
+ also illustrate how to link these sources to the grid and synchronize them to deliver
+ electricity reliably and efficiently. Prerequisite: ELEC 210.
+
+ELEC 432   Power Electronics                                        3(3,0)
+ This course  familiarizes the students with basic power switch technology and
+ associated electronic circuits. In this course, power electronic circuits and switching
+ devices are studied. Their applications in AC/DC, DC/DC, DC/AC, and AC/AC
+ converters, as well as switching power supplies, are studied. Prerequisite: ELEC
+ 320.
+
+ELEC 432L  Power Electronics Lab                                   1(0,2)
+ This Lab course is designed to teach students the fundamentals of power electronics.
+ It covers the following topics: uncontrolled single- and 3-phase rectifiers using diodes;
+                                                          Page 315
+
+NEXT PAGE 320 (reference only; do not make a fact for this page):
+MINOR IN RENEWABLE ENERGY SYSTEMS
+
+Rationale
+
+The College of Engineering/ECE Department offers a minor in Renewable Energy
+Systems (RES). The minor aims to address the expected national, regional, and
+international need for personal experts in renewable energy systems for the generation,
+transmission, and use of energy.
+
+Program Objectives
+
+The aims of the minor are to:
+
+ •  Provide students with advanced expertise in renewable energy sources, systems,
+    and policies;
+ •  Provide students  with the necessary  tools  to  contribute  to the  fast-growing
+    renewable energy systems sector;
+ •  Prepare undergraduate students for graduate studies in renewable energy.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate the ability to:
+ •  Use current techniques, architectures, and tools to generate, store, and distribute
+    energy from renewable sources;
+ •  Design systems and tools to generate, store, and distribute renewable energy.
+
+Program Requirements
+
+While most  relevant  to  electrical engineering  students,  this minor  is  offered  to
+undergraduate RHU students in the BE or MS program, from different engineering
+disciplines.  It may also be offered to students with a BS/BE from other universities,
+subject to a case-by-case evaluation of  their transcripts and other specific RHU
+requirements.
+
+Early  in  their major, interested RHU engineering students need to complete the
+appropriate form declaring their intent to minor in RES while completing their regular
+major.
+
+To complete the RES minor, a student must
+1)  Declare a minor in Renewable Energy Systems by completing the Minor Declaration
+    Form;
+2)  Obtain the approval of the dean of the student’s college major and the dean of the
+    College of Engineering
+3)  Earn a Minor Cumulative Grade Point Average of no less than 70%.
+4)  Complete 18 credits of coursework as specified below.
+                                                           Page 320

@@ -1,0 +1,78 @@
+PREVIOUS PAGE 367 (reference only; do not make a fact for this page):
+bladder prostheses, cochlear prostheses, and cardiac defibrillators and cardioverters.
+Prerequisite: BIOM 301.
+
+BIOM 312   Biomedical Engineering Design                         3(3,0)
+This course examines the origins of various bioelectric phenomena and signals
+routinely recorded in modern clinical practice. Given adequate monitoring equipment,
+the engineer of today can record many forms of bioelectric phenomena with relative
+ease. This course describes the theoretical, block-diagram, and circuitry aspects of
+electrophysiological  devices  such  as  electrocardiogram,  electroencephalogram,
+electroneurogram, electromyogram, and the like. Prerequisite: BIOM 301.
+
+BIOM 312L  Biomedical Engineering Design Lab                    1(0,2)
+The accompanying lab for BIOM 301 teaches students to measure and interpret
+biological and medical signals. Experiments cover the following topics: signal, noise,
+pressure (strain gauge), and temperature measurements; blood and gas flow, motion,
+and force measurements; and applications using electrodes based on medical
+equipment and research and simulation kits. Co-requisite: BIOM 312.
+
+BIOM 400   Summative Learning (BS) Project                       3(3,0)
+Team-oriented, project-based experience culminating in the creation of an artifact;
+milestones include project selection and proposal, a creative solution, a report, a
+presentation, and a demonstration of the device. Prerequisite: ENGL 217 taken in the
+last semester of the BS Program. Annually.
+
+BIOM 313    Bio-electronics Circuit Design                          3(3,0)
+This course focuses on design and measurement processes for medical systems and
+associated constraints. Students are required to apply the learned concepts in projects
+to design healthcare technology. Prerequisites: BIOM 301, ELEC 320.
+
+BIOM 414    Advanced Biomedical Instrumentation                 3(3,0)
+The  course  describes  the advanced  medical  electronic  instruments used  in
+therapeutic and diagnostic medicine. It includes extracorporeal shock wave lithotripsy,
+an infant incubator, a medical laser, a ventilator, and various medical devices used in
+the operating room, such as electrosurgical units and anesthesia units. Prerequisite:
+BIOM 311.
+
+BIOM 415L   Advanced Biomedical Lab                              1(0,2)
+The accompanying lab for BIOM 414 teaches students about advanced medical
+electronic instruments used in therapeutic and diagnostic medicine. Experiments
+cover the following topics: extracorporeal shock wave lithotripsy, infant incubator,
+medical laser applications, ventilator, and various medical devices used  in the
+operating room, such as electrosurgical units and anesthesia units. Co-requisite:
+BIOM 414.
+
+
+
+
+                                                          Page 367
+
+NEXT PAGE 373 (reference only; do not make a fact for this page):
+MECHANICAL AND MECHATRONICS ENGINEERING
+DEPARTMENT (MME)
+
+Chairperson:          Nadim Diab
+Professor:           Ahmad Chaaban, Nadim Diab,
+Associate Professor:   Ahmad Kobeissi
+Assistant Professor:    Manar Younis
+Lecturer:            Mohamad Al Kaderi
+Adjunct Faculty:       Omar Berjaoui, Maya Maaotuk
+
+Programs Offered
+
+The Mechanical and Mechatronics Engineering (MME) Department offers two programs
+– Mechanical Engineering (MECH) and Mechatronics Engineering (MECA). Each
+program grants three degrees: Bachelor of Science, Bachelor of Engineering, and
+Master of Science. The details of each program follow.
+
+Vision
+
+To be recognized for the ability, agility, and tenacity of its graduates in confronting the
+challenges of a changing workplace.
+
+
+
+
+
+                                                           Page 373

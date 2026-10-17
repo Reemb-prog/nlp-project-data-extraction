@@ -1,0 +1,412 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S026 | Healthcare information systems
+ORIGINAL PDF PAGES: 158 to 165 (inclusive)
+ONLY extract facts whose source page is between 158 and 165.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 158 ==========
+HEALTHCARE INFORMATION SYSTEMS PROGRAM
+(HCIS)
+
+Mission
+
+The mission of the Healthcare Information Systems program is devoted to providing
+students with a state-of-the-art curriculum, maintaining persistent relationships with
+industry to create opportunities  for students,  cultivating learners with a sense of
+responsibility towards the profession and a passion for lifelong learning, and providing
+the educational experiences that will enable our students to be innovative leaders.
+
+Objectives
+
+The educational objectives of the Healthcare Information Systems program intend to
+enable its graduates, within a few years of graduation, to:
+
+  •   Solve healthcare computing problems that meet local, regional, or global markets.
+  •   Demonstrate professional skills and ethical behavior in practicing their profession
+  •   Progress in computing and other professionally related fields at the level of
+       professional employment or graduate studies
+
+Program Outcomes
+
+Upon successful completion of the BS degree in Healthcare Information Systems,
+graduates should demonstrate:
+
+  a.  An ability to apply knowledge of health information systems and use current
+       technologies, techniques, skills, and tools necessary for effective delivery of
+      healthcare services appropriate to healthcare organizations;
+  b.  An ability to apply health analytic methods to influence the planning, organizing,
+       administering, and policy creation of healthcare organizations;
+   c.  An ability to design, implement, and evaluate healthcare systems, processes, and
+      procedures to meet desired needs;
+  d.  An ability to evaluate healthcare processes, practices, management of data,
+       technologies, and conditions to ensure compliance with established quality and
+       professional standards;
+  e.  An ability to function effectively on teams to accomplish a common goal;
+    f.  An understanding of professional, ethical, legal, security, and social issues and
+       responsibilities;
+  g.  An ability to communicate effectively with a range of audiences.
+  h.  Recognition of the need for and an ability to engage in continuing professional
+      development.
+
+
+
+                                                                   Page 158
+
+========== ORIGINAL PDF PAGE 159 ==========
+Career Opportunities
+
+With a Healthcare  Information Systems degree,  students  will  gain  foundational
+knowledge to develop and apply information technologies and systems to meet the
+growing needs  of healthcare  organizations. Given the importance  of information
+accuracy, privacy, and security, HCIS graduates will be prepared for involvement in
+regulatory compliance and quality assessment activities designed to ensure that health
+information systems support patient care and safety. HCIS graduates can work with
+nurses, physicians, other healthcare providers, managers, and technical specialists in a
+variety of settings such as hospitals, long-term-care facilities, insurance and managed
+care organizations, government agencies, and vendor firms.
+
+Program Overview
+
+RHU’s Healthcare Information Systems (HCIS) program combines concepts from
+healthcare, information technology, and leadership practice to prepare graduates with
+the knowledge and skills needed to be effective designers and developers of health
+information systems. The HCIS program at RHU develops students’ computational and
+critical thinking  skills to create, not simply use, new healthcare technologies and
+systems. Students  learn  to  think  logically and solve problems by  acquiring the
+fundamental principles of science and advanced techniques currently used in practical
+systems development. They also learn oral communication and presentational skills and
+how to work on individual and team projects to develop new systems that enhance time
+management and team coordination. RHU’s HCIS program graduates are lifetime
+learners; they can adapt quickly to this ever-changing, challenging field.
+
+To obtain a Bachelor of Science degree in HCIS, the student must complete 100 credit
+hours. These hours include University requirements (UR), College requirements (CR),
+and Program requirements (PR). The allocation of the credit hours is shown in the
+following table:
+
+BS in Healthcare Information Systems (100 Credits)
+ Courses         Major               Non-Major
+ Category
+                Mandatory Electives Mandatory Electives Credits Percent
+ General         9         –        13        9        31     31
+ Education
+ College          –         –        –         –        –      –
+ Requirement
+ Program         42        9        18        –        69     69
+ Requirement
+ Credits          51        9        31        9        100    100
+
+
+
+
+
+                                                                   Page 159
+
+========== ORIGINAL PDF PAGE 160 ==========
+I.   University Requirements (General Education)
+
+The  list of the University's required courses and descriptions  is presented on the
+introductory pages of the College of Arts and Sciences section of this catalog.
+
+II.  College Requirements
+
+The list of college-required courses and descriptions is presented in the introductory
+pages of the College of Arts and Sciences section of this catalog.
+
+III. Program Requirements
+
+A.  Mandatory Requirements
+
+Mathematics
+The mathematics requirement courses are listed in the table below.
+
+ Course #   Title                                  Credits   Prerequisites
+ MATH 210  Discrete Mathematics                 3
+ MATH 215  Calculus III                         3
+ MATH 311  Linear Algebra                      3
+ MATH 421  Numerical Analysis                   3      MATH 311
+
+Business Requirements
+The business requirement courses are listed in the table below.
+
+ Course #     Title                            Credits   Prerequisites
+ BMGT 300    Project Management            3          Junior Standing
+ BMKA 200    Introduction to Marketing         3          Co-req.: ENGL 210
+
+Major Requirements
+The HCIS mandatory core courses are listed in the table below.
+
+ Course #     Title                                  Credits  Prerequisites
+ COSC 215   Advanced  Programming  and  Data 3     COSC 214
+               Structures
+ COSC 231   Database Management Systems        3     COSC 214
+ COSC 316   Design and Analysis of Algorithms      3     COSC 215
+ COSC 333  Web Programming                   3     COSC 214
+ COSC 341   Software Engineering                3     COSC 214
+ COSC 360   Networking                         3     COSC 214
+ COSC 360L  Networking Lab                     1         Co-req.:   COSC
+                                                      360
+ COSC 480   Machine Learning and Data Mining      3     COSC 214; MATH
+                                                      351 or BADM 250
+ HCIS 240    Medical Terminology                 3
+ HCIS 341    Health Information Systems I           3       BIOL 210
+ HCIS 342    Health Information Systems II          3       HCIS 341
+
+
+                                                                   Page 160
+
+========== ORIGINAL PDF PAGE 161 ==========
+HCIS 343    Information  Security  and  Privacy  in 3       HCIS 341
+              Healthcare
+ HCIS 399    Co-op Training Experience            1      ENGL 217; Senior
+                                                                Standing.
+ HCIS 444    Healthcare Business Intelligence & Data 3       HCIS 341
+              Analysis
+ HCIS 445    Research   in  Healthcare  Information 1        Senior Standing
+            Systems
+ HCIS 490    Summative Learning Experience        3      ENGL 217
+
+B.  Technical Electives
+
+As part of the Bachelor of Science in Healthcare Information Systems (HCIS) program,
+students must complete 9 credit hours of technical electives. These courses allow
+students to focus on a specific area for in-depth knowledge and understanding. The
+student can also mix and match elective courses from different areas to gain a broader
+exposure to the various HCIS disciplines. In cooperation with the academic advisor, the
+student should select electives that best align with their needs and aspirations. The listed
+technical elective courses and other courses from engineering programs, in addition to
+the required program courses, are designed to allow the student to develop in-depth
+knowledge and understanding in areas of interest.
+
+ Course #   Title                                Credits  Prerequisites
+ BIOM 520  Health-care Facility Management      3       HCIS 341
+ BIOM 565  Introduction to E-Healthcare          3       HCIS 341
+                                       COSC 231 and COSC
+ COSC 434 Advanced Web Programming         3
+                                                   333
+                                       COSC  214;  Senior
+ COSC 435  Mobile Application Development      3
+                                                          Standing
+ COSC 436 Game Programming                3     COSC 214
+ COSC 438  Introduction to Software Testing       3     COSC 341
+ COSC 451  Operating Systems                 3     COSC 214
+                                       COSC 360 or CCEE
+ COSC 461 Advanced Networking               3
+                                                   354
+ COSC 463  Cybersecurity Operations            3     COSC 360
+ COSC 481  Artificial Intelligence                3     COSC 214
+                                                               Co-req.: COSC 333
+ COSC 482  Data Science and Web Scraping      3
+                                                   and MATH 351
+ COSC 498  Special Topics                    3
+ HCIS 498   Special Topics                    3        Senior Standing
+ CCEE 561  Computer Vision                   3     COSC 214
+ CCEE 566  Natural Language Processing        3     COSC 214  or COSC
+                                                          214.
+* The list of elective courses is subject to change.
+
+In addition, the students can take the following three labs instead of one elective.
+
+
+
+                                                                   Page 161
+
+========== ORIGINAL PDF PAGE 162 ==========
+Course #     Title                            Credits     Prerequisites
+ Networking
+ COSC 460L  Networking Lab 2               1            Co-req.: COSC 360L
+ COSC 461L  Networking Lab 3               1        COSC 460L
+ COSC 462L  Networking Lab 4               1            Co-req.: COSC 461L
+                                                                 or CCEE 555L.
+
+C.  Summative Learning Project
+
+Students must complete a 3-credit-hour course in which they work, preferably in groups,
+on a problem of concern to industry or the community at large, or on a promising idea to
+innovate. The SLP could be an extension of the projects students worked on in the
+Engineering for the Community course, bringing them to a more useful outcome.
+
+D.  Co-op Training Experience
+
+Each student must complete 8 weeks of practical training in a field related to their
+interests. The Co-op experience is usually fulfilled during the summer semester of the
+third year in the program. The Co-op office matches the Co-op assignment with the
+student’s field of study and the employer’s interest. A faculty member is assigned to
+mentor the student and follow up on their progress throughout the Co-op period by
+conducting field visits and ensuring that the student’s performance aligns with their
+aspirations and the employer’s needs. Students must submit a formal report and a poster
+and make a formal presentation about their Co-op experience. While ENGL 217 and
+Senior Standing are prerequisites  for co-op  training, the program must  stipulate
+additional conditions.
+
+Course Coding
+
+Code numbers designate the courses offered in the HCIS program in the form of (HCIS
+abc), where:
+  a   Designate the year (level)
+  b   Designate the focus area as follows:
+       1. Software Engineering and Quality Assurance; 2. Network Administration and
+       Security; 3. Healthcare
+  c   Designate the course sequence in a focus area.
+
+Study Plan
+
+The Bachelor of Science in Healthcare Information Systems encompasses 100 credit
+hours over six semesters and two summer sessions. The following study plan serves as
+a roadmap for smooth progression toward graduation.
+
+ Course #    Title                                  Credits  Prerequisites
+ Year 1, Fall Semester (15 Credits)
+ ARAB 212   Arabic Language and Communication    2
+
+
+                                                                   Page 162
+
+========== ORIGINAL PDF PAGE 163 ==========
+BMKA 200   Introduction to Marketing              3         Co-req.: ENGL 210
+           Community & Sustainability            1         Co-req.: ENGL 210
+COSC 214   Introduction to Programming           3
+ENGL 210   English Composition and Rhetoric       3        Placement
+MATH 215   Calculus III                         3
+Year 1, Spring Semester (16 Credits)
+COSC 215  Advanced  Programming  and   Data 3      COSC 214
+             Structures
+COSC 231  Database Management Systems        3      COSC 214
+CMNS 205   First Aid                           1
+ENGL 217   Professional English Communication     3      ENGL 210
+HCIS 240    Medical Terminology                 3
+MATH 210   Discrete Mathematics                 3
+Year 1, Summer Semester (6 Credits)
+BIOL 210   Human Anatomy and Physiology and Lab 3
+             Social Science/Culture Elective I        3
+Year 2, Fall Semester (16 Credits)
+COSC 316  Design and Analysis of Algorithms       3      COSC 215
+COSC 333  Web Programming                   3      COSC 214
+COSC 360   Networking                         3      COSC 214
+COSC 360L Networking Lab                     1         Co-req.:   COSC
+                                                     360
+HCIS 341    Health Information Systems I           3
+MATH 351   Probability and Statistics              3      MATH 215
+Year 2, Spring Semester (15 Credits)
+COSC 341   Software Engineering                 3      COSC 214
+HCIS 342    Health Information Systems II          3       HCIS 341
+HCIS 343    Information  Security  and  Privacy  in 3       HCIS 341
+             Healthcare
+MATH 311   Linear Algebra                      3
+          HCIS Major Elective I                 3
+Year 2, Summer Semester (1 Credit)
+HCIS 399   Co-op Training Experience             1      ENGL 217; Senior
+                                                            Standing
+Year 3, Fall Semester (15 Credits)
+MATH 421   Numerical Analysis                   3      MATH 311
+GRDS 440  Design and Social Impact              3
+HCIS 444    Healthcare  Business  Intelligence  and 3       HCIS 341
+            Data Analysis
+             Humanities/Fine Arts Elective          3
+          HCIS Major Elective II                3
+Year 3, Spring Semester (16 Credits)
+BMGT 300   Project Management                 3         Junior Standing
+
+
+
+                                                                  Page 163
+
+========== ORIGINAL PDF PAGE 164 ==========
+COSC 480  Machine Learning and Data Mining      3      COSC 214; MATH
+                                                     351 or BADM 250
+ HCIS 490   Summative Learning Experience        3      ENGL 217
+ HCIS 445   Research   in  Healthcare  Information 1        Senior Standing
+            Systems
+           HCIS Major Elective III                3
+              Social Sciences/Culture Elective II       3
+
+Courses Description
+
+I.  Mandatory Courses
+
+Descriptions of the major mandatory courses are given below.
+
+COSC 214  Introduction to Programming                               3(2,2)
+ This course presents the fundamentals of structured and modular programming
+ concepts. It covers primitive data types, expressions, control statements, functions,
+ arrays,  basic search and  sorting  algorithms, and an  introduction  to  pointers.
+ Prerequisite: None. Equivalent to CCEE 214.
+
+COSC 215  Advanced Programming and Data Structures             3(2,2)
+ Continuing COSC 214, this course covers the basics of object-oriented programming
+ (OOP) languages and data structures.  It covers pointers, classes, encapsulation,
+ constructors/destructors, object instantiation, and templates. The course also details
+ data structures and applications such as stacks, queues, lists, and trees. Prerequisite:
+COSC 214. Equivalent to CCEE 216.
+
+COSC 231  Database Management Systems                           3(3,0)
+ This course exposes students to the fundamental concepts for designing, using, and
+ implementing database systems.   It covers database concepts, data modeling,
+ relations, normalization, and data manipulation languages. Prerequisite: COSC 214.
+ Equivalent to CCEE 315.
+
+COSC 316  Design and Analysis of Algorithms                         3(3,0)
+ This course consolidates algorithm design and programming techniques. It provides an
+ extended study of object-oriented programming properties, data structures, and data
+ abstraction, as well as an introduction to complexity considerations. Prerequisite:
+COSC 215.
+
+COSC 333 Web Programming                                          3(3,0)
+ This course teaches students how to develop and implement web-based programs,
+ with an emphasis on  front-end  programming.   It  introduces  students  to web
+ development,  client-side languages, and the  styles needed  to  build  functional,
+ responsive websites. The course covers HTML5, CSS3, JavaScript/jQuery, and
+ responsive design. Prerequisite: COSC 214. Equivalent to CCEE 411.
+
+
+                                                                   Page 164
+
+========== ORIGINAL PDF PAGE 165 ==========
+COSC 341  Software Engineering                                       3(3,0)
+This course provides a deep and comprehensive understanding of the fundamentals
+of software engineering. The course introduces students to software process models,
+project management, software requirements, and engineering processes. The course
+covers SDLC stages, UML diagrams, and the use of CASE tools. Prerequisite: COSC
+214. Equivalent to CCEE 310.
+
+COSC 360  Networking                                                  3(3,0)
+This course enables students to gain fundamental knowledge of computer networks,
+appreciate various tradeoffs and choices in networking, learn to design and analyze
+protocols, and prepare to study advanced topics in the field of networks. Prerequisite:
+COSC 214. Equivalent to CCEE 354.
+
+COSC 360L Networking Lab                                            1(0,2)
+This Lab helps prepare students seeking to pass advanced Cisco Certifications. The
+student will acquire knowledge of network equipment and protocol functionality, how to
+build a simple Ethernet network using routers, switches, and computers, and how to
+use router CLI commands to perform basic configuration and verification. The student
+will also learn valuable network problem-solving techniques and concepts. This course
+is an accompanying Lab for COSC 360. Co-requisite: COSC 360 or CCEE 354.
+Equivalent to CCEE 354L.
+
+COSC 480  Machine Learning and Data Mining                        3(3,0)
+This course introduces students to the basic knowledge representation and learning
+techniques. The emphasis is on understanding the data mining process, applying
+appropriate approaches  to solve  practical problems, and developing  intelligent
+software applications. The course covers several topics about classification, prediction,
+and clustering. Prerequisites: COSC 214; MATH 351 or BADM 250. Equivalent to
+CCEE 564.
+
+HCIS 240   Medical Terminology                                       3(3,0)
+This course introduces elements of medical terminology, including the foundations of
+words used to describe the human body and its conditions, terminology for medical
+procedures,  and  the  names  of  commonly  prescribed  medications.  Spelling,
+pronunciation, and meanings of terms used in a professional healthcare system are
+covered, as well as the recognition of common abbreviations. Prerequisite: None.
+
+HCIS 341   Health Information Systems I                               3(3,0)
+This course introduces healthcare, medical, and business processes from a software
+design perspective. Topics include the history of – and current topics related to – the
+healthcare  delivery  process,  healthcare  functions  supported  by  hospital  IT
+departments, and interactions between healthcare and business data domains, as well
+as between medical and allied health professionals.
+
+
+
+
+                                                                  Page 165

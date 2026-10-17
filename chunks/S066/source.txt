@@ -1,0 +1,254 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S066 | Mechatronics engineering courses
+ORIGINAL PDF PAGES: 418 to 422 (inclusive)
+ONLY extract facts whose source page is between 418 and 422.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 418 ==========
+control systems  training  kits  available  in  the  laboratory,  providing them  with
+ opportunities to experiment with different hardware and system dynamics. This lab-
+ intensive  course  bridges  the gap between  theoretical concepts and  practical
+ implementation, equipping students with essential skills to design and deploy control
+ solutions across a wide array of engineering applications. Prerequisite: MECA 440.
+ Annually.
+
+MECA 441    Sensors and Actuators                                  3(3,0)
+ Sensor and actuator technologies; classification and terminology of sensors and
+ actuators; sensors  characteristics;  physical  principles  of sensing; measurement
+ applications  (position and speed, stress and  strain, temperature,  vibration and
+ acceleration, pressure and flow…); Electromagnetic principles; solenoids and relays;
+ electric motors (DC motors, Stepper motors…); Hydraulics actuators;  Pneumatic
+ actuators; interface methodologies and circuits; integration aspects; manufacturing
+ techniques and material properties; team projects. Prerequisite: MECA 341. Annually.
+
+MECA 442    Microcontrollers for Mechatronics                      3(2,2)
+ This course aims to provide a deep understanding of the integration of microcontrollers
+ in mechatronic systems, starting from the technologies used to develop embedded
+ systems to the internal features and peripherals of microcontrollers/microprocessors
+ (timers, interrupts, analog-to-digital converters…). In this course, students develop
+ various microcontroller programs for mechatronic applications, including the usage of
+ I/O and communication peripherals. Prerequisite: CCEE 221 and MECH 200.
+
+MECA 443    Mechatronic System Design                            3(3,0)
+ This course integrates all modules in mechatronics systems design. It consists of an
+ overview  of  mechatronics;  mechatronics systems  design  strategies; advanced
+ modeling; use of control strategies; design of electric actuators; design of sensors;
+ power electronics; hardware and software integration; and team projects on the design
+ and implementation of integration between mechanical, electrical, and control systems.
+ Prerequisite: MECA 440, 441, and 442.
+
+MECA 443L  Mechatronic System Design Lab                        1(0,2)
+ Overview of mechatronic systems; integration of mechanical components, sensors,
+ and  actuators  into  mechatronics  applications; use  of  switchgear components;
+ integration of microcontrollers and FPGAs; LabVIEW programming; Design of power
+ supplies. Co-requisite: MECA 443. Annually.
+
+MECA 444L   Mechatronic Systems Programming                    1(0,2)
+ This introductory 1-credit course provides mechatronics students with a foundational
+ understanding of Python. The curriculum is specifically designed to equip students with
+ the essential Python skills necessary for subsequent coursework and applications in
+ robotics, automation, and embedded systems. Emphasis will be placed on developing
+ a strong grasp of core Python concepts, data structures, and control flow, laying the
+ groundwork for using Python in the Robot Operating System (ROS), for  artificial
+ intelligence (AI) applications on platforms like Raspberry Pi and NVIDIA Jetson Nano,
+Page 418
+
+========== ORIGINAL PDF PAGE 419 ==========
+and for general scripting in mechatronic projects. Through hands-on exercises and
+ practical examples relevant to mechatronics, students will gain the confidence to apply
+ Python for tasks such as data acquisition, sensor interfacing, basic control algorithms,
+ and interaction with robotic software frameworks. Prerequisite: CCEE 214 and MECH
+ 200. Annually.
+
+MECA 445   Advanced Programming for AI & Robotics             3(3,0)
+ This  advanced  course,   built  upon  the  prerequisite  "Mechatronics  Systems
+ Programming," delves into the practical application of Python for developing intelligent
+ robotic systems. A significant portion of the course will be dedicated to the Robot
+ Operating System (ROS), providing students with the skills to design, implement, and
+ test complex robotic software. Students will learn core ROS concepts, including nodes,
+ topics, services, and parameters, as well as essential ROS tools for simulation and
+ real-world robot  interaction. Furthermore, the course  will explore techniques  for
+ integrating Artificial Intelligence (AI) into mechatronics applications using Python. This
+ will include an introduction to relevant Python libraries for machine learning, computer
+ vision, and data processing, along with practical examples of how AI can be applied to
+ tasks such as perception, decision-making, and control in robotic systems. The course
+ will emphasize hands-on projects and assignments using platforms such as Raspberry
+ Pi and NVIDIA Jetson Nano to provide students with practical experience in developing
+ and deploying advanced robotic and AI-driven mechatronic solutions. Prerequisite:
+MECA 444L. Annually.
+
+MECA 499    Co-op Work Experience                                 3(3,0)
+ This Co-op work experience is designed to provide students with a five-week short-
+ term opportunity in mechanical engineering. Students are encouraged to network in the
+ discipline-related industries. A report, a poster, and a PowerPoint presentation are
+ required. Prerequisites: ENGL 217; Senior Standing.
+
+ MECA 541   CAD/CAM/CAE                                          3(3,0)
+ Fundamental   principles   of  computer-aided  design  (CAD),  computer-aided
+ manufacturing (CAM), and computer-aided engineering (CAE);  prototyping and
+ distributed systems; specific rapid prototyping technologies; design for assembly; small
+ batch manufacturing; continuous manufacturing; biotechnology and manufacturing.
+ Prerequisite: MECH 224 and MECH 421. Annually.
+
+MECA 542     Industrial and Manufacturing Control                   3(2,2)
+ This course  will give an overview of programmable logic controllers (PLCs) and
+ explores  different PLC  hardware  components;  number  systems  and  codes;
+ fundamentals of Logic; generation, loading and testing of PLC programs required to
+ operate electrical motors and mechanical actuators used in industrial processes;
+ developing fundamental PLC Wiring Diagrams and Ladder Logic Programs with an
+ emphasis on programming timers and counters; integrated automation solutions
+ through various programming architecture such as function-block and ladder diagrams;
+ configuration of process visualization of a panel. Prerequisite: ELEC 320. On demand.
+
+
+Page 419
+
+========== ORIGINAL PDF PAGE 420 ==========
+MECA 544    Robotics                                                 3(3,0)
+ Introductory historical development of robotics;  static grasp analysis; rigid-object
+ kinematics; degrees of freedom; robot arm kinematics; inverse kinematics; dynamics;
+ kinematic singularities; introduction to trajectory planning and control of manipulators;
+ screw motions. Prerequisite: MECH 321. Annually.
+
+MECA 595A  BE Summative Learning Project I                       1(1,0)
+ Team-oriented  project  that  includes  conducting  and  formulating  experimental
+ laboratory work and/or design problems on a specific, approved specialty topic. The
+ project includes a  literature review, a scope  of work, and a  project proposal.
+ Prerequisites: Senior Standing, ENGL 217. Annually.
+
+MECA 595B  BE Summative Learning Project II                      3(3,0)
+ Team-oriented  project  that  includes  conducting  and  formulating  experimental
+ laboratory work and/or design problems on a specific, approved specialty topic. The
+ project includes literature review, design work, data collection, experimentation, data
+ analysis, and technical writing. Prerequisite: MECA 595A. Annually.
+
+II.  Elective Courses
+
+Students may meet their technical electives requirements from the following selection of
+elective courses.
+
+ MECA 484    Civionics                                                3(3,0)
+ Applications of mechatronic techniques to civil construction. This course will provide
+ engineers  with the background necessary  to optimize design techniques and
+ understand infrastructure performance, behavior, and  condition. The successful
+ integration of intelligent sensing of innovative structures  will allow  civil structural
+ engineers to expand the design envelope and introduce new design concepts,
+ materials, and innovation in civil engineering. Prerequisite: Instructor’s consent. On
+ demand.
+
+ MECA 485    Autotronics                                             3(3,0)
+ This course explores topics such as sensors and actuators in automotive systems,
+ communication systems, the CAN protocol, electronic circuits, automotive standards,
+ electronic suspension and steering, engine management, and on-board diagnostics.
+ Prerequisite: MECA 440.
+
+ MECA 498   Special Topics in Mechatronics Engineering           3(3,0)
+ Guided study and research on  major-related  topics. Prerequisite:  Instructor’s
+ consent. On demand.
+
+ MECA 515   Modern Control Systems                                3(3,0)
+ In this course, the student learns how to use data and correlate it with physical theory
+ to build state-space and control models; design,  build, and  test  controllability,
+
+
+Page 420
+
+========== ORIGINAL PDF PAGE 421 ==========
+feedback, observability, and stability; and perform black-box modeling in both the time
+ and frequency domains. Prerequisite: MECA 440. On demand.
+
+ MECA 543    Fluid Power Systems                                    3(3,0)
+ Introduction to hydraulic and pneumatic systems: study of basic hydraulic/pneumatic
+ circuit components: pipes, valves, pumps, motors, filters, accumulators, sensors, and
+ silencers; analysis/design of various hydraulic/pneumatic circuits such as high-low,
+ regenerative, and synchronization circuits; use of Matlab/Simulink for simulation of
+ fluid power system circuits. Prerequisites: MECH 333 or MECH 335. On demand.
+
+ MECA 545    Integrated Automation Lab                              1(0,2)
+ This lab explores PID control algorithms; digital controllers and their components;
+ tuning methods and process control; diagnosis and error search; analog value
+ processing; communication between two or more PLCs. Co-requisite: MECA 542. On
+ demand.
+
+ MECA 581   Systems Engineering                                    3(3,0)
+ A course with an interdisciplinary approach intended to enable the realization of
+ successful systems. It focuses on defining customer needs and required functionality
+ early in the development cycle, documenting requirements, then proceeding with
+ design synthesis and system validation while considering the complete problem,
+ including operations, performance, test, manufacturing, cost, and schedule. This
+ course emphasizes the links between systems engineering and the fundamentals of
+ decision theory, statistics, and optimization. Introduction to the latest commercially
+ successful techniques in systems engineering. Prerequisite: Instructor’s consent. On
+ demand.
+
+ MECA 586   Mechatronics Drives                                     3(3,0)
+ Switched-mode converter; steady-state voltages and currents of step-down, step-up,
+  inverting, and other power converters; power semiconductor devices in a switching
+ converter; discontinuous conduction mode; solve converters operating  in DCM;
+ implement transformer  isolation  in a dc-dc converter; design and analyze the
+ feedback systems of switching regulators; Design Project. Prerequisite: ELEC 320.
+ On demand. Prerequisite: ELEC 320
+
+ MECA 597   Advanced Topics in Mechatronics Engineering        3(3,0)
+ This course is designed to enable students to study a specific advanced topic of
+  interest, carefully selected from the field of mechatronics engineering. The content
+ outline for such a topic is to be determined by the instructor and approved by the
+ department Chair. Prerequisite: Instructor’s consent. On demand.
+
+III.  AI-Restricted Elective Courses
+
+Students must choose at least one elective course (3 credits) from the following selection
+of AI-Restricted elective courses.
+
+
+Page 421
+
+========== ORIGINAL PDF PAGE 422 ==========
+MECA 535   Expert Systems and Applied Intelligence               3(3,0)
+ This course explores the core principles of intelligent systems and their application in
+ solving complex engineering and decision-making problems. Students  will learn
+ perception methods, reasoning techniques, and search strategies, as well as key AI
+ tools such as neural networks, evolutionary computing, fuzzy logic, and intuitionistic
+ fuzzy logic. The course also introduces intelligent programming using Prolog/python
+  to model knowledge and  build rule-based  expert systems. Through  practical
+ examples, students will gain hands-on experience in developing AI-driven solutions
+  for real-world applications. Prerequisite: MECA 444L.
+
+ MECA 536   Applied Deep Learning for Intelligent Systems         3(3,0)
+ This course introduces the basics of computer vision and machine learning, focusing
+ on their use in intelligent systems. Students will learn techniques for object detection,
+ image understanding, and sensor data interpretation, using deep learning tools to
+ build decision-making models. Hands-on practice with simulation platforms will allow
+ students to design and test vision-based solutions in realistic scenarios. At the end of
+ the course, participants will gain practical skills in combining perception, planning, and
+ control,  preparing  them  for  applications  in  autonomous  systems and  other
+ technologies. Prerequisite: MECA 444L.
+
+ MECA 546    Smart Energy Management Systems                  3(3,0)
+ This course delves into smart energy management systems (SEMS), focusing on
+ versatile operating modes in solar photovoltaic (PV) and battery energy storage
+ (BESS) systems. It equips mechatronics engineering students with the fundamental
+ knowledge and practical skills required to design, implement, and optimize these
+ crucial technologies for a sustainable future. Furthermore, the course discusses the
+ potential of using generative AI for the design and development of smart energy
+ management  systems. A  capstone  case  study  is  presented and  analyzed.
+ Prerequisite: MECA 442.
+
+ MECH 522   Mechanism Synthesis: Classical Kinematics to AI-     3(3,0)
+              Driven Optimization
+ This course  introduces  the theory and computational  practice  of mechanism
+ synthesis, with emphasis on the design of four-bar linkages for path, motion, and
+ function generation. Classical kinematic synthesis methods are integrated with
+ numerical optimization techniques, including Newton–Raphson, least-squares, and
+ gradient-based methods, as well as intelligent metaheuristic algorithms such as
+ genetic algorithms, tabu search, and ant colony optimization. The course also
+ exposes students to data-driven and AI-assisted approaches, including deep neural
+ networks  for inverse mechanism design, as advanced computational  tools  for
+ automation, design-space exploration, and decision support in mechanism synthesis.
+ Computational projects provide students with hands-on experience in mechanism
+ modeling, simulation, error analysis, optimization, and the synthesis of mechanical
+ systems under practical design constraints. Prerequisite: MECH 321.
+
+
+
+Page 422

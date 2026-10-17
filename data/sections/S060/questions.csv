@@ -1,0 +1,39 @@
+qa_id,fact_id,question,question_style
+S060_Q0001,S060_F0001,How are mechanical engineering technical electives chosen?,direct
+S060_Q0002,S060_F0001,Do mechanical BE students need an AI elective?,paraphrase
+S060_Q0003,S060_F0002,How many credits is CCEE 214 for mechanical students?,direct
+S060_Q0004,S060_F0002,Is there a separate programming lab for mechanical engineering students?,paraphrase
+S060_Q0005,S060_F0003,What does MECA 340 Dynamic Systems Modeling cover?,direct
+S060_Q0006,S060_F0003,What is the prerequisite for Dynamic Systems Modeling?,paraphrase
+S060_Q0007,S060_F0004,What is MECA 341 Measurements and Instrumentation about?,direct
+S060_Q0008,S060_F0004,What do I need before Measurements and Instrumentation?,paraphrase
+S060_Q0009,S060_F0005,What is done in MECA 341L?,direct
+S060_Q0010,S060_F0005,Does the measurements lab use LabVIEW?,paraphrase
+S060_Q0011,S060_F0006,What does MECA 440 Control Systems Design cover?,direct
+S060_Q0012,S060_F0006,What is the prerequisite for Control Systems Design?,paraphrase
+S060_Q0013,S060_F0007,What is MECA 440L Control Systems Design Lab?,direct
+S060_Q0014,S060_F0007,Does the control lab use Arduino for PID control?,paraphrase
+S060_Q0015,S060_F0008,What does MECA 541 CAD/CAM/CAE cover?,direct
+S060_Q0016,S060_F0008,What are the prerequisites for CAD/CAM/CAE?,paraphrase
+S060_Q0017,S060_F0009,What is MECH 200 Introduction to Mechanical Engineering?,direct
+S060_Q0018,S060_F0009,Does the intro mechanical course use Arduino and LEGO robotics?,paraphrase
+S060_Q0019,S060_F0010,What does MECH 223 Material Science cover?,direct
+S060_Q0020,S060_F0010,Does Material Science have a prerequisite?,paraphrase
+S060_Q0021,S060_F0011,What is MECH 224 Mechanical Engineering Graphics and CAD?,direct
+S060_Q0022,S060_F0011,Which mechanical course teaches AutoCAD and Revit?,paraphrase
+S060_Q0023,S060_F0012,What is done in MECH 320L Mechanics of Materials Lab?,direct
+S060_Q0024,S060_F0012,What is the co-requisite of the mechanics of materials lab?,paraphrase
+S060_Q0025,S060_F0013,What does MECH 321 Mechanisms and Dynamics of Machinery cover?,direct
+S060_Q0026,S060_F0013,What are the prerequisites for Mechanisms and Dynamics of Machinery?,paraphrase
+S060_Q0027,S060_F0014,What is MECH 330 Thermodynamics I about?,direct
+S060_Q0028,S060_F0014,What do I need before Thermodynamics I?,paraphrase
+S060_Q0029,S060_F0015,What does MECH 334 Thermodynamics II cover?,direct
+S060_Q0030,S060_F0015,What is the prerequisite for Thermodynamics II?,paraphrase
+S060_Q0031,S060_F0016,What is done in MECH 334L Thermodynamics II Lab?,direct
+S060_Q0032,S060_F0016,Which lab uses a miniature steam power plant?,paraphrase
+S060_Q0033,S060_F0017,What does MECH 335 Fluid Mechanics cover?,direct
+S060_Q0034,S060_F0017,What is the prerequisite for Fluid Mechanics?,paraphrase
+S060_Q0035,S060_F0018,What experiments are in MECH 335L Fluid Mechanics Lab?,direct
+S060_Q0036,S060_F0018,Does the fluid mechanics lab use a wind tunnel?,paraphrase
+S060_Q0037,S060_F0019,What is MECH 400 Summative Learning (BS) Project?,direct
+S060_Q0038,S060_F0019,When do mechanical BS students take the BS project?,paraphrase

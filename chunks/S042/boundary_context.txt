@@ -1,0 +1,76 @@
+PREVIOUS PAGE 273 (reference only; do not make a fact for this page):
+substitution methods, areas, volumes  (cross-sections,  shells), arc  length, and
+ surfaces of revolution. It introduces parametric and vector functions with applications
+  to motion, arc length in space, curvature, and normal vectors. Prerequisite: Math
+ 190.
+
+ PHYS 190     General Physics – Mechanics                          3(3,0)
+ This course introduces students to the basic concepts and principles of Mechanics:
+ Vectors, displacement, velocity, and acceleration; motion in 1D, projectile motion,
+ forces, and Newton’s laws of motion; work, energy, momentum, collision, torque, and
+ rotational motion.
+
+ PHYS 191     General Physics - Electricity and Magnetism          3(3,0)
+ This course is an introduction to electricity and magnetism. In this course, students will
+ explore electric charges, electric forces and electric  fields, electrical energy and
+ potential, capacitance, direct-current circuits, magnetic force, magnetic field, induced
+ voltage and inductance, alternating-current circuits, and electromagnetic waves.
+
+B.  Mandatory Courses
+
+All Engineering students (BS and BE) are required to take 24 credit hours of college-
+required courses. The BE program includes an additional mandatory 3-credit course,
+Engineering Project Management. A list of these courses and their descriptions follows.
+
+Course      Title                                   Credits Notes
+Mathematics (18 credits for MECH, MECA, and CCEE; 15 credits for others)
+MATH 210   Discrete Mathematics                  3     CCE major only
+MATH 215  Calculus III                          3         All majors
+MATH 216  Calculus IV                          2         All majors
+MATH 311   Linear Algebra and Applications          3         All majors
+MATH 314  Ordinary Differential Equations           3         All majors
+                                        MECH & MECA
+MATH 317   Partial Differential Equations            3
+                                                           majors only
+MATH 421  Numerical Analysis                    3         All majors
+Sciences (6 credits for MECH, MECA, and CCEE; 9 credits for all others)
+BIOL 210   Human Anatomy and Physiology and Lab  3     BIOM major only
+GEOL 221  Fundamentals of Geology              3      CIVE major only
+                                              MECH, MECA, and
+PHYS 210  Fundamentals of Physics and Lab        3
+                                                   CIVE majors only
+                                                   ELEC, CCE, and
+PHYS 211   Physics: Electricity and Magnetism and Lab 3
+                                               BIOM majors only
+            Science Elective                      3     ELEC major
+ Engineering (6 credits)
+ELEC 210   Electric Circuits                       3         All majors
+                                                                                All majors (BE
+ENGR 510  Engineering Project Management        3
+                                                                    track only)
+
+
+
+                                                           Page 273
+
+NEXT PAGE 280 (reference only; do not make a fact for this page):
+CIVIL  AND  ENVIRONMENTAL  ENGINEERING
+DEPARTMENT (CEE)
+
+Faculty Members
+
+Chairperson:          Meheddene Machaka
+Associate Professor:   Meheddene Machaka, Riad Al Wardany,
+Assistant Professor:    Rana Hajj Chehade
+Instructor:           May Mrad
+
+Programs Offered
+
+Currently, the CEE Department offers one program in Civil Engineering, leading to
+Bachelor of Science, Bachelor of Engineering, and Master of Science degrees.
+
+
+
+
+
+                                                           Page 280

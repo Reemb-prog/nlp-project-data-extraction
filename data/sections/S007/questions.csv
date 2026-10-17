@@ -1,0 +1,45 @@
+qa_id,fact_id,question,question_style
+S007_Q0001,S007_F0001,How can I contact the RHU library?,direct
+S007_Q0002,S007_F0001,What is the library's email address?,paraphrase
+S007_Q0003,S007_F0002,When was the RHU library founded and how big is it?,direct
+S007_Q0004,S007_F0002,Does the library have spaces for study and seminars?,paraphrase
+S007_Q0005,S007_F0003,What library system does RHU use?,direct
+S007_Q0006,S007_F0003,Can I access the library system from off campus?,paraphrase
+S007_Q0007,S007_F0003,Does the library have computers with Turnitin access?,contextual
+S007_Q0008,S007_F0004,Does the RHU library have e-books and online databases?,direct
+S007_Q0009,S007_F0004,Where can I find the library's research databases?,paraphrase
+S007_Q0010,S007_F0005,How are books organized in the RHU library?,direct
+S007_Q0011,S007_F0005,Which classification system does the library use?,paraphrase
+S007_Q0012,S007_F0006,Who can borrow books from the RHU library?,direct
+S007_Q0013,S007_F0006,Do I need my student ID to borrow a library book?,contextual
+S007_Q0014,S007_F0007,Can I print and photocopy at the library?,direct
+S007_Q0015,S007_F0007,How do I pay for printing in the RHU library?,paraphrase
+S007_Q0016,S007_F0008,What are reserve materials in the library?,direct
+S007_Q0017,S007_F0008,My professor put a book on reserve. Can I take it home?,contextual
+S007_Q0018,S007_F0009,Does the library offer training on searching for information?,direct
+S007_Q0019,S007_F0009,How can I ask the librarians a question?,paraphrase
+S007_Q0020,S007_F0010,Can I borrow books from AUB or LAU libraries as an RHU student?,direct
+S007_Q0021,S007_F0010,Which universities are in RHU's interlibrary loan network?,paraphrase
+S007_Q0022,S007_F0010,Is interlibrary loan free for RHU students?,paraphrase
+S007_Q0023,S007_F0011,Can RHU students use the Baakline National Library?,direct
+S007_Q0024,S007_F0011,Is borrowing from Baakline library free?,paraphrase
+S007_Q0025,S007_F0012,What do I need for library clearance before graduation?,direct
+S007_Q0026,S007_F0012,What format should my senior project be in for the library?,paraphrase
+S007_Q0027,S007_F0012,"I'm graduating, do I have to submit my senior project to the library?",contextual
+S007_Q0028,S007_F0013,How do I contact the IT helpdesk?,direct
+S007_Q0029,S007_F0013,What's the IT helpdesk email?,paraphrase
+S007_Q0030,S007_F0014,How fast is RHU's internet connection?,direct
+S007_Q0031,S007_F0014,How many wireless access points does the campus have?,paraphrase
+S007_Q0032,S007_F0015,Do students get storage space and email from RHU IT?,direct
+S007_Q0033,S007_F0015,What network services does the RHU data center provide to students?,paraphrase
+S007_Q0034,S007_F0016,What student information system does RHU use?,direct
+S007_Q0035,S007_F0016,Who manages CampusVue and the ID card system?,paraphrase
+S007_Q0036,S007_F0017,What online services are available on the RHU website?,direct
+S007_Q0037,S007_F0017,Can I pay fees online through the RHU website?,paraphrase
+S007_Q0038,S007_F0018,What learning management system does RHU use?,direct
+S007_Q0039,S007_F0018,Where do I access my course materials online at RHU?,contextual
+S007_Q0040,S007_F0019,What does the IT helpdesk help with?,direct
+S007_Q0041,S007_F0019,Who do I contact if my Wi-Fi or university email isn't working?,contextual
+S007_Q0042,S007_F0019,Where can I get my ID card printed?,paraphrase
+S007_Q0043,S007_F0020,What does the Quality Assurance and Institutional Advancement office do?,direct
+S007_Q0044,S007_F0020,How can I contact QAIA at RHU?,paraphrase

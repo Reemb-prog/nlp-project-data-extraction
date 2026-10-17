@@ -1,0 +1,50 @@
+qa_id,fact_id,question,question_style
+S043_Q0001,S043_F0001,Who is the chairperson of the Civil and Environmental Engineering Department?,direct
+S043_Q0002,S043_F0001,Who are the civil engineering faculty at RHU?,paraphrase
+S043_Q0003,S043_F0002,What programs does the CEE department offer?,direct
+S043_Q0004,S043_F0002,Can I do a master's in civil engineering at RHU?,contextual
+S043_Q0005,S043_F0003,What is the mission of the Civil Engineering program?,direct
+S043_Q0006,S043_F0003,What are the objectives of civil engineering graduates?,paraphrase
+S043_Q0007,S043_F0004,What are the student outcomes of Civil Engineering?,direct
+S043_Q0008,S043_F0004,Does civil engineering follow ABET outcomes?,paraphrase
+S043_Q0009,S043_F0005,Is the BE in Civil Engineering accredited?,direct
+S043_Q0010,S043_F0005,Which ABET criteria apply to RHU civil engineering?,paraphrase
+S043_Q0011,S043_F0006,What careers can civil engineers pursue?,direct
+S043_Q0012,S043_F0006,Can a civil engineering graduate work in water resources or transportation?,paraphrase
+S043_Q0013,S043_F0007,How many credits are the BE and BS in Civil Engineering?,direct
+S043_Q0014,S043_F0007,How many semesters does the civil engineering BE take?,paraphrase
+S043_Q0015,S043_F0008,How are the BS civil engineering credits distributed?,direct
+S043_Q0016,S043_F0008,How many program credits are in the civil BS?,paraphrase
+S043_Q0017,S043_F0009,What is the credit distribution of the BE in Civil Engineering?,direct
+S043_Q0018,S043_F0009,How many major elective credits are in the civil BE?,paraphrase
+S043_Q0019,S043_F0010,How many program requirement credits are in civil engineering?,direct
+S043_Q0020,S043_F0010,Do civil BS students take technical electives?,contextual
+S043_Q0021,S043_F0011,What are the mandatory courses in Civil Engineering?,direct
+S043_Q0022,S043_F0011,Is CIVE 400 required for BE students?,contextual
+S043_Q0023,S043_F0011,Do civil engineering students take Thermal Fluid Sciences?,paraphrase
+S043_Q0024,S043_F0012,What are the five areas of civil engineering courses?,direct
+S043_Q0025,S043_F0012,Which course areas does RHU civil engineering cover?,paraphrase
+S043_Q0026,S043_F0013,How many technical elective credits do civil BE students take?,direct
+S043_Q0027,S043_F0013,Can civil engineering students take electives from other programs?,paraphrase
+S043_Q0028,S043_F0014,Which technical electives are offered in civil engineering?,direct
+S043_Q0029,S043_F0014,Is Earthquake Engineering a civil elective?,paraphrase
+S043_Q0030,S043_F0015,How many credits is the civil engineering summative learning project?,direct
+S043_Q0031,S043_F0015,How is the BE civil SLP split across semesters?,paraphrase
+S043_Q0032,S043_F0016,What is the co-op requirement for civil engineering?,direct
+S043_Q0033,S043_F0016,How many credits is CIVE 499 Co-op?,paraphrase
+S043_Q0034,S043_F0017,What courses do civil engineering students take in their first fall?,direct
+S043_Q0035,S043_F0017,Civil engineering year 1 fall courses?,short
+S043_Q0036,S043_F0018,What is in civil engineering year 1 spring and summer?,direct
+S043_Q0037,S043_F0018,When do civil students take Surveying?,paraphrase
+S043_Q0038,S043_F0019,What courses are in civil engineering year 2 fall?,direct
+S043_Q0039,S043_F0019,When do civil students take Structural Analysis I?,paraphrase
+S043_Q0040,S043_F0020,What is in civil year 2 spring and summer?,direct
+S043_Q0041,S043_F0020,When do civil engineering students take Concrete I?,paraphrase
+S043_Q0042,S043_F0021,What courses are in civil year 3 fall?,direct
+S043_Q0043,S043_F0021,When do civil students take Soil Mechanics and Hydraulics?,paraphrase
+S043_Q0044,S043_F0022,What is in civil engineering year 3 spring?,direct
+S043_Q0045,S043_F0022,When is the civil engineering BS completed?,paraphrase
+S043_Q0046,S043_F0023,What courses are in civil BE year 4 fall?,direct
+S043_Q0047,S043_F0023,When do civil BE students take AI Applications in Civil Engineering?,paraphrase
+S043_Q0048,S043_F0024,What is in the last semester of the civil BE?,direct
+S043_Q0049,S043_F0024,When do civil BE students take Hydrology?,paraphrase

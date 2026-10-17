@@ -1,0 +1,45 @@
+qa_id,fact_id,question,question_style
+S036_Q0001,S036_F0001,What is the Finance and Banking program about?,direct
+S036_Q0002,S036_F0001,What careers does the finance and banking BBA prepare for?,paraphrase
+S036_Q0003,S036_F0002,What are the mandatory courses in Finance and Banking?,direct
+S036_Q0004,S036_F0002,Is Financial Derivatives required for finance majors?,paraphrase
+S036_Q0005,S036_F0003,What major electives can finance and banking students take?,direct
+S036_Q0006,S036_F0003,Can finance majors take International Finance as an elective?,contextual
+S036_Q0007,S036_F0004,What is the co-op requirement for Finance and Banking students?,direct
+S036_Q0008,S036_F0004,When do finance majors do their co-op?,paraphrase
+S036_Q0009,S036_F0005,What jobs can finance and banking graduates get?,direct
+S036_Q0010,S036_F0005,Can I become a loan officer with a finance degree from RHU?,contextual
+S036_Q0011,S036_F0006,What are the learning outcomes of the Finance and Banking program?,direct
+S036_Q0012,S036_F0006,Will finance students learn to evaluate investments by risk?,paraphrase
+S036_Q0013,S036_F0007,What do Finance and Banking students take in year 1?,direct
+S036_Q0014,S036_F0007,What is the structure of the finance and banking study plan?,paraphrase
+S036_Q0015,S036_F0008,What courses are in finance year 2 fall?,direct
+S036_Q0016,S036_F0008,When do finance students take Introduction to Banking?,paraphrase
+S036_Q0017,S036_F0009,What is in the second-year spring of Finance and Banking?,direct
+S036_Q0018,S036_F0009,When do finance majors take Financial Management II?,paraphrase
+S036_Q0019,S036_F0010,What courses are in finance and banking year 3 fall?,direct
+S036_Q0020,S036_F0010,When is Investment Analysis scheduled in the finance plan?,paraphrase
+S036_Q0021,S036_F0011,What is in the final semester of the finance and banking plan?,direct
+S036_Q0022,S036_F0011,When do finance students take Financial Derivatives?,paraphrase
+S036_Q0023,S036_F0012,What does BFIN 305 Introduction to Banking cover?,direct
+S036_Q0024,S036_F0012,What is the prerequisite for Introduction to Banking?,paraphrase
+S036_Q0025,S036_F0013,What is BFIN 310 Financial Markets and Institutions about?,direct
+S036_Q0026,S036_F0013,Does any finance course cover cryptocurrencies?,paraphrase
+S036_Q0027,S036_F0014,What does BFIN 350 cover in the finance program?,direct
+S036_Q0028,S036_F0014,Which finance course compares IFRS and US GAAP reporting?,paraphrase
+S036_Q0029,S036_F0015,What is BFIN 400 Financial Management II about?,direct
+S036_Q0030,S036_F0015,Which course covers capital structure and ESG?,paraphrase
+S036_Q0031,S036_F0016,What is the prerequisite for BFIN 400?,direct
+S036_Q0032,S036_F0016,Financial Management II prerequisite?,short
+S036_Q0033,S036_F0017,What does BFIN 405 Bank Financial and Risk Management cover?,direct
+S036_Q0034,S036_F0017,Which course covers Value-at-Risk and stress testing?,paraphrase
+S036_Q0035,S036_F0018,What is BFIN 450 Investment Analysis about?,direct
+S036_Q0036,S036_F0018,Which course covers portfolio diversification and beta?,paraphrase
+S036_Q0037,S036_F0019,What does BFIN 455 Financial Derivatives cover?,direct
+S036_Q0038,S036_F0019,Is there a course on options futures and swaps?,paraphrase
+S036_Q0039,S036_F0020,What is BECN 305 Managerial Economics?,direct
+S036_Q0040,S036_F0020,What is the prerequisite for Managerial Economics?,paraphrase
+S036_Q0041,S036_F0021,What does BFIN 355 International Finance cover?,direct
+S036_Q0042,S036_F0021,What do I need before International Finance?,paraphrase
+S036_Q0043,S036_F0022,How is BACC 310 described in the finance program?,direct
+S036_Q0044,S036_F0022,Does Cost Accounting cover cost-volume-profit analysis according to the finance section?,paraphrase

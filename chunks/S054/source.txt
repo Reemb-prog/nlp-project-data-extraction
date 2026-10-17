@@ -1,0 +1,215 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S054 | Computer networks minor
+ORIGINAL PDF PAGES: 349 to 353 (inclusive)
+ONLY extract facts whose source page is between 349 and 353.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 349 ==========
+Minor in Computer Networks
+
+Rationale
+
+In today’s world, we cannot imagine a company without computer networks. Therefore,
+networking skills are becoming a valuable asset for employees across domains.
+
+In response to national, regional, and international needs and demand for experts in
+computer networks, the College of Engineering/ECE Department and the College of Arts
+and Sciences/CS Department offer a minor in Computer Networking.
+
+Program’s Purpose
+
+The main aim of the minor is to expose students from different backgrounds to the
+concepts of computer networks and the protocols that allow devices and systems to
+communicate.  It will equip them with the knowledge and skills needed to install and
+operate networks at various scales. Furthermore, the minor will enable students to earn
+the Cisco CCNA Routing and Switching certification. The minor shall also serve as good
+preparation for further and more advanced graduate and/or professional studies in
+computer networks.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate the ability to:
+•   Compare different computer network protocols;
+•   Design simple computer networks;
+•   Perform simple computer network troubleshooting;
+•    Investigate simple computer network attacks.
+
+Minor Requirements
+
+This minor is structured to accommodate undergraduate RHU students in the BE or BS
+program from different disciplines (engineering, computer science, or business). It may
+also be offered to students with a BS/BE from other universities, subject to a case-by-
+case evaluation of their transcripts and other specific RHU requirements.
+
+Early in their studies, interested RHU students need to declare their intent to pursue a
+minor in computer networks by completing the relevant minor declaration form and
+informing their advisor.
+
+To complete the computer networking minor, a student must
+
+1.  Declare a minor in computer networks by completing the Minor Declaration Form;
+2.  Obtain the approval of the Dean of the student’s college major and the Dean of the
+    College of Engineering;
+                                                           Page 349
+
+========== ORIGINAL PDF PAGE 350 ==========
+3.  Earn a Minor Cumulative Grade Point Average (MCGPA) of no less than 70%;
+4.  Complete 19 credits of coursework as specified below.
+
+It should be noted that common courses between the student's major requirements and
+the computer networks minor requirements count toward both the major and the minor.
+The student must complete a minimum of 3 credit hours of coursework that is not counted
+toward the requirement for their major or any other minor.
+
+Career Options
+
+Computer network experts are well-suited to work in a variety of sectors, including but
+not limited to telecommunications, hospitals, banks, the police, and the army.
+
+Curriculum and Program
+
+The computer networking minor consists of 5 courses and 4 labs (19 credits), of which 7
+credits are mandatory, and the remaining credits are elective, selected to satisfy the
+requirements of the proposed program objectives and learning outcomes.
+
+Mandatory Courses
+
+The mandatory courses (7 credits) are:
+ CCEE 354    Computer Networks                                      3(3,0)
+ CCEE 354L   Computer Networks Lab                                 1(0,2)
+ CCEE 554L   Computer Networks Lab 2                               1(0,2)
+ CCEE 555L   Computer Networks Lab 3                               1(0,2)
+ CCEE 556L   Computer Networks Lab 4                               1(0,2)
+
+Elective Courses
+
+Students may choose elective courses (12 credits) from the following list.
+ CCEE 411   Web Programming                                       3(3,0)
+ CCEE 514    Advanced Web Programming                            3(3,0)
+ CCEE 547     Optical Communications                                 3(3,0)
+ CCEE 552    Network Security                                         3(3,0)
+ CCEE 553    Advanced Communication Networks                     3(3,0)
+ CCEE 555    Advanced Computer Networks                           3(3,0)
+ CCEE 556    Network and System Administration                      3(3,0)
+
+
+
+
+
+                                                           Page 350
+
+========== ORIGINAL PDF PAGE 351 ==========
+Courses Description
+
+CCEE 411  Web Programming                                         3(3,0)
+ This course teaches students how to develop and implement web-based programs with
+ an emphasis on interface programming. It introduces students to web development and
+ the client-side and server-side languages and technologies needed to build functional,
+ responsive websites. The course covers HTML5, CSS3, JavaScript/jQuery, PHP, and
+ responsive design. Co-requisite: CCEE 214. Equivalent to COSC 333.
+
+CCEE 354   Computer Networks                                      3(3,0)
+ This course enables students to gain fundamental knowledge of computer networks,
+ appreciate the trade-offs and choices in networking, learn to design and analyze
+ protocols, and prepare to study advanced topics in the field. Co-requisite: CCEE 221.
+ Equivalent to COSC 360.
+
+CCEE 354L  Computer Networks Lab                                  1(0,2)
+ This Lab helps prepare students seeking to pass advanced Cisco Certifications. The
+ student will acquire knowledge of network equipment and protocol functionality, learn
+ to build a simple Ethernet network using routers, switches, and computers, and use
+ router CLI commands to perform basic configuration and verification. The student will
+ also learn valuable network problem-solving techniques and concepts. Accompanying
+ Lab for CCEE 354. Co-requisite: CCEE 354.
+
+CCEE 514 Advanced Web Programming                              3(3,0)
+ This course focuses on server-side programming. It teaches students how to connect
+ their website or web application to a database and save and retrieve data from it. The
+ course exposes students to web controls, validation controls, data source controls, data
+ binding controls, state management, and working with third-party media such as XML
+and web services. Prerequisite: CCEE 411/COSC 333. Equivalent to COSC 434.
+
+CCEE 547  Optical Communications                                   3(3,0)
+ This course is designed to progress from the description of the components in a fiber
+ link to the interconnections within a link or a network. The components of fiber links will
+be discussed (fiber, connections, sources, and receivers). These optical components
+ will be integrated into a complete optical link. Prerequisite: CCEE 331.
+
+ CCEE 552   Network Security                                        3(3,0)
+ Network security is the protection of the underlying networking infrastructure from
+ unauthorized access, misuse, or theft. It involves creating a secure infrastructure for
+ devices, applications, and users to operate securely. Pre-requisite: CCEE 354 or
+ COSC 360.
+
+
+
+
+
+                                                           Page 351
+
+========== ORIGINAL PDF PAGE 352 ==========
+CCEE 553   Advanced Communication Networks                    3(3,0)
+In this course, we will explore current network architectures and topologies, such as
+telephone systems (PDH/SDH, SONET), Frame Relay, ATM, and MPLS, as well as
+technologies  under  development. We  will  also  learn how  to assess  network
+performance and which technologies are used to enhance service quality. At the end
+of the course, the student will be able to identify the technologies to be used in a given
+environment and study its performance. Prerequisite: CCEE 354.
+
+CCEE 554L  Computer Networks Lab 2                               1(0,2)
+This Lab helps prepare students seeking to pass advanced Cisco Certifications (CCNA
+1). The student will acquire knowledge of network equipment and protocol functionality,
+learn to build a simple Ethernet network using routers, switches, and computers, and
+use router CLI commands to perform basic configuration and verification. The student
+will also learn valuable network problem-solving techniques and concepts through
+hands-on skills using hardware devices. Co-requisite: CCEE 354L.
+
+CCEE 555   Advanced Computer Networks                          1(0,2)
+This  is an advanced computer networks  course  that  requires  active  student
+participation. In this course, we will explore TCP; Internet inter-domain routing; Internet
+quality of service and traffic engineering; Internet traffic measurement and analysis;
+data centers; the analysis and performance of content distribution networks; and
+Software-defined  networking.  In  addition,  the  students  will  learn how  to  build
+client/server computer network applications using sockets. Prerequisite: CCEE 354.
+
+CCEE 555L  Computer Networks Lab 3                               1(0,2)
+ This Lab helps prepare students seeking to pass the Cisco Routing and Switching
+ Essentials (CCNA 2) Certification. The primary focus of this Lab is routers and switches
+ in small networks. The student will learn the architecture, components, and operations
+ of routers and switches, as well as their basic configuration and functionality. They will
+ also learn how to configure and troubleshoot static and dynamic routing protocols,
+ access-control lists, VLANs, DHCP for IPv4 and IPv6 networks, and NAT operations.
+ Prerequisite: CCEE 354L.
+
+CCEE 556   Network and System Administration                    3(3,0)
+This course will help students become system administrators and install, configure,
+maintain, and troubleshoot a Microsoft Windows Server Operating system. It provides
+them with the knowledge and skills to work with Active Directory technologies in
+environments including complex network services. This course also provides students
+with basic knowledge of  installing, configuring, and maintaining Linux operating
+systems. By the end of this course, students will have all the required materials to
+submit and pass the MCSA: Windows Server certification exam. Prerequisite: CCEE
+354.
+
+
+
+
+
+                                                          Page 352
+
+========== ORIGINAL PDF PAGE 353 ==========
+CCEE 556L  Computer Networks Lab 4                                1(0,2)
+This Lab helps prepare students seeking to pass the Cisco Routing and Switching
+Essentials (CCNA 3) Certification. The primary focus of this Lab is routers and switches
+in large and complex networks. The student will learn how to configure routers and
+switches with advanced functionalities. They will also learn how to configure and
+troubleshoot enhanced switching technologies, first-hop redundancy protocols in a
+switched network, wireless routers and clients, and routers in complex networks.
+Finally, they will learn how to manage CISCO IOS software licensing and configuration
+ files. Prerequisite: CCEE 555L.
+
+
+
+
+
+                                                          Page 353

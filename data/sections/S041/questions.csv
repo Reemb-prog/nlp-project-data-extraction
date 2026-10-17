@@ -1,0 +1,41 @@
+qa_id,fact_id,question,question_style
+S041_Q0001,S041_F0001,How do I contact the College of Engineering office?,direct
+S041_Q0002,S041_F0001,What is the RHU engineering college email?,paraphrase
+S041_Q0003,S041_F0002,When was the College of Engineering established?,direct
+S041_Q0004,S041_F0002,How many students are enrolled in RHU engineering?,paraphrase
+S041_Q0005,S041_F0003,Does RHU offer a non-thesis master's in engineering?,direct
+S041_Q0006,S041_F0003,"I work during the day, can I do an engineering master's in the afternoons?",contextual
+S041_Q0007,S041_F0004,What is the vision of the College of Engineering?,direct
+S041_Q0008,S041_F0004,What is the engineering college's mission?,paraphrase
+S041_Q0009,S041_F0005,Are RHU engineering programs ABET accredited?,direct
+S041_Q0010,S041_F0005,Which engineering degrees have ABET EAC accreditation?,paraphrase
+S041_Q0011,S041_F0006,What degrees does the College of Engineering offer?,direct
+S041_Q0012,S041_F0006,Can I get an MS in mechatronics engineering at RHU?,contextual
+S041_Q0013,S041_F0007,What does the prefix CCEE stand for?,direct
+S041_Q0014,S041_F0007,Which course code is used for mechatronics engineering?,paraphrase
+S041_Q0015,S041_F0008,Do engineering applicants take placement exams?,direct
+S041_Q0016,S041_F0008,"I didn't submit SAT scores, will I take a math and physics placement test?",contextual
+S041_Q0017,S041_F0009,What is the difference between a BS and BE in engineering at RHU?,direct
+S041_Q0018,S041_F0009,When must I choose between the BS and BE degree?,paraphrase
+S041_Q0019,S041_F0009,How many credits are the engineering BS and BE?,paraphrase
+S041_Q0020,S041_F0010,What are the graduation requirements for engineering students?,direct
+S041_Q0021,S041_F0010,What grade do I need on the summative learning project in engineering?,paraphrase
+S041_Q0022,S041_F0011,Can I come back for a BE after finishing my BS in engineering?,direct
+S041_Q0023,S041_F0011,What replaces the BS project if I continue to the BE?,paraphrase
+S041_Q0024,S041_F0012,How are the 152 credits of the BE distributed?,direct
+S041_Q0025,S041_F0012,How many program elective credits are in the CCE BE?,paraphrase
+S041_Q0026,S041_F0013,How are BS engineering credits distributed?,direct
+S041_Q0027,S041_F0013,How many college requirement credits are in the BS?,paraphrase
+S041_Q0028,S041_F0014,What general education courses do engineering students take?,direct
+S041_Q0029,S041_F0014,Which science course do civil engineering students take for gen ed?,paraphrase
+S041_Q0030,S041_F0014,How many gen ed credits does a BS engineering student need?,paraphrase
+S041_Q0031,S041_F0015,What is CCEE 214 Introduction to Programming + Lab?,direct
+S041_Q0032,S041_F0015,Is CCEE 214 equivalent to COSC 214?,paraphrase
+S041_Q0033,S041_F0016,Which remedial courses might engineering students need?,direct
+S041_Q0034,S041_F0016,Do remedial courses count toward the engineering degree?,paraphrase
+S041_Q0035,S041_F0016,"I'm in electrical engineering, which remedial physics course applies to me?",contextual
+S041_Q0036,S041_F0017,What are the college-required courses for all engineering students?,direct
+S041_Q0037,S041_F0017,Do mechanical engineering students take Partial Differential Equations?,paraphrase
+S041_Q0038,S041_F0017,Is Engineering Project Management required for BS students?,contextual
+S041_Q0039,S041_F0018,How many credits is MATH 216 in engineering?,direct
+S041_Q0040,S041_F0018,Is Calculus IV 2 or 3 credits?,paraphrase

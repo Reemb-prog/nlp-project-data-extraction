@@ -1,0 +1,67 @@
+PREVIOUS PAGE 136 (reference only; do not make a fact for this page):
+PSYC 306       Psychology of Women
+PSYC 310        Positive Psychology
+PSYC 312        Children and War
+PSYC 314       Psychology for sustainability
+SOCI 210       Research Methods in Social Science
+PSYC 400         Conflict Transformation
+PSYC 410       Abnormal Psychology
+PSYC 315       Emotional Intelligence
+                *Any other approved PSYC elective course
+
+
+
+
+
+                                                                  Page 136
+
+NEXT PAGE 146 (reference only; do not make a fact for this page):
+COSC 360L Networking Lab                                            1(0,2)
+ This Lab helps prepare students seeking to pass advanced Cisco Certifications. The
+ student will acquire knowledge of network equipment and protocol functionality, how to
+ build a simple Ethernet network using routers, switches, and computers, and how to
+ use router CLI commands to perform basic configuration and verification. The student
+ will also learn valuable network problem-solving techniques and concepts. Co-
+ requisite: COSC 360 or CCEE 354. Equivalent to CCEE 354L.
+
+COSC 399  Co-op Training Experience                                 1(1,0)
+ Each student must complete 8 weeks of practical training in a field related to their
+ interests. This Co-op work experience is usually fulfilled during the summer semester
+ of the third year in the program. Students must submit a formal report and poster and
+ make a formal presentation about their Co-op experience. Prerequisite: ENGL 217;
+ Senior Standing.
+
+COSC 421  Theory of Computation                                     3(3,0)
+ This course covers theoretical principles embodied in automata and grammars. Topics
+ include  Deterministic,  Non-deterministic,  and  Epsilon  Non-deterministic  Finite
+ Automata (DFA, NFA, and e-NFA), DFA minimization, equivalence of NFAs and DFAs,
+ Moore and  Mealy  machines,  closure  properties,  regular  expressions,  regular
+ languages, regular grammar, pumping lemma, context-free languages, context-free
+ grammar, pushdown automata, Turing machines, and other selected topics as time
+ permits. Prerequisites: COSC 215 and MATH 210
+
+COSC 451  Operating Systems                                         3(3,0)
+ Students learn the concepts of operating systems theory and their implementations.
+ The course covers computer and operating system structures, process and thread
+ management, process synchronization, deadlocks, security and protection,  inter-
+ process communication, memory management, and I/O control systems. A case study
+ of a UNIX operating system will accompany the course. Prerequisite: COSC 214.
+ Equivalent to CCEE 513.
+
+COSC 490  Summative Learning Experience                          3(3,0)
+ This is a yearlong graduation project focused on individual problems and research.
+ Each student must complete it in their emphasis area. Prerequisite: ENGL 217.
+
+Business Required Courses
+
+As described below, the COSC program requires two business courses, BMKA 200 and
+BMGT 300.
+
+ BMGT 300   Project Management                                      3(3,0)
+ This course provides students with the skills to manage their business projects using
+ effective techniques for leading, organizing, scheduling, and controlling tasks that
+ advance project goals. Topics include project selection and statement of work; project
+ managers' skills and task breakdown structure; PERT/CPM scheduling and budgeting.
+ Prerequisite: Junior Standing.
+
+                                                                   Page 146

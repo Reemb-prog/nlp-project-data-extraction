@@ -1,0 +1,102 @@
+qa_id,fact_id,question,question_style
+S023_Q0001,S023_F0001,Who is the chairperson of the CMS department?,direct
+S023_Q0002,S023_F0001,Who are the full-time faculty in Computer Math and Sciences?,paraphrase
+S023_Q0003,S023_F0002,Which programs does the CMS department offer?,direct
+S023_Q0004,S023_F0002,Does the Computer Math and Sciences department offer a BS?,paraphrase
+S023_Q0005,S023_F0003,What is the vision of the CMS department?,direct
+S023_Q0006,S023_F0003,What does the Computer Math and Sciences department aim to achieve?,paraphrase
+S023_Q0007,S023_F0004,What is the mission of the Computer Science program?,direct
+S023_Q0008,S023_F0004,What are the educational objectives of RHU's CS program?,paraphrase
+S023_Q0009,S023_F0005,What are the program outcomes for Computer Science graduates?,direct
+S023_Q0010,S023_F0005,What skills will I have after finishing the BS in Computer Science?,paraphrase
+S023_Q0011,S023_F0006,Is the RHU Computer Science degree accredited?,direct
+S023_Q0012,S023_F0006,Which ABET commission accredits the CS program?,paraphrase
+S023_Q0013,S023_F0007,What jobs can I get with a computer science degree from RHU?,direct
+S023_Q0014,S023_F0007,Can CS graduates work as AI developers or data analysts?,paraphrase
+S023_Q0015,S023_F0008,How many credits do I need for a BS in Computer Science?,direct
+S023_Q0016,S023_F0008,How long is the computer science program at RHU?,paraphrase
+S023_Q0017,S023_F0009,Which math courses are required for computer science majors?,direct
+S023_Q0018,S023_F0009,Do CS students take linear algebra and numerical analysis?,paraphrase
+S023_Q0019,S023_F0010,Which business courses must CS students take?,direct
+S023_Q0020,S023_F0010,Why does the CS program include marketing and project management?,contextual
+S023_Q0021,S023_F0011,What are the mandatory core courses in computer science?,direct
+S023_Q0022,S023_F0011,Is Operating Systems a required course for CS majors?,paraphrase
+S023_Q0023,S023_F0012,How many technical elective credits do CS students take?,direct
+S023_Q0024,S023_F0012,What specialization areas can I focus on in the CS program?,paraphrase
+S023_Q0025,S023_F0013,Which courses count as CS electives?,direct
+S023_Q0026,S023_F0013,Can I take Natural Language Processing as a CS elective?,contextual
+S023_Q0027,S023_F0014,Can I take networking labs instead of a CS elective?,direct
+S023_Q0028,S023_F0014,What are the co-requisites of COSC 460L and COSC 462L?,paraphrase
+S023_Q0029,S023_F0015,What is the CS summative learning project?,direct
+S023_Q0030,S023_F0015,Is COSC 490 done individually or in groups?,paraphrase
+S023_Q0031,S023_F0016,What is required for the CS co-op training?,direct
+S023_Q0032,S023_F0016,When do computer science students do their co-op?,paraphrase
+S023_Q0033,S023_F0016,What do CS students submit after their co-op?,paraphrase
+S023_Q0034,S023_F0017,What do the digits in COSC course codes mean?,direct
+S023_Q0035,S023_F0017,Which area does a COSC course with middle digit 6 belong to?,paraphrase
+S023_Q0036,S023_F0018,What courses do CS students take in their first semester?,direct
+S023_Q0037,S023_F0018,CS year 1 semester 1 courses?,short
+S023_Q0038,S023_F0019,What is in the second semester of the computer science study plan?,direct
+S023_Q0039,S023_F0019,When do CS students take Database Management Systems?,paraphrase
+S023_Q0040,S023_F0020,Which courses are scheduled in CS year 2 semester 1?,direct
+S023_Q0041,S023_F0020,When do computer science students take Networking and its lab?,paraphrase
+S023_Q0042,S023_F0021,What is in the CS year 2 spring semester?,direct
+S023_Q0043,S023_F0021,When do CS students do COSC 399 co-op?,paraphrase
+S023_Q0044,S023_F0022,What courses are in CS year 3 semester 1?,direct
+S023_Q0045,S023_F0022,When do CS students take Operating Systems and Theory of Computation?,paraphrase
+S023_Q0046,S023_F0023,What is in the final semester of the CS study plan?,direct
+S023_Q0047,S023_F0023,When is the CS summative learning experience scheduled?,paraphrase
+S023_Q0048,S023_F0024,What does COSC 214 Introduction to Programming cover?,direct
+S023_Q0049,S023_F0024,Does Intro to Programming teach pointers and sorting?,paraphrase
+S023_Q0050,S023_F0025,How many lecture and lab hours does COSC 214 have?,direct
+S023_Q0051,S023_F0025,COSC 214 credit breakdown?,short
+S023_Q0052,S023_F0026,What course is equivalent to COSC 214?,direct
+S023_Q0053,S023_F0026,Is CCEE 214 the same as Introduction to Programming?,paraphrase
+S023_Q0054,S023_F0027,What is COSC 215 Advanced Programming and Data Structures about?,direct
+S023_Q0055,S023_F0027,Which CS course covers OOP and stacks and queues?,paraphrase
+S023_Q0056,S023_F0028,What is the prerequisite for COSC 215?,direct
+S023_Q0057,S023_F0028,Which engineering course is equivalent to COSC 215?,paraphrase
+S023_Q0058,S023_F0029,What does COSC 231 Database Management Systems cover?,direct
+S023_Q0059,S023_F0029,Which course teaches normalization and data modeling?,paraphrase
+S023_Q0060,S023_F0030,What do I need before taking COSC 231?,direct
+S023_Q0061,S023_F0030,Database Management Systems prerequisite?,short
+S023_Q0062,S023_F0031,Is COSC 231 equivalent to an engineering course?,direct
+S023_Q0063,S023_F0031,Can CCEE 315 replace COSC 231?,paraphrase
+S023_Q0064,S023_F0032,What is COSC 316 Design and Analysis of Algorithms about?,direct
+S023_Q0065,S023_F0032,Which CS course introduces complexity analysis?,paraphrase
+S023_Q0066,S023_F0033,What is the prerequisite for COSC 316?,direct
+S023_Q0067,S023_F0033,Can I take Algorithms right after COSC 214?,contextual
+S023_Q0068,S023_F0034,What does COSC 333 Web Programming cover?,direct
+S023_Q0069,S023_F0034,Which course teaches HTML5 CSS3 and JavaScript?,paraphrase
+S023_Q0070,S023_F0035,What is the prerequisite and equivalent of COSC 333?,direct
+S023_Q0071,S023_F0035,Is CCEE 411 equivalent to Web Programming?,paraphrase
+S023_Q0072,S023_F0036,What is COSC 341 Software Engineering about?,direct
+S023_Q0073,S023_F0036,Which CS course covers UML and the SDLC?,paraphrase
+S023_Q0074,S023_F0037,What do I need before COSC 341?,direct
+S023_Q0075,S023_F0037,Which CCEE course is equivalent to Software Engineering?,paraphrase
+S023_Q0076,S023_F0038,What does COSC 351 Logic Design cover?,direct
+S023_Q0077,S023_F0038,Which course teaches Boolean algebra and flip-flops?,paraphrase
+S023_Q0078,S023_F0039,Does COSC 351 have a prerequisite?,direct
+S023_Q0079,S023_F0039,What is Logic Design equivalent to in engineering?,paraphrase
+S023_Q0080,S023_F0040,What is COSC 351L Logic Design Lab?,direct
+S023_Q0081,S023_F0040,How many credits is the logic design lab?,paraphrase
+S023_Q0082,S023_F0041,Is COSC 351 a prerequisite or co-requisite for COSC 351L?,direct
+S023_Q0083,S023_F0041,Can I take the Logic Design Lab in the same semester as Logic Design?,contextual
+S023_Q0084,S023_F0042,What does COSC 353 Computer Organization cover?,direct
+S023_Q0085,S023_F0042,Which course covers caches and pipelined processors?,paraphrase
+S023_Q0086,S023_F0043,What is the prerequisite of COSC 353?,direct
+S023_Q0087,S023_F0043,Is CCEE 324 the same as Computer Organization?,paraphrase
+S023_Q0088,S023_F0044,What is COSC 360 Networking about?,direct
+S023_Q0089,S023_F0044,Which CS course introduces computer networks and protocols?,paraphrase
+S023_Q0090,S023_F0045,What is required before COSC 360?,direct
+S023_Q0091,S023_F0045,What engineering course is equivalent to COSC 360?,paraphrase
+S023_Q0092,S023_F0046,What is the co-requisite for COSC 360L?,direct
+S023_Q0093,S023_F0046,Must I take Networking with the Networking Lab?,paraphrase
+S023_Q0094,S023_F0047,What are the prerequisites for COSC 421 Theory of Computation?,direct
+S023_Q0095,S023_F0047,Do I need Discrete Mathematics before Theory of Computation?,paraphrase
+S023_Q0096,S023_F0048,What is the prerequisite of COSC 451 Operating Systems?,direct
+S023_Q0097,S023_F0048,Operating Systems prerequisite?,short
+S023_Q0098,S023_F0049,What do I need before COSC 490?,direct
+S023_Q0099,S023_F0049,Is ENGL 217 required for the summative learning experience?,paraphrase
+S023_Q0100,S023_F0050,What are the prerequisites for COSC 399 Co-op Training Experience?,direct
+S023_Q0101,S023_F0050,Can a junior CS student register for COSC 399?,contextual

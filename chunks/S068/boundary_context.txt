@@ -1,0 +1,34 @@
+PREVIOUS PAGE 426 (reference only; do not make a fact for this page):
+MECH 470   Product Design and Development                       3(3,0)
+ Idea  generation;  concept  generation;  concept  selection;  functional  analysis;
+ engineering design process for systems and components; economic consideration;
+ reliability analysis; product safety; design project. Co-requisite: MECH 421. On
+ demand.
+
+MECH 527   Modern Material Science                                 3(3,0)
+ Advanced coverage of metals and alloys; applications and processing of ceramics;
+ characteristics,  applications,  and  processing  of  polymers;  surface  property
+ enhancement; materials simulation; economic, environmental, and societal issues in
+ materials science; biomaterials and nanoscale materials. Prerequisite: MECH 223. On
+ demand.
+
+MECH 570    Digital Manufacturing                                    3(3,0)
+ In this course, the student will get an insight into diagnosing and correcting operational
+ flaws; modeling and  fabrication based on  additive manufacturing  technologies;
+ automation technologies; production planning, process quality control; use of modern
+ four-axis Computer Numerical Control (CNC) machines, 3D printers, and up-to-date
+ software programs,  including AutoCAD,  Inventor,  SolidWorks, and VisualCam.
+ Prerequisite: MECH 422 and MECA 541. On demand.
+
+MECH 571   Optimization in Engineering Design                     3(3,0)
+ Problem definition, cost function and constraints; local vs. global methods; deterministic
+ vs.  stochastic  methods;  linear  vs.  non-linear  programming;  constrained  vs.
+ unconstrained;  continuous  vs.  discrete;  gradient-based  methods;  combinatorial
+ optimization techniques; applications to various engineering problems (single/multi-
+ objective); project. Prerequisite: MATH 421. On demand.
+
+
+
+
+
+Page 426

@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {"id": "university_info", "description": "RHU as an institution: history, mission, accreditation, governance, campus, offices, contacts and named staff/faculty roles"},
+    {"id": "admissions", "description": "Getting admitted to RHU: entry requirements, certificates, English proficiency, application steps and documents, transfer and non-degree admission, transfer credit"},
+    {"id": "fees_financial_aid", "description": "Tuition, fees, payment and refund rules, scholarships and financial aid"},
+    {"id": "registration", "description": "Registering for courses, course load limits, drop/add, late registration, withdrawal and registrar services"},
+    {"id": "academic_policies", "description": "Academic rules after enrollment: study duration, class level, attendance, exams, grading and GPA, repeating/substituting courses, academic standing, graduation, conduct"},
+    {"id": "academic_calendar", "description": "Dated events in the 2026-2027 academic calendar"},
+    {"id": "programs", "description": "Degree programs, minors, freshman program and general education: overview, credits, required/elective course lists and study plans"},
+    {"id": "courses", "description": "Individual course facts: description/content, credits and contact hours, prerequisites/corequisites, equivalent courses"},
+    {"id": "coop_career", "description": "Co-op training (practical work experience) and career services"},
+    {"id": "student_services", "description": "Non-academic student support: library, IT, student affairs, clubs, counseling, health, housing, transportation, athletics"},
+    {"id": "out_of_scope", "description": "Not answerable from the 2026-2027 undergraduate catalog"}
+  ],
+  "intents": [
+    {"id": "about_university", "category": "university_info", "description": "History, mission, vision, values, accreditation, governance or campus facts about RHU or a college/department"},
+    {"id": "office_contact", "category": "university_info", "description": "Where an office is, how to contact it (phone, email, location) or what an office is responsible for"},
+    {"id": "staff_faculty_role", "category": "university_info", "description": "Who holds a named role (dean, chairperson, director) or which faculty belong to a department"},
+
+    {"id": "admission_requirements", "category": "admissions", "description": "Eligibility to be admitted: certificates, school tracks, remedial courses required for entry, freshman/sophomore entry conditions"},
+    {"id": "english_proficiency", "category": "admissions", "description": "English entrance/placement exams, minimum scores, score validity and the intensive English program placement"},
+    {"id": "application_process", "category": "admissions", "description": "How and where to apply, required application documents, admission decision timing"},
+    {"id": "transfer_admission", "category": "admissions", "description": "Admission as a transfer student and conditions for transferring course credits to RHU"},
+    {"id": "non_degree_admission", "category": "admissions", "description": "Visiting, non-degree, auditor and part-time student status and their requirements"},
+
+    {"id": "tuition_fees", "category": "fees_financial_aid", "description": "Amount of tuition per credit or other charges and fees"},
+    {"id": "payment_refund", "category": "fees_financial_aid", "description": "How/when fees are paid, installments, penalties, financial holds and refund rules"},
+    {"id": "scholarship_aid", "category": "fees_financial_aid", "description": "Scholarships, discounts, grants, work-study and financial aid eligibility and conditions"},
+
+    {"id": "registration_procedure", "category": "registration", "description": "How registration, drop/add, schedule changes, late registration and registrar transactions work"},
+    {"id": "course_load", "category": "registration", "description": "Minimum/maximum credits a student can take per semester and the conditions for exceptions"},
+    {"id": "course_withdrawal", "category": "registration", "description": "Withdrawing from a course or from the university, W/WF grades and withdrawal deadlines rules"},
+
+    {"id": "study_duration_level", "category": "academic_policies", "description": "Minimum/maximum period to earn a degree and class level (year standing) by credits"},
+    {"id": "attendance_exams", "category": "academic_policies", "description": "Attendance and absence limits, exams, final/make-up exams, syllabus rights"},
+    {"id": "grading_gpa", "category": "academic_policies", "description": "Grading scale, grade symbols, GPA/CGPA computation, incompletes, grade appeals and changes"},
+    {"id": "repeat_substitute_course", "category": "academic_policies", "description": "Repeating a course, substituting a required course, taking graduate courses as undergraduate"},
+    {"id": "academic_standing", "category": "academic_policies", "description": "Good standing, probation, dismissal, readmission, dean's/honor list"},
+    {"id": "graduation_requirements", "category": "academic_policies", "description": "Requirements and honors for graduation, degree conferral, double major/second degree rules"},
+    {"id": "student_conduct", "category": "academic_policies", "description": "Academic integrity, cheating/plagiarism, discipline and student code of conduct rules"},
+
+    {"id": "calendar_date", "category": "academic_calendar", "description": "When a dated event occurs in 2026-2027 (semester start, exams, deadlines, holidays)"},
+
+    {"id": "program_overview", "category": "programs", "description": "What a program/minor is about: mission, objectives, outcomes, accreditation, careers, degree awarded, frozen status"},
+    {"id": "program_credits", "category": "programs", "description": "Total credits of a degree/minor and how credits are distributed across requirement categories"},
+    {"id": "program_requirements", "category": "programs", "description": "Which courses are mandatory or elective in a program, minor, college requirement or general education area"},
+    {"id": "study_plan", "category": "programs", "description": "In which year/semester a course is scheduled, or what is taken in a given semester of a study plan"},
+
+    {"id": "course_description", "category": "courses", "description": "What a course covers or what it is about"},
+    {"id": "course_credits", "category": "courses", "description": "How many credits a course carries and its lecture/lab hour breakdown"},
+    {"id": "course_prerequisite", "category": "courses", "description": "What must be taken before (prerequisite) or alongside (corequisite) a course, or standing required"},
+    {"id": "course_equivalency", "category": "courses", "description": "Which course is equivalent to or cross-listed with another course"},
+
+    {"id": "coop_training", "category": "coop_career", "description": "Co-op/internship requirements, duration, timing, prerequisites, evaluation"},
+    {"id": "career_services", "category": "coop_career", "description": "Career guidance, job placement, career fairs and alumni/employer services"},
+
+    {"id": "library_it", "category": "student_services", "description": "Library resources, hours, borrowing rules and IT/computing/e-learning services"},
+    {"id": "student_life_support", "category": "student_services", "description": "Student affairs, clubs, activities, counseling, health, housing, transportation, sports and disability support"},
+
+    {"id": "not_in_catalog", "category": "out_of_scope", "description": "No documented answer in the 2026-2027 undergraduate catalog"},
+    {"id": "live_data_needed", "category": "out_of_scope", "description": "Requires current, personal or real-time records (grades, balances, schedules, seat availability)"}
+  ]
+}

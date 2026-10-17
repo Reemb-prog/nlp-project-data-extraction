@@ -1,0 +1,57 @@
+qa_id,fact_id,question,question_style
+S052_Q0001,S052_F0001,What does CCEE 543 Mobile Communications cover?,direct
+S052_Q0002,S052_F0001,Which course covers GSM and 3G networks?,paraphrase
+S052_Q0003,S052_F0002,What is CCEE 562 Artificial Intelligence?,direct
+S052_Q0004,S052_F0002,What is the prerequisite for CCEE 562?,paraphrase
+S052_Q0005,S052_F0003,What does CCEE 564 Machine Learning and Data Mining cover?,direct
+S052_Q0006,S052_F0003,What are the prerequisites for CCEE 564?,paraphrase
+S052_Q0007,S052_F0004,What are CCEE 595A and CCEE 595B?,direct
+S052_Q0008,S052_F0004,What do I need to start the CCE BE project?,paraphrase
+S052_Q0009,S052_F0005,What is CCEE 457 Cybersecurity Fundamentals about?,direct
+S052_Q0010,S052_F0005,What is the prerequisite for Cybersecurity Fundamentals?,paraphrase
+S052_Q0011,S052_F0006,What is CCEE 498 Special Topics?,direct
+S052_Q0012,S052_F0006,Who determines the content of CCEE 498?,paraphrase
+S052_Q0013,S052_F0007,What does CCEE 511 Mobile Application Development cover?,direct
+S052_Q0014,S052_F0007,Does the CCE mobile apps course cover both Android and iOS?,paraphrase
+S052_Q0015,S052_F0008,What is CCEE 513 Operating Systems about?,direct
+S052_Q0016,S052_F0008,Is CCEE 513 equivalent to COSC 451?,paraphrase
+S052_Q0017,S052_F0009,What does CCEE 514 Advanced Web Programming cover?,direct
+S052_Q0018,S052_F0009,What is the prerequisite for CCEE 514?,paraphrase
+S052_Q0019,S052_F0010,What is CCEE 515 Distributed Computing about?,direct
+S052_Q0020,S052_F0010,What do I need before Distributed Computing?,paraphrase
+S052_Q0021,S052_F0011,What does CCEE 520 Parallel Processing cover?,direct
+S052_Q0022,S052_F0011,What is the prerequisite for Parallel Processing?,paraphrase
+S052_Q0023,S052_F0012,What is CCEE 521 Hardware-Software Co-Design?,direct
+S052_Q0024,S052_F0012,Which elective covers hardware-software partitioning?,paraphrase
+S052_Q0025,S052_F0013,What does CCEE 535 Digital Signal Processing cover?,direct
+S052_Q0026,S052_F0013,Does the DSP course use MATLAB?,paraphrase
+S052_Q0027,S052_F0014,What is CCEE 536 Digital Image Processing about?,direct
+S052_Q0028,S052_F0014,What is the prerequisite for Digital Image Processing?,paraphrase
+S052_Q0029,S052_F0015,What does CCEE 540 Satellite Communication Systems cover?,direct
+S052_Q0030,S052_F0015,Is there a course on satellites and GPS?,paraphrase
+S052_Q0031,S052_F0016,What is CCEE 542 Microwave Communications about?,direct
+S052_Q0032,S052_F0016,What do I need before Microwave Communications?,paraphrase
+S052_Q0033,S052_F0017,What does CCEE 545 Advanced Mobile Communications cover?,direct
+S052_Q0034,S052_F0017,Is there a course on LTE-Advanced and 5G?,paraphrase
+S052_Q0035,S052_F0018,What is CCEE 546 Array Processing about?,direct
+S052_Q0036,S052_F0018,What is the prerequisite for Array Processing?,paraphrase
+S052_Q0037,S052_F0019,What does CCEE 547 Optical Communications cover?,direct
+S052_Q0038,S052_F0019,What do I need before Optical Communications?,paraphrase
+S052_Q0039,S052_F0020,What is CCEE 552 Network Security?,direct
+S052_Q0040,S052_F0020,Can COSC 360 satisfy the prerequisite for Network Security?,contextual
+S052_Q0041,S052_F0021,What does CCEE 553 Advanced Communication Networks cover?,direct
+S052_Q0042,S052_F0021,Which course covers MPLS and SONET?,paraphrase
+S052_Q0043,S052_F0022,What is CCEE 554L Computer Networks Lab 2?,direct
+S052_Q0044,S052_F0022,What is the co-requisite of Computer Networks Lab 2?,paraphrase
+S052_Q0045,S052_F0023,What does CCEE 555 Advanced Computer Networks cover?,direct
+S052_Q0046,S052_F0023,Which course teaches software-defined networking and sockets?,paraphrase
+S052_Q0047,S052_F0024,What is CCEE 555L Computer Networks Lab 3?,direct
+S052_Q0048,S052_F0024,What do I need before Computer Networks Lab 3?,paraphrase
+S052_Q0049,S052_F0025,What does CCEE 556 Network and System Administration cover?,direct
+S052_Q0050,S052_F0025,Does any CCE course prepare for the MCSA exam?,paraphrase
+S052_Q0051,S052_F0026,What is CCEE 556L Computer Networks Lab 4?,direct
+S052_Q0052,S052_F0026,What is the prerequisite for Computer Networks Lab 4?,paraphrase
+S052_Q0053,S052_F0027,What does CCEE 563 Robotics cover?,direct
+S052_Q0054,S052_F0027,What are the prerequisites for the CCE Robotics course?,paraphrase
+S052_Q0055,S052_F0028,What is CCEE 597 Advanced Topics in Computer & Communications Engineering?,direct
+S052_Q0056,S052_F0028,What is required to take CCEE 597?,paraphrase

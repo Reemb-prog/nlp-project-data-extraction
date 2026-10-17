@@ -1,0 +1,48 @@
+qa_id,fact_id,question,question_style
+S026_Q0001,S026_F0001,What is the mission of the Healthcare Information Systems program?,direct
+S026_Q0002,S026_F0001,What are the objectives of the HCIS degree?,paraphrase
+S026_Q0003,S026_F0002,What are the program outcomes of HCIS?,direct
+S026_Q0004,S026_F0002,What abilities will HCIS graduates have?,paraphrase
+S026_Q0005,S026_F0003,Where can Healthcare Information Systems graduates work?,direct
+S026_Q0006,S026_F0003,Can an HCIS graduate work in a hospital or insurance company?,contextual
+S026_Q0007,S026_F0004,What is the HCIS program about?,direct
+S026_Q0008,S026_F0004,Does the healthcare information systems program combine IT and healthcare?,paraphrase
+S026_Q0009,S026_F0005,How many credits is the BS in Healthcare Information Systems?,direct
+S026_Q0010,S026_F0005,How many gen ed and program credits are in HCIS?,paraphrase
+S026_Q0011,S026_F0006,Which math and business courses do HCIS students take?,direct
+S026_Q0012,S026_F0006,Do HCIS majors take Numerical Analysis?,paraphrase
+S026_Q0013,S026_F0007,What are the core courses in the HCIS major?,direct
+S026_Q0014,S026_F0007,Is Medical Terminology mandatory for HCIS students?,paraphrase
+S026_Q0015,S026_F0008,What is the prerequisite for HCIS 341 Health Information Systems I?,direct
+S026_Q0016,S026_F0008,Do I need BIOL 210 before HCIS 341?,paraphrase
+S026_Q0017,S026_F0009,What do I need before HCIS 342 or HCIS 343?,direct
+S026_Q0018,S026_F0009,Is HCIS 341 required for Healthcare Business Intelligence?,paraphrase
+S026_Q0019,S026_F0010,How many credits is HCIS 445 and what does it require?,direct
+S026_Q0020,S026_F0010,Can a junior register for Research in Healthcare Information Systems?,contextual
+S026_Q0021,S026_F0011,What are the prerequisites for HCIS 399 co-op?,direct
+S026_Q0022,S026_F0011,What do I need before the HCIS summative learning experience?,paraphrase
+S026_Q0023,S026_F0012,How many technical elective credits are in the HCIS program?,direct
+S026_Q0024,S026_F0012,Can HCIS students take Introduction to E-Healthcare as an elective?,contextual
+S026_Q0025,S026_F0012,Which electives are offered to Healthcare Information Systems students?,paraphrase
+S026_Q0026,S026_F0013,What is the HCIS summative learning project?,direct
+S026_Q0027,S026_F0013,Can my HCIS senior project build on a previous course project?,paraphrase
+S026_Q0028,S026_F0014,What are the co-op requirements for HCIS students?,direct
+S026_Q0029,S026_F0014,How long is the co-op training for healthcare information systems majors?,paraphrase
+S026_Q0030,S026_F0015,How are HCIS course codes structured?,direct
+S026_Q0031,S026_F0015,What does the middle digit 3 mean in an HCIS course number?,paraphrase
+S026_Q0032,S026_F0016,What courses do HCIS students take in their first fall semester?,direct
+S026_Q0033,S026_F0016,HCIS year 1 fall courses?,short
+S026_Q0034,S026_F0017,What is in HCIS year 1 spring and summer?,direct
+S026_Q0035,S026_F0017,When do HCIS students take Human Anatomy and Physiology?,paraphrase
+S026_Q0036,S026_F0018,Which courses are in HCIS year 2 fall?,direct
+S026_Q0037,S026_F0018,When do HCIS majors take Health Information Systems I?,paraphrase
+S026_Q0038,S026_F0019,What is in the second-year spring of the HCIS plan?,direct
+S026_Q0039,S026_F0019,When is the HCIS co-op scheduled?,paraphrase
+S026_Q0040,S026_F0020,What courses are in HCIS year 3 fall?,direct
+S026_Q0041,S026_F0020,When do HCIS students take Healthcare Business Intelligence?,paraphrase
+S026_Q0042,S026_F0021,What is in the last semester of the HCIS study plan?,direct
+S026_Q0043,S026_F0021,When do HCIS students take Machine Learning and Data Mining?,paraphrase
+S026_Q0044,S026_F0022,What is HCIS 240 Medical Terminology about?,direct
+S026_Q0045,S026_F0022,Does Medical Terminology have a prerequisite?,paraphrase
+S026_Q0046,S026_F0023,What does HCIS 341 Health Information Systems I cover?,direct
+S026_Q0047,S026_F0023,Which HCIS course studies hospital IT functions?,paraphrase

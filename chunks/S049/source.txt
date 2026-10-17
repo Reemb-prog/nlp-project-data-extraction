@@ -1,0 +1,198 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S049 | Renewable energy systems minor
+ORIGINAL PDF PAGES: 320 to 323 (inclusive)
+ONLY extract facts whose source page is between 320 and 323.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 320 ==========
+MINOR IN RENEWABLE ENERGY SYSTEMS
+
+Rationale
+
+The College of Engineering/ECE Department offers a minor in Renewable Energy
+Systems (RES). The minor aims to address the expected national, regional, and
+international need for personal experts in renewable energy systems for the generation,
+transmission, and use of energy.
+
+Program Objectives
+
+The aims of the minor are to:
+
+ •  Provide students with advanced expertise in renewable energy sources, systems,
+    and policies;
+ •  Provide students  with the necessary  tools  to  contribute  to the  fast-growing
+    renewable energy systems sector;
+ •  Prepare undergraduate students for graduate studies in renewable energy.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate the ability to:
+ •  Use current techniques, architectures, and tools to generate, store, and distribute
+    energy from renewable sources;
+ •  Design systems and tools to generate, store, and distribute renewable energy.
+
+Program Requirements
+
+While most  relevant  to  electrical engineering  students,  this minor  is  offered  to
+undergraduate RHU students in the BE or MS program, from different engineering
+disciplines.  It may also be offered to students with a BS/BE from other universities,
+subject to a case-by-case evaluation of  their transcripts and other specific RHU
+requirements.
+
+Early  in  their major, interested RHU engineering students need to complete the
+appropriate form declaring their intent to minor in RES while completing their regular
+major.
+
+To complete the RES minor, a student must
+1)  Declare a minor in Renewable Energy Systems by completing the Minor Declaration
+    Form;
+2)  Obtain the approval of the dean of the student’s college major and the dean of the
+    College of Engineering
+3)  Earn a Minor Cumulative Grade Point Average of no less than 70%.
+4)  Complete 18 credits of coursework as specified below.
+                                                           Page 320
+
+========== ORIGINAL PDF PAGE 321 ==========
+It should be noted that overlapping courses between the student's major requirements
+and the renewable energy systems minor requirements are counted toward fulfilling the
+minor requirements. The student must complete a minimum of 3 credit hours of
+coursework that is not counted toward the requirement for their major or any other minor.
+
+Career Options
+
+The RES minor consists of six courses (18 credits), of which three are mandatory and
+three are electives, selected to satisfy the requirements of the proposed program
+objectives and learning outcomes.
+
+Curriculum and Program
+
+The RES minor consists of six courses (18 credits), of which three are mandatory and
+three are electives, selected to satisfy the requirements of the proposed program
+objectives and learning outcomes.
+
+I.   Mandatory Courses
+
+The three mandatory courses (9 credits) are:
+
+ ELEC 320      Electronics                                                3(3,0)
+ ELEC 431      Introduction to Renewable Energy Systems                3(3,0)
+ ELEC 432     Power Electronics                                         3(3,0)
+
+II.  Elective Courses
+
+Students may choose three elective courses (9 credits) from the following list.
+
+ ELEC 532       Application of Power Electronics in Power Systems          3(3,0)
+ ELEC 535      Renewable Energy Systems for the Built Environment        3(3,0)
+ ELEC 536      Renewable Energy Systems                                 3(3,0)
+ ELEC 542      Advanced Power Electronics                                 3(3,0)
+ ELEC 560       Sustainable Energy                                          3(3,0)
+ ELEC 561     Wind Energy Technology                                    3(3,0)
+ ELEC 562       Solar Energy Technology                                    3(3,0)
+ ELEC 563      Smart Grid Technology                                       3(3,0)
+ Approved Electives from other engineering programs
+  Civil Engineering
+ CIVE 506     LEED Principles in Construction Management                3(3,0)
+ Computer and Communication Engineering
+ CCEE 426      Design of Embedded Systems                               3(3,0)
+ CCEE 564     Machine Learning and Data Mining                           3(3,0)
+ Mechanical and Mechatronics Engineering
+ MECH 453      Buildings and Energy                                        3(3,0)
+ MECH 471      Optimization in Engineering Design                          3(3,0)
+                                                           Page 321
+
+========== ORIGINAL PDF PAGE 322 ==========
+MECH 541     Renewable Energy                                           3(3,0)
+ MECA 581     Systems Engineering                                        3(3,0)
+
+III. Courses Description
+
+ ELEC 320     Electronics                                              3(3,0)
+ This course covers semiconductors, PN junctions, diode theory and circuits, bipolar
+ junction transistors, transistor fundamentals, transistor biasing, amplifiers, MOSFETs,
+ and operational amplifiers. Prerequisite: ELEC 210.
+
+ ELEC 431     Introduction to Renewable Energy Systems           3(3,0)
+ This course aims to provide students with information on renewable energy sources,
+ including solar, wind, and wave energy, as well as biomass energy. This course will
+ also illustrate how to link these sources to the grid and synchronize them to deliver
+ electricity reliably and efficiently.
+ Prerequisite: ELE210
+
+ ELEC 432    Power Electronics                                      3(3,0)
+ This course  familiarizes the students with basic power switch technology and
+ associated electronic circuits. In this course, power electronic circuits and switching
+ devices are studied. Their applications  in AC/DC, DC/DC, DC/AC, and AC/AC
+ converters, as well as switching power supplies, are studied. Prerequisite: ELEC 320.
+
+ ELEC 560    Sustainable Energy                                     3(3,0)
+ This course is designed to provide you with the methods, tools, and perspectives to
+ understand, critique, and ultimately influence the management of technical, economic,
+ and policy choices regarding energy generation and use. We will focus equally on the
+ technical, economic, political, and environmental impacts of energy. Prerequisites:
+ ELEC 431
+
+ ELEC 532  Application  of  Power  Electronics  in  Power        3(3,0)
+           Systems
+ This course focuses on power electronics and its applications in power systems,
+ covering  the  following  topics:  Flexible AC  transmission  systems  (FACTS),
+ conventional thyristor-controlled reactors and phase shifters, voltage source inverter
+ (VSI)- based static condenser (STATCON), and unified power flow controller (UPFC).
+ Prerequisites: ELEC 330; ELEC 432.
+
+ ELEC 535  Renewable  Energy  Systems   for  the   Built        3(3,0)
+           Environment
+ This course covers Energy and carbon emissions in the built environment, including
+ data on energy consumption in Lebanon. Overview of building services – HVAC,
+ Lighting, HWS, Lifts, and Small Power; data and benchmarks for energy consumption
+ by end use in buildings; methods for estimating predicted energy consumption in
+ buildings; time-based energy demand schedules; the importance of energy efficiency
+ and the Lean-Clean-Green principle. Prerequisite: ELEC 210.
+
+                                                           Page 322
+
+========== ORIGINAL PDF PAGE 323 ==========
+ELEC 536    Renewable Energy Systems                            3(3,0)
+This course aims to provide knowledge about energy production from renewable
+sources, the structure and nature of the interconnected electric power system, and the
+critical need for environmentally sensitive solutions. In addition, the economic and
+regulatory policy aspects of electricity and electricity markets are discussed. The
+course covers the basics of Wind energy conversion systems and microgrids with
+hybrid power sources. Modeling and control of renewable energy sources such as wind
+turbine generation, solar panels, fuel cells, and power electronics interfaces will be
+presented. Prerequisite: ELEC 431.
+
+ELEC 542    Advanced Power Electronics                           3(3,0)
+This course is designed to provide students with a functional knowledge of modeling
+switching power converters, advanced power converter topologies, design constraints,
+and control methods. It also covers the operation of multi-level DC/AC inverters and
+matrix converters. Prerequisite: ELEC 432.
+
+ELEC 561    Wind Energy Technology                               3(3,0)
+This course aims to provide the students with an in-depth understanding of the
+theoretical, technological, and economic aspects of wind energy systems. Upon
+successful completion of this course, students will be able to identify, assess, and
+select the types of wind turbines, estimate the power output of specific wind energy
+devices and systems, assess the structural suitability of wind towers, and evaluate the
+key aspects of onshore (urban) and offshore wind energy systems. Prerequisite:
+ELEC 210.
+
+ELEC 562    Solar Energy Technology                               3(3,0)
+This course aims to provide students with a systematic understanding of current
+knowledge, problems, and insights in solar photovoltaic technologies; enable students
+to evaluate current research and advances  in the  field; and assess solar PV
+technologies, develop critiques, and propose solutions.
+Prerequisite: ELEC 210.
+
+ELEC 563    Smart Grid Technology                                 3(3,0)
+This course will examine smart grid technologies and the transformational impacts of
+the smart grid on the industry. Students in this course will learn the fundamentals of the
+smart grid: its purpose and objectives, technologies, architectures, and management.
+Students will also learn about many of the challenges facing the smart grid as it evolves.
+Prerequisite: ELEC 432
+
+
+
+
+
+                                                          Page 323

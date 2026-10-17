@@ -1,0 +1,47 @@
+qa_id,fact_id,question,question_style
+S048_Q0001,S048_F0001,What experiments are in ELEC 432L Power Electronics Lab?,direct
+S048_Q0002,S048_F0001,What is the co-requisite of the power electronics lab?,paraphrase
+S048_Q0003,S048_F0002,What does ELEC 451 Control Systems cover?,direct
+S048_Q0004,S048_F0002,What is the prerequisite for Control Systems?,paraphrase
+S048_Q0005,S048_F0003,What is ELEC 499 Co-op Work Experience?,direct
+S048_Q0006,S048_F0003,How long is the electrical engineering co-op according to the course description?,paraphrase
+S048_Q0007,S048_F0004,What does ELEC 533 Advanced Electric Machines and Drives cover?,direct
+S048_Q0008,S048_F0004,What are the prerequisites for Advanced Machines and Drives?,paraphrase
+S048_Q0009,S048_F0005,What is ELEC 534 Advanced Power Systems about?,direct
+S048_Q0010,S048_F0005,Which course covers load flow and economic dispatch?,paraphrase
+S048_Q0011,S048_F0006,What are ELEC 595A and ELEC 595B?,direct
+S048_Q0012,S048_F0006,What is the prerequisite for the electrical BE project part 2?,paraphrase
+S048_Q0013,S048_F0007,What does ELEC 433 High Voltage Engineering cover?,direct
+S048_Q0014,S048_F0007,What do I need before High Voltage Engineering?,paraphrase
+S048_Q0015,S048_F0008,What is ELEC 434 Electrical Power Distribution about?,direct
+S048_Q0016,S048_F0008,Which elective covers distribution substations and transformers?,paraphrase
+S048_Q0017,S048_F0009,What does ELEC 444 Electromagnetic Compatibility cover?,direct
+S048_Q0018,S048_F0009,Is there an EMC elective in electrical engineering?,paraphrase
+S048_Q0019,S048_F0010,What is ELEC 498 Special Topics in Electrical Engineering?,direct
+S048_Q0020,S048_F0010,Who decides the content of ELEC 498?,paraphrase
+S048_Q0021,S048_F0011,What does ELEC 503 Artificial Neural Systems cover?,direct
+S048_Q0022,S048_F0011,What is the prerequisite for Artificial Neural Systems?,paraphrase
+S048_Q0023,S048_F0012,What is ELEC 504 Lasers and Laser Applications about?,direct
+S048_Q0024,S048_F0012,Is there a laser engineering elective?,paraphrase
+S048_Q0025,S048_F0013,What does ELEC 531 cover?,direct
+S048_Q0026,S048_F0013,Is there an elective on power systems for electric vehicles?,paraphrase
+S048_Q0027,S048_F0014,What is ELEC 532 Application of Power Electronics in Power Systems?,direct
+S048_Q0028,S048_F0014,Which elective covers FACTS and UPFC?,paraphrase
+S048_Q0029,S048_F0015,What does ELEC 535 Renewable Energy Systems for the Built Environment cover?,direct
+S048_Q0030,S048_F0015,Is there a course on energy use in buildings?,paraphrase
+S048_Q0031,S048_F0016,What is ELEC 536 Renewable Energy Systems about?,direct
+S048_Q0032,S048_F0016,What do I need before ELEC 536?,paraphrase
+S048_Q0033,S048_F0017,What does ELEC 542 Advanced Power Electronics cover?,direct
+S048_Q0034,S048_F0017,Which elective covers multi-level inverters and matrix converters?,paraphrase
+S048_Q0035,S048_F0018,What is ELEC 550 Advanced Control Systems about?,direct
+S048_Q0036,S048_F0018,Which course covers controllability and observability?,paraphrase
+S048_Q0037,S048_F0019,What does ELEC 551 Nonlinear Adaptive Control cover?,direct
+S048_Q0038,S048_F0019,What is the prerequisite for Nonlinear Adaptive Control?,paraphrase
+S048_Q0039,S048_F0020,What is ELEC 560 Sustainable Energy about?,direct
+S048_Q0040,S048_F0020,Does ELEC 560 have a prerequisite?,paraphrase
+S048_Q0041,S048_F0021,What does ELEC 561 Wind Energy Technology cover?,direct
+S048_Q0042,S048_F0021,What do I need before Wind Energy Technology?,paraphrase
+S048_Q0043,S048_F0022,What is ELEC 562 Solar Energy Technology about?,direct
+S048_Q0044,S048_F0022,Is there a solar PV course in electrical engineering?,paraphrase
+S048_Q0045,S048_F0023,What is ELEC 597 Advanced Topics in Electrical Engineering?,direct
+S048_Q0046,S048_F0023,How often is ELEC 597 offered?,paraphrase

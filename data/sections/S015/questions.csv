@@ -1,0 +1,97 @@
+qa_id,fact_id,question,question_style
+S015_Q0001,S015_F0001,What is the mission of the general education program at RHU?,direct
+S015_Q0002,S015_F0001,Why do I have to take general education courses?,paraphrase
+S015_Q0003,S015_F0002,What are the learning outcomes of general education?,direct
+S015_Q0004,S015_F0002,What skills should I gain from the gen ed program?,paraphrase
+S015_Q0005,S015_F0003,How many general education credits must every RHU student take?,direct
+S015_Q0006,S015_F0003,How many gen ed credits are mandatory and how many are electives?,paraphrase
+S015_Q0007,S015_F0004,What are the six general education domains?,direct
+S015_Q0008,S015_F0004,How many credits are required in the communication competency domain?,paraphrase
+S015_Q0009,S015_F0004,How many social sciences/culture credits do I need for gen ed?,paraphrase
+S015_Q0010,S015_F0005,Where can I find the courses for the quantitative reasoning gen ed domain?,direct
+S015_Q0011,S015_F0005,Are natural science gen ed courses the same for every major?,paraphrase
+S015_Q0012,S015_F0006,What is ARAB 212 Arabic Language & Communication about?,direct
+S015_Q0013,S015_F0006,Which gen ed course teaches workplace Arabic writing?,paraphrase
+S015_Q0014,S015_F0007,How many credits is ARAB 212?,direct
+S015_Q0015,S015_F0007,Is the Arabic communication course 2 or 3 credits?,paraphrase
+S015_Q0016,S015_F0008,What does ENGL 210 English Composition and Rhetoric cover?,direct
+S015_Q0017,S015_F0008,Which English course teaches persuasive and argumentative essays?,paraphrase
+S015_Q0018,S015_F0009,What is the prerequisite for ENGL 210?,direct
+S015_Q0019,S015_F0009,Can I skip ENGL 101 and go to ENGL 210 with a TOEFL score?,contextual
+S015_Q0020,S015_F0009,ENGL 210 prerequisite TOEFL score?,short
+S015_Q0021,S015_F0010,What is ENGL 217 Professional English Communication about?,direct
+S015_Q0022,S015_F0010,Which course teaches writing emails and reports for work?,paraphrase
+S015_Q0023,S015_F0011,What do I need before ENGL 217?,direct
+S015_Q0024,S015_F0011,Is ENGL 210 the prerequisite of Professional English Communication?,paraphrase
+S015_Q0025,S015_F0012,What is BADM 355 Business Ethics and Social Responsibility about?,direct
+S015_Q0026,S015_F0012,Which gen ed elective covers corporate governance and ethical frameworks?,paraphrase
+S015_Q0027,S015_F0013,What is the prerequisite for BADM 355?,direct
+S015_Q0028,S015_F0013,"I'm a sophomore, can I take BADM 355?",contextual
+S015_Q0029,S015_F0014,What does CMNS 360 Ethics in Communication cover?,direct
+S015_Q0030,S015_F0014,Is there a humanities elective about ethics in digital communication?,paraphrase
+S015_Q0031,S015_F0015,What is CMNS 470 Videography in Media about?,direct
+S015_Q0032,S015_F0015,Is there an elective on video shooting and editing?,paraphrase
+S015_Q0033,S015_F0016,What does CMNS 320 Creative Nonfiction cover?,direct
+S015_Q0034,S015_F0016,Which humanities elective focuses on memoirs and reportage?,paraphrase
+S015_Q0035,S015_F0017,What is CVLN 301 Civilization Studies I about?,direct
+S015_Q0036,S015_F0017,Which civilization course covers up to the Middle Ages?,paraphrase
+S015_Q0037,S015_F0018,What period does CVLN 302 Civilization Studies II cover?,direct
+S015_Q0038,S015_F0018,Which civilization studies course covers the 14th to 18th centuries?,paraphrase
+S015_Q0039,S015_F0019,What does CVLN 303 Civilization Studies III cover?,direct
+S015_Q0040,S015_F0019,Which civilization course covers the 19th century to today?,paraphrase
+S015_Q0041,S015_F0020,What is CVLN 320 Feminism Beyond Borders about?,direct
+S015_Q0042,S015_F0020,Is there a gen ed elective on feminism?,paraphrase
+S015_Q0043,S015_F0021,What does EDUC 201 Fundamentals of Education cover?,direct
+S015_Q0044,S015_F0021,Is there a gen ed course about teaching techniques in schools?,paraphrase
+S015_Q0045,S015_F0022,What is EDUC 211 Fundamentals of Special Education?,direct
+S015_Q0046,S015_F0022,Which elective introduces learning disabilities?,paraphrase
+S015_Q0047,S015_F0023,What is the prerequisite for EDUC 312 Educational Philosophy?,direct
+S015_Q0048,S015_F0023,Do I need EDUC 210 before Educational Philosophy?,paraphrase
+S015_Q0049,S015_F0024,What does EDUC 360 Children's Literature cover?,direct
+S015_Q0050,S015_F0024,Is there an elective about books for children?,paraphrase
+S015_Q0051,S015_F0025,What is EDUC 365 Art Education about?,direct
+S015_Q0052,S015_F0025,Which elective covers art and music activities for young children?,paraphrase
+S015_Q0053,S015_F0026,What does ENGL 214 Introduction to English Poetry cover?,direct
+S015_Q0054,S015_F0026,Is there a poetry course I can take as a humanities elective?,paraphrase
+S015_Q0055,S015_F0027,What is ENGL 220 Introduction to Literature about?,direct
+S015_Q0056,S015_F0027,Which literature elective covers fiction poetry and drama together?,paraphrase
+S015_Q0057,S015_F0028,What does ENGL 222 Introduction to Language cover?,direct
+S015_Q0058,S015_F0028,Is there an intro linguistics elective at RHU?,paraphrase
+S015_Q0059,S015_F0029,What is ENGL 223 Introduction to Drama?,direct
+S015_Q0060,S015_F0029,Is there a drama course among the humanities electives?,paraphrase
+S015_Q0061,S015_F0030,What does ENGL 230 Shakespeare's Plays cover?,direct
+S015_Q0062,S015_F0030,Can I take a Shakespeare course as a gen ed?,paraphrase
+S015_Q0063,S015_F0031,What is ENGL 235 Creative Writing about?,direct
+S015_Q0064,S015_F0031,Is there a creative writing elective?,paraphrase
+S015_Q0065,S015_F0032,What does ENGL 252 Introduction to American Literature cover?,direct
+S015_Q0066,S015_F0032,Is there an American literature elective?,paraphrase
+S015_Q0067,S015_F0033,What is ENGL 300 Introduction to World Literature?,direct
+S015_Q0068,S015_F0033,Which elective covers African and Middle Eastern literature?,paraphrase
+S015_Q0069,S015_F0034,What does ENGL 330 Language Acquisition cover?,direct
+S015_Q0070,S015_F0034,Is there a course on how people learn first and second languages?,paraphrase
+S015_Q0071,S015_F0035,What is FADR 215 History of Art about?,direct
+S015_Q0072,S015_F0035,Which humanities elective covers Renaissance and modern art?,paraphrase
+S015_Q0073,S015_F0036,What does GRDS 230 Photography I cover?,direct
+S015_Q0074,S015_F0036,Is there a black-and-white photography elective?,paraphrase
+S015_Q0075,S015_F0037,What is HIST 210 History of England?,direct
+S015_Q0076,S015_F0037,Is there a British history elective?,paraphrase
+S015_Q0077,S015_F0038,What does HIST 350 cover?,direct
+S015_Q0078,S015_F0038,Which elective covers the Umayyad and Abbasid periods?,paraphrase
+S015_Q0079,S015_F0039,What is HIST 360 Contemporary History about?,direct
+S015_Q0080,S015_F0039,Is there a contemporary history elective?,paraphrase
+S015_Q0081,S015_F0040,What does HIST 365 History of Europe in the Middle East cover?,direct
+S015_Q0082,S015_F0040,Which course studies European intervention in the Middle East?,paraphrase
+S015_Q0083,S015_F0041,What is HIST 370 about?,direct
+S015_Q0084,S015_F0041,Is there an elective on the economic history of the Middle East?,paraphrase
+S015_Q0085,S015_F0042,What is the prerequisite of HIST 480 Special Topics in History?,direct
+S015_Q0086,S015_F0042,Do I need the instructor's consent for HIST 480?,paraphrase
+S015_Q0087,S015_F0043,What does MUSC 201 Introduction to Music cover?,direct
+S015_Q0088,S015_F0043,Is there a music appreciation elective?,paraphrase
+S015_Q0089,S015_F0044,What is MUSC 301 about?,direct
+S015_Q0090,S015_F0044,Is there a course on Western and Arabic music theory?,paraphrase
+S015_Q0091,S015_F0045,What does PHIL 301 Major Trends in Philosophy cover?,direct
+S015_Q0092,S015_F0045,Which philosophy elective covers free will and the theory of mind?,paraphrase
+S015_Q0093,S015_F0046,What is PHIL 303 Introduction to Ethics?,direct
+S015_Q0094,S015_F0046,Is there an ethics elective on major moral theories?,paraphrase
+S015_Q0095,S015_F0047,What does PHIL 307 Business Ethics cover?,direct
+S015_Q0096,S015_F0047,Is there a philosophy course on ethical dilemmas in business?,paraphrase

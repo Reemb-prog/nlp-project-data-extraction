@@ -1,0 +1,63 @@
+qa_id,fact_id,question,question_style
+S045_Q0001,S045_F0001,What does CIVE 536 Hydrology cover?,direct
+S045_Q0002,S045_F0001,Which civil course covers groundwater and rainfall-runoff?,paraphrase
+S045_Q0003,S045_F0002,What is the prerequisite for CIVE 536?,direct
+S045_Q0004,S045_F0002,Do I need Hydraulics before Hydrology?,paraphrase
+S045_Q0005,S045_F0003,What is CIVE 538 Water and Wastewater Treatment about?,direct
+S045_Q0006,S045_F0003,What are the prerequisites for Water and Wastewater Treatment?,paraphrase
+S045_Q0007,S045_F0004,What is CIVE 595A BE Summative Learning Project 1?,direct
+S045_Q0008,S045_F0004,What do I need to start the civil BE project?,paraphrase
+S045_Q0009,S045_F0005,What happens in CIVE 595B?,direct
+S045_Q0010,S045_F0005,What is the prerequisite for BE Summative Learning Project 2 in civil?,paraphrase
+S045_Q0011,S045_F0006,What does CIVE 502 Engineering Risk Analysis cover?,direct
+S045_Q0012,S045_F0006,What do I need before Engineering Risk Analysis?,paraphrase
+S045_Q0013,S045_F0007,What is CIVE 503 Computer Methods in Civil Engineering?,direct
+S045_Q0014,S045_F0007,Which civil elective covers REVIT conversion and shop drawings?,paraphrase
+S045_Q0015,S045_F0008,What does CIVE 504 Infrastructure Asset Management cover?,direct
+S045_Q0016,S045_F0008,Is there a civil elective on infrastructure inspection?,paraphrase
+S045_Q0017,S045_F0009,What is CIVE 506 about?,direct
+S045_Q0018,S045_F0009,Is there a LEED course in civil engineering?,paraphrase
+S045_Q0019,S045_F0010,What is CIVE 597 Topics in Civil Engineering?,direct
+S045_Q0020,S045_F0010,Can CIVE 597 be repeated for credit?,paraphrase
+S045_Q0021,S045_F0011,What does CIVE 510 Finite Elements Analysis cover?,direct
+S045_Q0022,S045_F0011,What is the prerequisite for Finite Elements Analysis?,paraphrase
+S045_Q0023,S045_F0012,What is CIVE 511 Structural Dynamics about?,direct
+S045_Q0024,S045_F0012,Which civil elective covers modal analysis and response spectra?,paraphrase
+S045_Q0025,S045_F0013,What does CIVE 512 Advanced Structural Analysis cover?,direct
+S045_Q0026,S045_F0013,What do I need before Advanced Structural Analysis?,paraphrase
+S045_Q0027,S045_F0014,What is CIVE 514 Earthquake Engineering about?,direct
+S045_Q0028,S045_F0014,What is the prerequisite for Earthquake Engineering?,paraphrase
+S045_Q0029,S045_F0015,What does CIVE 515 Prestressed Concrete cover?,direct
+S045_Q0030,S045_F0015,What do I need before Prestressed Concrete?,paraphrase
+S045_Q0031,S045_F0016,What is CIVE 519 Tall Building Structures about?,direct
+S045_Q0032,S045_F0016,Which elective covers shear wall and dual systems in high-rises?,paraphrase
+S045_Q0033,S045_F0017,What does CIVE 521 Special Concretes cover?,direct
+S045_Q0034,S045_F0017,Is there an elective on fiber-reinforced and self-consolidating concrete?,paraphrase
+S045_Q0035,S045_F0018,What is CIVE 522 Durability of Construction Materials?,direct
+S045_Q0036,S045_F0018,Which civil elective covers mechanisms of material decay?,paraphrase
+S045_Q0037,S045_F0019,What does CIVE 523 Repair of Concrete Structures cover?,direct
+S045_Q0038,S045_F0019,Is there a course on repairing and strengthening concrete?,paraphrase
+S045_Q0039,S045_F0020,What is CIVE 524 about?,direct
+S045_Q0040,S045_F0020,Which civil elective covers ground penetrating radar and NDE?,paraphrase
+S045_Q0041,S045_F0021,What does CIVE 525 Concrete Technology cover?,direct
+S045_Q0042,S045_F0021,Which elective covers carbonation and sulfate attack?,paraphrase
+S045_Q0043,S045_F0022,What is CIVE 526 Admixtures for Concrete?,direct
+S045_Q0044,S045_F0022,Is there a civil course specifically on concrete admixtures?,paraphrase
+S045_Q0045,S045_F0023,What does CIVE 527 Seepage and Dams cover?,direct
+S045_Q0046,S045_F0023,What are the requisites for Seepage and Dams?,paraphrase
+S045_Q0047,S045_F0024,What is CIVE 528 Earth Retaining Structures about?,direct
+S045_Q0048,S045_F0024,What do I need before Earth Retaining Structures?,paraphrase
+S045_Q0049,S045_F0025,What does CIVE 529 Advanced Foundation Engineering cover?,direct
+S045_Q0050,S045_F0025,Which elective covers sheet-pile walls and drilled shafts?,paraphrase
+S045_Q0051,S045_F0026,What is CIVE 571 Water Quality about?,direct
+S045_Q0052,S045_F0026,What do I need before the Water Quality elective?,paraphrase
+S045_Q0053,S045_F0027,What does CIVE 573 Solid Waste Management cover?,direct
+S045_Q0054,S045_F0027,Is there a civil course on landfill design?,paraphrase
+S045_Q0055,S045_F0028,What is CIVE 575 Water Supply & Wastewater Systems?,direct
+S045_Q0056,S045_F0028,Which elective covers sewage and stormwater system design?,paraphrase
+S045_Q0057,S045_F0029,What does CIVE 576 Hydraulic Structures cover?,direct
+S045_Q0058,S045_F0029,What are the prerequisites for Hydraulic Structures?,paraphrase
+S045_Q0059,S045_F0030,What is CIVE 540 GIS for Civil Engineering?,direct
+S045_Q0060,S045_F0030,Is there a GIS course for civil engineers?,paraphrase
+S045_Q0061,S045_F0031,What does CIVE 541 Pavement Design cover?,direct
+S045_Q0062,S045_F0031,What is the prerequisite for Pavement Design?,paraphrase

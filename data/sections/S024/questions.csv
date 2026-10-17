@@ -1,0 +1,69 @@
+qa_id,fact_id,question,question_style
+S024_Q0001,S024_F0001,What is covered in the COSC 360L Networking Lab?,direct
+S024_Q0002,S024_F0001,Does the networking lab prepare me for Cisco certifications?,paraphrase
+S024_Q0003,S024_F0002,What is COSC 360L equivalent to?,direct
+S024_Q0004,S024_F0002,Can I take COSC 360L alongside CCEE 354 instead of COSC 360?,contextual
+S024_Q0005,S024_F0003,What is COSC 399 Co-op Training Experience?,direct
+S024_Q0006,S024_F0003,How many credits is the CS co-op course?,paraphrase
+S024_Q0007,S024_F0004,What topics are in COSC 421 Theory of Computation?,direct
+S024_Q0008,S024_F0004,Which CS course covers automata and Turing machines?,paraphrase
+S024_Q0009,S024_F0005,What does COSC 451 Operating Systems cover?,direct
+S024_Q0010,S024_F0005,Is there a course on deadlocks and process synchronization?,paraphrase
+S024_Q0011,S024_F0006,What is COSC 451 equivalent to?,direct
+S024_Q0012,S024_F0006,Is CCEE 513 the same as Operating Systems in CS?,paraphrase
+S024_Q0013,S024_F0007,What is COSC 490 Summative Learning Experience?,direct
+S024_Q0014,S024_F0007,Is the CS graduation project a yearlong course?,paraphrase
+S024_Q0015,S024_F0008,What does BMGT 300 Project Management cover?,direct
+S024_Q0016,S024_F0008,Which course teaches PERT/CPM scheduling?,paraphrase
+S024_Q0017,S024_F0009,What is BMKA 200 Introduction to Marketing about?,direct
+S024_Q0018,S024_F0009,What is the co-requisite for Introduction to Marketing?,paraphrase
+S024_Q0019,S024_F0010,What does CCEE 426 Design of Embedded Systems cover?,direct
+S024_Q0020,S024_F0010,Is there a CS elective on embedded real-time systems?,paraphrase
+S024_Q0021,S024_F0011,What is the prerequisite for CCEE 426?,direct
+S024_Q0022,S024_F0011,Which COSC course is equivalent to CCEE 426?,paraphrase
+S024_Q0023,S024_F0012,What is COSC 434 Advanced Web Programming about?,direct
+S024_Q0024,S024_F0012,Which course teaches full-stack and back-end web development?,paraphrase
+S024_Q0025,S024_F0013,What are the prerequisites for COSC 434?,direct
+S024_Q0026,S024_F0013,Do I need Databases and Web Programming before Advanced Web Programming?,paraphrase
+S024_Q0027,S024_F0014,What does COSC 435 Mobile Application Development cover?,direct
+S024_Q0028,S024_F0014,Is there a course where I build a mobile app?,paraphrase
+S024_Q0029,S024_F0015,What is the prerequisite for COSC 435?,direct
+S024_Q0030,S024_F0015,Which engineering course is equivalent to Mobile Application Development?,paraphrase
+S024_Q0031,S024_F0016,What is COSC 436 Game Programming about?,direct
+S024_Q0032,S024_F0016,Is there a game development course in CS?,paraphrase
+S024_Q0033,S024_F0017,What are the prerequisites for COSC 436?,direct
+S024_Q0034,S024_F0017,Can a sophomore take Game Programming?,contextual
+S024_Q0035,S024_F0018,What does COSC 438 Introduction to Software Testing cover?,direct
+S024_Q0036,S024_F0018,Is there a course on black-box and white-box testing?,paraphrase
+S024_Q0037,S024_F0019,What is the prerequisite of COSC 438?,direct
+S024_Q0038,S024_F0019,Do I need Software Engineering before Software Testing?,paraphrase
+S024_Q0039,S024_F0020,What is COSC 460L Networking Lab 2?,direct
+S024_Q0040,S024_F0020,Which lab prepares for CCNA 1?,paraphrase
+S024_Q0041,S024_F0021,What does COSC 461 Advanced Networking cover?,direct
+S024_Q0042,S024_F0021,Is there a course on Active Directory administration?,paraphrase
+S024_Q0043,S024_F0022,What is the prerequisite of COSC 461?,direct
+S024_Q0044,S024_F0022,Can I take Advanced Networking after CCEE 354?,contextual
+S024_Q0045,S024_F0023,What is COSC 461L Networking Lab 3 about?,direct
+S024_Q0046,S024_F0023,Which lab covers VLANs and NAT for CCNA 2?,paraphrase
+S024_Q0047,S024_F0024,What is the prerequisite for COSC 461L?,direct
+S024_Q0048,S024_F0024,Which CCEE lab is equivalent to Networking Lab 3?,paraphrase
+S024_Q0049,S024_F0025,What does COSC 462L Networking Lab 4 cover?,direct
+S024_Q0050,S024_F0025,Which networking lab prepares for CCNA 3?,paraphrase
+S024_Q0051,S024_F0026,What is COSC 463 Cybersecurity Operations?,direct
+S024_Q0052,S024_F0026,Is there a cybersecurity elective for CS students and what does it require?,paraphrase
+S024_Q0053,S024_F0027,What does COSC 480 Machine Learning and Data Mining cover?,direct
+S024_Q0054,S024_F0027,Is there a CS course on classification and clustering?,paraphrase
+S024_Q0055,S024_F0028,What are the prerequisites for COSC 480?,direct
+S024_Q0056,S024_F0028,Can BADM 250 replace MATH 351 for the machine learning course?,contextual
+S024_Q0057,S024_F0029,What is COSC 481 Artificial Intelligence about?,direct
+S024_Q0058,S024_F0029,Does the AI course cover search strategies and Python?,paraphrase
+S024_Q0059,S024_F0030,What is the prerequisite of COSC 481?,direct
+S024_Q0060,S024_F0030,Which CCEE course is equivalent to Artificial Intelligence?,paraphrase
+S024_Q0061,S024_F0031,What does COSC 482 Data Science and Web Scraping cover?,direct
+S024_Q0062,S024_F0031,Is there a course on web scraping with Python?,paraphrase
+S024_Q0063,S024_F0032,What are the co-requisites of COSC 482?,direct
+S024_Q0064,S024_F0032,Can I take Data Science and Web Scraping together with Web Programming?,contextual
+S024_Q0065,S024_F0033,What do I need to take an independent study in CS?,direct
+S024_Q0066,S024_F0033,What CGPA is required for COSC 496?,paraphrase
+S024_Q0067,S024_F0034,How many credits is COSC 498 Special Topics?,direct
+S024_Q0068,S024_F0034,Who can take Special Topics in Computer Science?,paraphrase

@@ -1,0 +1,23 @@
+qa_id,fact_id,question,question_style
+S056_Q0001,S056_F0001,What courses are in biomedical year 3 spring and summer?,direct
+S056_Q0002,S056_F0001,When do biomedical students take Computational Neuroscience?,paraphrase
+S056_Q0003,S056_F0002,What courses are in the biomedical BE fourth year?,direct
+S056_Q0004,S056_F0002,When do biomedical BE students take Clinical Engineering?,paraphrase
+S056_Q0005,S056_F0003,What does BIOM 301 Biomedical Sensors cover?,direct
+S056_Q0006,S056_F0003,What is the prerequisite for Biomedical Sensors?,paraphrase
+S056_Q0007,S056_F0004,What is BIOM 301L Biomedical Sensors Lab?,direct
+S056_Q0008,S056_F0004,What is the co-requisite of the biomedical sensors lab?,paraphrase
+S056_Q0009,S056_F0005,What does BIOM 311 Biomedical Instrumentation cover?,direct
+S056_Q0010,S056_F0005,Which course covers pacemakers and cochlear prostheses?,paraphrase
+S056_Q0011,S056_F0006,What is BIOM 312 Biomedical Engineering Design about?,direct
+S056_Q0012,S056_F0006,Which biomedical course covers ECG and EEG devices?,paraphrase
+S056_Q0013,S056_F0007,What is done in BIOM 312L?,direct
+S056_Q0014,S056_F0007,What is the co-requisite of the biomedical engineering design lab?,paraphrase
+S056_Q0015,S056_F0008,What is BIOM 400 Summative Learning (BS) Project?,direct
+S056_Q0016,S056_F0008,When should biomedical BS students take the BS project?,paraphrase
+S056_Q0017,S056_F0009,What does BIOM 313 Bio-electronics Circuit Design cover?,direct
+S056_Q0018,S056_F0009,What are the prerequisites for Bio-electronics Circuit Design?,paraphrase
+S056_Q0019,S056_F0010,What is BIOM 414 Advanced Biomedical Instrumentation about?,direct
+S056_Q0020,S056_F0010,Which course covers ventilators and medical lasers?,paraphrase
+S056_Q0021,S056_F0011,What is BIOM 415L Advanced Biomedical Lab?,direct
+S056_Q0022,S056_F0011,What is the co-requisite of the advanced biomedical lab?,paraphrase

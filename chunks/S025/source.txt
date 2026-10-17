@@ -1,0 +1,389 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S025 | Computer science and data analytics minors
+ORIGINAL PDF PAGES: 150 to 157 (inclusive)
+ONLY extract facts whose source page is between 150 and 157.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 150 ==========
+MINOR IN COMPUTER SCIENCE
+
+Rationale
+
+The CMS department offers a Computer Science minor for RHU students. It is designed
+for students who want to include basic proficiency in computer science to enhance or
+supplement their major program.
+
+Program Objectives
+
+The aims of a minor in Computer Science are:
+
+•   Provide RHU graduates with basic proficiency in computer science
+•   Support RHU graduates with essential computing skills desired/demanded by the
+    market
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate:
+
+•   An ability to analyze a problem, identify and define the computing requirements
+    appropriate to its solution
+•   An ability to use current techniques, skills, and tools necessary for computing
+     practices
+•   An ability to develop programming skills using modern programming languages
+
+Entrance Requirements
+
+This minor  is offered to  all RHU students except those in CCE and Business IT
+Management.
+
+Early in their major, interested RHU students must complete the appropriate form
+declaring their intent to minor in Computer Science while completing their regular major.
+
+Computer Science Minor Policies
+
+•   Obtain a Minor Cumulative Grade Point Average of no less than 70%
+•   Although common courses between student major requirements and Computer
+    Science minor requirements are counted to  fulfill the minor requirements, the
+    student must complete a minimum of 6 credit hours of coursework that  is not
+    counted toward the requirements for their major or any other minor.
+
+
+
+
+                                                                   Page 150
+
+========== ORIGINAL PDF PAGE 151 ==========
+Career Options
+
+This minor allows its holders to pursue careers in various sectors, regardless of their
+major. Graduates of this minor can seek jobs in software engineering, web and mobile
+development, database/system administration, network engineering/administration, and
+IT consultancy.
+
+Curriculum and Program
+
+The Computer Science minor consists of six courses (18 credits), of which two are
+mandatory and four are electives, selected to satisfy the requirements of the proposed
+program objectives and learning outcomes.
+
+I.  Mandatory Courses
+
+The two mandatory courses (6 credits) are:
+
+ COSC 214     Introduction to Programming                                3(2,2)
+ COSC 215    Advanced Programming and Data Structures               3(2,2)
+
+II.  Elective Courses
+
+The elective courses will be selected in consultation with the Computer Science minor
+advisor based on the student’s needs and background. Students may choose four
+elective courses (12 credits) from the following list.
+
+ COSC 231    Database Management Systems                            3(3,0)
+ COSC 316    Design and Analysis of Algorithms                          3(3,0)
+ COSC 333   Web Programming                                          3(3,0)
+ COSC 341    Software Engineering                                       3(3,0)
+ COSC 351    Logic Design                                                3(3,0)
+ COSC 434    Advanced Web Programming                               3(3,0)
+ COSC 435    Mobile Application Development                            3(2,2)
+ COSC 436   Game Programming                                        3(3,0)
+ COSC 438     Introduction to Software Testing                             3(3,0)
+ COSC 451    Operating Systems                                         3(3,0)
+ COSC 480    Machine Learning and Data Mining                         3(3,0)
+ COSC 481      Artificial Intelligence                                         3(3,0)
+ COSC 482    Data Science and Web Scraping                            3(3,0)
+ Any other approved CS elective course
+
+
+
+
+
+                                                                   Page 151
+
+========== ORIGINAL PDF PAGE 152 ==========
+MINOR IN DATA ANALYTICS
+
+Rationale
+
+"Information is the oil of the 21st century, and analytics is the combustion engine" - P.
+Sondergaard.
+
+Are you a student in Business, Engineering, or Science? Do you want to add a new
+dimension to your areas of expertise to boost your career? You can do more by enrolling
+in the new DATA ANALYTICS (DA) minor. The demand for data analytics expertise has
+grown rapidly over the past few years and is expected to grow even faster in the coming
+years. Students graduating with a data analytics minor are well positioned to bridge the
+gap in their chosen field.
+
+Program’s Purpose
+
+Graduates of this minor will be able to use their acquired skills across various industries
+and in the non-profit and government sectors. Telecommunications, banking, financial
+services, the environmental sector, energy, biomedical, police, biology, bioinformatics,
+and physics are just a few areas in which you can operate. The minor shall also serve
+as good preparation for further and more advanced graduate and professional studies in
+Data Analytics and related areas.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate the ability to:
+ •  Use current techniques, architectures, and tools to collect and store data;
+ •  Apply data analytics tools and techniques to support and improve decision-making;
+ •  Design systems and tools to interpret and visualize data.
+
+Entrance Requirements
+
+This minor is offered to all RHU students except CCE students.
+
+Early in their major, interested RHU students must complete the appropriate form
+declaring their intent to minor in Data Analytics while completing their regular major.
+
+Program Requirements
+
+This minor is structured to accommodate undergraduate RHU students in the BE or BS
+program from different disciplines (engineering, computer science, business). It may also
+
+
+
+                                                                   Page 152
+
+========== ORIGINAL PDF PAGE 153 ==========
+be offered to students with a BS/BE from other universities, subject to a case-by-case
+evaluation of their transcripts and other specific RHU requirements.
+
+Early in their studies, interested students must declare their intent to pursue a minor in
+DA by completing the relevant minor declaration form and informing their advisor.
+
+To complete the DA minor, a student must
+
+ 1)  Declare a minor in Data Analytics by completing the Minor Declaration Form;
+ 2)  Obtain the approval of the dean of the student’s college major and the dean of the
+     College of Arts and Sciences;
+ 3)  Earn a Minor Cumulative Grade Point Average of no less than 70%;
+ 4)  Complete 18 credits of coursework as specified below.
+
+It should be noted that common courses between students' major requirements and the
+data analytics minor requirements count toward both the major and the minor. The
+student must complete at least 6 credit hours of coursework that are not counted toward
+the requirements of their major or any other minor.
+
+Career Options
+
+In today’s world, most sectors and industries involve some form of data analysis.
+Therefore, minor holders would be well-suited to work in various sectors, including but
+not limited to telecommunication, banking, financial services, environmental, energy,
+biomedical, police, biology, and physics.
+
+Moreover, minor holders may assume specialized roles such as data scientists, data
+analysts, and data engineers.
+
+Curriculum and Program
+
+The data analytics minor consists of six courses (18 credits), of which three are
+mandatory and three are elective, selected to satisfy the requirements of the proposed
+program objectives and learning outcomes.
+
+I.  Mandatory Courses
+
+The three mandatory courses (9 credits) are:
+
+ BADM 250/Math 351    Business     Statistics/Probability    and       3(3,0)
+                              Statistics
+ COSC 480            Machine Learning and Data Mining              3(3,0)
+ CCEE 567 / BADM 420   Optimization  / Quantitative Methods  for       3(3,0)
+                        Business
+
+
+
+
+
+                                                                   Page 153
+
+========== ORIGINAL PDF PAGE 154 ==========
+II.  Elective Courses
+
+Students may choose three elective courses (9 credits) from the following list or any
+other approved course.
+
+ COSC 316  Design and Analysis of Algorithms                           3(3,0)
+ COSC 481   Artificial Intelligence                                          3(3,0)
+ COSC 482  Data Science and Web Scraping                             3(3,0)
+ CCEE 516  Advanced Programming and Database Management       3(2,2)
+            Systems
+ CCEE 568   Big data and analytics/Big data system                       3(3,0)
+ CCEE 561  Computer Vision                                             3(3,0)
+ CCEE 566   Natural Language Processing                                3(3,0)
+ CCEE 612  Advanced-Data Mining                                       3(3,0)
+ BITM 320    Enterprise Resource Planning                                3(3,0)
+ BITM 415   Business Intelligence                                         3(3,0)
+ BMKA 420   Digital and Social Media Marketing                           3(3,0)
+
+It should be noted that CBA students (excluding BITM students) can also choose from
+the following list:
+
+ COSC 214     Introduction to Programming                               3(3,0)
+ COSC 231    Database Management Systems                          3(3,0)
+ COSC 333   Web Programming                                        3(3,0)
+
+III. Courses Description
+
+BADM 250  Business Statistics                                          3(3,0)
+ This course introduces students to the fundamentals of applied multivariate statistics.
+ As such, the course covers factor analysis, multiple regression analysis, discriminant
+ analysis, analysis of variance, and hypothesis testing.
+
+BADM 420  Quantitative Methods for Business                         3(3,0)
+ This course introduces students to managerial decision analysis using quantitative
+ tools. The course will introduce students to the use and development of mathematical
+ models to help managers make informed decisions. The focus is on the applied aspects
+ of statistics and math. As such, the course will cover the basics of probabilistic and
+ statistical techniques, decision analysis, linear programming, optimization, forecasting,
+ and waiting-line theory. Prerequisite: BADM 250, MATH 351, or Senior Standing.
+
+ BITM 350   Fundamentals of Data Analytics                           3(3,0)
+ This course introduces students to statistical techniques for analyzing large datasets.
+ The course covers the theory and application of both parametric and nonparametric
+ methods. Students will learn to visualize the data using univariate and bivariate plots
+ and to investigate whether correlations exist in a multidimensional space using factor
+
+
+                                                                   Page 154
+
+========== ORIGINAL PDF PAGE 155 ==========
+and cluster analyses. They will also build and test predictive models, including linear,
+logistic, and time-series models. Prerequisite: BADM 250 or MATH 351.
+
+BITM 415   Business Intelligence                                       3(3,0)
+This course introduces business intelligence as computerized support for managerial
+decision-making.  It concentrates on the theoretical and conceptual foundations of
+business intelligence and commercial tools and techniques available for effective
+decision support.  It focuses on extracting business intelligence from data sets for
+various applications, such as reporting and visual analytics across domains like web
+and business analytics, to support decision-making. Provides hands-on experience
+with various business intelligence software for reporting and building visualizations and
+dashboards. Prerequisite: Senior Standing & BADM 350
+
+BMKA 420   Digital and Social Media Marketing                        3(3,0)
+Digital marketing has evolved from a peripheral element of organizational marketing to
+the hub  of  customer-centric  communications  in an  increasingly  multi-channel
+environment. This course covers digital marketing topics like social media, email and
+mobile marketing, search engine optimization, paid search, and content marketing. It
+explains  the  principles  of  digital marketing and  the major  factors  involved  in
+implementing, measuring, and evaluating successful campaigns that utilize digital
+marketing channels. Prerequisite: Senior Standing
+
+CCEE 516 Advanced Programming and Database Management      3(3,0)
+         Systems
+This course  will introduce students to database management, querying, and data
+warehousing. Students will also learn advanced programming tools, including Bigtable,
+NoSQL, R, Python, Scala, MapReduce, and Elasticsearch, and apply them to address
+big data challenges. Prerequisite: CCEE 315 or equivalent.
+
+CCEE 561   Computer Vision                                           3(3,0)
+This course introduces the principles, models, and applications of computer vision. The
+course will cover image structure, projection, stereo vision, and the interpretation of
+visual motion. Case studies  of  industrial  (robotic) computer  vision  applications,
+including visual navigation for autonomous robots, robot hand-eye coordination, and
+novel man-machine interfaces. Prerequisite: CCEE 214 or COSC 214.
+
+CCEE 566    Natural Language Processing                              3(3,0)
+This course introduces the student to natural language processing (NLP). The student
+is first introduced to word and sentence tokenization. The student then uses the learned
+skills to implement systems for text classification and sentiment analysis, spelling
+correction,  information  extraction,  parsing,  meaning  extraction,  and  question
+answering, Machine learning algorithms, as well as algorithms like n-gram language
+modeling, naive Bayes and maxent classifiers, sequence models like Hidden Markov
+
+
+                                                                  Page 155
+
+========== ORIGINAL PDF PAGE 156 ==========
+Models, probabilistic dependency and constituent parsing, and vector-space models of
+meaning will be introduced as needed for the above NLP applications. Prerequisite:
+CCEE 214 or COSC 214.
+
+CCEE 567   Optimization                                                3(3,0)
+This course introduces students  to the  theory,  algorithms, and  applications  of
+optimization. The optimization methodologies include linear programming, network
+optimization, integer programming, and decision trees.  It includes a team project in
+which students select and solve a problem in practice. Equivalent to BADM 420 and
+MECH 571. Prerequisite: MATH 215 or equivalent.
+
+CCEE 568 Big Data and Analytics/Big Data System                     3(3,0)
+This course enables students to understand why the Big Data Era has emerged.
+Students will become conversant in the terminology and core concepts of big data
+problems, applications, and systems. Students will learn how to make Big Data useful
+in their business or career.  Students will be introduced to one of the most common
+frameworks, Hadoop, which has made big data analysis easier and more accessible --
+increasing the potential for data to transform our world. Prerequisite: CCEE 564 or
+equivalent.
+
+CCEE 612 Advanced-Data Mining                                       3(3,0)
+In this course, advanced data mining topics will be covered, namely, classification
+(linear  discriminant  analysis,  quadratic  discriminant  analysis,  neural  networks),
+combining multiple learners (bagging, boosting, cascading, stacking), dimensionality
+reduction (principal component analysis, linear discriminant analysis, subset selection),
+deep learning, anomaly detection, and reinforcement learning. Prerequisite: CCEE
+564 or equivalent.
+
+COSC 214   Introduction to Programming                              3(2,2)
+This course presents the fundamentals of structured and modular programming
+concepts. It covers primitive data types, expressions, control statements, functions,
+arrays,  basic search and  sorting  algorithms, and an  introduction  to  pointers.
+Prerequisite: None. Equivalent to CCEE 214.
+
+COSC 316   Design and Analysis of Algorithms                        3(3,0)
+This course consolidates algorithm design and programming techniques. It provides an
+extended study of object-oriented programming properties, data structures, and data
+abstraction, as well as an introduction to complexity considerations. Prerequisite:
+COSC 215.
+
+COSC 333  Web Programming                                         3(3,0)
+This course teaches students how to develop and implement web-based programs,
+with an emphasis on  front-end  programming.   It  introduces  students  to web
+development,  client-side languages, and the  styles needed  to  build  functional,
+
+                                                                  Page 156
+
+========== ORIGINAL PDF PAGE 157 ==========
+responsive websites. The course covers HTML5, CSS3, JavaScript/jQuery, and
+responsive design. Prerequisite: COSC 214. Equivalent to CCEE 411.
+
+COSC 480   Machine Learning and Data Mining                        3(3,0)
+This course introduces students to the basic knowledge representation and learning
+techniques. The emphasis is on understanding the data mining process, applying
+appropriate approaches  to solve  practical problems, and developing  intelligent
+software applications. The course covers several topics about classification, prediction,
+and clustering. Prerequisites: COSC 214 and MATH 351 or BADM 250. Equivalent to
+CCEE 564.
+
+COSC 481    Artificial Intelligence                                        3(3,0)
+This course introduces students to the fundamentals of knowledge representation and
+learning in artificial intelligence. The emphasis will be on understanding fundamental
+concepts in  artificial intelligence and applying corresponding approaches to solve
+practical problems and develop useful software applications. Covered topics include
+Intelligent agents, informed and uninformed search strategies, and adversarial search.
+The Python language libraries  will also be introduced. Prerequisite: COSC 214.
+Equivalent to CCEE 562.
+
+COSC 482 Data Science and Web Scraping                             3(3,0)
+Data is becoming the fuel of the 21st century, and acquiring data processing and
+analysis skills is becoming necessary. This course introduces data science processes,
+with a focus on web scraping as an application. The course will combine different
+domains,  i.e., web programming, system programming, and machine learning. In
+particular, the course focuses on analyzing webpage HTML using Python, extracting
+available information, and generating dashboards. Co-requisite: COSC 333 or CCEE
+411 and MATH 351 or BADM 250.
+
+MATH 351  Probability and Statistics                                   3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215
+
+
+
+
+
+                                                                  Page 157

@@ -1,0 +1,21 @@
+qa_id,fact_id,question,question_style
+S063_Q0001,S063_F0001,What is the Industrial Engineering and Management Systems minor?,direct
+S063_Q0002,S063_F0001,What does the IEMS minor focus on?,paraphrase
+S063_Q0003,S063_F0002,Can I do my BE project in industrial engineering through the IEMS minor?,direct
+S063_Q0004,S063_F0002,How many credits are required for the IEMS minor?,paraphrase
+S063_Q0005,S063_F0003,What are the learning outcomes of the IEMS minor?,direct
+S063_Q0006,S063_F0003,Will the industrial engineering minor teach Six Sigma and Lean?,paraphrase
+S063_Q0007,S063_F0004,What careers can the IEMS minor lead to?,direct
+S063_Q0008,S063_F0004,Can the industrial engineering minor help me work in supply chain?,paraphrase
+S063_Q0009,S063_F0005,Who can take the IEMS minor?,direct
+S063_Q0010,S063_F0005,How many IEMS credits must be exclusive to the minor?,paraphrase
+S063_Q0011,S063_F0006,Which courses make up the IEMS minor?,direct
+S063_Q0012,S063_F0006,Is Quality Management part of the industrial engineering minor?,paraphrase
+S063_Q0013,S063_F0007,What does ENGR 400 Operations Research cover?,direct
+S063_Q0014,S063_F0007,What is the prerequisite for Operations Research?,paraphrase
+S063_Q0015,S063_F0008,What is ENGR 410 Supply Chain Engineering & Logistics about?,direct
+S063_Q0016,S063_F0008,What are the prerequisites for Supply Chain Engineering?,paraphrase
+S063_Q0017,S063_F0009,What does MECH 424 Manufacturing Systems & Facilities Planning cover?,direct
+S063_Q0018,S063_F0009,What do I need before Facilities Planning?,paraphrase
+S063_Q0019,S063_F0010,What is MECA 425 Digital Twin & System Simulation?,direct
+S063_Q0020,S063_F0010,What are the prerequisites for the digital twin course?,paraphrase

@@ -1,0 +1,68 @@
+PREVIOUS PAGE 395 (reference only; do not make a fact for this page):
+MECH 522   Mechanism Synthesis: Classical Kinematics to        3(3,0)
+             AI-Driven Optimization
+This course  introduces  the  theory and computational  practice  of mechanism
+synthesis, with emphasis on the design of four-bar linkages for path, motion, and
+function generation. Classical kinematic synthesis methods are integrated with
+numerical optimization techniques, including Newton–Raphson, least-squares, and
+gradient-based methods, as well as intelligent metaheuristic algorithms such as
+genetic algorithms, tabu search, and ant colony optimization. The course also exposes
+students to data-driven and AI-assisted approaches, including deep neural networks
+for inverse mechanism design, as advanced computational tools for automation,
+design-space  exploration,  and  decision  support   in  mechanism  synthesis.
+Computational projects provide students with hands-on experience in mechanism
+modeling, simulation, error analysis, optimization, and the synthesis of mechanical
+systems under practical design constraints. Prerequisite: MECH 321.
+
+
+
+
+
+                                                          Page 395
+
+NEXT PAGE 400 (reference only; do not make a fact for this page):
+MINOR   IN  INDUSTRIAL  ENGINEERING  AND
+MANAGEMENT SYSTEMS
+
+Rationale
+
+The Industrial Engineering and Management Systems (IEMS) minor aims to expand
+engineering students’ expertise in system-wide optimization, decision science, and
+digital integration.  It prepares students to architect the "intelligence layer" of the
+enterprise and prepares undergraduate students for graduate studies  in Industrial
+Engineering, Engineering Management, and Operations Research.
+
+It primarily targets mechanical and mechatronics engineering students, but  it also
+accommodates  students  from  various  engineering  backgrounds,  provided   all
+prerequisite courses are completed. The program focuses on mathematical optimization,
+financial engineering, facility logistics, quality assurance, and digital twin simulation. By
+the end of this minor, a student is expected to be proficient in designing, simulating, and
+managing complex  industrial ecosystems  that are  cost-effective, data-driven, and
+industry-ready.
+
+Program participants are required to complete at least 18 credits of related coursework.
+Although not required, with proper and timely advising, they may also complete their Co-
+op work  experience  or  their BE  project  in  Industrial  Engineering  or Systems
+Management, thereby enhancing their capabilities.
+
+Program Objectives
+
+The primary educational objectives of the IEMS minor program are to:
+
+    •   Give engineering students a sophisticated understanding of Industrial
+        Engineering principles and management systems.
+
+    •   Equip students with the knowledge to pursue graduate studies in Industrial
+         Engineering, Engineering Management, Systems Engineering, Data Analytics,
+       and other related disciplines.
+
+Learning Outcomes
+
+After completing the minor program, students should have the ability to:
+
+    •   Apply advanced mathematical modeling and operations research to optimize
+        resource allocation and industrial scheduling.
+    •   Analyze the financial viability of engineering projects using rigorous economic
+         tools and ROI assessments.
+
+Page 400

@@ -1,0 +1,175 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S063 | Industrial engineering and management minor
+ORIGINAL PDF PAGES: 400 to 403 (inclusive)
+ONLY extract facts whose source page is between 400 and 403.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 400 ==========
+MINOR   IN  INDUSTRIAL  ENGINEERING  AND
+MANAGEMENT SYSTEMS
+
+Rationale
+
+The Industrial Engineering and Management Systems (IEMS) minor aims to expand
+engineering students’ expertise in system-wide optimization, decision science, and
+digital integration.  It prepares students to architect the "intelligence layer" of the
+enterprise and prepares undergraduate students for graduate studies  in Industrial
+Engineering, Engineering Management, and Operations Research.
+
+It primarily targets mechanical and mechatronics engineering students, but  it also
+accommodates  students  from  various  engineering  backgrounds,  provided   all
+prerequisite courses are completed. The program focuses on mathematical optimization,
+financial engineering, facility logistics, quality assurance, and digital twin simulation. By
+the end of this minor, a student is expected to be proficient in designing, simulating, and
+managing complex  industrial ecosystems  that are  cost-effective, data-driven, and
+industry-ready.
+
+Program participants are required to complete at least 18 credits of related coursework.
+Although not required, with proper and timely advising, they may also complete their Co-
+op work  experience  or  their BE  project  in  Industrial  Engineering  or Systems
+Management, thereby enhancing their capabilities.
+
+Program Objectives
+
+The primary educational objectives of the IEMS minor program are to:
+
+    •   Give engineering students a sophisticated understanding of Industrial
+        Engineering principles and management systems.
+
+    •   Equip students with the knowledge to pursue graduate studies in Industrial
+         Engineering, Engineering Management, Systems Engineering, Data Analytics,
+       and other related disciplines.
+
+Learning Outcomes
+
+After completing the minor program, students should have the ability to:
+
+    •   Apply advanced mathematical modeling and operations research to optimize
+        resource allocation and industrial scheduling.
+    •   Analyze the financial viability of engineering projects using rigorous economic
+         tools and ROI assessments.
+
+Page 400
+
+========== ORIGINAL PDF PAGE 401 ==========
+•   Design and validate complex systems using CAD-integrated Digital Twin and
+         discrete-event simulation software.
+    •  Manage global supply chains and logistics networks while ensuring high
+        standards of quality through Six Sigma and Lean methodologies.
+
+Career Options
+
+This minor allows IEMS holders to start careers in engineering management, systems
+analytics, supply chain  architecture,  industrial  consultancy,  project management,
+operations strategy, and digital manufacturing integration in both regional and global
+markets.
+
+Program Requirements
+
+While most relevant to mechanical and mechatronics engineering students, this minor is
+offered to undergraduate RHU students in the BS/BE program from different disciplines.
+It may also be offered to students with a BS/BE from other universities, subject to a case-
+by-case evaluation of  their  transcripts. Proper advising  is pertinent to the timely
+completion of the minor. To complete the IEMS minor, a student must:
+
+     1.  Declare an IEMS minor by completing the Minor Declaration Form;
+     2.  Obtain the approval of the dean of the college major;
+     3.  Obtain a Minor Cumulative Grade Point Average of no less than 70%;
+     4.  Complete 18 credits of coursework as specified below.
+
+IEMS Curriculum
+
+The program offers a rich blend of mathematical optimization and  virtual system
+modeling, equipping students with the tools to navigate the modern industrial world.
+Accordingly, this minor shall include:
+
+    •   Engineering financial management and project economics.
+    •   Advanced quality engineering and lean operations.
+    •   Mathematical optimization and deterministic operations research.
+    •   Physical facility planning and systematic layout design.
+    •    Digital Twin architecture and virtual system simulation.
+    •   Global supply chain engineering and logistics optimization.
+
+
+
+
+
+Page 401
+
+========== ORIGINAL PDF PAGE 402 ==========
+Mandatory Courses
+
+The student must complete a minimum of 6 credit hours of coursework exclusive to the
+IEMS minor that will not count toward requirements for their major or any other minor. A
+description of the 18 credits from which a student must select is given below:
+
+ENGR 300     Engineering Economics and Management             3(3,0)
+ Concepts and techniques in basic Engineering economy principles and applications.
+ Interest and financial mathematics: present worth, annual worth, benefit/cost ratio,
+ internal rate of return, multiple alternatives, income tax,  inflation, Risk analysis,
+ Investment and investment choice, equivalence, loans, cost of capital, retirement and
+ replacement, sector analysis and viewpoint, sensitivity analysis, accounting, and
+ financial statements.
+
+ BMGT 410    Quality Management                                    3(3,0)
+ This course highlights that TQM has become crucial for business excellence in
+ worldwide markets. It allows students to learn techniques that establish sustainable
+  quality improvement in both product and service industries. Topics include seven
+  quality control tools; SPC; quality function deployment and the house of quality;
+ product reliability; Six Sigma; Benchmarking; quality certification and awards; and
+  quality costing. Prerequisite: BADM 250
+
+ ENGR 400    Operations Research                                    3(3,0)
+ This course introduces mathematical modeling and  algorithmic techniques  for
+ optimizing decision-making in complex engineering systems. Students will master the
+ application of Linear Programming and the Simplex Method to solve problems
+ involving constrained resources. Key topics include duality and sensitivity analysis
+ (determining how changes in the system affect the optimal solution), network flow
+ optimization (shortest-path and PERT/CPM), and integer programming. The course
+ emphasizes  translating  real-world  industrial  challenges—such  as  production
+ scheduling, trajectory planning for robots, and resource allocation—into rigorous
+ mathematical frameworks. Prerequisite: MATH 311
+
+ ENGR 410     Supply Chain Engineering & Logistics                3(3,0)
+ This course applies engineering and mathematical principles to the design and
+ optimization of global supply chain networks. Moving beyond general procurement,
+ students  will focus on the quantitative modeling of inventory control (including
+ deterministic and stochastic models), warehousing operations, and transportation
+  logistics. Key topics include the "Bullwhip Effect" in multi-echelon systems, facility
+ location modeling using center-of-gravity methods, and the strategic integration of
+ Just-in-Time (JIT) principles. The course specifically addresses Design for Logistics
+ (DFL), teaching students how mechanical design decisions (packaging, weight, and
+ modularity) impact the total landed cost and supply chain resilience in a global market.
+ Prerequisite: MATH 351 and ENGR 300
+
+
+
+Page 402
+
+========== ORIGINAL PDF PAGE 403 ==========
+MECH 424     Manufacturing Systems & Facilities Planning         3(3,0)
+ This course  focuses on  the  strategic  design and  organization  of  integrated
+ manufacturing environments. Moving from individual machine operations to system-
+ wide flow, students will study Systematic Layout Planning (SLP), group technology,
+ and  the  design  of  Cellular  Manufacturing  units. The  curriculum emphasizes
+ quantitative methods  for  line balancing, machine-requirement  calculations, and
+ material-handling systems. Students will analyze the physical constraints of the shop
+  floor to minimize "waste" in movement and optimize the integration of automated
+ workstations and robotic cells. Prerequisite: MECH 224 and MECH 422
+
+ MECA 425      Digital Twin & System Simulation                     3(3,0)
+ This course explores the creation and use of Digital Twins to model, simulate, and
+ predict the behavior of complex manufacturing and mechatronic systems. Utilizing
+ discrete-event simulation (DES) software, students will develop virtual replicas of
+ physical systems to analyze the impact of stochastic variables, such as machine
+ downtimes and fluctuating arrival rates. The course covers data distribution fitting,
+ model verification, and the statistical validation of simulation outputs. By performing
+  "what-if" experimental analyses, students will learn to identify system bottlenecks and
+ optimize throughput in a risk-free virtual environment before physical deployment.
+ Prerequisite: MATH 351 and MECA 541
+
+
+
+
+
+Page 403

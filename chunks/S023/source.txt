@@ -1,0 +1,445 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S023 | Computer science degree
+ORIGINAL PDF PAGES: 137 to 145 (inclusive)
+ONLY extract facts whose source page is between 137 and 145.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 137 ==========
+COMPUTER, MATH, AND SCIENCES DEPARTMENT
+(CMS)
+
+Faculty Members
+
+Chairperson:            Lara Abou Orm
+Professor:           Mahmoud Halablab
+Associate Professor:   Houssam Salami
+Assistant Professor:    Lara Abou Orm, Ali Rammal, Roaa Soloh
+Instructors:           Roba Al-Hajj
+Adjunct Faculty:       Mohamad El-Abed,  Elissar Nasreddine, Ahmad  Tarhini,
+                   Lama Abdallah, May Abdallah, Inas Abdelmalak, Rawan
+                          Abdallah, Khaled Abo Alfa, Lama Abdallah, Hiba El Hajj
+                      Chehade, Tala Alaaedine.
+
+Programs Offered
+
+The CMS Department  offers two programs – Computer Science and Healthcare
+Information Systems. Each program grants a Bachelor of Science degree. The details of
+each program will follow.
+
+Vision
+
+The vision of the Computer, Math, and Sciences (CMS) Department is to achieve
+academic excellence beyond accreditation standards in computing technologies and
+Information Systems.
+
+
+
+
+
+                                                                   Page 137
+
+========== ORIGINAL PDF PAGE 138 ==========
+COMPUTER SCIENCE PROGRAM
+
+Mission
+
+The mission of the Computer Science program is to provide students with a state-of-the-
+art curriculum; maintain enduring relationships with industry to create opportunities for
+students; cultivate learners with a sense of responsibility towards the profession and a
+passion for lifelong learning; and provide educational experiences that enable our
+students to be innovative leaders.
+
+Objectives
+
+The educational objectives of the Computer Science program intend to enable  its
+graduates, within a few years of graduation, to:
+    •   Solve computing problems of varying complexity that meet local, regional, or
+         global markets
+    •   Demonstrate  professional  skills and  ethical  behavior  in  practicing  their
+         profession
+    •   Progress in computing and other professionally related fields at the level of
+         professional employment or graduate studies
+
+Program Outcomes
+
+Upon successful completion of the BS program in Computer Science, an RHU graduate
+in Computer Science should demonstrate the following:
+
+1. Analyze a complex computing problem and apply principles of computing and other
+relevant disciplines to identify solutions.
+2. Design, implement, and evaluate a computing-based solution to meet a given set of
+Computing requirements in the context of the program’s discipline.
+3. Communicate effectively in a variety of professional contexts.
+4. Recognize professional responsibilities and make informed judgments in computing
+practice based on legal and ethical principles.
+5. Function effectively as a member or leader of a team engaged in activities appropriate
+to the program’s discipline.
+6. Apply computer science theory and software development fundamentals to produce
+computing-based solutions.
+
+Accreditation
+
+The Bachelor of Science program in Computer Science is accredited by the Computing
+Accreditation  Commission  (CAC)   of  ABET  (https://www.abet.org)  under  the
+commission’s General Criteria and Program Criteria for Computer Science.
+
+
+                                                                   Page 138
+
+========== ORIGINAL PDF PAGE 139 ==========
+Career Opportunities
+
+A Computer Science major at Rafik Hariri University opens up diverse opportunities and
+prepares students for careers across various sectors. Our graduates are in industries,
+governmental and academic units, TV stations, the banking sector, and more. They hold
+roles such as games developer, system analyst, software engineer, web designer,
+mobile  application  developer,  database  analyst/developer/administrator,  network
+engineer/administrator, data analyst, AI developer, and IT consultant. The work is
+challenging but intellectually stimulating as you get to work on interesting problems, and
+it is financially rewarding.
+
+Program Overview
+
+The Computer  Science Program  at  Rafik  Hariri  University  develops  students’
+computational and critical-thinking skills and teaches them how to create, not simply use,
+new technologies. Students learn to think logically and solve problems by acquiring the
+fundamental principles of science and advanced techniques currently used in practical
+systems  development. They  also  learn  oral  communication and  presentational
+proficiencies that enable them to work with multicultural teams. Furthermore, they learn
+to work on individual and team projects to develop new systems, thereby enhancing time
+management and team coordination  skills. RHU’s Computer Science Department
+graduates are lifetime learners; they can adapt quickly to this ever-changing, challenging
+field.
+
+To obtain a Bachelor of Science degree in CS, the student must complete 93 credit
+hours. These hours include University requirements (UR), College requirements (CR),
+and Program requirements (PR). The allocation of the credit hours is shown in the
+following table:
+
+BS in Computer Science (93 Credits)
+                    Major               Non-Major
+ Courses Category                                                 Credits  Percent
+                   Mandatory  Electives Mandatory  Electives
+ General
+                  6         –       15        9       30     32
+ Education
+ College
+                  –         –       –         –            -       0
+ Requirement
+ Program
+                  36        9       18        –       63     68
+ Requirement
+ Credits            42        9       33        9       93     100
+
+I.   University Requirements (General Education)
+
+The  list of the University's required courses and descriptions  is presented on the
+introductory pages of the College of Arts and Sciences section of this catalog.
+
+
+                                                                   Page 139
+
+========== ORIGINAL PDF PAGE 140 ==========
+II.  College Requirements
+
+The list of college-required courses and descriptions is presented on the introductory
+pages of the College of Arts and Sciences section of this catalog.
+
+III. Program Requirements
+
+A.  Mandatory Requirements
+
+Mathematics requirements
+The mathematics requirement courses are listed in the table below.
+
+ Course #    Title                                 Credits    Prerequisites
+ MATH 210  Discrete Mathematics               3
+ MATH 215  Calculus III                        3
+ MATH 311  Linear Algebra                     3
+ MATH 421  Numerical Analysis                 3       MATH 311
+
+Business requirements
+The business requirement courses are listed in the table below.
+
+ Course #    Title                                 Credits    Prerequisites
+ BMKA 200  Introduction to Marketing             3           Co-req.:   ENGL
+                                                      210
+ BMGT 300  Project Management                3           Junior Standing
+
+Major requirements
+The CS mandatory core courses are listed in the table below.
+
+ Course #     Title                                  Credits   Prerequisites
+ COSC 215   Advanced  Programming  and  Data 3      COSC 214
+               Structures
+ COSC 231   Database Management Systems        3      COSC 214
+ COSC 316   Design and Analysis of Algorithms      3      COSC 215
+ COSC 333  Web Programming                   3      COSC 214
+ COSC 341   Software Engineering                3      COSC 214
+ COSC 351   Logic Design                       3
+ COSC 351L  Logic Design Lab                    1         Co-req:  COSC
+                                                      351
+ COSC 353   Computer Organization               3      COSC 351
+ COSC 360   Networking                         3      COSC 214
+ COSC 360L  Networking Lab                     1         Co-req:  COSC
+                                                      360
+ COSC 399   Co-op Training Experience            1       ENGL      217;
+                                                               Senior Standing
+ COSC 421   Theory of Computation               3      COSC 215 and
+                                           MATH 210
+
+
+                                                                   Page 140
+
+========== ORIGINAL PDF PAGE 141 ==========
+COSC 451   Operating Systems                  3      COSC 214
+ COSC 490   Summative Learning Experience        3       ENGL 217
+
+B.  Technical Electives
+
+As part of the Bachelor of Science in Computer Science program, students must take 9
+credit hours of technical electives. These courses allow students to focus on a specific
+area for in-depth knowledge and understanding. The student can also mix and match
+elective courses from different areas to gain a broader exposure to the various Computer
+Science disciplines. In cooperation with the academic advisor, the student should select
+electives that best align with their needs and aspirations. The listed technical elective
+courses and other courses from engineering programs, in addition to the required
+program courses, are designed to allow the student to develop in-depth knowledge and
+understanding in the following areas:
+
+     1.   Internet and Computer Networks
+     2.  Game Design and Development
+     3.   Artificial Intelligence and Data Mining
+     4.  Mobile/Web Design and Development
+
+The CS elective courses are listed in the table below:
+
+ Course #   Title                            Credits  Prerequisites
+ BITM 320   Enterprise Resource Planning     3     COSC 231
+ CCEE 426  Design of Embedded Systems    3     COSC 351
+ CCEE 561  Computer Vision               3     COSC 214
+ CCEE 566  Natural Language Processing     3     COSC 214
+ COSC 434 Advanced Web Programming     3     COSC 231 and COSC
+                                               333
+ COSC 435  Mobile Application Development   3     COSC 214
+ COSC 436 Game Programming            3     COSC 214
+ COSC 438  Introduction to Software Testing   3     COSC 341
+ COSC 461 Advanced Networking           3     COSC 360
+ COSC 463  Cybersecurity Operations        3     COSC 360
+ COSC 480 Machine  Learning  and  Data 3     COSC 214; MATH 351 or
+             Mining                        BADM 250
+ COSC 481  Artificial Intelligence             3     COSC 214
+ COSC 482  Data Science and Web Scraping   3        Co-req.: COSC 333 and
+                                     MATH 351
+ COSC 496  Independent Study I            3        Senior  Standing and a
+                                      CGPA of 80 and above.
+ COSC 497  Independent Study II            3        Senior  Standing and a
+                                      CGPA of 80 and above.
+ COSC 498  Special   Topics   in  Computer 3        Senior standing
+             Science
+ HCIS 341   Health Information Systems I     3
+ HCIS 342   Health Information Systems II     3      HCIS 341
+
+
+                                                                   Page 141
+
+========== ORIGINAL PDF PAGE 142 ==========
+Or any other approved CS elective course.
+
+In addition, the students can take the following three labs instead of one elective.
+
+ Course #      Title                           Credits   Prerequisites
+ Networking
+ COSC 460L   Networking Lab 2              1          Co-req.: COSC 360L
+ COSC 461L   Networking Lab 3              1      COSC 460L
+                                                              Co-req.: COSC 461L or
+ COSC 462L   Networking Lab 4              1
+                                        CCEE 555L
+
+Or any other approved CS elective course.
+
+C.  Summative Learning Project
+
+Students must complete a 3-credit-hour course (COSC 490 Summative Learning
+Experience) in which they work, preferably in groups, on a problem of concern to industry
+or the community at large, or on an innovative idea. The SLP could be an extension of
+the projects the students had worked on in computing courses, leading to more useful
+outcomes.
+
+D.  Co-op Training Experience
+
+Each student must complete 8 weeks of practical training in a field related to their
+interests. The Co-op experience is usually fulfilled during the summer semester of the
+third year in the program. The Co-op office matches the Co-op assignment with the
+student’s field of study and the employer’s interest. A faculty member follows up on a
+student’s progress throughout the Co-op period by conducting field visits and ensuring
+that the student’s performance is aligned with their aspirations and the employer’s needs.
+Students must submit a formal report and a poster and make a formal presentation about
+their co-op experience. While ENGL 217 and senior standing are the essential
+prerequisites for co-op training, the program may stipulate additional conditions.
+
+Course Coding
+
+The courses offered in the CS program are designated code numbers in the form of
+(COSC ABC), where:
+
+a  Designates year/level
+b  Designates are as follows:
+     1. Computer Software; 2. Computer Science Theory; 3. Mobile/Web Development;
+    4: Systems Analysis and Design; 5: Computer Hardware; 6: Networking and Security
+c  Designates the course sequence in an area
+
+
+
+
+
+                                                                   Page 142
+
+========== ORIGINAL PDF PAGE 143 ==========
+Study Plan
+
+The Bachelor of Science in Computer Science encompasses 93 credit hours over six
+semesters and two summer sessions. The following study plan serves as a roadmap for
+a smooth progression toward graduation.
+
+ Course #     Title                                 Credits Prerequisites
+ Year 1, Semester 1 (15 Credits)
+COSC 214   Introduction to Programming          3
+COSC 351   Logic Design                       3
+ ENGL 210   English Composition and Rhetoric      3       Placement
+MATH 215   Calculus III                        3
+              Natural  Sciences  and  Technology 3
+               Elective
+ Year 1, Semester 2 (16 Credits)
+ ARAB 212   Arabic Language and Communication   2
+COSC 215  Advanced  Programming  and  Data 3     COSC 214
+              Structures
+COSC 231   Database Management Systems       3     COSC 214
+COSC 351L  Logic Design Lab                   1     COSC 351
+            Community & Sustainability           1        Co-req,: ENGL 210
+ ENGL 217   Professional English Communication    3     ENGL 210
+MATH 210   Discrete Mathematics                3
+ Summer Session (3 Credits)
+              Humanities/Fine Arts Elective          3
+ Year 2, Semester 1 (16 Credits)
+COSC 316   Design and Analysis of Algorithms      3     COSC 215
+COSC 333  Web Programming                  3     COSC 214
+COSC 360   Networking                        3     COSC 214
+COSC 360L  Networking Lab                     1        Co-req,: COSC 360
+MATH 351   Probability and Statistics             3     MATH 215
+              Social Science/Culture Elective I       3
+ Year 2, Semester 2 (15 Credits)
+BMKA 200   Introduction to Marketing             3     ENGL 210
+COSC 341   Software Engineering                3     COSC 214
+MATH 311   Linear Algebra                     3
+         CS Major Elective I                  3
+         CS Major Elective II                 3
+ Summer Session (1 Credit)
+COSC 399   Co-op Training Experience            1     ENGL  217;  Senior
+                                                           Standing
+ Year 3, Semester 1 (15 Credits)
+COSC 353  Computer Organization              3     COSC 351
+
+
+
+                                                                   Page 143
+
+========== ORIGINAL PDF PAGE 144 ==========
+COSC 421   Theory of Computation               3     COSC   215   and
+                                         MATH 210
+COSC 451   Operating Systems                  3     COSC 214
+GRDS 440   Design and Social Impact             3        Junior Standing
+              Social Sciences/Culture Elective II      3
+ Year 3, Semester 2 (12 Credits)
+BMGT 300   Project Management                3        Junior Standing
+COSC 490  Summative Learning Experience       3     ENGL 217
+MATH 421   Numerical Analysis                  3     MATH 311
+         CS Major Elective III                 3
+
+Courses Description
+
+I.   Mandatory Courses
+
+Descriptions of the major mandatory courses are given below.
+
+COSC 214  Introduction to Programming                               3(2,2)
+ This course presents the fundamentals of structured and modular programming
+ concepts. It covers primitive data types, expressions, control statements, functions,
+ arrays,  basic search and  sorting  algorithms, and an  introduction  to  pointers.
+ Prerequisite: None. Equivalent to CCEE 214.
+
+COSC 215  Advanced Programming and Data Structures             3(2,2)
+ Continuing COSC 214, this course covers the basics of Object-Oriented Programming
+ (OOP) languages and data structures.  It covers pointers, classes, encapsulation,
+ constructors/destructors, object instantiation, and templates. The course also details
+ data structures and applications such as stacks, queues, lists, and trees. Prerequisite:
+COSC 214. Equivalent to CCEE 216.
+
+COSC 231  Database Management Systems                           3(3,0)
+ This course exposes students to the fundamental concepts for designing, using, and
+ implementing database systems.   It covers database concepts, data modeling,
+ relations, normalization, and data manipulation languages. Prerequisite: COSC 214.
+ Equivalent to CCEE 315.
+
+
+COSC 316  Design and Analysis of Algorithms                         3(3,0)
+ This course consolidates algorithm design and programming techniques. It provides an
+ extended study of object-oriented programming properties, data structures, and data
+ abstraction, as well as an introduction to complexity considerations. Prerequisite:
+COSC 215.
+
+
+
+
+
+                                                                   Page 144
+
+========== ORIGINAL PDF PAGE 145 ==========
+COSC 333 Web Programming                                          3(3,0)
+This course teaches students how to develop and implement web-based programs,
+with an emphasis on  front-end  programming.   It  introduces  students  to web
+development,  client-side languages, and the  styles needed  to  build  functional,
+responsive websites. The course covers HTML5, CSS3, JavaScript/jQuery, and
+responsive design. Prerequisite: COSC 214. Equivalent to CCEE 411.
+
+COSC 341  Software Engineering                                       3(3,0)
+This course provides a deep and comprehensive understanding of the fundamentals
+of software engineering. The course introduces students to software process models,
+project management, software requirements, and engineering processes. The course
+covers SDLC stages, UML diagrams, and the use of CASE tools. Prerequisite: COSC
+214. Equivalent to CCEE 310.
+
+COSC 351  Logic Design                                                3(3,0)
+This course addresses Boolean algebra and logic simplification techniques, data
+representation, and the design of combinational logic networks for decoders, encoders,
+multiplexers, and demultiplexers. Design of sequential logic devices, including flip-
+flops, registers, and counters, as well as analysis of devices used to build logic
+networks, including programmable logic devices. Prerequisite: None. Equivalent to
+CCEE 221.
+
+COSC 351L  Logic Design Lab                                          1(0,2)
+This Lab covers design techniques and implementation  of  combinational and
+sequential  logic  circuits.  Experiments  include  logic  gates;  the  design  and
+implementation of logic circuits, including combinational circuits (decoders, encoders,
+multiplexers, demultiplexers, and adders); and the design of sequential logic devices
+using flip-flops, registers, and counters. Prerequisite: COSC 351. Equivalent to CCEE
+221L.
+
+COSC 353  Computer Organization                                     3(3,0)
+This  course exposes  students  to computer system  organization and  design;
+implementation of CPU data paths and control; instruction set design; memory
+hierarchy (caches, main memory, virtual memory) organization and management;
+input/output subsystems (bus structures, interrupts, DMA); performance evaluation;
+and pipelined processors. Prerequisite: COSC 351. Equivalent to CCEE 324.
+
+COSC 360   Networking                                                 3(3,0)
+This course enables students to gain fundamental knowledge of computer networks,
+appreciate various trade-offs and choices in networking, learn to design and analyze
+protocols, and prepare to study advanced topics in the field of networks. Prerequisite:
+COSC 214. Equivalent to CCEE 354.
+
+
+
+
+
+                                                                  Page 145

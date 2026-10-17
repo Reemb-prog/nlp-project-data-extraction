@@ -1,0 +1,99 @@
+PREVIOUS PAGE 381 (reference only; do not make a fact for this page):
+MECH 431L  Heat Transfer Lab                     1        Co-req.: MECH
+                                                       431
+Year 3, Spring Semester (17 Credits)
+ARAB 212    Arabic Language & Communication        2
+MECA 341   Measurements and Instrumentation        3     ELEC 320
+MECA 341L  Measurements and Instrumentation Lab     1       Co-req: MECA
+                                                        341
+MECH 423   Mechanical Design II                    3     MECH 223,
+                                          MECH 321,
+                                                        and MECH
+                                                        421
+MECA 440L   Control Systems Design Lab              1     MECA 440
+                                                 1        Co-req.:
+            Community & Sustainability
+                                              ENGL 210
+              Humanities/ Fine Arts Elective I            3
+              Engineering Technical Elective I*          3       Per course
+                                                                requirements
+Year 3, Summer Semester (3 Credits)
+MECH 499   Co‐op Work Experience                 3     ENGL 217
+                                                                Senior
+                                                                  standing
+The 118 credits above complete the requirements for a Bachelor of Science Degree
+in Mechanical Engineering.
+Year 4, Fall Semester (16 Credits)
+ENGR 510    Engineering Project Management          3     ENGR 300
+MECH 422   Manufacturing Processes                3     MECH 320
+MECH 435  HVAC                                3     MECH 431
+MECH 595A  BE Summative Learning Project I          1     ENGL 217
+                                                                Senior
+                                                               Standing
+              Engineering Technical Elective II          3       Per course
+                                                                requirements
+              Engineering Technical Elective III          3       Per course
+                                                                requirements
+Year 4, Spring Semester (18 Credits)
+MECH 520    Finite Element Method for Engineers       3     MECH   320;
+                                            MATH    421,
+                                          MECH 431
+MECH 521    Vibrations and Acoustics                 3     MECA 340
+MECH 595B  BE Summative Learning Project II         3     MECH 595A
+              Engineering Technical Elective IV          3       Per course
+                                                                requirements
+              Engineering  Technical  Elective  V   (AI- 3       Per course
+               Restricted**)                                       requirements
+               Social Sciences/Humanities II             3
+Total BE credits: 152
+                                                          Page 381
+
+NEXT PAGE 389 (reference only; do not make a fact for this page):
+MECH 421    Mechanical Design I                                    3(3,0)
+ Engineering  materials  properties;  tools  of machine  design;  stress,  strain, and
+ deformation of machine parts; buckling of columns; statistical methods and safety
+ consideration; static and fatigue failure theories; design of machine parts for strength
+ under steady loads; design of machine parts for rigidity, deflection of beams and
+ rotation of shafts; design of machine parts for strength under cyclic/dynamic loads;
+ codes and standards. Prerequisite: MECH 320. Annually.
+
+MECH 422    Manufacturing Processes                              3(3,0)
+ General overview of manufacturing; properties of engineering materials; steelmaking;
+ dimensions and tolerances; manufacturing processes:  rolling, forging, extrusion,
+ powder metallurgy; mechanical assembly: welding,  brazing,  soldering, bonding;
+ welding QA/QC; non-destructive testing (NDT); machining; casting; sheet metal
+ forming; plastic injection molding; polymers and composites. Prerequisite: MECH
+ 320. Annually.
+
+ MECH 423    Mechanical Design II                                   3(3,0)
+ Static & fatigue design of shafts and axles; design of permanent and non-permanent
+ joints (screws, fasteners, bolting, welding); rolling-contact bearings; lubrication and
+ journal  bearings;  Gears-general,  spur, and  helical  gears;  flexible mechanical
+ elements; power transmission case study; material selection; codes and standards;
+ computer modeling; static and fatigue design using the principles of applied fracture
+ mechanics combined with finite elements analysis results; failure analysis; team
+ project. Prerequisites: MECH 223, MECH 321, and MECH 421. Annually.
+
+ MECH 431   Heat Transfer                                            3(3,0)
+The course introduces the relationship between heat transfer and thermodynamics;
+ steady and transient heat conduction in one and two dimensions; analytical and
+ numerical solutions; extended surfaces; internal and external flow; forced and natural
+ convection; and an introduction to heat radiation. Prerequisite: MECH 333 or MECH
+ 335 and MATH 317. Annually.
+
+MECH 431L  Heat Transfer Lab                                       1(0,2)
+This laboratory course provides hands-on experience with fundamental heat transfer
+principles. Students  will work with a variety of experimental setups, including a
+temperature-measurement bench for calibrating and recording thermal data and heat-
+exchanger units configured for cross-flow, parallel-flow, and mixed-flow operations.
+Additionally, a thermal conductivity apparatus  is used to investigate temperature
+gradients and calculate conductivity across various solid specimens. Co-requisite:
+MECH 431. Annually.
+
+ MECH 435  HVAC                                                    3(3,0)
+ Air conditioning basics; occupant comfort and indoor air quality; heating and cooling
+ load calculations; HVAC controls; air conditioning systems and air delivery systems;
+ refrigeration basics, methods, and applications. Prerequisite: MECH 431. Annually.
+
+
+                                                          Page 389

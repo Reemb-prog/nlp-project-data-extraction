@@ -1,0 +1,9 @@
+qa_id,fact_id,question,question_style
+S059_Q0001,S059_F0001,What courses are in mechanical year 3 spring?,direct
+S059_Q0002,S059_F0001,When do mechanical students take Mechanical Design II and Measurements?,paraphrase
+S059_Q0003,S059_F0002,When is the BS in Mechanical Engineering completed?,direct
+S059_Q0004,S059_F0002,Do mechanical BS students finish after the third-year co-op?,paraphrase
+S059_Q0005,S059_F0003,What courses are in mechanical BE year 4 fall?,direct
+S059_Q0006,S059_F0003,When do mechanical BE students take HVAC and Manufacturing Processes?,paraphrase
+S059_Q0007,S059_F0004,What is in the last semester of the mechanical BE?,direct
+S059_Q0008,S059_F0004,Is one of the mechanical technical electives restricted to AI?,paraphrase

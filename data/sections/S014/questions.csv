@@ -1,0 +1,77 @@
+qa_id,fact_id,question,question_style
+S014_Q0001,S014_F0001,What is CVLN 181 Arab Renaissance about?,direct
+S014_Q0002,S014_F0001,Is there a freshman course on the Arab Renaissance?,paraphrase
+S014_Q0003,S014_F0002,What does CVLN 190 Freshman Art History cover?,direct
+S014_Q0004,S014_F0002,Which freshman course surveys Western art periods?,paraphrase
+S014_Q0005,S014_F0003,What is ELEC 101 Electrical Drawing about?,direct
+S014_Q0006,S014_F0003,Is there a freshman elective on reading electrical installation drawings?,paraphrase
+S014_Q0007,S014_F0004,What does ELEC 111 Industrial Electricity cover?,direct
+S014_Q0008,S014_F0004,Which freshman course covers 3-phase systems and AC circuits?,paraphrase
+S014_Q0009,S014_F0005,What is ELEC 121 Digital Electronics?,direct
+S014_Q0010,S014_F0005,Is there a freshman elective on logic gates and truth tables?,paraphrase
+S014_Q0011,S014_F0006,What does ELEC 122 Analog Electronics cover?,direct
+S014_Q0012,S014_F0006,Which freshman course teaches diodes and op amps?,paraphrase
+S014_Q0013,S014_F0007,What is ELEC 123 Industrial Electronics about?,direct
+S014_Q0014,S014_F0007,Is there a freshman course on converters and inverters?,paraphrase
+S014_Q0015,S014_F0008,What does ELEC 131 cover?,direct
+S014_Q0016,S014_F0008,Which freshman elective covers power generation and distribution?,paraphrase
+S014_Q0017,S014_F0009,What is ELEC 132 Electric Machines about?,direct
+S014_Q0018,S014_F0009,Is there a freshman course on transformers and DC machines?,paraphrase
+S014_Q0019,S014_F0010,What is FADR 100 Basic Drawing?,direct
+S014_Q0020,S014_F0010,Which drawing media are used in the freshman Basic Drawing course?,paraphrase
+S014_Q0021,S014_F0011,What does FADR 115 History of Art Overview cover?,direct
+S014_Q0022,S014_F0011,Is there a freshman course on 20th-century art movements?,paraphrase
+S014_Q0023,S014_F0012,What is FADR 120 Introduction to Color Theory about?,direct
+S014_Q0024,S014_F0012,Which freshman course studies color mixing and color psychology?,paraphrase
+S014_Q0025,S014_F0013,What does FADR 130 Basic Digital Photography cover?,direct
+S014_Q0026,S014_F0013,Is there a photography elective in the freshman program?,paraphrase
+S014_Q0027,S014_F0014,What is GRDS 150 Introduction to Arabic Calligraphy?,direct
+S014_Q0028,S014_F0014,Which calligraphy styles are taught in GRDS 150?,paraphrase
+S014_Q0029,S014_F0015,What does GRDS 160 Principles of Advertising cover?,direct
+S014_Q0030,S014_F0015,Is there an advertising course freshmen can take?,paraphrase
+S014_Q0031,S014_F0016,What is HIST 100 History of the Ancient World about?,direct
+S014_Q0032,S014_F0016,Do I need ENGL 101 alongside HIST 100?,contextual
+S014_Q0033,S014_F0017,What does HIST 102 cover?,direct
+S014_Q0034,S014_F0017,Which freshman history course covers the Enlightenment and the French Revolution?,paraphrase
+S014_Q0035,S014_F0018,What is HIST 103 Europe in the 19th and 20th Centuries about?,direct
+S014_Q0036,S014_F0018,Which course covers the world wars and the Cold War?,paraphrase
+S014_Q0037,S014_F0019,What does HIST 108 cover?,direct
+S014_Q0038,S014_F0019,Is there a U.S. history course for freshman students?,paraphrase
+S014_Q0039,S014_F0020,What is GEOL 160 Earth Geology about?,direct
+S014_Q0040,S014_F0020,Is there an Earth science elective in the freshman program?,paraphrase
+S014_Q0041,S014_F0021,What does PHIL 102 Freshman Philosophy cover?,direct
+S014_Q0042,S014_F0021,Which freshman course discusses freedom and determinism?,paraphrase
+S014_Q0043,S014_F0022,What is PHIL 110 Critical Thinking about?,direct
+S014_Q0044,S014_F0022,Is there a course on detecting false reasoning?,paraphrase
+S014_Q0045,S014_F0023,What are the requisites for PHIL 110 Critical Thinking?,direct
+S014_Q0046,S014_F0023,"I'm not a native English speaker, can I take Critical Thinking?",contextual
+S014_Q0047,S014_F0024,What is POSC 190 Freshman Politics about?,direct
+S014_Q0048,S014_F0024,Is there an intro to political science for freshmen?,paraphrase
+S014_Q0049,S014_F0025,What does PSYC 190 Freshman Psychology cover?,direct
+S014_Q0050,S014_F0025,Is there an introductory psychology course in the freshman year?,paraphrase
+S014_Q0051,S014_F0026,What is PSYC 195 Freshman Stress Management?,direct
+S014_Q0052,S014_F0026,Is there a course on managing stress at RHU?,paraphrase
+S014_Q0053,S014_F0027,What does SOCI 190 Freshman Sociology cover?,direct
+S014_Q0054,S014_F0027,Is there an intro sociology course for freshman students?,paraphrase
+S014_Q0055,S014_F0028,How many credits can freshman students take per semester?,direct
+S014_Q0056,S014_F0028,How long should the freshman program take?,paraphrase
+S014_Q0057,S014_F0028,"I'm a freshman on probation, what's my credit limit?",contextual
+S014_Q0058,S014_F0029,How can I transfer from Freshman Science to Freshman Arts?,direct
+S014_Q0059,S014_F0029,What grade do I need in BECN 190 to switch to the arts track?,paraphrase
+S014_Q0060,S014_F0030,How many credits can freshman students in IELP take?,direct
+S014_Q0061,S014_F0030,"I'm a freshman placed in IELP 095, how many credits can I register?",contextual
+S014_Q0062,S014_F0031,"If I place into ENGL 210, do I still take ENGL 101 in the freshman year?",direct
+S014_Q0063,S014_F0031,What replaces ENGL 210 later if I take it as a freshman?,paraphrase
+S014_Q0064,S014_F0032,What English course do I need before taking humanities courses?,direct
+S014_Q0065,S014_F0032,Do 200-level humanities courses require ENGL 101 first?,paraphrase
+S014_Q0066,S014_F0033,Which programs can I join after the freshman program?,direct
+S014_Q0067,S014_F0033,Can Freshman Arts students join engineering?,contextual
+S014_Q0068,S014_F0033,What certificate do I need to move from freshman to a degree program?,paraphrase
+S014_Q0069,S014_F0034,What do freshman students need to join Graphic Design?,direct
+S014_Q0070,S014_F0034,Is there an aptitude test to enter graphic design from the freshman program?,paraphrase
+S014_Q0071,S014_F0035,What grades do I need to enter Computer Science after the freshman year?,direct
+S014_Q0072,S014_F0035,Which math grades are required to join HCIS from the freshman program?,paraphrase
+S014_Q0073,S014_F0036,What do freshman students need to join a business program?,direct
+S014_Q0074,S014_F0036,"I finished Freshman Arts with a 72 GPA, what else do I need to enter business?",contextual
+S014_Q0075,S014_F0037,What are the requirements to join engineering from the freshman program?,direct
+S014_Q0076,S014_F0037,Which freshman courses need a grade of 70 to enter engineering?,paraphrase

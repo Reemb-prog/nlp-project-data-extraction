@@ -1,0 +1,262 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S007 | Library IT and quality services
+ORIGINAL PDF PAGES: 40 to 45 (inclusive)
+ONLY extract facts whose source page is between 40 and 45.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 40 ==========
+LIBRARY
+
+Block E
+Phone: 00961 25 603090; Ext: 435
+E-mail: library@rhu.edu.lb
+www.rhu.edu.lb/library
+
+The Library at Rafik Hariri University supports students, faculty, and staff with the
+resources and services they need to succeed  in  their educational and research
+undertakings. The library was founded in 1999. The building occupies more than 650
+square meters of space, offering users ample study and computing commons, halls for
+meetings, seminars, conferences, and classrooms. The library adheres to international
+standards and implements modern technologies across all functions and services. The
+RHU  library  provides academic programs  with  books,  journals, and multimedia
+resources. It also has a modern IT infrastructure, which includes:
+
+-   An integrated library system, WMS (WorldShare Management Services)/ OCLC,
+     that embeds all library functions, services, and auxiliary tools that can be accessed
+    on and off campus.
+-   Workstations located in the reference area and connected to the Internet to access
+    online catalogs, e-databases, Turnitin, and other resources
+-   A multimedia room equipped with state-of-the-art modern tools, computers, video
+     projectors, data shows, CD writers, scanners, etc.
+-   Wireless connectivity covers all library spaces.
+
+RHU continues to develop branding and library resources and services in response to
+changes and emergent needs,  participates  proactively  in the enrichment  of the
+educational experience, improves  information technology and multimedia  assets,
+repurposes  available  space  to accommodate  changing  library  roles,  improves
+community outreach and branding, and improves administrative structure and commits
+to due process.
+
+Information Resources
+
+The RHU Library collections include a wide range of information resources to support all
+academic disciplines and meet the needs of university faculty and students. In addition
+to maintaining traditional printed resources, such as books and periodicals, the library
+holds a collection of electronic resources and multimedia materials (including open-
+access databases). The library home page provides links to full-text online databases,
+e-journals, e-books, research databases, and online catalogs. The homepage also
+includes information about library policies, service hours, auxiliary tools, and services.
+See https://rhu.edu.lb/Library.
+
+
+
+
+
+                                                            Page 40
+
+========== ORIGINAL PDF PAGE 41 ==========
+Organization of Materials
+
+Library resources are organized in accordance with international standards and best
+practices. All print resources are arranged and cataloged according to Dewey Decimal
+Classification 21 and MARC21 formats and standards  for  building  bibliographic
+databases.
+
+Library Services
+
+The library staff assists users in using library resources and responds to inquiries
+received in person, by phone, by email, or through the library home page electronic
+forms. The staff also organizes specific training sessions to help users improve their
+skills in searching for and retrieving relevant information. Faculty, students, and staff with
+valid ID cards may borrow library materials in accordance with the circulation policy.
+Faculty members may request that books and other materials be placed on reserve for
+students to use within the library premises for a limited time. Computer commons provide
+users with on-site access to and retrieval of resources. Media resources, copiers, and
+printers are available inside the RHU Library. Prepaid cards may be purchased to use
+the printing and photocopying machines.
+
+Also, to expand resources beyond those available on campus, improve services, and
+support research, the RHU Library joined the Interlibrary Loan Consortium and signed
+an agreement with the Baakline National Library. These agreements  will  facilitate
+resource sharing among libraries by supplying books, e-book chapters, articles, and
+other materials.
+
+Interlibrary Loan
+
+RHU students can borrow, free of charge, books, documents, and articles that are
+available in the libraries of the American University of Beirut, Beirut Arab University,
+Haigazian University, Lebanese American University, Middle East University, Notre
+Dame University-Louaize, United Nations  - Economic and Social Commission  for
+Western Asia, Université Saint-Esprit de Kaslik, Université Saint-Joseph de Beyrouth,
+and University of Balamand.
+
+Baakline National Library
+
+RHU students can visit the Baakline National Library and borrow books, documents, and
+articles free of charge.
+
+
+
+
+
+                                                            Page 41
+
+========== ORIGINAL PDF PAGE 42 ==========
+Library Clearance
+
+To obtain library clearance, all graduates must submit a soft copy of their senior projects
+in RHU Library format (Turabian format). Graduates should also ensure that all books
+and other borrowed materials are returned to the library before clearance.
+
+
+
+
+
+                                                            Page 42
+
+========== ORIGINAL PDF PAGE 43 ==========
+INFORMATION TECHNOLOGY DEPARTMENT
+
+IT Helpdesk
+Phone: 00961 25 603090 Ext: 333
+E-mail: helpdesk@rhu.edu.lb
+www.rhu.edu.lb
+
+The Information Technology Department exists to provide optimal IT solutions to support
+the University students, faculty, and staff in their quest to achieve excellence in teaching,
+learning, research, and service. It actively engages the teaching and learning processes
+by introducing multimedia solutions and mobile technologies, creating a smart classroom
+environment, and supporting effective utilization of the learning management system.
+The IT Department also supports the administrative divisions in adopting technologies
+that improve users’ productivity in executing University functions and managing  all
+University information systems. Additionally, the IT Department maintains and upgrades
+all hardware, software, and applications that support the University's academic and
+administrative functions. The IT Department also manages infrastructure planning and
+maintenance and supervises related projects.
+
+Operation and Network Services
+
+The IT Department runs a state-of-the-art Data Center that houses computers and
+related telecommunications and storage systems,  including  the  latest-generation
+servers,  Virtual Desktop  Infrastructure,  Storage Area  Networking, and  Intrusion
+Prevention  System.  The  center  operates  redundant  power  sources,  data
+communications connections, and security devices.
+
+The center includes numerous servers that provide all students, faculty, and staff with
+storage space and privileged access to network-based data, software resources, and
+Internet and e-mail services.
+
+The network serves all students, faculty, and staff.  It covers over nine buildings of
+classrooms, offices, and student and faculty dorms. The Gigabit Ethernet fiber-optic
+backbone network is connected to the Internet via a 150 Mbps line to provide bandwidth
+for quality services. The network has over 840 voice/data points and 40 or more wireless
+access points covering all university buildings. At present, nearly 400 computers make
+up the University network.
+
+Management Information System (MIS)
+
+The Management Information Systems (MIS) Section includes a highly competent team
+that manages the University Information Systems. The MIS is responsible for developing,
+administering,  supporting, and  providing  service management  for  the  University
+Enterprise Resource Planning (ERP),  including  the Student  Information System
+(CampusVue), student accounting, finance, payroll, human resources systems, library
+and archiving systems, staff work log system, and an ID card system. Furthermore, the
+                                                            Page 43
+
+========== ORIGINAL PDF PAGE 44 ==========
+MIS manages information flow and generates reports for various university divisions to
+support planning and decision-making.
+
+University Website
+
+The RHU website is a vital communication platform for the University and a primary
+source of information for prospective and current students, faculty, staff, and other
+audiences. Managed via a responsive content management system (CMS) under the
+system administrator's supervision, the website ensures that all content is accurate, up
+to date, and easily accessible.
+
+In addition to serving as an information hub, the RHU website provides users with a wide
+range of online services, including the Student Information System, Moodle, an Online
+Payment System, Surveys and Voting tools, an Alumni Section, the latest Press
+Releases, Events and News, Career opportunities, Downloadable Applications, and
+more.
+
+Instructional and Classroom Technologies
+
+A team of dedicated specialists provides technology-aided teaching that meets the
+learning needs of faculty and students. It maintains multimedia assets in more than 32
+classrooms and  intelligent classrooms. The team manages Moodle – a Learning
+Management System (LMS) - which provides the platform through which faculty and
+students actively engage with course material and improve students’ ability to attain
+expected learning outcomes. New tools simplify the creation of online courses and
+enable the conversion of documents into dynamic objects.
+
+IT Helpdesk Support Services
+
+The IT Helpdesk team provides a wide range of support services for RHU students,
+faculty, and staff to ensure that technology-aided teaching, learning, and administrative
+processes run smoothly. These services include, but are not limited to, support for all IT
+peripherals (hardware and software) in offices, classrooms, and computer labs; user
+account management;  e-mail  services;  internet and  Wi-Fi  services;  file-sharing
+management; surveillance camera management; access control management; ID card
+printing; etc.
+
+The Helpdesk team uses the Ticket Management System (TMS) as  its primary
+communication channel with RHU faculty and staff. TMS provides a transparent and
+interactive platform for staff and faculty members to send and save requests (tickets) to
+report incidents and follow up on them. Also, TMS provides a space for end-users to
+provide satisfaction feedback on the service they receive from the ITC personnel in each
+ticket.
+
+
+
+
+                                                            Page 44
+
+========== ORIGINAL PDF PAGE 45 ==========
+QUALITY  ASSURANCE  AND  INSTITUTIONAL
+ADVANCEMENT
+
+Ms. Mirna Talhouk, Associate Director
+Block E
+Phone: 00961 25 603090, Ext. 443
+E-mail: qaia@rhu.edu.lb
+www.rhu.edu.lb/qaia
+
+Established in 2014, the Quality Assurance and Institutional Advancement (QAIA) Office
+plays a pivotal role in fostering a culture of excellence, accountability, and continuous
+improvement across the university. The office is dedicated to enhancing institutional
+effectiveness through evidence-based decision-making, strategic planning, and rigorous
+quality assurance practices.
+
+QAIA serves as a central hub for collecting, analyzing, and utilizing institutional data to
+support academic and administrative units in achieving their goals. By aligning quality
+assurance efforts with institutional priorities, QAIA ensures consistency, transparency,
+and innovation in all aspects of university operations.
+
+Core Functions
+•   Institutional Research & Data Analytics
+    Design and implement surveys, focus groups, and assessment tools to gather and
+    analyze data that informs strategic decisions.
+•   Reporting & Insights
+    Develop comprehensive reports for university leadership to guide planning, policy
+    development, and performance evaluation.
+•   Institutional Effectiveness Coordination
+    Harmonize assessment activities across academic and administrative units to
+    ensure alignment with institutional outcomes and standards.
+•   Data Quality & Governance
+     Identify gaps in data collection and utilization and establish protocols to ensure
+    data integrity and reliability.
+•   Knowledge Management
+    Promote the effective use of internal and external assessment data to support
+    continuous improvement and informed decision-making.
+•   Evaluation & Assessment Frameworks
+    Design and update evaluation methodologies tailored to different program
+    categories and validate development plans for quality assurance.
+•   Accreditation Support
+    Provide guidance and resources to academic units in preparing for national and
+     international accreditation processes.
+
+
+
+                                                            Page 45

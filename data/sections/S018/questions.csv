@@ -1,0 +1,50 @@
+qa_id,fact_id,question,question_style
+S018_Q0001,S018_F0001,How do I contact the College of Arts and Sciences office?,direct
+S018_Q0002,S018_F0001,What is the CAS administrative email?,paraphrase
+S018_Q0003,S018_F0002,What is the mission of RHU's College of Arts and Sciences?,direct
+S018_Q0004,S018_F0002,Which fields does the Arts and Sciences college focus on?,paraphrase
+S018_Q0005,S018_F0003,What are the core values of the College of Arts and Sciences?,direct
+S018_Q0006,S018_F0003,Which guiding values does CAS follow?,paraphrase
+S018_Q0007,S018_F0004,What are the learning objectives for CAS students?,direct
+S018_Q0008,S018_F0004,Will CAS students develop digital media literacy?,paraphrase
+S018_Q0009,S018_F0005,Which programs does the College of Arts and Sciences offer?,direct
+S018_Q0010,S018_F0005,What minors are available in Arts and Sciences?,paraphrase
+S018_Q0011,S018_F0005,Is the RHU computer science program ABET accredited?,paraphrase
+S018_Q0012,S018_F0006,What do the course codes in the Arts and Sciences college stand for?,direct
+S018_Q0013,S018_F0006,Which program uses the HCIS prefix?,paraphrase
+S018_Q0014,S018_F0007,What are the admission requirements for the College of Arts and Sciences?,direct
+S018_Q0015,S018_F0007,What English placement score do I need to major in English Language?,paraphrase
+S018_Q0016,S018_F0007,Do I need an aptitude test to study design at RHU?,contextual
+S018_Q0017,S018_F0008,How many credits are needed for each CAS degree?,direct
+S018_Q0018,S018_F0008,Which Arts and Sciences degree requires the most credits?,paraphrase
+S018_Q0019,S018_F0009,How are the 93 credits of the English Language BA distributed?,direct
+S018_Q0020,S018_F0009,How many college requirement credits are in the English BA?,paraphrase
+S018_Q0021,S018_F0010,How are credits split between gen ed and program requirements in the CS degree?,direct
+S018_Q0022,S018_F0010,How many major elective credits are in the BS in Computer Science?,paraphrase
+S018_Q0023,S018_F0011,What is the credit distribution of the Healthcare Information Systems BS?,direct
+S018_Q0024,S018_F0011,How many gen ed credits does the HCIS program include?,paraphrase
+S018_Q0025,S018_F0012,How are the 111 credits of Graphic Design distributed?,direct
+S018_Q0026,S018_F0012,How many program requirement credits are in the Graphic Design BS?,paraphrase
+S018_Q0027,S018_F0013,What are the graduation requirements in the College of Arts and Sciences?,direct
+S018_Q0028,S018_F0013,What minimum major GPA do CAS students need to graduate?,paraphrase
+S018_Q0029,S018_F0013,"I'm a CS senior with a CGPA of 72 but a 65 on my senior project, can I graduate?",contextual
+S018_Q0030,S018_F0014,What does BITM 200 Information Technology Essentials cover?,direct
+S018_Q0031,S018_F0014,Which course teaches MS Office and basic web page design?,paraphrase
+S018_Q0032,S018_F0015,What is CMNS 355 Digital Media Literacy?,direct
+S018_Q0033,S018_F0015,Is there a course that teaches podcasting and blogging?,paraphrase
+S018_Q0034,S018_F0016,What does ENGL 420 Literature and Culture cover?,direct
+S018_Q0035,S018_F0016,Do I need instructor consent for ENGL 420?,paraphrase
+S018_Q0036,S018_F0017,What is GRDS 360 Visual Perception & Infographics about?,direct
+S018_Q0037,S018_F0017,Which design course covers Gestalt theory and wayfinding?,paraphrase
+S018_Q0038,S018_F0018,What is the prerequisite of GRDS 360?,direct
+S018_Q0039,S018_F0018,Do I need GRDS 311 before the infographics course?,paraphrase
+S018_Q0040,S018_F0019,What does HCIS 201 Environmental Health cover?,direct
+S018_Q0041,S018_F0019,Does HCIS 201 have a prerequisite?,paraphrase
+S018_Q0042,S018_F0020,What is INDS 220 Computer Design I?,direct
+S018_Q0043,S018_F0020,Which course teaches AutoCAD drafting?,paraphrase
+S018_Q0044,S018_F0021,What does INDS 325 Lighting & Mechanics cover?,direct
+S018_Q0045,S018_F0021,Is there a course on lighting design and HVAC systems?,paraphrase
+S018_Q0046,S018_F0022,What is the prerequisite for INDS 325?,direct
+S018_Q0047,S018_F0022,Do I need INDS 315 before Lighting & Mechanics?,paraphrase
+S018_Q0048,S018_F0023,What does MATH 207 College Algebra cover?,direct
+S018_Q0049,S018_F0023,Which math course covers polynomial functions and sequences?,paraphrase

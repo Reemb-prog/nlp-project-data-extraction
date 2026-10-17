@@ -1,0 +1,228 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S057 | Biomedical engineering courses
+ORIGINAL PDF PAGES: 368 to 372 (inclusive)
+ONLY extract facts whose source page is between 368 and 372.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 368 ==========
+BIOM 417     Critical Care Equipment                                3(3,0)
+This course focuses on the interpretation of clinical data outputs, the description of
+modules integration, and the manipulation of features relating to medical equipment
+(ME) found in surgical theaters, intensive care units, and emergency departments.
+Students are required to simulate ME’s system function, intervene in case of ME’s
+failure, upgrade available ME(s), and,  in a team-oriented project, propose and
+implement a new design for a high-risk medical technology. Prerequisite: BIOM 311.
+
+BIOM 418     Clinical Laboratory Instruments                        3(3,0)
+This course covers the clinical laboratory responsible for analyzing patient specimens
+to provide information that aids in the diagnosis of disease and evaluates the
+effectiveness  of  therapy.  The  major  topics  covered   in   this  course  are
+spectrophotometry, flame photometers,  spectrofluorometry, chemistry analyzers,
+hematology analyzers, and chromatography columns. Prerequisite: BIOM 311.
+
+BIOM 421    Medical Imaging                                        3(3,0)
+This course focuses on the physical and technical features, as well as the clinical
+applications, of imaging modalities used in healthcare facilities, including diagnostic
+tools.  Specific  topics covered  include  Radiation; X-ray generators;  Interaction;
+Attenuation; Photoelectric effect; Compton scattering;  Filters; Collimators; Grids;
+Intensifying  Screen;  Fluoroscopic  Image   Intensifier;  Resolution;  Ultrasound
+Generation; US Scan; Transducers; Modes; Doppler. Prerequisites: PHYS 312
+
+BIOM 440    Computational Neuroscience                           3(3,0)
+This course introduces basic computational methods for understanding what nervous
+systems do and for determining how they function. It will explore the computational
+principles governing various aspects of neural coding, dynamics, learning, and
+memory. Specific topics cover the representation of information by spiking neurons,
+the processing of information in neural networks, graph theory, and algorithms for
+adaptation and learning. MATLAB/Python demonstrations and exercises will be used
+to deepen understanding of various concepts and methods. Prerequisites: BIOM
+312; MATH 311.
+
+BIOM 499   CO-OP Work Experience                                3(3,0)
+This CO-OP work experience is designed to provide students with an eight-week
+short-term opportunity in biomedical engineering. Students are encouraged to network
+with industry professionals  in  their discipline. A report, poster, and PowerPoint
+presentation are required. Prerequisites: ENGL 217; Senior Standing.
+
+BIOM 519    Advanced Therapeutic Devices                         3(3,0)
+This course describes the latest biomedical concepts and technologies used for
+therapeutic purposes. The major topics covered in this course are hemodialysis,
+hemofiltration, and hemodiafiltration; ventilators and their modes; respiratory modeling
+and spirometry parameters; and various advanced therapeutic devices.
+Prerequisite: BIOM 414
+
+
+                                                          Page 368
+
+========== ORIGINAL PDF PAGE 369 ==========
+BIOM 522   Advanced Medical Imaging                              3(3,0)
+ This course seeks to provide the student with a basic understanding of the concepts
+ of Advanced Biomedical Imaging systems.  It involves working with tomographic
+ modalities that produce 3D slice images. The course focuses on the nature of waves,
+ the physical  principles, and the instrumentation  of each  of the three imaging
+ technologies.  It applies to radiation interactions with human tissues and to the
+ fundamentals of slice reconstruction systems. Major applications are in Magnetic
+ Resonance, Computed Tomography, Nuclear Medicine, PET, and SPECT scans.
+ Specific topics covered include Radon, 2DFT, translations, rotations, generations,
+ magnetic moment, spin, relaxations, gradient, superconductivity, sequence, contrast,
+ k-space, resolution,  artifacts,  scintillation, positron, and single photon emission.
+ Prerequisite: BIOM 421
+
+ BIOM 531    Clinical Engineering                                     3(3,0)
+ This course presents the mission, objectives, and responsibilities of biomedical
+ engineering in health care delivery institutions.  It focuses on possessing in-depth
+ knowledge regarding the  effective and  efficient usage  of hospital technological
+ resources. Prerequisites: BIOM 417/ BIOM421.
+
+ BIOM 595A  BE Summative Learning Project 1                       1(1,0)
+ The first phase of a team-oriented, project-based experience that culminates in the
+ creation of an artifact; milestones include: project selection and proposal, a creative
+ solution, a report, a presentation, and a demonstration of the device. Prerequisites:
+ ENGL 217.
+
+ BIOM 595B BE Summative Learning Project 2                        3(3,0)
+ The second phase of a team-oriented, project-based experience that culminates in the
+ creation of an artifact; milestones include: project selection and proposal, a creative
+ solution, a  report, a presentation, and a demonstration  of the created device.
+ Prerequisite: BIOM 595A.
+
+II.  Elective Courses
+
+Students may meet their engineering technical electives requirements from the following
+selection of elective courses.
+
+ BIOM 402   Radio   Frequency   Applications   in   Biomedical    3(3,0)
+             Engineering
+ This course addresses  radio-frequency design and  applications  in biomedical
+ engineering and medicine, covering electromagnetic  radiation,  circuit elements,
+ coupling  devices,  modulation and  demodulation,  transmitters,  and  receivers.
+ Applications include telemetry, transcutaneous power transfer, hyperthermia, RF
+ ablation, tagging, and identification. Prerequisite: CCEE 331.
+
+
+
+
+
+                                                           Page 369
+
+========== ORIGINAL PDF PAGE 370 ==========
+BIOM 498  Special Topics in Biomedical Engineering               3(3,0)
+This course is designed to enable students to study current special topics of interest,
+carefully selected from BIOM-related areas. The contents of such a course are to be
+determined by the instructor and the department.
+
+BIOM 501   Emerging Healthcare Technologies                        3(3,0)
+This course aims to enable students to review the latest innovations in research areas
+of interest within the Bio-Engineering field. The course will mainly focus on introducing
+students to the evolving domain of biomedical technology by examining the interaction
+and integration of skills among physicians, scientists, engineers, firms, and users.
+For instance, it will include explicit discussions of fast-growing health care practices
+that exhibit radical novelty. Students will learn to analyze how such evolutionary
+technologies can impact a wide range  of sectors and associate  with several
+stakeholders. The studies will emphasize topics such as endoscopy, brain mapping,
+heat therapy, and advanced vital-signs measurements.
+
+BIOM 502   AI Applications in Healthcare                               3(3,0)
+This course introduces artificial intelligence (AI) and its applications in healthcare,
+including machine learning and precision medicine. Students learn the core skills
+needed to assess clinical information datasets and apply them to enhance evidence-
+based healthcare outcomes. In this course, students apply AI knowledge and skills to
+promote effective disease management and patient engagement models.
+
+BIOM 504   Bio-Image Processing                                    3(3,0)
+This course introduces the basic theories and methodologies  of  digital image
+processing. Topics include intensity transformations for image enhancement, the two-
+dimensional discrete Fourier transform, spatial- and frequency-domain linear image
+filtering, nonlinear image filtering, binary image processing, edge detection, image
+segmentation, and the basics of digital video processing. This course makes extensive
+use of MATLAB as an analysis, design, and visualization tool. Prerequisite: CCEE
+321.
+
+BIOM 505    Computer Simulations for Life Sciences               3(3,0)
+This course introduces mathematical tools and algorithms implemented to simulate
+dynamic  biological and  medical  processes. The  course  examines  modeling
+methodologies  and  simulation  techniques   for   existing  software  such  as
+MATLAB/Simulink, LabVIEW, and others. Specific topics covered include System’s
+mode, Compartments, Physiological mechanisms, monitoring medical parameters,
+Simulation tools, Parameter estimation, Identification and prediction.
+
+BIOM 506    Biomaterials                                              3(3,0)
+The course studies cell-surface interactions mediated by adhesive proteins in the
+physiological medium, the analysis of signal transduction, and cellular functions
+induced by surface control. Emphasis is placed on biomaterial polymers, ceramics,
+and bone substitutes. Research applications include aiding  in the diagnosis of
+                                                          Page 370
+
+========== ORIGINAL PDF PAGE 371 ==========
+malignant tumors and the use  of nanobiotechnology  to coat medical devices.
+Prerequisite: BIOM 311.
+
+BIOM 507    Bio-fluids                                                3(3,0)
+This course is designed to enable students to review the main fluids of the human
+body, their behavior, and the latest related clinical and surgical applications. The
+course will mainly provide an overview of bodily fluids, basic fluid mechanics concepts,
+the functional properties of blood, and gas exchange and transport. Also, it includes
+in-depth discussions of recent health care practices based on the control aspects of
+the vascular system and the hemodynamics of large arteries.
+
+BIOM 508   Microcontroller and Embedded Systems for         3(3,0)
+           Biomedicine
+This course explains the architecture of microcontroller-based systems: registers,
+timers, interrupts, ports, memory, serial communication, and design. It also covers
+parallel communication and design, analog-to-digital conversion, and the use of PIC
+16F84 and PIC 16F877 microcontrollers. MPLAB, PROTEUS, and mikroC software
+are used. Prerequisite: CCEE 426.
+
+BIOM 512    Biomechanics     and      Rehabilitation         3(3,0)
+             Engineering
+This course will focus on the human musculoskeletal system. It emphasizes various
+engineering principles governing biological materials and applies these to the study of
+bone, cartilage, ligaments, tendons, and muscles. It covers: Bone, Joint, Ligament,
+Tendon, Cartilage, Viscosity, Elasticity, Plasticity, Stress, Strain, Muscle, Length,
+Velocity, Moment Arm, Contractile Element, EMG, Lagrangian, and Rehabilitation
+Mechanics. Prerequisites: CIVE 211 and BIOM 311.
+
+BIOM 513    Hemodynamics Measurement                            3(3,0)
+This course enables the students to study the basic principles of hemodynamics
+measurement. The students will learn different techniques for measuring blood flow,
+pressure, compliance, and resistance using invasive and non-invasive methods. In
+addition, there  will be coverage of the qualitative and quantitative measures of
+cardiopulmonary functions.
+
+BIOM 521    Introduction to E-Health Care                          3(3,0)
+This course emphasizes current applications of telecommunications  in medical
+diagnosis and patient care.  It examines collaborative arrangements for real-time
+management  of  patients  at a  distance  using  wireless,  mobile, and  robotic
+technologies. Prerequisite: BIOM 421.
+
+BIOM 532    Biomedical Servicing                                   3(3,0)
+This course provides students with the technical knowledge and skills necessary to
+become a broad-based electro-medical specialist.  Students will learn to install, set
+up,  troubleshoot,  integrate,  program,  test,  operate, and  repair  systems and
+components. The topics covered in this course include inspection, corrective and
+
+                                                          Page 371
+
+========== ORIGINAL PDF PAGE 372 ==========
+preventive maintenance, calibration, repair, supply management, best practices, and
+accreditation of medical equipment.
+
+BIOM533      Health-care Facility Management                      3(3,0)
+This  course  presents  procedures  followed  for  medical and  health  services
+management. It covers the duties of the administrator and his assistants, as well as
+workflow between staff of different services and departments. This course emphasizes
+topics such as credentials, quality control, human resources, finances, recovery,
+insurance, sterilization, infection control, and health safety procedures.
+
+BIOM 597    Advanced    Topics     in    Biomedical         3(3,0)
+              Engineering
+This course is designed to enable students to study a specific advanced topic of
+interest, carefully selected from biomedical engineering-related topics. The content
+outline for such a topic is to be determined by the instructor and approved by the
+department Chair. Prerequisite: Senior Standing
+
+
+
+
+
+                                                          Page 372

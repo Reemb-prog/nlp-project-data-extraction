@@ -1,0 +1,43 @@
+qa_id,fact_id,question,question_style
+S012_Q0001,S012_F0001,How do I contact the co-op office?,direct
+S012_Q0002,S012_F0001,What is the email for Co-op and Career Services?,paraphrase
+S012_Q0003,S012_F0002,What is the purpose of the co-op training program?,direct
+S012_Q0004,S012_F0002,How does co-op help me in my career?,paraphrase
+S012_Q0005,S012_F0003,Can I find my own co-op training company?,direct
+S012_Q0006,S012_F0003,Will RHU help me find a co-op placement?,paraphrase
+S012_Q0007,S012_F0004,Can I do my co-op abroad?,direct
+S012_Q0008,S012_F0004,Which form do I fill to do co-op training outside Lebanon?,paraphrase
+S012_Q0009,S012_F0005,Can I take a course during my co-op?,direct
+S012_Q0010,S012_F0005,"I need one last course to graduate, can I take it while doing co-op?",contextual
+S012_Q0011,S012_F0006,How long is the co-op training?,direct
+S012_Q0012,S012_F0006,When do students usually do their co-op?,paraphrase
+S012_Q0013,S012_F0006,Co-op hours per day?,short
+S012_Q0014,S012_F0007,Can my co-op supervisor be a relative?,direct
+S012_Q0015,S012_F0007,Can I do my co-op at my father's company?,contextual
+S012_Q0016,S012_F0008,Can I withdraw from the co-op course?,direct
+S012_Q0017,S012_F0008,What happens if I break the employer's rules during co-op?,paraphrase
+S012_Q0018,S012_F0009,What are the eligibility requirements for co-op?,direct
+S012_Q0019,S012_F0009,What GPA do I need to start co-op?,paraphrase
+S012_Q0020,S012_F0009,"I haven't passed ENGL 217 yet, can I register for co-op?",contextual
+S012_Q0021,S012_F0010,How many credits is the co-op course in engineering?,direct
+S012_Q0022,S012_F0010,Is co-op worth more credits in Arts and Sciences?,paraphrase
+S012_Q0023,S012_F0011,Which seminars must I attend before co-op?,direct
+S012_Q0024,S012_F0011,Do I need to take a CV writing seminar before my training?,paraphrase
+S012_Q0025,S012_F0012,What information do I need to submit if I find my own co-op venue?,direct
+S012_Q0026,S012_F0012,When should I tell the co-op office about an employer I found myself?,paraphrase
+S012_Q0027,S012_F0013,How do I apply for a co-op placement?,direct
+S012_Q0028,S012_F0013,How many preferred venues do I list on the Co-op-3 form?,paraphrase
+S012_Q0029,S012_F0013,Who gets priority when several students want the same co-op spot?,paraphrase
+S012_Q0030,S012_F0014,Where are co-op opportunities and assignments posted?,direct
+S012_Q0031,S012_F0014,Do I need to sign a code of conduct before co-op?,paraphrase
+S012_Q0032,S012_F0015,What does the co-op academic advisor do?,direct
+S012_Q0033,S012_F0015,Will my advisor visit me at the company during co-op?,contextual
+S012_Q0034,S012_F0016,What do I need to submit at the end of co-op?,direct
+S012_Q0035,S012_F0016,Is a poster required for the co-op report?,paraphrase
+S012_Q0036,S012_F0017,How is co-op graded?,direct
+S012_Q0037,S012_F0017,What happens if I fail co-op?,paraphrase
+S012_Q0038,S012_F0017,How can I get a PH grade in co-op?,contextual
+S012_Q0039,S012_F0018,What services does RHU career services provide?,direct
+S012_Q0040,S012_F0018,Does RHU organize a job fair?,paraphrase
+S012_Q0041,S012_F0019,How can alumni find job vacancies through RHU?,direct
+S012_Q0042,S012_F0019,"I'm an RHU graduate, how do I apply for a job posted by the career office?",contextual

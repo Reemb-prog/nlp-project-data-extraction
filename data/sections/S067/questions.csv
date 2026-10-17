@@ -1,0 +1,15 @@
+qa_id,fact_id,question,question_style
+S067_Q0001,S067_F0001,What is the Manufacturing and Automation Engineering minor?,direct
+S067_Q0002,S067_F0001,What does the MAE minor focus on?,paraphrase
+S067_Q0003,S067_F0002,Can I do my co-op in manufacturing through the MAE minor?,direct
+S067_Q0004,S067_F0002,How many credits does the manufacturing and automation minor require?,paraphrase
+S067_Q0005,S067_F0003,What are the learning outcomes of the MAE minor?,direct
+S067_Q0006,S067_F0003,Will the manufacturing minor teach CAD/CAM/CAE tools?,paraphrase
+S067_Q0007,S067_F0004,What careers can the MAE minor lead to?,direct
+S067_Q0008,S067_F0004,Can a manufacturing and automation minor help me work in quality control?,paraphrase
+S067_Q0009,S067_F0005,Who can take the Manufacturing and Automation Engineering minor?,direct
+S067_Q0010,S067_F0005,"I'm a biomedical engineering student, can I take the MAE minor?",contextual
+S067_Q0011,S067_F0006,Which courses can I choose for the MAE minor?,direct
+S067_Q0012,S067_F0006,Is Digital Manufacturing part of the manufacturing and automation minor?,paraphrase
+S067_Q0013,S067_F0007,How is MECH 422 described in the MAE minor?,direct
+S067_Q0014,S067_F0007,Does the manufacturing processes course in the minor cover additive manufacturing?,paraphrase

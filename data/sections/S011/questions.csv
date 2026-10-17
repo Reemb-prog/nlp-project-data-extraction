@@ -1,0 +1,117 @@
+qa_id,fact_id,question,question_style
+S011_Q0001,S011_F0001,How is the cumulative GPA calculated at RHU?,direct
+S011_Q0002,S011_F0001,What's the formula for CGPA?,short
+S011_Q0003,S011_F0002,What is the minimum passing grade at RHU?,direct
+S011_Q0004,S011_F0002,Is a 58 a passing grade?,contextual
+S011_Q0005,S011_F0002,Lowest passing letter grade?,short
+S011_Q0006,S011_F0003,What numeric grade equals an A at RHU?,direct
+S011_Q0007,S011_F0003,What is the grade value of a B+?,paraphrase
+S011_Q0008,S011_F0003,"I got 78 in a course, what letter grade is that?",contextual
+S011_Q0009,S011_F0003,Can you show me the RHU grading scale?,paraphrase
+S011_Q0010,S011_F0004,What does a WE grade mean?,direct
+S011_Q0011,S011_F0004,What do the grade codes CIP and CR stand for?,paraphrase
+S011_Q0012,S011_F0004,What is a PH grade on the transcript?,paraphrase
+S011_Q0013,S011_F0005,What are the conditions to be on the honor list?,direct
+S011_Q0014,S011_F0005,Can a part-time student make the Dean's list?,contextual
+S011_Q0015,S011_F0005,Does an incomplete grade disqualify me from the honor list?,paraphrase
+S011_Q0016,S011_F0006,What GPA do I need for the Dean's Honor List?,direct
+S011_Q0017,S011_F0006,What semester GPA puts me on the President's Honor List?,paraphrase
+S011_Q0018,S011_F0006,"My semester GPA is 91 with no F's, which honor list am I on?",contextual
+S011_Q0019,S011_F0007,What CGPA do I need to graduate with distinction?,direct
+S011_Q0020,S011_F0007,What is High Distinction at graduation?,paraphrase
+S011_Q0021,S011_F0007,Does graduating with distinction show on my transcript?,paraphrase
+S011_Q0022,S011_F0008,What is the Nazik Rafik Hariri Graduate Study Award?,direct
+S011_Q0023,S011_F0008,Who gets a full scholarship for a master's at RHU after graduating?,paraphrase
+S011_Q0024,S011_F0009,Does a course dropped during drop/add appear on my record?,direct
+S011_Q0025,S011_F0009,Do I need my advisor's approval to drop a course in the drop/add period?,paraphrase
+S011_Q0026,S011_F0010,When can I withdraw from a course during the semester?,direct
+S011_Q0027,S011_F0010,Does a W count as an attempt for repeating a course?,paraphrase
+S011_Q0028,S011_F0010,"If I withdraw from a course and drop below 12 credits, whose approval do I need?",contextual
+S011_Q0029,S011_F0010,Course withdrawal window in summer?,short
+S011_Q0030,S011_F0011,Do I still pay tuition for a course I withdraw from after drop/add?,direct
+S011_Q0031,S011_F0011,Am I financially responsible for withdrawn courses?,paraphrase
+S011_Q0032,S011_F0012,Can I withdraw from all my courses in a semester for difficult circumstances?,direct
+S011_Q0033,S011_F0012,What grade do I get after a formal semester withdrawal?,paraphrase
+S011_Q0034,S011_F0012,Who approves a petition to withdraw from the whole semester?,paraphrase
+S011_Q0035,S011_F0013,What happens if I stop attending the semester without officially withdrawing?,direct
+S011_Q0036,S011_F0013,Can F grades from an informal withdrawal be changed to WE?,paraphrase
+S011_Q0037,S011_F0013,I left mid-semester without notice due to a family emergency. Can I come back?,contextual
+S011_Q0038,S011_F0014,Can I transfer credits I took elsewhere while I was withdrawn from RHU?,direct
+S011_Q0039,S011_F0014,Do I need college approval for courses taken during my withdrawal period?,paraphrase
+S011_Q0040,S011_F0015,What must I do to withdraw from the university completely?,direct
+S011_Q0041,S011_F0015,Is there a clearance process when leaving RHU?,paraphrase
+S011_Q0042,S011_F0016,How do I request a leave of absence?,direct
+S011_Q0043,S011_F0016,How much does a leave of absence cost per semester?,paraphrase
+S011_Q0044,S011_F0016,When can I apply for an LOA?,short
+S011_Q0045,S011_F0017,How many semesters of leave of absence can I take in total?,direct
+S011_Q0046,S011_F0017,"If I return late from my LOA, which catalog do I follow?",contextual
+S011_Q0047,S011_F0018,Can I take courses at another university while on leave of absence?,direct
+S011_Q0048,S011_F0018,Will courses I take elsewhere during LOA transfer?,paraphrase
+S011_Q0049,S011_F0019,What is special enrollment status?,direct
+S011_Q0050,S011_F0019,How much is the continuous enrollment fee?,paraphrase
+S011_Q0051,S011_F0019,"I finished my courses but need to stay active as a student, what should I do?",contextual
+S011_Q0052,S011_F0020,Can I register for courses without pursuing a degree at RHU?,direct
+S011_Q0053,S011_F0020,Who is considered a non-degree student?,paraphrase
+S011_Q0054,S011_F0021,Can I study more than one major at RHU?,direct
+S011_Q0055,S011_F0021,What options does RHU offer for a second degree?,paraphrase
+S011_Q0056,S011_F0022,What are the requirements for a double major?,direct
+S011_Q0057,S011_F0022,How many credits must I complete before applying for a second major?,paraphrase
+S011_Q0058,S011_F0022,Do I get one or two diplomas with a double major?,paraphrase
+S011_Q0059,S011_F0023,Can I earn two degrees from different colleges at the same time?,direct
+S011_Q0060,S011_F0023,Which tuition rate applies when pursuing dual degrees?,paraphrase
+S011_Q0061,S011_F0023,Do I need two co-op experiences for dual degrees?,contextual
+S011_Q0062,S011_F0024,Can I come back to RHU for a second degree after graduating?,direct
+S011_Q0063,S011_F0024,Will I need to repeat old courses for a second degree?,paraphrase
+S011_Q0064,S011_F0025,What are the general conditions for a minor at RHU?,direct
+S011_Q0065,S011_F0025,How many minors can I take?,paraphrase
+S011_Q0066,S011_F0025,What minimum GPA do I need in my minor courses?,paraphrase
+S011_Q0067,S011_F0025,Can courses from my major count toward my minor?,contextual
+S011_Q0068,S011_F0026,How long can I defer my studies?,direct
+S011_Q0069,S011_F0026,What happens if I stop studying for more than six semesters?,paraphrase
+S011_Q0070,S011_F0027,How do I change my major?,direct
+S011_Q0071,S011_F0027,Can I change my major after earning 70 credits?,contextual
+S011_Q0072,S011_F0027,What is the deadline to request a change of major?,paraphrase
+S011_Q0073,S011_F0028,Can some credits be removed from my CGPA when I change major?,direct
+S011_Q0074,S011_F0028,"If I switch to a different college, how many credits can be deducted from my CGPA?",contextual
+S011_Q0075,S011_F0029,Can IELP students change their intended major?,direct
+S011_Q0076,S011_F0029,Is a major reassignment in IELP 095 considered a change of major?,paraphrase
+S011_Q0077,S011_F0030,Where can I get peer help if I'm struggling academically?,direct
+S011_Q0078,S011_F0030,What are the learning support centers at RHU?,paraphrase
+S011_Q0079,S011_F0031,When is a student placed on academic probation?,direct
+S011_Q0080,S011_F0031,What CGPA puts me on probation?,paraphrase
+S011_Q0081,S011_F0031,"I have 30 attempted credits and a CGPA of 68, am I on probation?",contextual
+S011_Q0082,S011_F0032,What are my options after two consecutive probations?,direct
+S011_Q0083,S011_F0032,Will changing major remove my probation?,paraphrase
+S011_Q0084,S011_F0033,Can I get off probation during summer?,direct
+S011_Q0085,S011_F0033,Can bad summer grades put me on probation?,paraphrase
+S011_Q0086,S011_F0034,How many credits can a student on probation take?,direct
+S011_Q0087,S011_F0034,"I'm on probation and graduating this semester, can I take 15 credits?",contextual
+S011_Q0088,S011_F0034,Probation summer load limit?,short
+S011_Q0089,S011_F0035,Can students on probation register online?,direct
+S011_Q0090,S011_F0035,How many courses must I repeat while on probation?,paraphrase
+S011_Q0091,S011_F0036,What is critical academic standing?,direct
+S011_Q0092,S011_F0036,How many probations lead to critical academic standing?,paraphrase
+S011_Q0093,S011_F0037,What happens at the end of a semester on critical academic standing?,direct
+S011_Q0094,S011_F0037,Can I be dismissed from RHU for low grades?,paraphrase
+S011_Q0095,S011_F0037,What courses must a CAS student register for?,paraphrase
+S011_Q0096,S011_F0038,What happens if my CGPA drops below 60?,direct
+S011_Q0097,S011_F0038,Can I return to my old major after a forced change of major?,paraphrase
+S011_Q0098,S011_F0039,What is RHU's policy on plagiarism and cheating?,direct
+S011_Q0099,S011_F0039,What happens if I'm caught cheating on an exam?,contextual
+S011_Q0100,S011_F0040,Can I take courses at another university while enrolled at RHU?,direct
+S011_Q0101,S011_F0040,How many credits can I take elsewhere and transfer?,paraphrase
+S011_Q0102,S011_F0040,What grade do I need in an outside course for it to count at RHU?,paraphrase
+S011_Q0103,S011_F0041,Can I take courses at another university in my last semester?,direct
+S011_Q0104,S011_F0041,"I'm graduating next semester, can I take a course elsewhere that RHU doesn't offer?",contextual
+S011_Q0105,S011_F0042,Who can access my student records?,direct
+S011_Q0106,S011_F0042,Are exam results posted with student names?,paraphrase
+S011_Q0107,S011_F0043,How can I get an unofficial transcript?,direct
+S011_Q0108,S011_F0043,Can RHU send my transcript to an employer?,contextual
+S011_Q0109,S011_F0043,Who signs official RHU transcripts?,paraphrase
+S011_Q0110,S011_F0044,How do I submit a petition?,direct
+S011_Q0111,S011_F0044,Do I need to attach my transcript to a petition?,paraphrase
+S011_Q0112,S011_F0045,When is the commencement ceremony held?,direct
+S011_Q0113,S011_F0045,"I finished my requirements in fall, can I attend commencement?",contextual
+S011_Q0114,S011_F0045,Where do I get my diploma if I skip graduation?,paraphrase
+S011_Q0115,S011_F0046,How will my name appear on my diploma?,direct
+S011_Q0116,S011_F0046,My passport name changed. How do I update it for my diploma?,contextual

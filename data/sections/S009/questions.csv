@@ -1,0 +1,23 @@
+qa_id,fact_id,question,question_style
+S009_Q0001,S009_F0001,How do I contact the Registrar's Office?,direct
+S009_Q0002,S009_F0001,What is the registrar's email address?,paraphrase
+S009_Q0003,S009_F0001,Which room is the registrar's office in?,paraphrase
+S009_Q0004,S009_F0002,What does the Registrar's Office do?,direct
+S009_Q0005,S009_F0002,Which office issues transcripts and prepares exam schedules?,paraphrase
+S009_Q0006,S009_F0003,What can I access through my CampusVue account?,direct
+S009_Q0007,S009_F0003,Where can I see my schedule and grades online?,contextual
+S009_Q0008,S009_F0004,How do I register for courses at RHU?,direct
+S009_Q0009,S009_F0004,Do I need to see my advisor before registering?,paraphrase
+S009_Q0010,S009_F0004,What is the Course Registration Form used for?,paraphrase
+S009_Q0011,S009_F0005,What happens if I register for a course online without advisor approval?,direct
+S009_Q0012,S009_F0005,Can my course be dropped automatically if my advisor didn't approve it?,paraphrase
+S009_Q0013,S009_F0006,What rules must my course schedule follow?,direct
+S009_Q0014,S009_F0006,Can I register for a course if I haven't completed its prerequisite?,contextual
+S009_Q0015,S009_F0006,Do I have to take courses in the order of my study plan?,paraphrase
+S009_Q0016,S009_F0007,What do I do after completing registration?,direct
+S009_Q0017,S009_F0007,Can my classes be dropped if I don't pay my fees?,paraphrase
+S009_Q0018,S009_F0008,Do Lebanese students have to register with the NSSF?,direct
+S009_Q0019,S009_F0008,"I'm not Lebanese, do I need NSSF registration?",contextual
+S009_Q0020,S009_F0008,What information goes on the Social Security Application form?,paraphrase
+S009_Q0021,S009_F0009,How long must my passport be valid to study at RHU as an expat?,direct
+S009_Q0022,S009_F0009,Where do international students get their visa for RHU?,paraphrase

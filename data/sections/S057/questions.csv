@@ -1,0 +1,49 @@
+qa_id,fact_id,question,question_style
+S057_Q0001,S057_F0001,What does BIOM 417 Critical Care Equipment cover?,direct
+S057_Q0002,S057_F0001,Which biomedical course covers ICU and operating room equipment?,paraphrase
+S057_Q0003,S057_F0002,What is BIOM 418 Clinical Laboratory Instruments about?,direct
+S057_Q0004,S057_F0002,Which course covers hematology analyzers and chromatography?,paraphrase
+S057_Q0005,S057_F0003,What does BIOM 421 Medical Imaging cover?,direct
+S057_Q0006,S057_F0003,What is the prerequisite for Medical Imaging?,paraphrase
+S057_Q0007,S057_F0004,What is BIOM 440 Computational Neuroscience about?,direct
+S057_Q0008,S057_F0004,What are the prerequisites for Computational Neuroscience?,paraphrase
+S057_Q0009,S057_F0005,What is BIOM 499 Co-op Work Experience?,direct
+S057_Q0010,S057_F0005,What are the prerequisites for the biomedical co-op course?,paraphrase
+S057_Q0011,S057_F0006,What does BIOM 519 Advanced Therapeutic Devices cover?,direct
+S057_Q0012,S057_F0006,Which course covers hemodialysis and ventilators?,paraphrase
+S057_Q0013,S057_F0007,What is BIOM 522 Advanced Medical Imaging about?,direct
+S057_Q0014,S057_F0007,Which course covers MRI CT and PET imaging?,paraphrase
+S057_Q0015,S057_F0008,What does BIOM 531 Clinical Engineering cover?,direct
+S057_Q0016,S057_F0008,What do I need before Clinical Engineering?,paraphrase
+S057_Q0017,S057_F0009,What are BIOM 595A and BIOM 595B?,direct
+S057_Q0018,S057_F0009,What is the prerequisite for the biomedical BE project part 1?,paraphrase
+S057_Q0019,S057_F0010,What is BIOM 402 about?,direct
+S057_Q0020,S057_F0010,Is there a course on RF applications in medicine?,paraphrase
+S057_Q0021,S057_F0011,What is BIOM 498 Special Topics in Biomedical Engineering?,direct
+S057_Q0022,S057_F0011,Who sets the content of BIOM 498?,paraphrase
+S057_Q0023,S057_F0012,What does BIOM 501 Emerging Healthcare Technologies cover?,direct
+S057_Q0024,S057_F0012,Is there an elective about new healthcare innovations like brain mapping?,paraphrase
+S057_Q0025,S057_F0013,What is BIOM 502 AI Applications in Healthcare?,direct
+S057_Q0026,S057_F0013,Is there a course on AI for precision medicine?,paraphrase
+S057_Q0027,S057_F0014,What does BIOM 504 Bio-Image Processing cover?,direct
+S057_Q0028,S057_F0014,What is the prerequisite for Bio-Image Processing?,paraphrase
+S057_Q0029,S057_F0015,What is BIOM 505 Computer Simulations for Life Sciences?,direct
+S057_Q0030,S057_F0015,Which biomedical elective uses Simulink and LabVIEW?,paraphrase
+S057_Q0031,S057_F0016,What does BIOM 506 Biomaterials cover?,direct
+S057_Q0032,S057_F0016,What do I need before Biomaterials?,paraphrase
+S057_Q0033,S057_F0017,What is BIOM 507 Bio-fluids about?,direct
+S057_Q0034,S057_F0017,Is there a course on blood properties and gas exchange?,paraphrase
+S057_Q0035,S057_F0018,What does BIOM 508 cover?,direct
+S057_Q0036,S057_F0018,Which biomedical elective teaches PIC microcontrollers?,paraphrase
+S057_Q0037,S057_F0019,What is BIOM 512 Biomechanics and Rehabilitation Engineering?,direct
+S057_Q0038,S057_F0019,What are the prerequisites for Biomechanics and Rehabilitation Engineering?,paraphrase
+S057_Q0039,S057_F0020,What does BIOM 513 Hemodynamics Measurement cover?,direct
+S057_Q0040,S057_F0020,Is there a course on measuring blood flow and pressure?,paraphrase
+S057_Q0041,S057_F0021,What is BIOM 521 Introduction to E-Health Care?,direct
+S057_Q0042,S057_F0021,What is the prerequisite for the e-health elective?,paraphrase
+S057_Q0043,S057_F0022,What does BIOM 532 Biomedical Servicing cover?,direct
+S057_Q0044,S057_F0022,Is there a course on maintaining and calibrating medical equipment?,paraphrase
+S057_Q0045,S057_F0023,What is BIOM 533 Health-care Facility Management?,direct
+S057_Q0046,S057_F0023,Which elective covers infection control and sterilization management?,paraphrase
+S057_Q0047,S057_F0024,What is BIOM 597 Advanced Topics in Biomedical Engineering?,direct
+S057_Q0048,S057_F0024,Who can take BIOM 597?,paraphrase

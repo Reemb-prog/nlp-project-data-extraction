@@ -1,0 +1,71 @@
+PREVIOUS PAGE 225 (reference only; do not make a fact for this page):
+business processes, internal controls, the systems development process, and the
+management  of  information systems. Moreover, end-user  application software
+includes   “off-the-shelf”  accounting  software  packages  and  spreadsheets.
+Prerequisite: BACC 205; BITM 300.
+
+BADM 480   Independent Studies                                     3(3,0)
+This course focuses on advancing the student’s knowledge in their specialization
+through independent research and application on current or emerging topics, as
+approved by the assigned faculty member. Prerequisite: Advisor’s approval.
+
+BITM 320     Enterprise Resource Planning
+Enterprise Resource Planning (ERP) systems are a major investment for businesses.
+These systems are essential for maintaining competitiveness, meeting customer
+demands, and improving efficiency and flexibility in a global marketplace. By adopting
+ERP, companies can streamline their operations, align with industry best practices,
+and fully utilize integrated data resources. This course will provide students with the
+skills and knowledge needed to plan, design, and implement ERP systems effectively.
+Prerequisite: BITM 300
+
+BITM 402   Advanced Web Programming                            3(3,1)
+This course focuses on server-side programming. It allows students to learn how to
+connect their website or web application to a database and to save and retrieve data
+from it. The course exposes students to web controls, validation controls, data source
+controls, data binding controls, state management, and working with third-party media
+like XML and web services. Prerequisite: BITM 401; equivalent to COSC 434 and
+CCEE 514.
+
+BITM 410   Advanced Programming and Data Structures           3(3,1)
+This is a continuation course using advanced C++.  The student studies object-
+oriented programming concepts such as classes, objects, polymorphism, data hiding,
+and encapsulation. This course gives the student a new perspective on how to think
+about objects. Prerequisite: BITM 305; equivalent to COSC 215 and CCEE 216.
+
+BITM 455   Advanced Networking                                    3(2,2)
+This course prepares students to act as System and Network Administrators by
+implementing Active Directory Domain Services ADDS in distributed environments
+that can include complex network services and domain controllers. The covered
+materials help students efficiently automate the administration of users, groups, and
+computers. Prerequisite: BITM 355, Equivalent to COSC 461.
+
+
+
+
+
+                                                                  Page 225
+
+NEXT PAGE 234 (reference only; do not make a fact for this page):
+Management and Marketing Studies Department
+(DMMS)
+
+Faculty Members
+
+Chairperson:         Mohamad Al Majzoub
+Assistant Professor:   Mohamad Al Majzoub, Maya Daher, Baheej Chaaban.
+Adjunct Faculty:        Adel Saheb, Buthayna Hajjar, Dorriah Itani, Kassem Masri,
+                          Nassif Al Hakim, Hana El Toqi, Maha Hajj Omar, Bassel
+                          Diab.
+
+Programs Offered
+
+The Management and Marketing Studies Department (MMD) offers three programs –
+Management, Human Resources Management, and Marketing and Advertising. Each
+program leads to a Bachelor of Business Administration degree. The details of each
+program follow.
+
+
+
+
+
+                                                                   Page 234

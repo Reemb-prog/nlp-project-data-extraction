@@ -1,0 +1,45 @@
+qa_id,fact_id,question,question_style
+S037_Q0001,S037_F0001,Who is the chairperson of the Management and Marketing Studies Department?,direct
+S037_Q0002,S037_F0001,Who teaches full-time in the DMMS department?,paraphrase
+S037_Q0003,S037_F0002,Which programs does the Management and Marketing Studies Department offer?,direct
+S037_Q0004,S037_F0002,Is the HRM program in the management and marketing department?,paraphrase
+S037_Q0005,S037_F0003,What is the Human Resources Management program about?,direct
+S037_Q0006,S037_F0003,How many credits is the HRM BBA?,paraphrase
+S037_Q0007,S037_F0004,What are the mandatory courses in the HRM major?,direct
+S037_Q0008,S037_F0004,Is Labor Law required for human resources majors?,paraphrase
+S037_Q0009,S037_F0005,Which major electives can HRM students take?,direct
+S037_Q0010,S037_F0005,Can HRM students take Project Management as an elective?,contextual
+S037_Q0011,S037_F0006,What is the co-op requirement for HRM students?,direct
+S037_Q0012,S037_F0006,When do human resources majors do co-op?,paraphrase
+S037_Q0013,S037_F0007,What jobs can HRM graduates start with?,direct
+S037_Q0014,S037_F0007,Can I become an HR generalist after the HRM degree?,contextual
+S037_Q0015,S037_F0008,What are the learning outcomes of the HRM program?,direct
+S037_Q0016,S037_F0008,Will HRM students learn recruitment and compensation functions?,paraphrase
+S037_Q0017,S037_F0009,What do HRM students take in their first year?,direct
+S037_Q0018,S037_F0009,When do HRM majors take Organizational Behavior?,paraphrase
+S037_Q0019,S037_F0010,What courses are in HRM year 2 fall?,direct
+S037_Q0020,S037_F0010,When do HRM students take Human Resources Management and Labor Law?,paraphrase
+S037_Q0021,S037_F0011,What is in HRM year 2 spring?,direct
+S037_Q0022,S037_F0011,When is Workforce Planning taken in the HRM plan?,paraphrase
+S037_Q0023,S037_F0012,What courses are in HRM year 3 fall?,direct
+S037_Q0024,S037_F0012,When do HRM students take HR Training and Development?,paraphrase
+S037_Q0025,S037_F0013,What is in the final semester of the HRM study plan?,direct
+S037_Q0026,S037_F0013,When do HRM majors take Strategic Management?,paraphrase
+S037_Q0027,S037_F0014,What does BHRM 300 Human Resources Management cover?,direct
+S037_Q0028,S037_F0014,What is the prerequisite for BHRM 300?,paraphrase
+S037_Q0029,S037_F0015,What is BHRM 305 Labor Law & Relations about?,direct
+S037_Q0030,S037_F0015,Does the labor law course focus on Lebanese law?,paraphrase
+S037_Q0031,S037_F0016,What does BHRM 350 cover?,direct
+S037_Q0032,S037_F0016,Which HRM course teaches job analysis and recruitment?,paraphrase
+S037_Q0033,S037_F0017,What is BHRM 400 HR Training & Development about?,direct
+S037_Q0034,S037_F0017,What is the prerequisite for HR Training & Development?,paraphrase
+S037_Q0035,S037_F0018,What does BHRM 450 cover?,direct
+S037_Q0036,S037_F0018,Which HRM course covers pay structures and benefits?,paraphrase
+S037_Q0037,S037_F0019,What is BMGT 205 Organizational Behavior about?,direct
+S037_Q0038,S037_F0019,What do I need before Organizational Behavior?,paraphrase
+S037_Q0039,S037_F0020,What does BMGT 485 Strategic Management cover?,direct
+S037_Q0040,S037_F0020,Who can take Strategic Management?,paraphrase
+S037_Q0041,S037_F0021,How is BFIN 400 described in the HRM electives?,direct
+S037_Q0042,S037_F0021,Does Financial Management II cover mergers and acquisitions?,paraphrase
+S037_Q0043,S037_F0022,What is BMKA 450 Events Marketing and Management?,direct
+S037_Q0044,S037_F0022,Is there a course on organizing and marketing events?,paraphrase

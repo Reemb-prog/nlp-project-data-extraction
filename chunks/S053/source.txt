@@ -1,0 +1,174 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S053 | Artificial intelligence minor
+ORIGINAL PDF PAGES: 345 to 348 (inclusive)
+ONLY extract facts whose source page is between 345 and 348.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 345 ==========
+MINOR IN ARTIFICIAL INTELLIGENCE
+
+Rationale
+
+The College of Engineering/ECE Department offers a minor in Artificial Intelligence (AI).
+The minor aims to meet the anticipated national, regional, and international demand for
+experts in  Artificial Intelligence, Knowledge Representation, Data Mining, Machine
+Learning, and Automated Reasoning.
+
+Minor Objectives
+
+The aims of the minor are to:
+1.  Provide students with advanced expertise in AI.
+2.  Prepare students to apply AI in industry.
+3.  Prepare students for graduate studies in AI.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate the ability to:
+1.  Use current techniques, architectures, and tools to build intelligent systems.
+2.  Design systems and tools to evaluate the performance of intelligent systems.
+3.  Apply AI tools and techniques to improve the performance of existing non-AI-
+    enabled systems.
+
+Minor Requirements
+
+While most relevant to students in Computer and Communications Engineering and
+Computer Science, this minor is also offered to undergraduate RHU students in the BE
+or MS program from other disciplines (Engineering and Computer Science). It may also
+be offered to students with a BS/BE from other universities, subject to a case-by-case
+evaluation of their transcripts and other specific RHU requirements.
+
+Early  in  their major, interested RHU engineering students need to complete the
+appropriate form declaring their intent to minor in AI while completing their regular major.
+
+To complete the AI minor, a student must:
+1.  Declare a minor in Artificial Intelligence by completing the Minor Declaration Form.
+2.  Obtain the approval of the dean of the student’s college and the dean of the
+    College of Engineering.
+3.  Earn a Minor Cumulative Grade Point Average of no less than 70 %.
+4.  Complete 18 credits of coursework as specified below.
+
+It should be noted that overlap among student major requirements, other minor
+requirements, and  AI minor requirements  is counted toward  fulfilling  the minor
+                                                           Page 345
+
+========== ORIGINAL PDF PAGE 346 ==========
+requirements. The student must complete a minimum of 3 credit hours of coursework
+that is not counted toward the requirement for their major or any other minor.
+
+Career Options
+
+This minor allows its holders to pursue careers in a variety of sectors, regardless of their
+major. These sectors include, but are not limited to, communications, computers,
+computer networks, environmental engineering, energy, smart  cities, autonomous
+vehicles, biomedical engineering, health, security, biology, and physics.
+
+Curriculum and Program
+
+The Artificial Intelligence minor consists of six courses (18 credits), two of which are
+mandatory and four electives selected to satisfy the requirements of the proposed
+program objectives and learning outcomes.
+
+Mandatory Courses
+
+The three mandatory courses (9 credits) are:
+
+CCEE 460       Artificial Intelligence                                         3(3,0)
+CCEE 564    Machine Learning and Data Mining                          3(3,0)
+
+Elective Courses
+
+Students may choose three elective courses (9 credits) from the following list.
+
+CCEE 516  Advanced Programming and Database Management     3(2,2)
+           Systems
+CCEE 536   Digital Image Processing                                      3(3,0)
+CCEE 561  Computer Vision                                              3(3,0)
+CCEE 566   Natural Language Processing                                 3(3,0)
+CCEE 567   Optimization                                                   3(3,0)
+CCEE 568  Big Data and Analytics/Big Data Systems                      3(3,0)
+CCEE 612  Advanced Data Mining                                        3(3,0)
+
+Courses Description
+
+ CCEE 460     Artificial Intelligence                                     3(3,0)
+ This course introduces students to the fundamentals of knowledge representation and
+ learning in artificial intelligence. The emphasis will be on understanding fundamental
+ concepts in artificial intelligence and applying corresponding approaches to solve
+ practical problems and develop useful software applications. Covered topics include
+ intelligent agents, informed and uninformed search strategies, and adversarial search.
+
+
+                                                           Page 346
+
+========== ORIGINAL PDF PAGE 347 ==========
+The Python language libraries will also be introduced. Prerequisite: CCEE 214 or
+equivalent.
+
+CCEE 516  Advanced    Programming    and    Database       3(2,2)
+         Management Systems
+This course will introduce students to database management and querying, as well as
+to data warehousing. Students will also learn advanced programming tools, including
+Bigtable, NoSQL, R, Python, Scala, MapReduce, and Elasticsearch, and apply them
+to address big data challenges. Prerequisite: CCEE 315 or equivalent.
+
+CCEE 536     Digital Image Processing                                3(2,2)
+Two-dimensional   signals  and  systems.  Image  formation  and   perception.
+Representation, coding, filtering, restoration, and enhancements. Feature extraction
+and scene analysis. Introduction to computer vision. Introduction to Medical Imaging.
+Prerequisite: CCEE 214
+
+CCEE 561   Computer Vision                                         3(3,0)
+This course introduces the principles, models, and applications of computer vision. The
+course will cover image structure, projection, stereo vision, and the interpretation of
+visual motion. Case studies of industrial (robotic) applications of computer vision,
+including visual navigation for autonomous robots, robot hand-eye coordination, and
+novel man-machine interfaces. Prerequisite: CCEE 214 or COSC 214.
+
+CCEE 563    Robotics                                                  3(3,0)
+Introductory historical development of robotics; rigid-object kinematics; robot arm
+kinematics; inverse kinematics; dynamics; introduction to trajectory planning and
+manipulator control. Equivalent to: MECA 544. Prerequisite: None
+
+CCEE 564   Machine Learning and Data Mining                      3(3,0)
+This course introduces students to the basic knowledge representation and learning
+techniques. The emphasis is on understanding the data mining process and applying
+the corresponding approaches to solve practical problems and develop intelligent
+software applications. The course covers several topics related to classification,
+prediction, and clustering. Prerequisite: CCEE 214
+
+CCEE 566    Natural Language Processing                           3(3,0)
+This course introduces students to the field of natural language processing (NLP). The
+student is first introduced to word and sentence tokenization. The student then uses
+the learned skills to implement systems for text classification and sentiment analysis,
+spelling correction, information extraction, parsing, meaning extraction, and question
+answering, Machine learning algorithms as well as algorithms like n-gram language
+modeling, naive bayes and maxent classifiers, sequence models like Hidden Markov
+Models, probabilistic dependency and constituent parsing, and vector-space models of
+meaning will be introduced as needed for the above NLP applications. Prerequisite:
+CCEE 214
+
+
+                                                          Page 347
+
+========== ORIGINAL PDF PAGE 348 ==========
+CCEE 567    Optimization                                              3(3,0)
+This course introduces students  to the  theory, algorithms, and applications  of
+optimization. The optimization methodologies include linear programming, network
+optimization, integer programming, and decision trees. It includes a team project in
+which students select and solve a problem in practice. Equivalent to: BADM 420 and
+MECH 571. Prerequisite: MATH 215 or equivalent.
+
+CCEE 568    Big Data and Analytics/Big Data System                3(3,0)
+This course enables students to understand why the Big Data Era has emerged.
+Students will become conversant in the terminology and core concepts of big data
+problems, applications, and systems. Students will learn how to make Big Data useful
+in their business or career. Students will be introduced to one of the most common
+frameworks, Hadoop, which has made big data analysis easier and more accessible -
+- increasing the potential for data to transform our world. Prerequisite: CCEE 564 or
+equivalent.
+
+
+
+
+
+                                                          Page 348

@@ -1,0 +1,22 @@
+qa_id,fact_id,question,question_style
+S019_Q0001,S019_F0001,Is English proficiency required to enter the College of Arts and Sciences?,direct
+S019_Q0002,S019_F0001,"My English score is too low, can I still get into a CAS program?",contextual
+S019_Q0003,S019_F0002,Do computer science students have to take a math placement exam?,direct
+S019_Q0004,S019_F0002,What happens if I fail the math placement exam as an HCIS student?,contextual
+S019_Q0005,S019_F0002,Which remedial math courses might CAS students need?,paraphrase
+S019_Q0006,S019_F0003,Do remedial calculus courses count toward my CAS degree?,direct
+S019_Q0007,S019_F0003,Will MATH 190 count in my credits if I take it as a remedial course?,paraphrase
+S019_Q0008,S019_F0004,What are the mandatory college requirement courses for Arts and Sciences students?,direct
+S019_Q0009,S019_F0004,How many credits of foundational courses must CAS students take?,paraphrase
+S019_Q0010,S019_F0005,How are program requirements organized in CAS majors?,direct
+S019_Q0011,S019_F0005,What is the Student Study Plan in the Arts and Sciences college?,paraphrase
+S019_Q0012,S019_F0006,What does the first digit of a CAS course number mean?,direct
+S019_Q0013,S019_F0006,Is a 300-level course a junior course?,paraphrase
+S019_Q0014,S019_F0007,What does the JRSM prefix stand for?,direct
+S019_Q0015,S019_F0007,Which subject uses the ADPR course code?,paraphrase
+S019_Q0016,S019_F0008,"What does 3(3,0) mean next to a course?",direct
+S019_Q0017,S019_F0008,How do I read the credit-hour notation in the catalog?,paraphrase
+S019_Q0018,S019_F0008,What do the numbers in brackets after course credits mean?,paraphrase
+S019_Q0019,S019_F0009,Where is the Arts and Sciences learning support center?,direct
+S019_Q0020,S019_F0009,Who tutors students at the CAS Learning Support Center?,paraphrase
+S019_Q0021,S019_F0009,"I'm struggling in a CS course, is there peer tutoring available?",contextual

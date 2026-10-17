@@ -1,0 +1,99 @@
+PREVIOUS PAGE 331 (reference only; do not make a fact for this page):
+MATH 421  Numerical Analysis                     3   MATH 311
+              Social Science Elective I                3
+ Year 3, Fall Semester (17 Credits)
+CCEE 411  Web Programming                     3     Co-req.: CCEE 214
+CCEE 447   Digital Communications                 3   CCEE 341
+CCEE 447L Communications Lab                   1     Co-req.: CCEE 447
+CCEE 426  Design of Embedded Systems            3   CCEE 221
+CCEE 426L Design of Embedded Systems Lab        1     Co-req.: CCEE 426
+CCEE       Selected CCEE Elective                 3
+MATH 351   Probability and Statistics                3   MATH 216
+ Year 3, Spring Semester (17 Credits)
+CCEE 444  Antennas and Propagation               3   ELEC 340
+CCEE 444L Antennas and Propagation Lab           1     Co-req.: CCEE 444
+CCEE 449   Wireless Communications               3     Co-req.: CCEE 447
+CCEE 460    Artificial Intelligence                    3   CCEE 214
+CCEE 460L  Artificial Intelligence Lab                 1     Co-req.: CCEE 460
+MATH 210   Discrete Mathematics                   3   MATH 215
+             Engineering Technical Elective 1 or BS    3
+              Project*
+ Year 3, Summer Semester (3 Credits)
+CCEE 499  Co‐op Work Experience                 3   ENGL 217
+ The above 118 credits complete the requirements for a Bachelor of Science degree in
+ Computer and Communication Engineering.
+ Year 4, Fall Semester (16 Credits)
+CCEE 534   Signal Processing                      3   CCEE 331
+CCEE 528  Computer Architecture                  3   CCEE 324
+CCEE 595A BE Summative Learning Project 1         1   ENGL  217;  Senior
+                                                           Standing
+ENGR 510  Engineering Project Management         3   ENGR 300
+             Engineering Technical Elective 2          3
+             Engineering Technical Elective 3          3
+ Year 4, Spring Semester (18 Credits)
+CCEE 543   Mobile Communications                 3     Co-req.: CCEE 449
+CCEE 564  Machine Learning and Data Mining        3   CCEE  214; MATH
+                                                    351 or BADM 250
+CCEE 595B BE Summative Learning Project 2         3   CCEE 595A
+             Engineering Technical Elective 4          3
+             Engineering Technical Elective 5          3
+              Social Sciences/ Humanities Elective II     3
+ Total BE credits: 152
+* BS-bound students are required to take CCEE 400 – Summative Learning (BS) Project instead.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+9 credits restricted Departmental Electives
+9 credits in any Engineering discipline at the 400 level or above.
+
+
+                                                           Page 331
+
+NEXT PAGE 339 (reference only; do not make a fact for this page):
+CCEE 543  Mobile Communications                                   3(3,0)
+ This course deals with the evolution of cellular technologies from 2G to LTE: cellular
+ systems; medium access  techniques;  wireless  standardization; GSM networks
+ (history, architecture overview, access network, GSM  air interface, dimensioning
+ aspects, network design and planning, handover, call handling, network operation); 3G
+ mobile systems architecture, 3G air interface, protocols and procedures used in 3G,
+ 3G  functionalities such  as:  idle mode  camping, power  control and  capacity
+ management, handover in 3G; introduction to 4G/LTE. Co-requisite: CCEE 449.
+
+ CCEE 562   Artificial Intelligence                                      3(3,0)
+ This course introduces students to the fundamentals of knowledge representation and
+ learning in artificial intelligence. The emphasis will be on understanding fundamental
+ concepts in artificial intelligence and applying corresponding approaches to solve
+ practical problems and develop useful software applications. Covered topics include
+ intelligent agents, informed and uninformed search strategies, and adversarial search.
+ Prerequisite: CCEE 214 or equivalent.
+
+ CCEE 564 Machine Learning and Data Mining                         3(3,0)
+ This course introduces students to the basic knowledge representation and learning
+ techniques. The emphasis is on understanding the data mining process and applying
+ the corresponding approaches to solve practical problems and develop intelligent
+ software applications. The course covers several topics that lie within classification,
+ prediction, and clustering. Prerequisite: CCEE 214. Equivalent to COSC 480.
+
+ CCEE 595A Summative Learning Project 1                           1(1,0)
+ The first phase of a team-oriented, project-based experience culminates in the creation
+ of an artifact; milestones include project selection and proposal, a creative solution, a
+ report, a presentation, and a demonstration of the device. Prerequisites: ENGL 217,
+ Senior Standing.
+
+ CCEE 595B BE Summative Learning Project 2                       3(3,0)
+ The second phase of a team-oriented, project-based experience that culminates in the
+ creation of an artifact; milestones include: project selection and proposal, a creative
+ solution, a  report, a presentation, and a demonstration  of the created device.
+ Prerequisite: CCEE 595A.
+
+II.  Elective Courses
+
+Students may meet their engineering technical electives requirements from the following
+selection of elective courses.
+
+ CCEE 457   Cybersecurity Fundamentals                             3(3,0)
+ This course equips learners with workforce preparedness skills and establishes a
+ foundation  for success  in cybersecurity.  Participants acquire,  apply, and  refine
+ cybersecurity knowledge and skills through a sequence of comprehensive, practical
+ experiences that solidify their learning. This course imparts fundamental cybersecurity
+
+
+                                                           Page 339

@@ -1,0 +1,15 @@
+qa_id,fact_id,question,question_style
+S053_Q0001,S053_F0001,What is the Artificial Intelligence minor at RHU?,direct
+S053_Q0002,S053_F0001,What are the objectives of the AI minor?,paraphrase
+S053_Q0003,S053_F0002,What will I be able to do after completing the AI minor?,direct
+S053_Q0004,S053_F0002,Does the AI minor teach how to evaluate intelligent systems?,paraphrase
+S053_Q0005,S053_F0003,Who can take the Artificial Intelligence minor?,direct
+S053_Q0006,S053_F0003,"I'm a civil engineering student, can I take the AI minor?",contextual
+S053_Q0007,S053_F0004,What are the requirements to complete the AI minor?,direct
+S053_Q0008,S053_F0004,What GPA is required in the AI minor?,paraphrase
+S053_Q0009,S053_F0005,What careers can an AI minor support?,direct
+S053_Q0010,S053_F0005,Can the AI minor help me work on autonomous vehicles or smart cities?,paraphrase
+S053_Q0011,S053_F0006,Which courses are required for the AI minor?,direct
+S053_Q0012,S053_F0006,What electives can I choose for the Artificial Intelligence minor?,paraphrase
+S053_Q0013,S053_F0007,What is CCEE 563 Robotics equivalent to in the AI minor list?,direct
+S053_Q0014,S053_F0007,Does Robotics have a prerequisite according to the AI minor section?,paraphrase

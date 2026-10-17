@@ -1,0 +1,79 @@
+PREVIOUS PAGE 169 (reference only; do not make a fact for this page):
+COSC 462L  Networking Lab 4                                          1(0,2)
+This lab helps prepare students seeking to pass the Cisco Routing and Switching
+Essentials (CCNA 3) Certification. The primary focus of this Lab is routers and switches
+in large and complex networks. The student will learn how to configure routers and
+switches with advanced functionalities. They will also learn how to configure and
+troubleshoot enhanced switching technologies, first-hop redundancy protocols in a
+switched network, wireless routers and clients, and routers in complex networks.
+Finally, they will learn to manage CISCO IOS software licensing and configuration files.
+Co-requisite: COSC 461L or CCEE 555L. Equivalent to CCEE 556L.
+
+COSC 463   Cybersecurity operations                                 3(3,0)
+This hands-on, career-oriented course focuses on practical topics to prepare students
+to acquire the required skills to work in the cybersecurity domain. The course will help
+students seeking to pass the Cisco Cybersecurity Operations Associate certification.
+Pre-requisite: COSC 360 (or CCEE 354).
+
+COSC 481    Artificial Intelligence                                       3(3,0)
+This course introduces students to the fundamentals of knowledge representation and
+learning in artificial intelligence. The emphasis will be on understanding fundamental
+concepts in  artificial intelligence and applying corresponding approaches to solve
+practical problems and develop useful software applications. Covered topics include
+Intelligent agents, informed and uninformed search strategies, and adversarial search.
+The Python language libraries  will also be introduced. Prerequisite: COSC 214.
+Equivalent to CCEE 562.
+
+COSC 482   Data Science and Web Scraping                          3(3,0)
+Data is becoming the fuel of the 21st century, and acquiring data processing and
+analysis skills is becoming necessary. This course introduces data science processes,
+with a focus on web scraping as an application. The course will combine different
+domains,  i.e., web programming, system programming, and machine learning. In
+particular, the course focuses on analyzing webpage HTML using Python, extracting
+available information, and generating dashboards. Co-requisite: COSC 333 (or CCEE
+411) and MATH 351 (or BADM 250).
+
+HCIS 498    Special Topics in Healthcare                         1-3 credits
+This special topic course will be defined based on current trends and departmental
+special interests.  It may incorporate technical seminars, advanced readings, and
+special  projects as required/approved by the department.  Prerequisite: Senior
+standing.
+
+
+
+
+
+                                                                  Page 169
+
+NEXT PAGE 174 (reference only; do not make a fact for this page):
+DESIGN DEPARTMENT (DD)
+
+Faculty Members
+
+Chairperson:           Serene Srouji
+Associate Professor:    Serene Srouji
+Assistant Professor:    Noura Sammoura, Nadine Zahreddine
+Adjunct Faculty:         Lina Hassoun, Mohamad Darwish, Myriam Chamoun, Sobhi
+                         Farroukh, Rihab Zebian, Saber Abdallah, Sara Makki, Lana
+                         Charara.
+
+Vision
+
+The Design Department at Rafik Hariri University strives to be the leader in high-
+standard, progressive education in Lebanon and the region. It aims to develop creative,
+well-informed, skilled professionals aware of their responsibility to solve visual problems
+in a dynamic global society. Our vision is a future in which RHU faculty, students, and
+alumni become trendsetters and innovators in the design world, both theoretically and
+practically.
+
+Programs Offered
+
+The Department of Design offers one program leading to a Bachelor of Science degree
+in Graphic Design. It also offers a minor in Graphic Design. Details of each program will
+follow.
+
+
+
+
+
+                                                                   Page 174

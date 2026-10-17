@@ -1,0 +1,105 @@
+PREVIOUS PAGE 208 (reference only; do not make a fact for this page):
+Course Coding
+
+Each course offered by the College of Business Administration is designated by a four-
+letter code representing the college and program, followed by a three-digit number
+denoting the course number, “BABC xyz.” The letter “B” refers to the College of
+Business Administration, and “ABC” refers to the program as follows:
+
+ACC:   Accounting
+ADM:   General Business Administration
+ECN   Economics
+FIN:    Finance
+HRM:  Human Resources Management
+ITM:    Information Technology Management
+MGT:   Management
+MKA:   Marketing and Advertising
+
+The three-digit number “xyz,” between 200 and 599, denotes the course number. The
+first digit indicates the course level: 1 for freshman, 2 for sophomore, 3 for junior, 4 for
+senior, and 5 for graduate.
+
+The following example demonstrates the coding system: BMKA 200 is a sophomore-
+level marketing course in the College of Business Administration.
+
+The designation used to represent the credit-hour breakdown c (t, p) of a course is as
+follows: “c” is the total credit hours, “t” stands for the theoretical component of the
+course, and “p” is the practical or laboratory component. For example, 3(3, 0) denotes
+a 3-credit course with 3 contact lecture hours and 0 laboratory hours.
+
+Learning Support Center
+
+The Learning Support Center (LSC) at the College of Business Administration is another
+manifestation of RHU’s unwavering commitment to students’ academic success. The
+LSC  offers  the students a  peer-to-peer  learning environment  that complements
+classroom learning. The Center aims to support students in advancing their knowledge
+and skills, reinforcing what they learn in the classroom, or overcoming learning and
+performance difficulties. In addition to being a focal point for inquiry and two-way
+“questioner-replier” learning, the LSC provides space for academic interactions that can
+significantly enhance learning.
+
+The Center is in room H 101 and is open to all students throughout the week. The LSC
+is staffed by carefully selected Teaching Assistants, who are graduate students and
+upper-level undergraduates. Teaching Assistants are always available and ready to
+assist their fellow students in overcoming their academic challenges. Additionally, an
+“on-call” faculty member is assigned to ensure that the LSC acts in the best interests of
+students and to intervene when necessary to help them.
+
+The  Center’s resources  include books, study  guides, course  materials, boards,
+computers, videos, DVDs, documentaries, and other learning tools.
+
+                                                                   Page 208
+
+NEXT PAGE 218 (reference only; do not make a fact for this page):
+Business IT Management
+
+Program Overview
+
+Success in the workplace in the twenty-first century can hardly be achieved without
+knowledge, skills, and experience in using modern technology and its components, such
+as information and communication technology (ICT), computer-based systems, and
+business applications.
+
+The Business IT Management program combines business and information technology
+to enable students to gain a thorough understanding of how IT and computer applications
+improve effectiveness, increase efficiency, and facilitate business operations.
+
+Students are thoroughly exposed to the business uses of database management,
+programming, networking, telecommunications, e-commerce, the internet, and online
+development.
+
+To obtain a Bachelor of Business Administration degree in Business IT Management,
+the student must complete 99 credit hours. These hours include University requirements
+(UR), College requirements (CR), and Program requirements (PR). The allocation of the
+credit hours is shown in the following table:
+
+BBA in Business IT Management (99 Credits)
+                   Major                Non-Major
+ Courses Category                                                  Credits Percent
+                  Mandatory  Electives  Mandatory  Electives
+ General
+                 3                -        15        12       30     30
+ Education
+ College
+                 3                -        38              -        41     41
+ Requirement
+ Program
+                 25        3             -                -        28     28
+ Requirement
+ Total Credits      31        3        53        12       99     100
+
+I.   University Requirements (General Education)
+
+The list of the university's required courses and their descriptions is presented in the
+introductory pages of the College of Business Administration section in this catalog.
+
+II.  College Requirements
+
+The list of college-required courses and descriptions is presented on the introductory
+pages of the College of Business Administration section of this catalog.
+
+
+
+
+
+                                                                   Page 218

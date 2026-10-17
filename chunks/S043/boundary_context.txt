@@ -1,0 +1,73 @@
+PREVIOUS PAGE 279 (reference only; do not make a fact for this page):
+The center’s resource portfolio includes books, study guides, course materials, boards,
+computers, videos, DVDs, documentaries, large-screen LCD panels, and internet-
+connected PCs.
+
+My Idea to Innovate
+
+My Idea to Innovate (ENGR 499 – 3 credits) is an open course that encourages
+innovation. A student or a group of students who have a passion for and a dream to
+nurture and pursue an innovative idea of their own may collaborate with faculty mentors
+to design the course to cover topics and experiences that could not be achieved within
+the course offering framework of the concerned program and require collaboration
+across disciplines and/or fields. Course contents, prerequisites, number of credits,
+scope, experiences, required resources, outcomes, assessment tools and rubrics, and
+timeline for completion will be formulated by the student (s) and the faculty mentor(s)
+once the University Academic Board approves the idea. Student(s) supported by faculty
+advisor(s) may request approval to design and offer the course after the first year of
+studies at RHU. The course could count as technical elective credits.
+
+
+
+
+
+                                                           Page 279
+
+NEXT PAGE 289 (reference only; do not make a fact for this page):
+Social  Science/  Humanities/Fine  Arts 3
+               Elective
+* BS bound students are required to take CIVE400 - Summative Learning (BS) Project
+instead.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+6 credit restricted Departmental Electives
+9 credits from any Engineering discipline at the 400 level or above.
+
+Course Coding
+
+Code numbers designate the courses offered in the Civil Engineering program in the
+form of (CIVE abc), where:
+
+  a     Year (level): 2 = first year, 3 = second Year, 4 = Third year, 5 = Fourth Year
+  b     Concentration Areas (as follows)
+         0: Common Courses and Construction Management; 1: Structural Analysis
+       and Design; 2: Construction Materials and Geotechnics; 4: Public Works; 7:
+       Water Resources and Treatment;
+  c     Course sequence in area: 0, 1, …, 9
+
+Courses Description
+
+I.   Mandatory Courses
+
+Non-Major Courses
+
+A description of the non-major mandatory courses follows.
+
+CHEM 211    Environmental Chemistry and Lab                       3(2,2)
+ This course provides an opportunity to develop an understanding of several basic
+ environmental functions, the complicated nature of environmental systems, and the
+ need for multidisciplinary solutions to environmental problems. Topics covered include
+ the hydrosphere, water quantity and quality, soil and the soil ecosystem, biological
+ resources, waste disposal, air pollution, ozone depletion, acid rain, and global warming.
+ The course also includes a set of experiments that provide students with practical
+ experience in various environmental analysis settings, including air and water quality.
+
+COSC 214    Introduction to Programming                            3(2,2)
+ This course presents the fundamentals of structured and modular programming
+ concepts. It covers primitive data types, expressions, control statements, functions,
+ arrays,  basic search and  sorting  algorithms, and an  introduction  to  pointers.
+ Prerequisite: None. Equivalent to CCEE 214.
+
+ ELEC 210     Electrical Circuits                                        3(3,0)
+  Circuit elements and laws; mesh and node equations; network theorems; energy-
+ storage elements; RC, RL, and RLC circuits; Laplace Transform; sinusoids, phasors,
+                                                           Page 289

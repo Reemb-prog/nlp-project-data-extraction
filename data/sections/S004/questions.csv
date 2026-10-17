@@ -1,0 +1,47 @@
+qa_id,fact_id,question,question_style
+S004_Q0001,S004_F0001,Who is the Vice President for Academic Affairs at RHU?,direct
+S004_Q0002,S004_F0001,Which person oversees academic affairs at Rafik Hariri University?,paraphrase
+S004_Q0003,S004_F0002,Who is RHU's Vice President for Administration and Finance?,direct
+S004_Q0004,S004_F0002,Who heads administration and finance at RHU?,paraphrase
+S004_Q0005,S004_F0003,Who is the dean of the College of Engineering at RHU?,direct
+S004_Q0006,S004_F0003,RHU engineering dean name?,short
+S004_Q0007,S004_F0004,Who is the dean of the College of Business Administration?,direct
+S004_Q0008,S004_F0004,Who leads the business college at RHU?,paraphrase
+S004_Q0009,S004_F0005,Who is the dean of the College of Arts and Sciences?,direct
+S004_Q0010,S004_F0005,Who runs the Arts and Sciences college at RHU as dean?,paraphrase
+S004_Q0011,S004_F0006,Who is the registrar at RHU?,direct
+S004_Q0012,S004_F0006,What is the name of the university registrar?,paraphrase
+S004_Q0013,S004_F0007,Who is the director of admissions at RHU?,direct
+S004_Q0014,S004_F0007,Who heads the RHU admission office?,paraphrase
+S004_Q0015,S004_F0008,Who is the director of IT at RHU?,direct
+S004_Q0016,S004_F0008,Who manages the IT HelpDesk at Rafik Hariri University?,paraphrase
+S004_Q0017,S004_F0009,Who is the associate director of Student Affairs?,direct
+S004_Q0018,S004_F0009,Who is in charge of student affairs at RHU?,paraphrase
+S004_Q0019,S004_F0010,When did Rafik Hariri University open?,direct
+S004_Q0020,S004_F0010,How many students did RHU start with in 1999?,paraphrase
+S004_Q0021,S004_F0010,Which college did RHU open with first?,paraphrase
+S004_Q0022,S004_F0011,When did RHU become a university officially?,direct
+S004_Q0023,S004_F0011,Which decree granted RHU university status?,paraphrase
+S004_Q0024,S004_F0012,Which Canadian institutions helped develop RHU's programs?,direct
+S004_Q0025,S004_F0012,Was RHU's curriculum developed with help from Canada?,paraphrase
+S004_Q0026,S004_F0013,What is the Rafik Hariri Foundation and how is it linked to RHU?,direct
+S004_Q0027,S004_F0013,How many students benefited from the Hariri Foundation loan program?,paraphrase
+S004_Q0028,S004_F0014,What is the vision of Rafik Hariri University?,direct
+S004_Q0029,S004_F0014,What does RHU aspire to become according to its vision statement?,paraphrase
+S004_Q0030,S004_F0015,What is RHU's mission statement?,direct
+S004_Q0031,S004_F0015,What does the university's mission commit to?,paraphrase
+S004_Q0032,S004_F0016,What are the core values of RHU?,direct
+S004_Q0033,S004_F0016,Which values does Rafik Hariri University uphold?,paraphrase
+S004_Q0034,S004_F0017,Where is the RHU campus and how big is it?,direct
+S004_Q0035,S004_F0017,How far is RHU from Beirut?,paraphrase
+S004_Q0036,S004_F0017,How many buildings does the RHU campus have?,paraphrase
+S004_Q0037,S004_F0018,What sports courts and outdoor facilities are on the RHU campus?,direct
+S004_Q0038,S004_F0018,Does RHU have a basketball court or greenhouse on campus?,paraphrase
+S004_Q0039,S004_F0019,Where does RHU get its electricity from?,direct
+S004_Q0040,S004_F0019,Does RHU have solar panels on campus?,paraphrase
+S004_Q0041,S004_F0020,What is the weather like at the RHU campus in Damour?,direct
+S004_Q0042,S004_F0020,Should I bring warm clothes for winter at RHU?,contextual
+S004_Q0043,S004_F0021,How do I get to RHU from Beirut?,direct
+S004_Q0044,S004_F0021,What are the driving directions to the RHU campus coming from Beirut?,paraphrase
+S004_Q0045,S004_F0022,How do I get to RHU from Saida?,direct
+S004_Q0046,S004_F0022,I'm driving from Saida. Which exit do I take to reach RHU?,contextual

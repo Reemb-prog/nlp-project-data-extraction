@@ -1,0 +1,88 @@
+PREVIOUS PAGE 344 (reference only; do not make a fact for this page):
+CCEE 566    Natural Language Processing                           3(3,0)
+This course introduces students to the field of natural language processing (NLP). The
+student is first introduced to word and sentence tokenization. The student then uses
+the learned skills to implement systems for text classification and sentiment analysis,
+spelling correction, information extraction, parsing, meaning extraction, and question
+answering, Machine learning algorithms as well as algorithms like n-gram language
+modeling, naive bayes and maxent classifiers, sequence models like Hidden Markov
+Models, probabilistic dependency and constituent parsing, and vector-space models of
+meaning will be introduced as needed for the above NLP applications. Prerequisite:
+CCEE 214, COSC 214, or Equivalent.
+
+CCEE 567    Optimization                                             3(3,0)
+This course introduces students  to the  theory, algorithms, and applications  of
+optimization. The optimization methodologies include linear programming, network
+optimization, integer programming, and decision trees. It includes a team project in
+which students select and solve a problem in practice. Prerequisite: MATH 215 or
+equivalent. Equivalent to: BADM 420 and MECH 571.
+
+CCEE 568   Big Data and Analytics/Big Data System               3(3,0)
+This course enables students to understand why the Big Data Era has emerged.
+Students will become conversant in the terminology and core concepts of big data
+problems, applications, and systems. Students will learn how to make Big Data useful
+in their business or career. Students will be introduced to one of the most common
+frameworks, Hadoop, that has made big data analysis easier and more accessible --
+increasing the potential for data to transform our world. Prerequisite: CCEE 564 or
+equivalent.
+
+CCEE 597   Advanced   Topics    in   Computer   &         3(3,0)
+           Communications Engineering
+This course is designed to enable students to study a selected advanced topic of
+interest, carefully chosen from the CCE engineering-related topics. The content
+outline of such a topic is to be determined by the instructor and approved by the
+department. Prerequisite: Instructor’s consent.
+
+
+
+
+
+                                                          Page 344
+
+NEXT PAGE 349 (reference only; do not make a fact for this page):
+Minor in Computer Networks
+
+Rationale
+
+In today’s world, we cannot imagine a company without computer networks. Therefore,
+networking skills are becoming a valuable asset for employees across domains.
+
+In response to national, regional, and international needs and demand for experts in
+computer networks, the College of Engineering/ECE Department and the College of Arts
+and Sciences/CS Department offer a minor in Computer Networking.
+
+Program’s Purpose
+
+The main aim of the minor is to expose students from different backgrounds to the
+concepts of computer networks and the protocols that allow devices and systems to
+communicate.  It will equip them with the knowledge and skills needed to install and
+operate networks at various scales. Furthermore, the minor will enable students to earn
+the Cisco CCNA Routing and Switching certification. The minor shall also serve as good
+preparation for further and more advanced graduate and/or professional studies in
+computer networks.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate the ability to:
+•   Compare different computer network protocols;
+•   Design simple computer networks;
+•   Perform simple computer network troubleshooting;
+•    Investigate simple computer network attacks.
+
+Minor Requirements
+
+This minor is structured to accommodate undergraduate RHU students in the BE or BS
+program from different disciplines (engineering, computer science, or business). It may
+also be offered to students with a BS/BE from other universities, subject to a case-by-
+case evaluation of their transcripts and other specific RHU requirements.
+
+Early in their studies, interested RHU students need to declare their intent to pursue a
+minor in computer networks by completing the relevant minor declaration form and
+informing their advisor.
+
+To complete the computer networking minor, a student must
+
+1.  Declare a minor in computer networks by completing the Minor Declaration Form;
+2.  Obtain the approval of the Dean of the student’s college major and the Dean of the
+    College of Engineering;
+                                                           Page 349

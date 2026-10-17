@@ -1,0 +1,186 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S019 | Arts and Sciences college requirements
+ORIGINAL PDF PAGES: 118 to 121 (inclusive)
+ONLY extract facts whose source page is between 118 and 121.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 118 ==========
+This course covers fundamental topics in Electricity and Magnetism: Electric forces
+ and Electric Fields for discrete and continuous charge distributions; Gauss’s Law;
+ Electric Potential; Capacitance and Dielectrics; Kirchhoff’s rules; Magnetic Fields and
+ Forces;  Biot-Savart Law; Ampere’s Law; Magnetic Flux and Gauss’s Law  in
+ Magnetism. It also includes a laboratory component that introduces students to the
+ “real world” through experiments in electricity and magnetism. Prerequisite: None.
+
+ PHYS 312   Modern Physics                                            3(3,0)
+ This course introduces the principles of revolutionary developments of the 20th
+ century. It covers the interaction of light and matter (Photoelectric effect, Compton
+ effect, Auger effect, etc.), the dual nature of light, various models of atomic description,
+ quantum numbers, the relativistic approach, the Heisenberg Uncertainty Principle, the
+ Schrödinger Equation, and an introduction to the band theory of solids and particle
+ physics.
+
+II.  College Requirements
+
+A.  Remedial Courses
+
+Proficiency in the English Language is a requirement for admission to any program in
+the College of Arts and Sciences. Students who do not meet the University English
+proficiency admission requirements may gain admission through the Intensive English
+Program, in which they can develop their English proficiency. In addition, incoming
+students in the Computer Science, Healthcare Information Systems, and Mathematics
+programs must pass the mathematics placement exam. Those who fail the mathematics
+placement exam and obtain a low score must take one or two remedial Mathematics
+courses before taking program-level calculus courses. The possible remedial courses
+are:
+
+•  MATH 190 - Calculus I
+•  MATH 191 – Calculus II
+
+These remedial courses do not count toward  fulfilling the degree requirements. A
+description of the remedial courses follows.
+
+ MATH 190   Calculus I                                                   3(3,0)
+ Functions and  their graphs,  limits and continuity,  differentiation, applications of
+ derivatives, Extreme values and mean value theorem, definite and indefinite integrals,
+ and the substitution method.
+
+ MATH 191   Calculus II                                                  3(3,0)
+ Covers  limits  and  indeterminate  forms  with  L’Hôpital’s  Rule,  optimization,
+  antiderivatives,  and  the  Fundamental Theorem  of  Calculus.  Topics  include
+ substitution methods, areas, volumes  (cross-sections,  shells), arc  length, and
+ surfaces of revolution. It introduces parametric and vector functions with applications
+  to motion, arc length in space, curvature, and normal vectors. Prerequisite: Math
+ 190.
+
+
+                                                                   Page 118
+
+========== ORIGINAL PDF PAGE 119 ==========
+B.  Mandatory Courses
+
+All students are required to take nine credit hours of mandatory foundational courses. A
+list of these courses and their descriptions follows.
+
+ Course       Title                                 Credits  Prerequisite
+ ARAB 212    Arabic Language and Communication     2
+            Community & Sustainability              1
+ ENGL 210    English Composition and Rhetoric        3
+ ENGL 217    Professional English Communication      3
+
+Descriptions of these courses are given below.
+
+ARAB 212   Arabic Language and Communication                   2(2,0)
+ This course helps students develop their ability to communicate effectively in standard
+ Arabic. It provides students with the necessary Arabic communication skills they may
+ need in their future jobs.  Specifically, students learn how to write and orally present
+ different forms of workplace documents in Arabic.
+
+CMNS 200    Etiquette                                                 1(1,0)
+ This course is designed to help students develop interpersonal and communication
+ skills that are fundamental to success in the workplace, no matter what industry,
+ organization, or sector they are employed in. Students will improve their professional
+ style as they study topics including polite conversation, personal appearance, office
+ politics, diplomacy, telephone, cell phone, and voicemail etiquette, meeting protocol,
+ job interview presentations, and even international travel. Students will participate in
+ an off-campus formal dining experience. Co-requisite: ENGL 210.
+
+CMNS 205     First Aid                                                 1(1,0)
+ This course provides an overview of the principles of first aid, including preserving life,
+ preventing  further  injury, and protecting the unconscious.  It enhances students’
+ knowledge of first-aid procedures and their application in real-life situations. The course
+ also helps them develop the skills necessary to assist until medical help arrives.  It
+ raises students’ awareness  of  different types  of medical emergencies and the
+ appropriate steps to take in both mild and life-threatening conditions. Co-requisite:
+ ENGL 210.
+
+ ENGL 210     English Composition and Rhetoric                    3(3,0)
+ This course reviews the fundamentals of good academic writing in English, teaches
+ essay writing essentials and research skills in two rhetorical modes (persuasion and
+ argumentation), and provides practice in writing essays in these modes, research
+ papers, and oral presentations. Prerequisite: ENGL 101 or TOEFL 550+ (paper) or
+ 80+ (computer).
+
+ ENGL 217    Professional English Communication                  3(3,0)
+ This course is designed to help students develop effective professional communication
+ skills, both orally and in writing. In this course, students learn how to write emails,
+
+                                                                   Page 119
+
+========== ORIGINAL PDF PAGE 120 ==========
+memos, letters, proposals, reports, and other forms of employment correspondence.
+ In addition, this course helps students sharpen their presentation skills. Broadly, this
+ course enables students to behave professionally and effectively in their prospective
+ jobs. Prerequisite: ENGL 210.
+
+III. Program Requirements
+
+Requirements for the bachelor’s degree are program-specific. They encompass two
+categories: Major and non-major. Each category consists of mandatory and elective
+courses. The program requirements for the bachelor’s degree in the various CAS majors
+are provided below. Details and titles of relevant courses are included in the Student’s
+Study Plan (SSP), which every CAS student will have.
+
+Course Coding
+
+Each course offered by the College of Arts and Sciences is designated by a four-letter
+code representing the program or elective category, followed by a three-digit number
+denoting the course number; for example, “EDUC 301.”
+
+The four-letter codes below refer to the respective course categories as follows:
+ADPR:  Advertising and Public Relations
+ARAB:  Arabic
+CMNS: Communications
+COSC:  Computer Science
+EDUC:  Education
+ENGL:  English Language
+GRDS:  Graphic Design
+HCIS:   Healthcare Information Systems
+HIST:   History
+IELP:   Intensive English Language Program
+INDS:   Interior Design
+JRSM:  Journalism – Media and Digital Communication
+MATH:  Mathematics
+POSC:  Political Science
+PSYC:  Psychology
+SOCI:   Sociology
+
+The first digit in the three-digit course number indicates the course level: 1 for freshman,
+2 for sophomore, 3 for junior, 4 for senior, and 5 for graduate.
+
+The following example demonstrates the coding system: EDUC 201 is a sophomore-
+level education course.
+
+The designation used to represent the credit-hour breakdown (t, p) of a course is as
+follows: “c” is the total credit hours, “t” is the theoretical component of the course, and
+“p” is the practical or laboratory component. For example, 3(3, 0) denotes a 3-credit-hour
+course with 3 contact lecture hours and 0 laboratory hours.
+
+
+                                                                   Page 120
+
+========== ORIGINAL PDF PAGE 121 ==========
+Learning Support Center
+
+The Learning Support Center (LSC) at the College of Arts and Sciences is another
+manifestation of RHU’s resolute commitment to students’ academic success. The LSC
+offers the students a peer-to-peer learning opportunity that complements classroom
+learning. The Center aims to support students in advancing their knowledge and skills,
+reinforcing what they learn in the classroom or overcoming learning and performance
+difficulties. In addition to serving as a focal point for inquiry and two-way “asker-replier”
+learning, the LSC provides space  for academic interactions that can  significantly
+enhance learning. The Center is in Block I and is open to all students throughout the
+week.
+
+The LSC is staffed by Teaching Assistants, upper-level undergraduate students, who are
+always available to assist their fellow students in overcoming academic challenges.
+Additionally, “on-call” faculty members are assigned to ensure that the LSC is acting in
+the best interests of the students. The center’s resources include books, study guides,
+course materials, boards, computers, large-screen LCD panels, and internet-connected
+PCs.
+
+
+
+
+
+                                                                   Page 121

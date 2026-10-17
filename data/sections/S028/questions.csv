@@ -1,0 +1,36 @@
+qa_id,fact_id,question,question_style
+S028_Q0001,S028_F0001,What is the purpose of the Mathematics minor?,direct
+S028_Q0002,S028_F0001,What will I be able to do after a math minor?,paraphrase
+S028_Q0003,S028_F0002,How many courses from my major can count toward the math minor?,direct
+S028_Q0004,S028_F0002,What GPA must I keep in the Mathematics minor?,paraphrase
+S028_Q0005,S028_F0003,What careers does a Mathematics minor support?,direct
+S028_Q0006,S028_F0003,Can a math minor help me work in banking?,contextual
+S028_Q0007,S028_F0004,How do I declare and complete a minor in Mathematics?,direct
+S028_Q0008,S028_F0004,Whose approval do I need for the math minor?,paraphrase
+S028_Q0009,S028_F0005,Which courses are required for the Mathematics minor?,direct
+S028_Q0010,S028_F0005,How many electives are in the math minor and which can I choose?,paraphrase
+S028_Q0011,S028_F0006,What are the prerequisites for the math minor electives?,direct
+S028_Q0012,S028_F0006,What do I need before MATH 318 Vector Calculus?,paraphrase
+S028_Q0013,S028_F0006,Do I need MATH 216 before Ordinary Differential Equations?,contextual
+S028_Q0014,S028_F0007,What does MATH 215 Calculus III cover?,direct
+S028_Q0015,S028_F0007,Which calculus course covers Taylor series and polar coordinates?,paraphrase
+S028_Q0016,S028_F0008,What is MATH 216 Calculus IV about?,direct
+S028_Q0017,S028_F0008,Which course covers triple integrals and Green's theorem?,paraphrase
+S028_Q0018,S028_F0009,What does MATH 311 Linear Algebra cover?,direct
+S028_Q0019,S028_F0009,Which math course covers eigenvalues and diagonalization?,paraphrase
+S028_Q0020,S028_F0010,What is MATH 314 Ordinary Differential Equations about?,direct
+S028_Q0021,S028_F0010,Which course covers Laplace transforms?,paraphrase
+S028_Q0022,S028_F0011,What does MATH 317 Partial Differential Equations cover?,direct
+S028_Q0023,S028_F0011,Which course studies the heat and wave equations?,paraphrase
+S028_Q0024,S028_F0012,What is MATH 421 Numerical Analysis about?,direct
+S028_Q0025,S028_F0012,Which math course uses MATLAB and Runge-Kutta methods?,paraphrase
+S028_Q0026,S028_F0013,What does MATH 316 Introduction to Analysis cover?,direct
+S028_Q0027,S028_F0013,Which course covers Cauchy sequences and uniform convergence?,paraphrase
+S028_Q0028,S028_F0014,What is MATH 318 Vector Calculus about?,direct
+S028_Q0029,S028_F0014,Which course covers Stokes' theorem and Lagrange multipliers?,paraphrase
+S028_Q0030,S028_F0015,What does MATH 425 Introduction to Complex Variables cover?,direct
+S028_Q0031,S028_F0015,Which course covers residues and conformal mappings?,paraphrase
+S028_Q0032,S028_F0016,What is the prerequisite for MATH 425?,direct
+S028_Q0033,S028_F0016,Do I need MATH 217 or MATH 215 before Complex Variables?,paraphrase
+S028_Q0034,S028_F0017,What is MATH 442 Introduction to Graph Theory about?,direct
+S028_Q0035,S028_F0017,What do I need before taking Graph Theory?,paraphrase

@@ -1,0 +1,37 @@
+qa_id,fact_id,question,question_style
+S051_Q0001,S051_F0001,What does CCEE 216 Advanced Programming and Data Structures cover?,direct
+S051_Q0002,S051_F0001,Which CCE course covers inheritance and polymorphism?,paraphrase
+S051_Q0003,S051_F0002,What is CCEE 216 equivalent to?,direct
+S051_Q0004,S051_F0002,What do I need before CCEE 216?,paraphrase
+S051_Q0005,S051_F0003,Is CCEE 221 a co-requisite or prerequisite for CCEE 221L?,direct
+S051_Q0006,S051_F0003,Can CCE students take the logic design lab together with Logic Design?,contextual
+S051_Q0007,S051_F0004,What does CCEE 310 Software Engineering cover?,direct
+S051_Q0008,S051_F0004,Is CCEE 310 equivalent to COSC 341?,paraphrase
+S051_Q0009,S051_F0005,What is CCEE 315 Database Management Systems about?,direct
+S051_Q0010,S051_F0005,Which CCE course teaches SQL and the ER model?,paraphrase
+S051_Q0011,S051_F0006,What does CCEE 324 Computer Organization cover?,direct
+S051_Q0012,S051_F0006,What is the prerequisite for CCEE 324?,paraphrase
+S051_Q0013,S051_F0007,What is CCEE 354 Computer Networks about?,direct
+S051_Q0014,S051_F0007,What is the requisite for CCEE 354?,paraphrase
+S051_Q0015,S051_F0008,What is CCEE 354L Computer Networks Lab I?,direct
+S051_Q0016,S051_F0008,Does the first CCE networking lab prepare for Cisco certification?,paraphrase
+S051_Q0017,S051_F0009,What is CCEE 400 Summative Learning (BS) Project?,direct
+S051_Q0018,S051_F0009,When do CCE BS students take the BS project?,paraphrase
+S051_Q0019,S051_F0010,What does CCEE 411 Web Programming cover?,direct
+S051_Q0020,S051_F0010,Does the CCE web programming course include PHP?,paraphrase
+S051_Q0021,S051_F0011,What is CCEE 411L Internet Engineering and Web Programming Lab?,direct
+S051_Q0022,S051_F0011,What is the co-requisite for the web programming lab?,paraphrase
+S051_Q0023,S051_F0012,What does CCEE 444 Antennas and Propagation cover?,direct
+S051_Q0024,S051_F0012,What do I need before Antennas and Propagation?,paraphrase
+S051_Q0025,S051_F0013,What is CCEE 444L?,direct
+S051_Q0026,S051_F0013,What is done in the antennas lab?,paraphrase
+S051_Q0027,S051_F0014,What does CCEE 447 Digital Communications cover?,direct
+S051_Q0028,S051_F0014,What is the prerequisite for Digital Communications?,paraphrase
+S051_Q0029,S051_F0015,What is CCEE 447L Communications Lab?,direct
+S051_Q0030,S051_F0015,Which equipment is used in the communications lab?,paraphrase
+S051_Q0031,S051_F0016,What does CCEE 449 Wireless Communications cover?,direct
+S051_Q0032,S051_F0016,What is the requisite for Wireless Communications?,paraphrase
+S051_Q0033,S051_F0017,What is CCEE 499 Co-op Work Experience?,direct
+S051_Q0034,S051_F0017,What are the prerequisites of the CCE co-op course?,paraphrase
+S051_Q0035,S051_F0018,What does CCEE 528 Computer Architecture cover?,direct
+S051_Q0036,S051_F0018,What is the prerequisite for Computer Architecture?,paraphrase

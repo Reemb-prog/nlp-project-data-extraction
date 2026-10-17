@@ -1,0 +1,96 @@
+PREVIOUS PAGE 323 (reference only; do not make a fact for this page):
+ELEC 536    Renewable Energy Systems                            3(3,0)
+This course aims to provide knowledge about energy production from renewable
+sources, the structure and nature of the interconnected electric power system, and the
+critical need for environmentally sensitive solutions. In addition, the economic and
+regulatory policy aspects of electricity and electricity markets are discussed. The
+course covers the basics of Wind energy conversion systems and microgrids with
+hybrid power sources. Modeling and control of renewable energy sources such as wind
+turbine generation, solar panels, fuel cells, and power electronics interfaces will be
+presented. Prerequisite: ELEC 431.
+
+ELEC 542    Advanced Power Electronics                           3(3,0)
+This course is designed to provide students with a functional knowledge of modeling
+switching power converters, advanced power converter topologies, design constraints,
+and control methods. It also covers the operation of multi-level DC/AC inverters and
+matrix converters. Prerequisite: ELEC 432.
+
+ELEC 561    Wind Energy Technology                               3(3,0)
+This course aims to provide the students with an in-depth understanding of the
+theoretical, technological, and economic aspects of wind energy systems. Upon
+successful completion of this course, students will be able to identify, assess, and
+select the types of wind turbines, estimate the power output of specific wind energy
+devices and systems, assess the structural suitability of wind towers, and evaluate the
+key aspects of onshore (urban) and offshore wind energy systems. Prerequisite:
+ELEC 210.
+
+ELEC 562    Solar Energy Technology                               3(3,0)
+This course aims to provide students with a systematic understanding of current
+knowledge, problems, and insights in solar photovoltaic technologies; enable students
+to evaluate current research and advances  in the  field; and assess solar PV
+technologies, develop critiques, and propose solutions.
+Prerequisite: ELEC 210.
+
+ELEC 563    Smart Grid Technology                                 3(3,0)
+This course will examine smart grid technologies and the transformational impacts of
+the smart grid on the industry. Students in this course will learn the fundamentals of the
+smart grid: its purpose and objectives, technologies, architectures, and management.
+Students will also learn about many of the challenges facing the smart grid as it evolves.
+Prerequisite: ELEC 432
+
+
+
+
+
+                                                          Page 323
+
+NEXT PAGE 332 (reference only; do not make a fact for this page):
+Courses Description
+
+I.  Mandatory Courses
+
+Non-Major Courses
+
+A description of the non-major mandatory courses follows.
+
+ ELEC 200   Introduction to Electrical and Computer Engineering       3(3,0)
+ In this course, the students will be trained in core skills to equip them to excel in
+ electrical, biomedical, and computer and communications engineering. The student will
+ be trained in application programming using an appropriate programming environment.
+ Students  will  build on  the basics  of Programming learned  in  the  introductory
+ programming course to implement Digital Signal Processing applications and perform
+ data analysis. Students  will also be introduced to basic lab equipment such as
+ Oscilloscopes, Function Generators, and Multi-Meters. Students will be introduced to
+ microcontroller-based  projects  to  further  explore  the  Electrical and Computer
+ Engineering majors (CCE, BIOM, and ELEC). Throughout the course, students will
+ work in multidisciplinary teams to study engineering cases for the community and
+ implement a project to address a community need.
+
+ ELEC 210   Electric Circuits                                          3(3,0)
+ This course covers circuit elements and laws; mesh and node equations; network
+ theorems; energy-storage  elements; RC, RL, and RLC  circuits;  transformers;
+ sinusoidal (AC) steady-state analysis; power calculation; and an introduction to three-
+ phase circuits. Prerequisite: PHYS 191 or Equivalent.
+
+ ELEC 320    Electronics                                               3(3,0)
+ This course covers semiconductors, PN junctions, diode theory and circuits, bipolar
+ junction transistors, transistor fundamentals, transistor biasing, amplifiers, MOSFETs,
+ and operational amplifiers. Prerequisite: ELEC 210.
+
+ ELEC 320L   Electronics Lab                                          1(0,2)
+ This is a Lab course with experiments in Electrical and Electronic Circuits. It covers
+ passive electrical elements and sources; lab instruments; voltage divider circuits;
+ Thevenin’s theorem; RC circuits; diode circuits; Op-Amp circuits; BJT and MOSFET
+ characteristics. Co-requisite: ELEC 320.
+
+ ELEC 340     Engineering Electromagnetics                         3(3,0)
+ Introduction  to  vector  analysis;  Electrostatic  fields  in vacuum and  dielectrics;
+ Conductors; Capacitance;  Electrostatic energy and  forces;  Poisson's equation.
+ Magnetic fields, Maxwell's equations, static electric and magnetic fields, boundary-
+ value problems, Laplace's and Poisson's equations, and static electromagnetic fields.
+ Time-dependent Maxwell’s equations and Plane-wave propagation. Prerequisite:
+ PHYS 211.
+
+
+
+                                                           Page 332

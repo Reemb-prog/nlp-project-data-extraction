@@ -1,0 +1,95 @@
+PREVIOUS PAGE 338 (reference only; do not make a fact for this page):
+CCEE 449   Wireless Communications                                3(3,0)
+Wireless communications are omnipresent in today’s world. It does not transport only
+conversational information; it is used for a plethora of tasks, from short-range exchange
+of photos over Bluetooth to satellite communication and deep-space information
+transfer, from a few bits used to control robots and for sensory information to big data
+collection. This course introduces current wireless systems and standards, shadowing
+and multipath fading effects in wireless communications, radio channel capacity,
+multiple access techniques, and channel coding methods. Co-requisite: CCEE 447.
+
+CCEE 460   Artificial Intelligence                                      3(3,0)
+This course introduces students to the fundamentals of knowledge representation and
+learning in artificial intelligence. The emphasis will be on understanding fundamental
+concepts in artificial intelligence and applying corresponding approaches to solve
+practical problems and develop useful software applications. Covered topics include
+intelligent agents, informed and uninformed search strategies, and adversarial search.
+Prerequisite: CCEE 214 or equivalent.
+
+CCEE 460L  Artificial Intelligence Lab                                 1(0,2)
+This lab will help prepare students to handle the huge amount of data produced by
+both humans and machines today. The student will learn to use state-of-the-art AI tools
+to analyze data and make complex decisions based on that data using real-world
+practical examples and case studies. At the end of the lab, the student will be able to
+apply AI knowledge in their field at work or in day-to-day life to make better decisions.
+Co-req.: CCEE 460.
+
+CCEE 499   Co-op Work Experience                                  3(3,0)
+This Co-op work experience is designed to provide students with an eight-week short-
+term work experience  in the  field of computer and communication engineering.
+Students are encouraged to network with industry professionals in their discipline. A
+report, poster, and PowerPoint presentation are required. Prerequisites: Senior
+Standing. ENGL 217.
+
+CCEE 528   Computer Architecture                                   3(3,0)
+Computer system organization and design; implementation of CPU data path and
+control; instruction set design; memory hierarchy (caches, main memory,  virtual
+memory) organization and management; input/output subsystems (bus structures,
+interrupts, DMA); performance evaluation; pipelined processors. Prerequisite: CCEE
+324. Equivalent to COSC 353.
+
+CCEE 534   Signal Processing                                        3(3,0)
+ This course covers time series analysis, frequency analysis, time-frequency analysis,
+ and time-scale analysis. It also covers the design of digital filters and signal modeling.
+ Prerequisite: CCEE 331.
+
+
+
+                                                          Page 338
+
+NEXT PAGE 345 (reference only; do not make a fact for this page):
+MINOR IN ARTIFICIAL INTELLIGENCE
+
+Rationale
+
+The College of Engineering/ECE Department offers a minor in Artificial Intelligence (AI).
+The minor aims to meet the anticipated national, regional, and international demand for
+experts in  Artificial Intelligence, Knowledge Representation, Data Mining, Machine
+Learning, and Automated Reasoning.
+
+Minor Objectives
+
+The aims of the minor are to:
+1.  Provide students with advanced expertise in AI.
+2.  Prepare students to apply AI in industry.
+3.  Prepare students for graduate studies in AI.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate the ability to:
+1.  Use current techniques, architectures, and tools to build intelligent systems.
+2.  Design systems and tools to evaluate the performance of intelligent systems.
+3.  Apply AI tools and techniques to improve the performance of existing non-AI-
+    enabled systems.
+
+Minor Requirements
+
+While most relevant to students in Computer and Communications Engineering and
+Computer Science, this minor is also offered to undergraduate RHU students in the BE
+or MS program from other disciplines (Engineering and Computer Science). It may also
+be offered to students with a BS/BE from other universities, subject to a case-by-case
+evaluation of their transcripts and other specific RHU requirements.
+
+Early  in  their major, interested RHU engineering students need to complete the
+appropriate form declaring their intent to minor in AI while completing their regular major.
+
+To complete the AI minor, a student must:
+1.  Declare a minor in Artificial Intelligence by completing the Minor Declaration Form.
+2.  Obtain the approval of the dean of the student’s college and the dean of the
+    College of Engineering.
+3.  Earn a Minor Cumulative Grade Point Average of no less than 70 %.
+4.  Complete 18 credits of coursework as specified below.
+
+It should be noted that overlap among student major requirements, other minor
+requirements, and  AI minor requirements  is counted toward  fulfilling  the minor
+                                                           Page 345

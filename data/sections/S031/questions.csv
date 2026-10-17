@@ -1,0 +1,11 @@
+qa_id,fact_id,question,question_style
+S031_Q0001,S031_F0001,What is the Graphic Design minor about?,direct
+S031_Q0002,S031_F0001,What skills will a graphic design minor give me?,paraphrase
+S031_Q0003,S031_F0002,Who can take the Graphic Design minor?,direct
+S031_Q0004,S031_F0002,What GPA do I need to keep in the GD minor?,paraphrase
+S031_Q0005,S031_F0002,"I'm an engineering student, can I do a minor in graphic design?",contextual
+S031_Q0006,S031_F0003,What jobs can a graphic design minor lead to?,direct
+S031_Q0007,S031_F0003,Can a GD minor help me work in advertising?,paraphrase
+S031_Q0008,S031_F0004,Which courses are required for the Graphic Design minor?,direct
+S031_Q0009,S031_F0004,How many credits is the GD minor?,paraphrase
+S031_Q0010,S031_F0004,Does the graphic design minor have any electives?,contextual

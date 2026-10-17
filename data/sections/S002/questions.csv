@@ -1,0 +1,15 @@
+qa_id,fact_id,question,question_style
+S002_Q0001,S002_F0001,Who is the president of Rafik Hariri University?,direct
+S002_Q0002,S002_F0001,Who currently leads RHU as university president?,paraphrase
+S002_Q0003,S002_F0001,RHU president name?,short
+S002_Q0004,S002_F0002,Who chairs the RHU Board of Trustees?,direct
+S002_Q0005,S002_F0002,Who is the head of the board of trustees at Rafik Hariri University?,paraphrase
+S002_Q0006,S002_F0003,Who founded Rafik Hariri University?,direct
+S002_Q0007,S002_F0003,Is RHU named after its founder?,paraphrase
+S002_Q0008,S002_F0004,Which accreditation bodies accredit RHU's programs?,direct
+S002_Q0009,S002_F0004,Are RHU programs accredited by ABET or ACBSP?,paraphrase
+S002_Q0010,S002_F0005,Who are the members of RHU's Board of Trustees?,direct
+S002_Q0011,S002_F0005,Can you list the RHU board of trustees?,paraphrase
+S002_Q0012,S002_F0006,Can students visit the RHU president's office?,direct
+S002_Q0013,S002_F0006,Does the RHU president have an open-door policy?,paraphrase
+S002_Q0014,S002_F0006,"As a prospective student, how can I reach out to RHU leadership to learn more?",contextual

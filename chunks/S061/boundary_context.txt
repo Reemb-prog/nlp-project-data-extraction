@@ -1,0 +1,98 @@
+PREVIOUS PAGE 388 (reference only; do not make a fact for this page):
+MECH 333    Thermal Fluid Sciences                                3(3,0)
+This course imparts fundamental concepts of thermal fluid (including thermodynamics,
+fluid mechanics, and heat transfer) to non-mechanical engineering students. This
+course covers the following topics: thermodynamic state and properties of pure
+substances; concepts of work and heat; energy analysis of closed systems (First Law
+of Thermodynamics) and simple flow devices;  fluid  statics; Bernoulli’s equation;
+conservation of mass and momentum; viscous flow in pipes; introduction to conduction,
+convection and radiation heat transfer. Prerequisite: MATH 216. Annually.
+
+MECH 334    Thermodynamics II                                     3(3,0)
+This course focuses on real-world engineering examples & applications to give
+students a feel for how thermodynamics is applied in engineering practice. These
+cover Exergy analysis, vapor- and gas-power cycles, refrigeration and heat pump
+systems, psychrometric basics, and  air conditioning. Prerequisite: MECH 330.
+Annually.
+
+MECH 334L   Thermodynamics II Lab                                1(0,2)
+This laboratory takes an experimental approach to demonstrate the fundamentals of
+thermodynamics. The lab includes a bomb and gas calorimeter, a miniature steam
+power plant, an internal combustion engine bench, and an air conditioning unit. One
+or two design-oriented experiments following the Design-Build-Test methodology. Co-
+requisite: MECH 334. Annually.
+
+MECH 335     Fluid Mechanics                                        3(3,0)
+This course introduces the fundamentals of fluid mechanics. The topics covered are
+fluid statics; Bernoulli’s equation; conservation of mass, momentum, and energy; an
+overview of fluid kinematics; an overview of finite-control-volume analysis; the Navier-
+Stokes equations; and viscous flow in pipes. Prerequisite: MECH 330. Annually.
+
+MECH 335L   Fluid Mechanics Lab                                    1(0,2)
+This laboratory course offers a practical exploration of key fluid mechanics concepts
+through a variety of experimental setups. Students will use a pressure-measurement
+bench and a hydraulic bench to analyze head losses in pumps, piping systems, and
+flow over  weirs. A wind tunnel  is used  for boundary  layer analysis and flow
+visualization, including experiments on flow over a NACA 2412 airfoil, a sphere, and a
+cylinder. The lab also features a smoke generator for enhanced visualization of flow
+patterns and separation phenomena. Co-requisite: MECH 335. Annually.
+
+MECH 400   Summative Learning (BS) Project                     3(3,0)
+Team-oriented, project-based experience culminating in the creation of an artifact;
+milestones include project selection and proposal, a creative solution, a report, a
+presentation, and a demonstration of the device. Prerequisite: ENGL 217 taken in
+the last semester of the BS Program. Annually.
+
+
+
+
+                                                          Page 388
+
+NEXT PAGE 396 (reference only; do not make a fact for this page):
+MINOR IN APPLIED PETROLEUM ENGINEERING
+TECHNOLOGY
+
+Rationale
+
+The Applied Petroleum Engineering Technology (APET) minor addresses the expected
+national need for engineering personnel knowledgeable in the Oil and gas industries'
+transportation, processing, and storage.  It also prepares undergraduate students for
+possible graduate studies in petroleum engineering and related fields.
+
+It  is primarily geared towards mechanical engineering students, but  it should also
+accommodate students from other engineering backgrounds, provided all prerequisite
+courses are completed.
+
+The program is primarily concerned with the technical, environmental, and economic
+aspects of oil and gas extraction as well as downstream processing and handling. The
+goal is to apply fundamental knowledge of upstream and downstream operations to
+enhance the graduate’s ability to perform effectively as a practitioner in a short period of
+time.
+
+Program participants are required to complete at least 18 credits of related coursework.
+Although not required, with proper and timely advising, they may also complete their Co-
+op work experience or  their BS project  in Oil and Gas, thereby enhancing  their
+capabilities.
+
+To effectively cover the added coursework in the fall and spring semesters, one full-time
+faculty member with a specialty in Petroleum/Chemical Engineering is required.
+
+Program Objectives
+
+The primary objectives of the APET minor program are to:
+
+•   Give engineering students basic knowledge of the Oil and Gas industry;
+•   Endow students with the ability to deal with applied Oil and Gas downstream
+    engineering;
+•   Prepare  qualified  Lebanese  graduates  to  become  technically  productive
+     contributors to the future Lebanese petroleum sector;
+•   Provide an impetus for undergraduate students to pursue graduate studies in the
+     Oil and Gas domain.
+
+Learning Outcomes
+
+After completing the minor program, students should have the ability to:
+
+
+
+                                                           Page 396

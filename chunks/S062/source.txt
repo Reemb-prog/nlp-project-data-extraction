@@ -1,0 +1,204 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S062 | Applied petroleum engineering minor
+ORIGINAL PDF PAGES: 396 to 399 (inclusive)
+ONLY extract facts whose source page is between 396 and 399.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 396 ==========
+MINOR IN APPLIED PETROLEUM ENGINEERING
+TECHNOLOGY
+
+Rationale
+
+The Applied Petroleum Engineering Technology (APET) minor addresses the expected
+national need for engineering personnel knowledgeable in the Oil and gas industries'
+transportation, processing, and storage.  It also prepares undergraduate students for
+possible graduate studies in petroleum engineering and related fields.
+
+It  is primarily geared towards mechanical engineering students, but  it should also
+accommodate students from other engineering backgrounds, provided all prerequisite
+courses are completed.
+
+The program is primarily concerned with the technical, environmental, and economic
+aspects of oil and gas extraction as well as downstream processing and handling. The
+goal is to apply fundamental knowledge of upstream and downstream operations to
+enhance the graduate’s ability to perform effectively as a practitioner in a short period of
+time.
+
+Program participants are required to complete at least 18 credits of related coursework.
+Although not required, with proper and timely advising, they may also complete their Co-
+op work experience or  their BS project  in Oil and Gas, thereby enhancing  their
+capabilities.
+
+To effectively cover the added coursework in the fall and spring semesters, one full-time
+faculty member with a specialty in Petroleum/Chemical Engineering is required.
+
+Program Objectives
+
+The primary objectives of the APET minor program are to:
+
+•   Give engineering students basic knowledge of the Oil and Gas industry;
+•   Endow students with the ability to deal with applied Oil and Gas downstream
+    engineering;
+•   Prepare  qualified  Lebanese  graduates  to  become  technically  productive
+     contributors to the future Lebanese petroleum sector;
+•   Provide an impetus for undergraduate students to pursue graduate studies in the
+     Oil and Gas domain.
+
+Learning Outcomes
+
+After completing the minor program, students should have the ability to:
+
+
+
+                                                           Page 396
+
+========== ORIGINAL PDF PAGE 397 ==========
+•   Apply relevant knowledge of mathematics, science, and engineering to identify,
+     formulate, and  solve  practical  problems  related  to  downstream  petroleum
+    engineering processes;
+•   Use modern engineering tools relevant to core petroleum engineering practices;
+•   Deal with the uncertainty and risk involved in petroleum transportation, refining, and
+    storage problems.
+
+Career Options
+
+This minor enables APET holders to begin careers as  field technologists  in the
+exploration, transportation, refining, and storage sectors of the conventional oil and gas
+production industry. Typical employers include  oil and gas Companies;  oil service
+companies,  including  the  QA/QC  sector;  government-related  agencies;  and
+petrochemical plants and refineries.
+
+Program Requirements
+
+While most relevant to mechanical engineering students,  this minor  is offered to
+undergraduate RHU students in the BS program, from different disciplines (mechanical,
+mechatronics, civil, electrical, computer, communications, and biomedical). It may also
+be offered to students with a BS/BE from other universities, subject to a case-by-case
+evaluation of their transcripts and other specific RHU requirements. Proper advising is
+pertinent to the timely completion of the minor.
+
+To complete the APET minor, a student must:
+1)  Declare an APET minor by completing the Minor Declaration Form.
+2)  Obtain the approval of the dean of the college major and the dean of the College of
+    Business Administration;
+3)  Obtain a Minor Cumulative Grade Point Average of no less than 70 %.
+4)  Complete 18 credits of coursework as specified below.
+
+APET Curriculum
+
+The program strikes a proper balance between fundamentals and practice while
+preparing students to become productive contributors in the  oil and gas industry.
+Accordingly, this minor shall include:
+•    Oil and gas chemistry and properties
+•   Design and analysis of systems and procedures for producing and handling fluids;
+•   Decision-making under conditions of risk and uncertainty;
+•   Safety hazards and environmental impact consideration and protection;
+•   Pipeline design and installation;
+•   Above-ground storage and tanks;
+•   Gas and oil processing and storage (gas, crude oil, and refined oil products);
+
+
+                                                           Page 397
+
+========== ORIGINAL PDF PAGE 398 ==========
+•   Refinery units and equipment inspection using codes and standards of international
+    organizations such as API and ASME;
+•   Quality assurance and quality control aspects;
+•   Non-Destructive Testing (NDT)
+•   National and regional macroeconomic impact.
+
+The APET curriculum comprises 18 credits: 15 mandatory and 3 elective, selected to
+satisfy the requirements of the proposed program objectives and learning outcomes. The
+courses that encompass the minor are given below.
+
+I.  Mandatory Courses
+
+Description of the five mandatory courses (15 credits) follows.
+
+ APET 200   Petroleum Engineering                                   3(3,0)
+ Overview of the petroleum engineering and petroleum industry: Nature of oil and gas
+ reservoirs, exploration and drilling techniques, formation evaluation, well completions
+ and  production,  surface  facilities,  reservoir mechanics,  offshore and onshore
+ structures, environmental considerations; new technologies, prospects; petroleum
+ industry activities in Lebanon and the Middle East; available industry and challenges;
+ Oil & gas safety issues.
+
+ APET 201   Crude  Oil & Natural Gas Transportation &        3(3,0)
+             Storage
+ This course  will introduce the petroleum student to natural gas and crude  oil
+ transportation and storage equipment design and operation; following the flow of gas
+ from the wellhead to the gas & oil pipelines, to the storage tanks; calculations are
+ performed on pipeline  sizing, inspection, and  installation; storage tank design,
+ installation, and inspection; use of commercial software. Prerequisite: APET 200.
+
+ APET 203   Modern Refining Technology                            3(3,0)
+ This course presents an introduction to petroleum refining technology, an overview of
+ crude oil supply and petroleum product demand, and a description of refinery process
+ technology. Some refining technologies are described, such as crude oil distillation,
+ heavy  oil conversion options, hydrotreating, and  catalytic reforming. Some gas
+ processing is also discussed. Prerequisite: APET 200.
+
+ CHEM 213   Physical and Organic Chemistry                        3(3,0)
+ This course will allow students to learn chemical principles related to the general,
+ Physical, and Organic fields of chemistry. Topics include study of different states of
+ matter, homogeneous and heterogeneous mixtures, study  of endothermic and
+ exothermic processes, discussion on surface phenomena and industrial applications
+ of  adsorption and  absorption  processes;  Structure and  properties  of  organic
+ compounds, synthesis and reactions of various compounds, mechanism of radical
+ substitution, electrophilic addition and electrophilic aromatic substitution, Liquids and
+ liquid-gas solutions, viscosity and surface tension of liquids, name and write formulas
+
+
+                                                           Page 398
+
+========== ORIGINAL PDF PAGE 399 ==========
+of selected organic compounds generally found in oil and gas industries; Catalyst
+ types and use. Prerequisite: general or environmental chemistry.
+
+ GEOL 210   Petroleum Geology                                      3(3,0)
+ This course introduces the geological concepts important to petroleum exploration and
+ exploitation. Topics include the composition of the Earth, plate tectonics, rocks and
+ minerals, the formation of sediments and sedimentary rocks, stratigraphy, geologic
+ structures,  oil and gas  sources,  reservoir  engineering  properties,  exploration
+ techniques, well evaluation, and reservoir development.
+
+II.  Elective Course
+
+Students may choose one three-credit course from the following list.
+
+ APET 202    Materials Selection – Corrosion Monitoring and        3(3,0)
+              Control
+ Topics  will provide the student with an understanding of the factors involved in
+ materials  utilization  in petroleum equipment design and construction, such as
+ pressure vessels & piping, materials properties, basic welding principles, and the
+ applicable codes, standards, and engineering  specifications used  for materials
+ specification  in  the  hydrocarbon  industries. Common  non-destructive  testing
+ procedures used on equipment include identifying defect types, such as corrosion and
+ cracks. Equipment strategy: monitoring and control. Prerequisite: APET 200.
+
+ APET 300    Applied Fluid Mechanics                                3(3,0)
+ Review of incompressible flow, turbulence, and dimensional analysis; pipe flows;
+ boundary layers, lift, drag, and flow separation; compressible flow; turbomachinery
+ and rotating machinery; oil and gas issues.
+
+III. Program Prerequisites
+
+Students who wish to study the APET minor must complete the following courses.
+
+ Course Code   Title                                          Credits
+ CHEM 211     Environmental Chemistry and Lab             3
+ ENGL 217      Professional English Communication           3
+ MATH 215      Calculus III                                3
+ MATH 311      Linear Algebra with Applications               3
+ MATH 314      Ordinary Differential Equations                3
+ MATH 351      Probability and Statistics                     3
+ MECH 320     Mechanics of Materials                      3
+ MECH 330     Thermodynamics I                          3
+ MECH 335      Fluid Mechanics                           3
+ PHYS 210     Fundamentals of Physics and Lab             3
+
+
+
+
+                                                           Page 399

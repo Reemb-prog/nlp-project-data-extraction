@@ -1,0 +1,99 @@
+PREVIOUS PAGE 288 (reference only; do not make a fact for this page):
+Year 2, Summer Semester (9 Credits)
+ELEC 210    Electric Circuits                     3     PHYS    191     or
+                                                              Equivalent
+ENGR 300   Engineering Economics & Management  3
+             Humanities / Fine Arts Elective         3
+Year 3, Fall Semester (16 Credits)
+CIVE 413    Computer Modeling of Structures       3      CIVE 312
+CIVE 415    Concrete II                         3      CIVE 312 and CIVE
+                                                    314
+CIVE 423     Soil Mechanics                     3     MECH 320 & GEOL
+                                                    221
+CIVE 423L   Soil Mechanics Laboratory            1        Co-req.: CIVE 423
+CIVE 435    Hydraulics                         3     MECH 333
+CIVE 432    Environmental Engineering            3     CHEM 211
+Year 3, Spring Semester (15 Credits)
+CIVE 417    Steel Structures                     3      CIVE 312
+CIVE 424    Foundation Engineering              3      CIVE 423
+CIVE 507     Structural Analysis II                 3      CIVE 312
+MATH 421   Numerical Analysis                  3     MATH 311
+             Engineering Technical Elective I*       3       Per course
+                                                            requirements
+Year 3, Summer Semester (3 Credits)
+CIVE 499    Co-op Work Experience              3     ENGL 217; Senior
+                                                           Standing
+The above 118 credits complete the requirements for a Bachelor of Science degree in
+Civil Engineering.
+Year 4, Fall Semester (16 Credits)
+CIVE 501    Construction Planning and Management 3       Senior standing
+CIVE 595A  BE Summative Learning Project 1       1     ENGL 217, senior
+                                                             standing
+ENGR 510   Engineering Project Management       3     ENGR 300
+             Engineering Technical Elective II       3       Per course
+                                                            requirements
+             Engineering Technical Elective III       3       Per course
+                                                            requirements
+CIVE 508    AI Applications in Civil Engineering      3     CCEE 214
+Year 4, Spring Semester (18 Credits)
+CIVE 536    Hydrology                         3      CIVE 435
+CIVE 538    Water and Wastewater Treatment       3      CIVE 432,
+                                                  CIVE 435
+CIVE 595B  BE Summative Learning Project 2       3      CIVE 595A
+             Engineering Technical Elective IV       3       Per course
+                                                            requirements
+             Engineering Technical Elective V       3       Per course
+                                                            requirements
+
+                                                           Page 288
+
+NEXT PAGE 296 (reference only; do not make a fact for this page):
+CIVE 536     Hydrology                                               3(3,0)
+ Measurement and  analysis  of  precipitation  data;  flood  analysis; methods  for
+ estimating evaporation and transpiration; streamflow measurement; groundwater
+ hydrology;   groundwater   reservoirs;   groundwater   discharge;   rainfall-runoff
+  relationship; statistical analysis in hydrology. Prerequisite: CIVE 435. Annually.
+
+ CIVE 538     Water and Wastewater Treatment                       3(3,0)
+ Quality and control tests for water and wastewater, design principles of water and
+ wastewater treatment plants, and physical, chemical, and biological operational
+ processes. Prerequisite: CIVE 432, CIVE 435. Annually.
+
+ CIVE 595A   BE Summative Learning Project 1                      1(1,0)
+ Team-oriented  project  that  includes  conducting and  formulating  experimental
+ laboratory work and/or design problems on a specific, approved specialty topic. The
+ project includes a  literature review, a scope of work, and a project proposal.
+ Prerequisites: Senior Standing, ENGL 217. Annually.
+
+ CIVE 595B   BE Summative Learning Project 2                      3(3,0)
+ Team-oriented  project  that  includes  conducting and  formulating  experimental
+ laboratory work and/or design problems on a specific, approved specialty topic. The
+ project includes literature review, design work, data collection, experimentation, data
+ analysis, and technical writing. Prerequisite: CIVE 595A. Annually.
+
+II.  Elective Courses
+
+Students may satisfy their technical elective requirements by selecting from the following
+courses.
+
+1.  Common Courses and Construction Management Sequence
+
+ CIVE 502     Engineering Risk Analysis                              3(3,0)
+ Elements of set theory, basic elements of probability theory, random variables,
+ multiple random variables, functions  of random variables,  probabilistic models,
+  statistical inference, and formulation of the reliability problem. Prerequisite: MATH
+ 351.
+
+ CIVE 503     Computer Methods in Civil Engineering                3(3,0)
+ Using the computer for analysis, design, and decision making in civil engineering.
+ Conversion of CAD or REVIT elements to structural elements. Shop drawings. Value
+ engineering. Applications. Prerequisite: Senior Standing.
+
+ CIVE 504      Infrastructure Asset Management                      3(3,0)
+ Problems of infrastructure, asset management principles, methods of inspection and
+ monitoring of civil infrastructures, risk assessment, asset condition information and
+ data, and the replace/maintain decision. Prerequisite: Senior Standing.
+
+
+
+                                                           Page 296

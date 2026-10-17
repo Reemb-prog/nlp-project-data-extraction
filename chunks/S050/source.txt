@@ -1,0 +1,417 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S050 | Computer and communications engineering program
+ORIGINAL PDF PAGES: 324 to 331 (inclusive)
+ONLY extract facts whose source page is between 324 and 331.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 324 ==========
+COMPUTER     AND      COMMUNICATIONS
+ENGINEERING PROGRAM
+
+Mission
+
+The CCE program aims to help students explore their innate creativity and potential and
+endow them with the knowledge, skills, and abilities to pursue successful careers in
+computer and communication engineering and related fields; think critically in solving
+complex problems using modern tools and technologies; communicate and work
+effectively with diverse groups; learn more every day, and succeed in graduate studies
+in renowned institutions if they so choose.
+
+Program Educational Objectives
+
+The program's educational objectives are to enable graduates to:
+
+1.  Foster an environment that encourages excellence in endeavor.
+
+2.  Provide quality and professional education that prepares leaders.
+
+3.  Solve problems facing society and industry in Lebanon, the Middle East, and the
+    world.
+
+4.  Engage in multidisciplinary research.
+
+Student Outcomes
+
+The Computer and Communication Engineering program adopts the learning outcomes
+of ABET, so our graduates will have:
+
+1.  An ability to identify, formulate, and solve complex engineering problems by
+    applying principles of engineering, science, and mathematics.
+
+2.  An ability to apply engineering design to produce solutions that meet specified
+    needs with consideration of public health, safety, and welfare, as well as global,
+     cultural, social, environmental, and economic factors.
+
+3.  An ability to communicate effectively with a range of audiences
+
+4.  An ability to recognize ethical and professional responsibilities in engineering
+     situations and make informed judgments, which must consider the impact of
+    engineering solutions in global, economic, environmental, and societal contexts.
+
+5.  An ability to function effectively on a team whose members together provide
+    leadership, create a collaborative and inclusive environment, establish goals, plan
+     tasks, and meet objectives.
+
+
+                                                           Page 324
+
+========== ORIGINAL PDF PAGE 325 ==========
+6.  An ability to develop and conduct appropriate experimentation, analyze, interpret
+    data, and use engineering judgment to conclude.
+
+7.  An ability to acquire and apply new knowledge as needed, using appropriate
+    learning strategies.
+
+Accreditation
+
+The Bachelor of Engineering program in Computer and Communications Engineering is
+accredited by the Engineering Accreditation Commission of ABET, https://www.abet.org,
+under the commission’s General  Criteria and Program Criteria  for Computer and
+Communications and Similarly Named Engineering Programs.
+
+Program Overviews
+
+The Computer and Communications Engineering Program at Rafik Hariri University puts
+students' best interests  first and foremost. Every  little experience the student gains
+represents a block in building a competent, confident, purposeful, problem-solving,
+competitive, responsible, and conscientious individual. This is accomplished through a
+curriculum tailored to market needs, facilities that meet the highest standards, top-notch
+faculty members who graduated from premier higher education institutions and are
+committed to students' academic and personal growth, and an environment that inspires
+learning and drives creativity.
+
+The  Bachelor  of  Engineering  (BE) program  in Computer and Communications
+Engineering comprises 152 credit hours across eight regular semesters and three
+summer semesters. The Bachelor of Science (BS) program comprises 116 credit hours
+across six regular semesters and three summer semesters. In addition to completing the
+credit requirements, a BS or BE degree is conferred only if a student's earned Cumulative
+GPA, Major GPA, and Summative Learning Project grade are all at least 70.
+
+The required credit hours are divided into three categories: University requirements
+(UR), College requirements (CR), and Program requirements (PR). The allocation of the
+credit hours for the BS and BE programs is shown in the following table:
+
+BS in Computer and Communication Engineering (118 Credits)
+                    Major               Non-Major
+ Courses Category                                                 Credits  Percent
+                   Mandatory  Electives Mandatory  Electives
+ General
+                  3         0       14        10       27     23
+ Education
+ College
+                  0         0       24        0        24     20
+ Requirement
+ Program
+                  46        0       21        0        67     57
+ Requirement
+ Credits            49        0       59        10       118    100
+
+
+
+                                                           Page 325
+
+========== ORIGINAL PDF PAGE 326 ==========
+BE in Computer and Communication Engineering (152 Credits)
+                    Major               Non-Major
+ Courses Category                                                 Credits Percent
+                   Mandatory  Electives Mandatory  Electives
+ General
+                  3         0       14        13       30     20
+ Education
+ College
+                  0         0       27        0        27     18
+ Requirement
+ Program
+                  53        18      24        0        95     62
+ Requirement
+ Credits            56        18      65        13       152    100
+
+I.   University Requirements (General Education)
+
+The list of GE-required courses and their descriptions is presented on the introductory
+pages of the College of Engineering section in this catalog.
+
+II.  College Requirements
+
+The  list of the College-required courses and their descriptions is presented in the
+introductory pages of the College of Engineering section in this catalog.
+
+III. Program Requirements
+
+The program requirements for a Bachelor of Engineering degree in Computer and
+Communications Engineering (CCE) encompass 95 credits (67 credits for the BS
+degree) distributed as follows: 77 credits of mandatory courses (67 credits for the BS
+degree) and 18 credits (0 credits for the BS degree) of engineering technical elective
+courses for BE only.
+
+A.  Mandatory Requirements
+
+The mandatory courses for the major and non-major CCE programs are listed in the
+table below.
+
+ Course #       Title                            Credits   Pre-requisites
+ CCEE 221     Logic Design                      3
+ CCEE 221L   Logic Design Lab                  1    CCEE 221
+ CCEE 216    Advanced Programming and Data     3    CCEE 214
+                Structure
+ CCEE 310     Software Engineering               3    CCEE 214
+ CCEE 315    Database Management Systems      3    CCEE 214
+ CCEE 324    Computer Organization             3    CCEE 221
+ CCEE 331     Signals and Systems               3    MATH 216
+ CCEE 341    Communication Systems            3    CCEE 331
+ CCEE 354    Computer Networks                3    CCEE 214
+ CCEE 354L   Computer Networks Lab 1           1      Co-req.: CCEE 354
+ CCEE 400   BS Summative Learning Project       3    ENGL 217
+ CCEE 411   Web Programming                 3    CCEE 214
+                                                           Page 326
+
+========== ORIGINAL PDF PAGE 327 ==========
+CCEE 426    Design of Embedded Systems        3      Pre-req.: CCEE 221
+ CCEE 426L   Design of Embedded Systems Lab     1      Co-req.: CCEE 426
+ CCEE 444    Antennas and Propagation           3      Pre-req.: ELEC 340
+ CCEE 444L   Antennas and Propagation Lab       1      Co-req.: CCEE 444
+ CCEE 447      Digital Communications             3      Pre-req.: CCEE 341
+ CCEE 447L   Communications Lab               1      Co-req.: CCEE 447
+ CCEE 449     Wireless Communications           3      Pre-req.: CCEE 447
+ CCEE 460      Artificial Intelligence                3    CCEE 214
+ CCEE 460L     Artificial Intelligence Lab             1      Co-req.: CCEE 460
+ CCEE 499    Co-op Experience                  3      Pre-req.: ENGL 217
+ CCEE 528    Computer Architecture              3      Pre-req.: CCEE 324
+ CCEE 534     Signal Processing                  3      Pre-req.: CCEE 331
+ CCEE 543     Mobile Communications             3      Pre-req.: CCEE 449
+ CCEE 564    Machine   Learning  and  Data     3      Pre-req.: CCEE 214;
+               Mining                         MATH 351 or BADM
+                                                   250
+ CCEE 595A  BE Summative Learning Project 1     1      Pre-req.: ENGL 217
+ CCEE 595B  BE Summative Learning Project 2     3      Pre-req.: CCEE 595A
+ CCEE      CCEE Selected Elective             3
+ ELEC 200     Introduction   to   Electrical  and     3
+             Computer Engineering
+ ELEC 320     Electronics                       3      Pre-req.: ELEC 210
+ ELEC 320L    Electronics Lab                    1      Co-req.: ELEC 320
+ ELEC 340     Engineering Electromagnetics        3      Pre-req.: PHYS 211
+* Required for BS-bound students. BE students take technical electives instead.
+
+B.  Technical Electives
+
+As part of the Bachelor of Engineering degree program in CCE, the student is required
+to take 18 credit hours of engineering technical elective courses. Students must be of
+senior standing  to take engineering technical  electives. Technical electives allow
+students to focus on a specific area to develop in-depth knowledge and understanding.
+The student can also mix and match engineering technical elective courses from different
+areas to gain broader exposure to the various CCE disciplines. Students should, in
+cooperation with their academic advisor, select a list of electives that best meet their
+needs and aspirations. The listed engineering technical elective courses and other
+courses from other engineering programs, in addition to the required program courses,
+are designed to allow the student to develop in-depth knowledge and understanding in
+the following areas:
+
+     1.  Computer Software
+     2.  Computer Hardware
+     3.  Signal Processing
+     4.  Communication Systems
+     5.  Computer Networks
+     6.   Artificial Intelligence
+
+The list of additional available CCE electives is given in the table below:
+                                                           Page 327
+
+========== ORIGINAL PDF PAGE 328 ==========
+Course #     Title                            Credits  Pre-/Co-requisites
+CCEE 498    Special Topics in Computer and    3
+            Communication Engineering
+CCEE 597   Advanced  Topics  in Computer    3     Senior Standing
+            and Communication Engineering
+Computer Software
+CCEE 511    Mobile Application Development      3      Pre-req.: CCEE 214
+CCEE 513    Operating Systems                3      Pre-req.: CCEE 214
+CCEE 514   Advanced Web Programming        3      Pre-req.: CCEE 411
+CCEE 515    Distributed Computing             3    CCEE 528
+CCEE 516   Advanced   Programming  and    3      Pre-req.: CCEE 315 or
+            Database Management Systems             equivalent
+Computer Hardware
+CCEE 520    Parallel Processing                3      Pre-req.: CCEE 221
+CCEE 521   Hardware-Software Co-Design       3      Pre-req.: CCEE 221
+Signal Processing
+CCEE 535    Digital Signal Processing           3      Pre-req.: CCEE 331
+CCEE 536    Digital Image Processing           3      Pre-req.: CCEE 214
+Communication Systems
+CCEE 540    Satellite Communication Systems    3      Pre-req.: CCEE 447
+CCEE 542   Microwave Communications         3      Pre-req.: ELEC 340
+CCEE 545   Advanced               Mobile    3      Co-requisite: CCEE 449
+            Communications
+CCEE 546    Array Processing                 3      Pre-req.: CCEE 544
+CCEE 547    Optical Communications            3      Pre-req.: CCEE 447
+Computer Networks
+CCEE 457    Cybersecurity Fundamentals        3      Pre-req.: CCEE 354
+CCEE 552   Network Security                  3      Pre-req.: CCEE 354
+CCEE 553   Advanced       Communication    3      Pre-req.: CCEE 354
+            Networks
+CCEE 554L  Computer Networks Lab 2          1     Co-req.: CCEE 354L
+CCEE 555   Advanced Computer Networks       3      Pre-req.: CCEE 354
+CCEE 555L  Computer Networks Lab 3          1      Pre-req.: CCEE 354L
+CCEE 556   Network      and      System    3      Pre-req.: CCEE 354
+              Administration
+CCEE 556L  Computer Networks Lab 4          1      Pre-req.: CCEE 555L
+Artificial Intelligence
+CCEE 561   Computer Vision                  3      Pre-req.: CCEE 214
+CCEE 563    Robotics                        3
+CCEE 566    Natural Language Processing       3      Pre-req.: CCEE 214
+CCEE 567    Optimization                     3      Pre-req.: MATH 215 or
+                                                           equivalent
+CCEE 568    Big Data and Analytics/Big Data    3      Pre-req.: CCEE 564 or
+            System                                     equivalent
+
+
+                                                          Page 328
+
+========== ORIGINAL PDF PAGE 329 ==========
+RHU is a CISCO Academy. As such, students will be awarded CISCO certificates after
+completing the required Computer Networks Lab 1. In addition, students can take any
+three of the following labs, which will count as one technical elective.
+
+ Course #      Title                               Credits  Pre-/Co-requisites
+ Computer Networks
+ CCEE 554L  Computer Networks Lab 2             1     Co-req.: CCEE 354L
+ CCEE 555L  Computer Networks Lab 3             1     Pre-req.: CCEE 354L
+ CCEE 556L  Computer Networks Lab 4             1     Pre-req.: CCEE 555L
+
+Undergraduate students can also take 600-level courses, provided that their cumulative
+GPA is above 80 and the instructor approves.
+
+Students may up to 9 credits of (400-level or above) engineering technical electives from
+other programs,.
+
+C.  Summative Learning Project (SLP)
+
+Students must complete a 3-credit-hour course for BS (4 credits for BE; taken 1 credit in
+the first regular semester and 3 credits in the following regular semester) in which they
+work, preferably in groups, on a problem of concern to industry or the community at large,
+or to innovate a promising idea.
+
+D.  Co-op Experience
+
+Students must complete 8 weeks of practical training working in an area related to their
+field of interest. The Co-op experience is usually fulfilled during the summer semester of
+the third year in the program. The Co-op office matches the Co-op assignment with the
+student’s field of study and the employer’s interest. A faculty member follows up on the
+student’s progress throughout the Co-op period by conducting field visits and ensuring
+that the student’s performance is aligned with their aspirations and the employer’s needs.
+Students are required to submit a formal report and a poster and to give a formal
+presentation about their Co-op experience. While ENGL 217 and Senior Standing are
+the essential prerequisites for co-op training, the program may stipulate additional
+conditions.
+
+Course Coding
+
+Code numbers designate the courses offered in the CCE program in the form of (CCEE
+abc), where:
+
+  a   Designates the year (level)
+  b   Designates the focus area as follows:
+       0:  General;  1: Computer  Software;  2: Computer  Hardware;  3:  Signal
+      Processing; 4: Communication Systems; 5: Computer Networks; 6: Artificial
+       Intelligence
+  c   Designates the course sequence in a focus area
+
+
+
+                                                           Page 329
+
+========== ORIGINAL PDF PAGE 330 ==========
+Study Plan
+
+The following study plan summarizes the courses and credit distribution for the Bachelor
+of Science (BS) and Bachelor of Engineering (BE) in CCE. The study plan serves as a
+roadmap to facilitate students’ smooth progression toward graduation.
+
+ Course #    Title                                 Credits  Pre-/Co-requisites
+ Year 1, Fall Semester (14 Credits)
+CCEE 214   Introduction to Programming             3
+ ARAB 212   Arabic Language & Communication        2
+ ENGL 210   English Composition and Rhetoric         3    Placement
+MATH 215  Calculus III                           3
+ PHYS 211   Physics: Electricity and Magnetism and    3
+           Lab
+ Year 1, Spring Semester (15 Credits)
+CCEE 216  Advanced  Programming  and  Data    3   CCEE 214
+              Structure
+CCEE 221   Logic Design                          3
+ ELEC 200   Introduction to Electrical and Computer    3
+             Engineering
+ ELEC 210   Electric Circuits                        3   PHYS    191    or
+                                                              Equivalent
+MATH 216  Calculus IV                           3   MATH 215
+ Year 1, Summer Semester (10 Credits)
+CCEE 221L Logic Design Lab                      1   CCEE 221
+MATH 311   Linear Algebra and Applications           3
+            Science Elective                       3
+             Humanities/ Fine Arts Elective I           3
+ Year 2, Fall Semester (17 Credits)
+CCEE 324  Computer Organization                 3   CCEE 221
+CCEE 331   Signals and Systems                   3   MATH 216
+ ELEC 320   Electronics                           3   ELEC 210
+ ELEC 320L  Electronics Lab                        1     Co-req.: ELEC 320
+ ENGL 217   Professional English Communication       3   ENGL 210
+CCEE 354  Computer Networks                    3     Co-req.: CCEE 221
+CCEE 354L Computer Networks Lab 1               1     Co-req.: CCEE 354
+ Year 2, Spring Semester (16 Credits)
+CCEE 310   Software Engineering                   3   CCEE 214
+CCEE 315  Database Management Systems          3   CCEE 214
+CCEE 341  Communication Systems                3   CCEE 331
+ ELEC 340   Engineering Electromagnetics            3   PHYS 211
+MATH 314  Ordinary Differential Equations            3   MATH 216
+           Community and Sustainability Elective      1
+ Year 2, Summer Semester (9 Credits)
+ENGR 300  Engineering Economy and Management    3
+
+                                                           Page 330
+
+========== ORIGINAL PDF PAGE 331 ==========
+MATH 421  Numerical Analysis                     3   MATH 311
+              Social Science Elective I                3
+ Year 3, Fall Semester (17 Credits)
+CCEE 411  Web Programming                     3     Co-req.: CCEE 214
+CCEE 447   Digital Communications                 3   CCEE 341
+CCEE 447L Communications Lab                   1     Co-req.: CCEE 447
+CCEE 426  Design of Embedded Systems            3   CCEE 221
+CCEE 426L Design of Embedded Systems Lab        1     Co-req.: CCEE 426
+CCEE       Selected CCEE Elective                 3
+MATH 351   Probability and Statistics                3   MATH 216
+ Year 3, Spring Semester (17 Credits)
+CCEE 444  Antennas and Propagation               3   ELEC 340
+CCEE 444L Antennas and Propagation Lab           1     Co-req.: CCEE 444
+CCEE 449   Wireless Communications               3     Co-req.: CCEE 447
+CCEE 460    Artificial Intelligence                    3   CCEE 214
+CCEE 460L  Artificial Intelligence Lab                 1     Co-req.: CCEE 460
+MATH 210   Discrete Mathematics                   3   MATH 215
+             Engineering Technical Elective 1 or BS    3
+              Project*
+ Year 3, Summer Semester (3 Credits)
+CCEE 499  Co‐op Work Experience                 3   ENGL 217
+ The above 118 credits complete the requirements for a Bachelor of Science degree in
+ Computer and Communication Engineering.
+ Year 4, Fall Semester (16 Credits)
+CCEE 534   Signal Processing                      3   CCEE 331
+CCEE 528  Computer Architecture                  3   CCEE 324
+CCEE 595A BE Summative Learning Project 1         1   ENGL  217;  Senior
+                                                           Standing
+ENGR 510  Engineering Project Management         3   ENGR 300
+             Engineering Technical Elective 2          3
+             Engineering Technical Elective 3          3
+ Year 4, Spring Semester (18 Credits)
+CCEE 543   Mobile Communications                 3     Co-req.: CCEE 449
+CCEE 564  Machine Learning and Data Mining        3   CCEE  214; MATH
+                                                    351 or BADM 250
+CCEE 595B BE Summative Learning Project 2         3   CCEE 595A
+             Engineering Technical Elective 4          3
+             Engineering Technical Elective 5          3
+              Social Sciences/ Humanities Elective II     3
+ Total BE credits: 152
+* BS-bound students are required to take CCEE 400 – Summative Learning (BS) Project instead.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+9 credits restricted Departmental Electives
+9 credits in any Engineering discipline at the 400 level or above.
+
+
+                                                           Page 331

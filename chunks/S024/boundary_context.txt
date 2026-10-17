@@ -1,0 +1,97 @@
+PREVIOUS PAGE 145 (reference only; do not make a fact for this page):
+COSC 333 Web Programming                                          3(3,0)
+This course teaches students how to develop and implement web-based programs,
+with an emphasis on  front-end  programming.   It  introduces  students  to web
+development,  client-side languages, and the  styles needed  to  build  functional,
+responsive websites. The course covers HTML5, CSS3, JavaScript/jQuery, and
+responsive design. Prerequisite: COSC 214. Equivalent to CCEE 411.
+
+COSC 341  Software Engineering                                       3(3,0)
+This course provides a deep and comprehensive understanding of the fundamentals
+of software engineering. The course introduces students to software process models,
+project management, software requirements, and engineering processes. The course
+covers SDLC stages, UML diagrams, and the use of CASE tools. Prerequisite: COSC
+214. Equivalent to CCEE 310.
+
+COSC 351  Logic Design                                                3(3,0)
+This course addresses Boolean algebra and logic simplification techniques, data
+representation, and the design of combinational logic networks for decoders, encoders,
+multiplexers, and demultiplexers. Design of sequential logic devices, including flip-
+flops, registers, and counters, as well as analysis of devices used to build logic
+networks, including programmable logic devices. Prerequisite: None. Equivalent to
+CCEE 221.
+
+COSC 351L  Logic Design Lab                                          1(0,2)
+This Lab covers design techniques and implementation  of  combinational and
+sequential  logic  circuits.  Experiments  include  logic  gates;  the  design  and
+implementation of logic circuits, including combinational circuits (decoders, encoders,
+multiplexers, demultiplexers, and adders); and the design of sequential logic devices
+using flip-flops, registers, and counters. Prerequisite: COSC 351. Equivalent to CCEE
+221L.
+
+COSC 353  Computer Organization                                     3(3,0)
+This  course exposes  students  to computer system  organization and  design;
+implementation of CPU data paths and control; instruction set design; memory
+hierarchy (caches, main memory, virtual memory) organization and management;
+input/output subsystems (bus structures, interrupts, DMA); performance evaluation;
+and pipelined processors. Prerequisite: COSC 351. Equivalent to CCEE 324.
+
+COSC 360   Networking                                                 3(3,0)
+This course enables students to gain fundamental knowledge of computer networks,
+appreciate various trade-offs and choices in networking, learn to design and analyze
+protocols, and prepare to study advanced topics in the field of networks. Prerequisite:
+COSC 214. Equivalent to CCEE 354.
+
+
+
+
+
+                                                                  Page 145
+
+NEXT PAGE 150 (reference only; do not make a fact for this page):
+MINOR IN COMPUTER SCIENCE
+
+Rationale
+
+The CMS department offers a Computer Science minor for RHU students. It is designed
+for students who want to include basic proficiency in computer science to enhance or
+supplement their major program.
+
+Program Objectives
+
+The aims of a minor in Computer Science are:
+
+•   Provide RHU graduates with basic proficiency in computer science
+•   Support RHU graduates with essential computing skills desired/demanded by the
+    market
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate:
+
+•   An ability to analyze a problem, identify and define the computing requirements
+    appropriate to its solution
+•   An ability to use current techniques, skills, and tools necessary for computing
+     practices
+•   An ability to develop programming skills using modern programming languages
+
+Entrance Requirements
+
+This minor  is offered to  all RHU students except those in CCE and Business IT
+Management.
+
+Early in their major, interested RHU students must complete the appropriate form
+declaring their intent to minor in Computer Science while completing their regular major.
+
+Computer Science Minor Policies
+
+•   Obtain a Minor Cumulative Grade Point Average of no less than 70%
+•   Although common courses between student major requirements and Computer
+    Science minor requirements are counted to  fulfill the minor requirements, the
+    student must complete a minimum of 6 credit hours of coursework that  is not
+    counted toward the requirements for their major or any other minor.
+
+
+
+
+                                                                   Page 150

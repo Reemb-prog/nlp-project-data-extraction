@@ -1,0 +1,106 @@
+PREVIOUS PAGE 410 (reference only; do not make a fact for this page):
+Co-req.:   MECH
+MECH 320L  Mechanics of Materials Lab            1
+                                                     320
+                                        MECH  200  and
+MECH 321   Mechanisms and Dynamics of Machinery 3
+                                        MECH 220
+ Year 2, Spring Semester (17 Credits)
+CCEE 221L   Logic Design Lab                    1     CCEE 221
+ ENGL 217    Professional English Communication    3     ENGL 210
+MATH 351    Probability and Statistics              3     MATH 215
+MECA 340   Dynamic Systems Modeling           3     MATH 314
+MECA 341   Measurements and Instrumentation     3     ELEC 320
+MECA 341L  Measurements and Instrumentation Lab  1       Co-req: MECA 341
+MECH 333   Thermal Fluid Sciences               3     MATH 216
+ Year 2, Summer Semester (9 Credits)
+              Engineering      Economics      and
+ENGR 300                                     3
+            Management
+MATH 317    Partial Differential Equations           3     MATH 314
+               Social Sciences/ Cultural Elective I      3
+ Year 3, Fall Semester (16 Credits)
+MECA 440    Control Systems Design              3     MECA 340
+MECA 441   Sensors & Actuators                 3     MECA 341
+                                           CCEE  221  and
+MECA 442    Microcontrollers for Mechatronics       3 (2+2)
+                                        MECH 200
+                                           CCEE  214  and
+MECA 444L  Mechatronic Systems Programming     1
+                                        MECH 200
+                                        MECH  224  and
+MECA 541   CAD/CAM/CAE                     3
+                                        MECH 421
+MECH 421   Mechanical Design I                 3     MECH 320
+ Year 3, Spring Semester (17 Credits)
+ ARAB 212    Arabic Language & Communication     2
+ ELEC 331     Electric Machines                    3     ELEC 210
+MATH 421   Numerical Analysis                  3     MATH 311
+MECA 440L  Control Systems Design Lab           1     MECA 440
+                                         MECA  440,  441,
+MECA 443   Mechatronic System Design           3
+                                                     and 442
+MECA 443L  Mechatronic System Design Lab        1        Co-req.: MECA 443
+            Community & Sustainability            1        Co-req.: ENGL 210
+                                                         Per course
+              Engineering Technical Elective I*       3
+                                                             requirements
+ Year 3, Summer Semester (3 Credits)
+                                            ENGL 217
+MECA 499   Co‐op Work Experience               3
+                                                             Senior Standing
+ The 118 credits above complete the requirements for a Bachelor of Science Degree in
+ Mechatronics Engineering.
+ Year 4, Fall Semester (16 Credits)
+ENGR 510   Engineering Project Management       3     ENGR 300
+
+Page 410
+
+NEXT PAGE 418 (reference only; do not make a fact for this page):
+control systems  training  kits  available  in  the  laboratory,  providing them  with
+ opportunities to experiment with different hardware and system dynamics. This lab-
+ intensive  course  bridges  the gap between  theoretical concepts and  practical
+ implementation, equipping students with essential skills to design and deploy control
+ solutions across a wide array of engineering applications. Prerequisite: MECA 440.
+ Annually.
+
+MECA 441    Sensors and Actuators                                  3(3,0)
+ Sensor and actuator technologies; classification and terminology of sensors and
+ actuators; sensors  characteristics;  physical  principles  of sensing; measurement
+ applications  (position and speed, stress and  strain, temperature,  vibration and
+ acceleration, pressure and flow…); Electromagnetic principles; solenoids and relays;
+ electric motors (DC motors, Stepper motors…); Hydraulics actuators;  Pneumatic
+ actuators; interface methodologies and circuits; integration aspects; manufacturing
+ techniques and material properties; team projects. Prerequisite: MECA 341. Annually.
+
+MECA 442    Microcontrollers for Mechatronics                      3(2,2)
+ This course aims to provide a deep understanding of the integration of microcontrollers
+ in mechatronic systems, starting from the technologies used to develop embedded
+ systems to the internal features and peripherals of microcontrollers/microprocessors
+ (timers, interrupts, analog-to-digital converters…). In this course, students develop
+ various microcontroller programs for mechatronic applications, including the usage of
+ I/O and communication peripherals. Prerequisite: CCEE 221 and MECH 200.
+
+MECA 443    Mechatronic System Design                            3(3,0)
+ This course integrates all modules in mechatronics systems design. It consists of an
+ overview  of  mechatronics;  mechatronics systems  design  strategies; advanced
+ modeling; use of control strategies; design of electric actuators; design of sensors;
+ power electronics; hardware and software integration; and team projects on the design
+ and implementation of integration between mechanical, electrical, and control systems.
+ Prerequisite: MECA 440, 441, and 442.
+
+MECA 443L  Mechatronic System Design Lab                        1(0,2)
+ Overview of mechatronic systems; integration of mechanical components, sensors,
+ and  actuators  into  mechatronics  applications; use  of  switchgear components;
+ integration of microcontrollers and FPGAs; LabVIEW programming; Design of power
+ supplies. Co-requisite: MECA 443. Annually.
+
+MECA 444L   Mechatronic Systems Programming                    1(0,2)
+ This introductory 1-credit course provides mechatronics students with a foundational
+ understanding of Python. The curriculum is specifically designed to equip students with
+ the essential Python skills necessary for subsequent coursework and applications in
+ robotics, automation, and embedded systems. Emphasis will be placed on developing
+ a strong grasp of core Python concepts, data structures, and control flow, laying the
+ groundwork for using Python in the Robot Operating System (ROS), for  artificial
+ intelligence (AI) applications on platforms like Raspberry Pi and NVIDIA Jetson Nano,
+Page 418

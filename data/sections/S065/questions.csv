@@ -1,0 +1,9 @@
+qa_id,fact_id,question,question_style
+S065_Q0001,S065_F0001,What courses are in mechatronics BE year 4 fall?,direct
+S065_Q0002,S065_F0001,When do mechatronics BE students take Advanced Programming for AI and Robotics?,paraphrase
+S065_Q0003,S065_F0002,What is in the last semester of the mechatronics BE?,direct
+S065_Q0004,S065_F0002,When do mechatronics students take Robotics and Industrial Control?,paraphrase
+S065_Q0005,S065_F0003,How are mechatronics technical electives selected?,direct
+S065_Q0006,S065_F0003,Do mechatronics BE students need an AI-restricted elective?,paraphrase
+S065_Q0007,S065_F0004,What is MECA 400 Summative Learning (BS) Project?,direct
+S065_Q0008,S065_F0004,When do mechatronics BS students take the BS project?,paraphrase

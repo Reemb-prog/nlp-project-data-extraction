@@ -1,0 +1,65 @@
+qa_id,fact_id,question,question_style
+S034_Q0001,S034_F0001,Who is the chairperson of the Financial Studies Department?,direct
+S034_Q0002,S034_F0001,Who are the full-time faculty in the FSD?,paraphrase
+S034_Q0003,S034_F0002,Which programs does the Financial Studies Department offer?,direct
+S034_Q0004,S034_F0002,Is Business IT Management part of the Financial Studies Department?,paraphrase
+S034_Q0005,S034_F0003,What is the Accounting program about?,direct
+S034_Q0006,S034_F0003,What are the two main tracks in accounting?,paraphrase
+S034_Q0007,S034_F0004,What are the mandatory courses in the Accounting major?,direct
+S034_Q0008,S034_F0004,Is Taxation required for accounting students?,paraphrase
+S034_Q0009,S034_F0005,What major electives can accounting students take?,direct
+S034_Q0010,S034_F0005,How many elective credits are in the Accounting BBA?,paraphrase
+S034_Q0011,S034_F0006,Can Independent Studies replace a mandatory business course?,direct
+S034_Q0012,S034_F0006,When can BADM 480 substitute for a required course?,paraphrase
+S034_Q0013,S034_F0007,What is the co-op requirement for accounting students?,direct
+S034_Q0014,S034_F0007,When do accounting majors do their co-op work experience?,paraphrase
+S034_Q0015,S034_F0008,What careers are available to accounting graduates?,direct
+S034_Q0016,S034_F0008,Can I become an auditor with an RHU accounting degree?,contextual
+S034_Q0017,S034_F0009,What are the learning outcomes of the Accounting program?,direct
+S034_Q0018,S034_F0009,Will accounting students learn IFRS financial statements?,paraphrase
+S034_Q0019,S034_F0010,What do accounting students take in their first year?,direct
+S034_Q0020,S034_F0010,How many semesters and summers is the Accounting BBA?,paraphrase
+S034_Q0021,S034_F0011,What courses are in accounting year 2 fall?,direct
+S034_Q0022,S034_F0011,When do accounting majors take Intermediate Accounting I and Cost Accounting?,paraphrase
+S034_Q0023,S034_F0012,What is in accounting year 2 spring?,direct
+S034_Q0024,S034_F0012,When do accounting students do the community engagement experience?,paraphrase
+S034_Q0025,S034_F0013,What courses are in accounting year 3 fall?,direct
+S034_Q0026,S034_F0013,When is External Auditing scheduled for accounting majors?,paraphrase
+S034_Q0027,S034_F0014,What is in the last semester of the accounting study plan?,direct
+S034_Q0028,S034_F0014,When do accounting students take Entrepreneurship and co-op?,paraphrase
+S034_Q0029,S034_F0015,What does BACC 305 Intermediate Accounting I cover?,direct
+S034_Q0030,S034_F0015,Which accounting course covers IFRS measurement of assets?,paraphrase
+S034_Q0031,S034_F0016,What is the prerequisite for BACC 305?,direct
+S034_Q0032,S034_F0016,Intermediate Accounting I prerequisite?,short
+S034_Q0033,S034_F0017,What is BACC 310 Cost Accounting about?,direct
+S034_Q0034,S034_F0017,Which course covers process costing and joint costing?,paraphrase
+S034_Q0035,S034_F0018,What is required before BACC 310?,direct
+S034_Q0036,S034_F0018,Do I need Managerial Accounting before Cost Accounting?,paraphrase
+S034_Q0037,S034_F0019,What does BACC 405 Intermediate Accounting II cover?,direct
+S034_Q0038,S034_F0019,Which course covers earnings per share and cash flow statements?,paraphrase
+S034_Q0039,S034_F0020,What is the prerequisite for BACC 405?,direct
+S034_Q0040,S034_F0020,Can I take Intermediate Accounting II without Intermediate Accounting I?,contextual
+S034_Q0041,S034_F0021,What is BACC 450 External Auditing about?,direct
+S034_Q0042,S034_F0021,Which course teaches auditing the revenue and expenditure cycles?,paraphrase
+S034_Q0043,S034_F0022,What does BACC 460 Advanced Financial Accounting cover?,direct
+S034_Q0044,S034_F0022,Which course covers consolidated financial statements?,paraphrase
+S034_Q0045,S034_F0023,What is BACC 465 Taxation about?,direct
+S034_Q0046,S034_F0023,Does the taxation course cover Lebanese tax law?,paraphrase
+S034_Q0047,S034_F0024,What is BADM 485 Co-op Work Experience?,direct
+S034_Q0048,S034_F0024,What are the prerequisites of the business co-op course?,paraphrase
+S034_Q0049,S034_F0025,What does BADM 490 Entrepreneurship cover?,direct
+S034_Q0050,S034_F0025,Which course teaches how to write a business plan?,paraphrase
+S034_Q0051,S034_F0026,How many credits is BADM 490 Entrepreneurship?,direct
+S034_Q0052,S034_F0026,Is Entrepreneurship 2 or 3 credits in the accounting program?,paraphrase
+S034_Q0053,S034_F0027,What is BFIN 350 Credit and Financial Analysis about?,direct
+S034_Q0054,S034_F0027,Which course covers liquidity and solvency analysis?,paraphrase
+S034_Q0055,S034_F0028,What does BACC 350 Accounting Information Systems cover?,direct
+S034_Q0056,S034_F0028,What are the prerequisites for Accounting Information Systems?,paraphrase
+S034_Q0057,S034_F0029,What is BACC 455 Internal Auditing about?,direct
+S034_Q0058,S034_F0029,Is there an internal auditing elective in accounting?,paraphrase
+S034_Q0059,S034_F0030,What does BACC 470 Forensic Accounting and Fraud Detection cover?,direct
+S034_Q0060,S034_F0030,Is there a course on fraud detection?,paraphrase
+S034_Q0061,S034_F0031,What is BADM 480 Independent Studies?,direct
+S034_Q0062,S034_F0031,What do I need to take an independent study in business?,paraphrase
+S034_Q0063,S034_F0032,What is BACC 210 SME's Financial Planning and Accounting?,direct
+S034_Q0064,S034_F0032,Is there an accounting course for non-business students running small businesses?,paraphrase

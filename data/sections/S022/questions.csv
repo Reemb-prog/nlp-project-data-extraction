@@ -1,0 +1,22 @@
+qa_id,fact_id,question,question_style
+S022_Q0001,S022_F0001,What is the goal of the English Language and Literature minor?,direct
+S022_Q0002,S022_F0001,What will I learn in the English minor?,paraphrase
+S022_Q0003,S022_F0002,What do I need to apply for the English minor?,direct
+S022_Q0004,S022_F0002,"I got 68 in ENGL 210, can I join the English Language and Literature minor?",contextual
+S022_Q0005,S022_F0003,How many credits is the English Language and Literature minor?,direct
+S022_Q0006,S022_F0003,Which courses are mandatory in the English minor?,paraphrase
+S022_Q0007,S022_F0003,What GPA do I need to graduate with an English minor?,paraphrase
+S022_Q0008,S022_F0004,Which majors pair well with an English minor?,direct
+S022_Q0009,S022_F0004,"I'm a CS student, what can an English minor lead to?",contextual
+S022_Q0010,S022_F0005,What electives can I choose for the English minor?,direct
+S022_Q0011,S022_F0005,Can Creative Writing count toward the English Language and Literature minor?,paraphrase
+S022_Q0012,S022_F0006,What are the objectives of the Psychology minor?,direct
+S022_Q0013,S022_F0006,What will I learn in a psychology minor at RHU?,paraphrase
+S022_Q0014,S022_F0007,What is required to apply for the Psychology minor?,direct
+S022_Q0015,S022_F0007,What grade in PSYC 301 do I need for the psych minor?,paraphrase
+S022_Q0016,S022_F0008,How many credits are required for the Psychology minor?,direct
+S022_Q0017,S022_F0008,What minimum GPA is needed in psychology minor courses?,paraphrase
+S022_Q0018,S022_F0009,What careers can a psychology minor help with?,direct
+S022_Q0019,S022_F0009,Can business students add a psychology minor?,contextual
+S022_Q0020,S022_F0010,Which electives count toward the Psychology minor?,direct
+S022_Q0021,S022_F0010,Can I count Abnormal Psychology toward my psych minor?,paraphrase

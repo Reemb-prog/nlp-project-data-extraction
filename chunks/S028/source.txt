@@ -1,0 +1,199 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S028 | Mathematics minor
+ORIGINAL PDF PAGES: 170 to 173 (inclusive)
+ONLY extract facts whose source page is between 170 and 173.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 170 ==========
+MINOR IN MATHEMATICS
+
+Rationale
+
+The CMS Department offers a Mathematics minor for RHU students. It is designed to
+give students a solid foundation in mathematics and some advanced-level experience in
+the discipline.
+
+Program Objectives
+
+The aims of a minor in Mathematics are:
+
+ •   Provide RHU graduates with a basic proficiency in Mathematics to compete at the
+      university level.
+ •   Support RHU graduates with essential mathematical  skills to enhance  their
+     knowledge and understanding of their majors.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate:
+
+ •   An ability to analyze mathematically experimental or physical results
+ •   An ability to use mathematical techniques, skills, and facts in their respective
+     research
+
+Entrance Requirements
+
+Interested RHU students must complete the appropriate form declaring their intent to
+minor in Mathematics while completing their regular major.
+
+Mathematics Minor Policies
+
+ •   Obtain a Minor Cumulative Grade Point Average of no less than 70 %.
+ •  Up to four courses between student major requirements and mathematics minor
+     requirements are counted to fulfill the mathematics minor requirements
+
+Career Options
+
+This minor allows its holders to pursue careers across various sectors, regardless of their
+major. Graduates of  this minor can seek jobs  in teaching, banking and finance,
+computing, and statistics.
+
+
+
+                                                                   Page 170
+
+========== ORIGINAL PDF PAGE 171 ==========
+Program Requirements
+
+To complete the Minor in Mathematics, a student must
+    1)  Declare a Minor in Mathematics by completing the Minor Declaration Form;
+    2)  Obtain the approval of the dean of the college major and the dean of CAS
+    3)  Obtain a Minor Cumulative Grade Point Average of no less than 70%.
+    4)  Complete 18 credits of Mathematics coursework as specified below.
+It should be noted that the student must complete at least six credit hours of coursework
+that are not counted toward the requirements for their major or any other minor.
+
+Curriculum and Program
+
+The mathematics minor consists of six courses (18 credits), of which three are mandatory
+and three are electives, selected to satisfy the requirements of the proposed program
+objectives and learning outcomes.
+
+I.  Mandatory Courses
+
+The three mandatory courses (9 Cr.) are:
+
+ Course #    Title                                Credits  Prerequisites
+ MATH 215  Calculus III                       3
+ MATH 216  Calculus IV                       3     MATH 215
+ MATH 311  Linear Algebra with Applications       3
+
+II.  Elective Courses
+
+The Mathematics Minor Advisor will choose the elective courses based on students’
+needs and backgrounds. Students may choose three elective courses (9 credits) from
+the following list.
+
+ Course #    Title                             Credits   Prerequisites
+ MATH 210  Discrete Mathematics            3
+ MATH 217  Advanced Calculus              3      MATH 215
+ MATH 314  Ordinary Differential Equations     3      MATH 216
+ MATH 316  Introduction to Analysis          3      MATH 217
+ MATH 317   Partial Differential Equations      3      MATH 314
+ MATH 318  Vector Calculus                3      MATH 217 & MATH 311
+ MATH 351   Probability and Statistics         3      MATH 215
+ MATH 421  Numerical Analysis              3      MATH 311
+ MATH 425  Introduction to Complex Variables  3      MATH 217
+ MATH 442  Introduction to Graph Theory      3      MATH 316, MATH 210
+
+
+
+
+
+                                                                   Page 171
+
+========== ORIGINAL PDF PAGE 172 ==========
+Courses Description
+
+MATH 210   Discrete Mathematics                                     3(3,0)
+ Logic, propositional equivalences, predicates and quantifiers, methods of proof, proof
+ strategy, mathematical induction, recursive definitions, strong induction, structural
+ induction, sets and set operations, functions, growth of functions, relations and their
+ properties, representing relations, equivalence relations, introduction to graphs, and
+ graph terminology.
+
+MATH 215    Calculus III                                                3(3,0)
+ This course covers complex numbers, trigonometric functions, inverse trigonometric
+ functions, hyperbolic functions, and integration techniques. The course also covers
+ infinite sequences and series: limits of sequences of numbers, bounded sequences,
+ integral test for series, comparison tests, ratio and root tests, alternating series,
+ absolute and conditional convergence, power series, Taylor and MacLaurin series, and
+ applications of power series. Polar functions, polar coordinates, and graphing of polar
+ curves are also covered. In addition, topics from multivariable calculus are introduced:
+ double integrals, applications to double integrals, and double integrals in polar form.
+
+MATH 216    Calculus IV                                               3(3,0)
+ Multivariable calculus and vector analysis for three-dimensional problems. Topics
+ include 3-D vectors, dot and cross products; quadratic surfaces; limits, continuity, and
+ partial derivatives; gradient, chain rule, and directional derivatives; tangent planes,
+ differentials, extrema, and saddle points; triple integrals in rectangular, cylindrical, and
+ spherical coordinates with applications to mass and moments; vector fields, work, flux,
+ and Green’s Theorem; and an introduction to Fourier series.
+
+MATH 311   Linear Algebra with Applications                         3(3,0)
+ Systems of linear equations, matrix algebra, linear transformations, determinants,
+ vector spaces, eigenvalues and eigenvectors, symmetric matrices, orthogonality,
+ diagonalization.
+
+MATH 314   Ordinary Differential Equations                           3(3,0)
+ First-order linear differential equations; linear differential equations of second and
+ higher order; linear differential equations with variable coefficients; series solutions;
+ systems of differential equations; Laplace transforms and their inverses. Prerequisite:
+MATH 216.
+
+MATH 317    Partial Differential Equations                              3(3,0)
+ Lagrange theorem, boundary conditions of first-order equations, non-linear first-order
+ PDEs, Charpit’s equations, second-order PDEs, classification: hyperbolic, parabolic,
+ and elliptic, the method of separation of variables, introduction to Fourier series and
+ integrals, boundary value problems: heat equation, wave equation, Laplace equation,
+ and finite-length strings. Prerequisite: MATH 314.
+
+
+                                                                   Page 172
+
+========== ORIGINAL PDF PAGE 173 ==========
+MATH 351   Probability and Statistics                                  3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215
+
+MATH 421   Numerical Analysis                                        3(3,0)
+Error Analysis, solutions of nonlinear equations using fixed-point Newton-Raphson-
+Muller’s methods, solution of linear systems using Gaussian elimination-iterative
+methods,   interpolation  and   approximation   using   Taylor   series-Lagrange
+approximation-Newton  polynomials,  numerical   differentiation  and   integration,
+numerical optimization, solutions of ordinary and partial differential equations using
+Euler’s and Heun’s and Rung-Kutta methods, MATLAB codes related to the topics
+mentioned above. Prerequisite: MATH 311.
+
+MATH 316   Introduction to Analysis                                   3(3,0)
+Ordered, finite, countable and uncountable sets, sequences, subsequences, Cauchy
+sequences, upper and lower limits, series, limits of sequences of functions, continuity
+and compactness, connectedness, infinite limits, and limits at infinity, differentiation of
+vector-valued functions, series of functions, uniform convergence and continuity,
+functions of several variables, the inverse function and the implicit function theorems,
+the rank theorem. Prerequisite: MATH 217.
+
+MATH 318   Vector Calculus                                            3(3,0)
+Theory of vector-valued functions, divergence, gradient, curl, vector fields, path
+integrals, surface integrals, constrained extrema, and Lagrange multipliers. Implicit
+function theorem. Green’s and Stokes’ theorems: an introduction to differential
+geometry. Prerequisites: MATH 217 and MATH 311.
+
+MATH 425   Introduction to Complex Variables                        3(3,0)
+Complex numbers, geometric representation, analytic functions, real line integrals,
+complex  integration, power  series,  residues,  poles, and  conformal mappings.
+Prerequisite: MATH215.
+
+MATH 442   Introduction to Graph Theory                             3(3,0)
+Combinatorics through graph theory. Topics include connectedness, factorization,
+Hamiltonian  graphs,  network  flows, Ramsey  numbers,  graph  coloring,  graph
+automorphisms, and Pólya’s Enumeration Theorem—prerequisites: MATH 316 and
+Math 210.
+
+
+
+
+
+                                                                  Page 173

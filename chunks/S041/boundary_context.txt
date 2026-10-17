@@ -1,0 +1,61 @@
+PREVIOUS PAGE 264 (reference only; do not make a fact for this page):
+Tarabay, Mohamad; Associate Professor and Chair, DBA in Finance, Grenoble École
+de Management, Grenoble, France, 2010.
+
+
+
+
+
+                                                           Page 264
+
+NEXT PAGE 274 (reference only; do not make a fact for this page):
+Descriptions of the required Engineering, mathematics, and science courses are given
+below.
+
+C.  Engineering Courses
+
+Descriptions of the Engineering required courses are given below.
+
+ ELEC 210       Electric Circuits                                        3(3,0)
+ Circuit elements and laws; mesh and node equations; network theorems; energy-
+ storage elements; RC, RL, and RLC circuits; Laplace Transform; sinusoids and
+ phasors; and an introduction to network theory. Sinusoidal (AC) steady-state, mutual
+ inductance, transformers, and an introduction to three-phase circuits. Prerequisite:
+ PHYS 191 or Equivalent.
+
+ENGR 510     Engineering Project Management                     3(3,0)
+ The course covers key components of engineering project management including
+ projects election and planning, project time management, cost estimation and pricing,
+ contract and specifications, quality management, engineering ethics and professional
+ conduct,  realizing impact  of engineering  solutions  in  various  contexts  (global,
+ economic, environmental, societal, etc...), sustainability in engineering designs, human
+ resources  consideration,  communications,  risk management, and  procurement
+ management. Prerequisite: ENGR 300.
+
+D.  Mathematics
+
+A description of the required mathematics courses is given below.
+
+ MATH 210     Discrete Mathematics                                  3(3,0)
+ Logic, propositional equivalences, predicates and quantifiers, methods of proof, proof
+ strategy, mathematical induction, recursive definitions, strong induction, and structural
+ induction, sets and set operations, functions, growth of functions, relations, and their
+ properties, representing relations, equivalence relations, introduction to graphs, and
+ graph terminology.
+
+MATH 215    Calculus III                                                3(3,0)
+ This course covers complex numbers, trigonometric functions, inverse trigonometric
+ functions, hyperbolic functions, and integration techniques. The course also covers
+ infinite sequences and series: limits of sequences of numbers, bounded sequences,
+ integral test for series, comparison tests, ratio and root tests, alternating series,
+ absolute and conditional convergence, power series, Taylor and MacLaurin series, and
+ applications of power series. Polar functions, polar coordinates, and graphing of polar
+ curves are also covered. In addition, topics from multivariable calculus are introduced:
+ double integrals, applications to double integrals, and double integrals in polar form.
+
+MATH 216    Calculus IV                                               3(3,0)
+ Multivariable calculus and vector analysis for three-dimensional problems. Topics
+ include 3-D vectors, dot and cross products; quadratic surfaces; limits, continuity, and
+ partial derivatives; gradient, chain rule, and directional derivatives; tangent planes,
+ differentials, extrema, and saddle points; triple integrals in rectangular, cylindrical, and
+                                                           Page 274

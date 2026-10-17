@@ -1,0 +1,361 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S065 | Mechatronics engineering courses
+ORIGINAL PDF PAGES: 411 to 417 (inclusive)
+ONLY extract facts whose source page is between 411 and 417.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 411 ==========
+Advanced  Programming  for  AI  and
+MECA 445                                     3     MECA 444L
+              Robotics
+                                            ENGL 217; Senior
+MECA 595A BE Summative Learning Project I       1
+                                                            Standing
+MECH 422   Manufacturing Processes             3     MECH 320
+                                                         Per        course
+              Engineering Technical Elective II        3
+                                                             requirements
+                                                         Per        course
+              Engineering Technical Elective III       3
+                                                             requirements
+ Year 4, Spring Semester (18 Credits)
+MECA 542    Industrial and Manufacturing Control     3 (2+2) ELEC 320
+MECA 544   Robotics                           3     MECH 321
+MECA 595B BE Summative Learning Project II       3     MECA 595A
+                                                         Per        course
+              Engineering Technical Elective IV       3
+                                                             requirements
+              Engineering Technical  Elective V  (AI-         Per        course
+                                              3
+                Restricted**)                                   requirements
+               Social Sciences/ Humanities Elective II   3
+ Total BE credits: 152
+* BS-bound students are required to take the MECA 400 – Summative Learning (BS) Project
+instead.
+** Students are required to choose at least one technical elective (i.e., 3 credits) from the list of AI-
+Restricted Elective courses.
+
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+9 credit restricted Departmental Electives
+6 credits from any engineering discipline at the 400-level or above.
+
+Courses Description
+
+I.  Mandatory Courses
+
+Non-Major Courses
+
+Description of the mandatory, non-major courses follows.
+
+ CCEE 214   Programming & Lab                                     3(2,2)
+ Understanding  of the basic principles  of programming and computer systems;
+ Applications  of programming  to the  solution  of engineering problems; Control
+ structures,  functions,  arrays,  pointers, and  structures. Laboratory experiments.
+ Prerequisite: None.
+
+ CCEE 221   Logic Design                                             3(3,0)
+ This course addresses Boolean algebra and logic simplification techniques, data
+ representation, and  the design  of combinational  logic networks  for decoders,
+ encoders, multiplexers, and demultiplexers.  Design of sequential logic devices,
+
+
+Page 411
+
+========== ORIGINAL PDF PAGE 412 ==========
+including flip-flops, registers, and counters, as well as analysis of devices used to build
+ logic networks, including programmable logic devices. Prerequisite: None.
+
+ CCEE 221L  Logic Design Lab                                         1(0,2)
+ This Lab covers design techniques and implementation  of combinational and
+ sequential  logic  circuits.  Experiments  include  logic  gates;  the  design  and
+ implementation of logic circuits; combinational logic circuits (decoders, encoders,
+ multiplexers, demultiplexers, and adders); and the design of sequential logic devices
+ using flip-flops, registers, and counters. Prerequisite: CCEE 221. Equivalent to COSC
+ 351L.
+
+ CHEM 211   Environmental Chemistry and Lab                       3(2,2)
+ This course provides an opportunity to develop an understanding of several basic
+ environmental functions, the complicated nature of environmental systems, and the
+ need for multidisciplinary solutions to environmental problems. Topics covered include
+ the hydrosphere, water quantity and quality, soil and the soil ecosystem, biological
+ resources, waste disposal,  air  pollution, ozone depletion, acid  rain, and global
+ warming. The course also includes a set of experiments that provide students with
+ practical experience in various environmental analysis settings, including air and water
+ quality. Prerequisite: None.
+
+ CIVE 211     Statics                                                    3(3,0)
+ Static laws; force vectors and operations; force systems and moments; free-body
+ diagrams; equilibrium of particles and rigid bodies in 2D and 3D; plane trusses and
+ frames; cables; internal forces: shear and moment diagrams; centroid and center of
+ mass; moment of inertia; and friction. Prerequisite: None. Annually.
+
+ ELEC 320    Electronics                                              3(3,0)
+ This course covers semiconductors, PN junctions, diode theory and circuits, bipolar
+ junction transistors, transistor fundamentals, transistor biasing, amplifiers, MOSFETs,
+ and operational amplifiers. Prerequisite: ELEC 210.
+
+ ELEC 320L   Electronics Lab                                         1(0,2)
+ This is a lab course that experiments with electrical and electronic circuits. It covers
+ passive electrical elements and sources, lab instruments, voltage divider circuits,
+ Thevenin’s theorem, RC  circuits, diode circuits, Op-Amp circuits, and BJT and
+ MOSFET characteristics. Co-requisite: ELEC 320.
+
+ ELEC 210    Electric Circuits                                         3(3,0)
+ This course covers circuit elements and laws; mesh and node equations; network
+ theorems;  energy-storage  elements; RC,  R, and RLC  circuits;  transformers;
+ sinusoidal (AC) steady-state analysis; power calculation; and an introduction to three-
+ phase circuits. Prerequisite: PHYS 191 or Equivalent.
+
+
+
+Page 412
+
+========== ORIGINAL PDF PAGE 413 ==========
+ELEC 331    Electric Machines                                       3(3,0)
+ This course covers magnetic circuits; fundamentals of electromechanical energy
+ conversion; and the construction, testing, steady-state analysis, and operational
+ characteristics of DC machines, transformers, induction machines, and synchronous
+ machines. Prerequisite: ELEC 210.
+
+ ENGL 210    English Composition and Rhetoric                     3(3,0)
+ This course reviews the fundamentals of good academic writing in English, teaches
+ essay writing essentials and research skills in two rhetorical modes (persuasion and
+ argumentation), and provides practice in writing essays in these modes, research
+ papers, and oral presentations. Prerequisite: ENGL 101 or TOEFL 550+ (paper) or
+ 80+ (computer).
+
+ ENGL 217    Professional English Communication                  3(3,0)
+ This course is designed to help students develop effective professional communication
+ skills, both orally and in writing. In this course, students learn how to write emails,
+ memos, letters, proposals, reports, and other forms of employment correspondence.
+ In addition, this course helps students sharpen their presentation skills. Broadly, this
+ course enables students to behave professionally and effectively in their prospective
+ jobs. Prerequisite: ENGL 210.
+
+ENGR 300   Engineering Economics and Management              3(3,0)
+ Concepts and techniques in basic Engineering economy principles and applications.
+ Interest and financial mathematics; present worth, annual worth, benefit/cost ratio,
+ internal rate of return, multiple alternatives, income tax,  inflation, Risk analysis,
+ Investment and investment choice, equivalence, loans, cost of capital, retirement and
+ replacement, sector analysis and viewpoint,  sensitivity analysis, accounting and
+ financial statements. Prerequisite: None. Annually.
+
+ENGR 510   Engineering Project Management                      3(3,0)
+ The course covers key components of engineering project management including
+ project selection and planning, project time management, cost estimation and pricing,
+ contract and specifications, quality management, engineering ethics, and professional
+ conduct, realizing the impact of engineering solutions in various contexts (global,
+ economic, environmental, societal, etc.), sustainability in engineering designs, human
+ resources  consideration,  communications,  risk management, and  procurement
+ management. Prerequisite: ENGR 300.
+
+MATH 215    Calculus III                                                3(3,0)
+ This course covers complex numbers, trigonometric functions, inverse trigonometric
+ functions, hyperbolic functions, and integration techniques. The course also covers
+ infinite sequences and series: limits of sequences of numbers, bounded sequences,
+ integral test for series, comparison tests, ratio and root tests, alternating series,
+ absolute and conditional convergence, power series, Taylor and MacLaurin series, and
+ applications of power series. Polar functions, polar coordinates, and graphing of polar
+
+
+Page 413
+
+========== ORIGINAL PDF PAGE 414 ==========
+curves are also covered. In addition, topics from multivariable calculus are introduced:
+ double integrals, applications to double integrals, and double integrals in polar form.
+
+MATH 216    Calculus IV                                               3(3,0)
+ Multivariable calculus and vector analysis for three-dimensional problems. Topics
+ include 3-D vectors, dot and cross products; quadratic surfaces; limits, continuity, and
+ partial derivatives; gradient, chain rule, and directional derivatives; tangent planes,
+ differentials, extrema, and saddle points; triple integrals in rectangular, cylindrical, and
+ spherical coordinates with applications to mass and moments; vector fields, work, flux,
+ and Green’s Theorem; and an introduction to Fourier series. Prerequisite: MATH 215.
+
+MATH 311   Linear Algebra with Applications                       3(3,0)
+ Systems of linear equations, matrix algebra, linear transformations, determinants,
+ vector spaces, eigenvalues and eigenvectors, symmetric matrices, orthogonality,
+ diagonalization.
+
+MATH 314   Ordinary Differential Equations                         3(3,0)
+ First-order linear differential equations; linear differential equations of second and
+ higher order; linear differential equations with variable coefficients; series solutions;
+ systems of differential equations; Laplace transforms and their inverses. Prerequisite:
+MATH 216.
+
+MATH 317    Partial Differential Equations                            3(3,0)
+ Lagrange theorem, boundary conditions of first-order equations, non-linear first-order
+ PDEs, Charpit’s equations, second-order PDEs, classification: hyperbolic, parabolic,
+ and elliptic, the method of separation of variables, introduction to Fourier series and
+ integrals, boundary value problems: heat equation, wave equation, Laplace equation,
+ and finite-length strings. Prerequisite: MATH 314.
+
+MATH 351   Probability and Statistics                               3(3,0)
+ Probability and conditional probability; discrete and continuous random variables;
+ marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+ correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+ prediction and confidence  intervals; hypothesis  testing; and regression  line and
+ correlation coefficients. Prerequisite: MATH 215
+
+ MATH 421  Numerical Analysis                                       3(3,0)
+ Error Analysis, solutions of nonlinear equations using fixed-point, Newton-Raphson-
+ Muller’s methods, solution of linear systems using Gaussian elimination-iterative
+ methods,   interpolation  and   approximation   using   Taylor   series-Lagrange
+ approximation-Newton  polynomials,  numerical   differentiation  and   integration,
+ numerical optimization, solutions of ordinary and partial differential equations using
+ Euler’s and Heun’s and Rung-Kutta methods, MATLAB codes related to the above-
+ mentioned topics. Prerequisite: MATH 311.
+
+
+Page 414
+
+========== ORIGINAL PDF PAGE 415 ==========
+MECH 200   Introduction to Mechanical Engineering                3(3,0)
+ This course aims  to provide students  with a comprehensive overview  of the
+ fundamentals of Mechanical Engineering concepts and applications. Engineering
+ topics to be covered shall include an introduction to learn-by-practice concepts;
+ microcontrollers (Arduino); sensors and actuators; materials, mechanisms, codes, and
+ standards; and robotics (LEGO Mindstorms). In addition, students will be introduced
+ to engineering ethics and will learn how to apply the ASME/ABET code of ethics in
+ practical case studies. The course also integrates the development of hands-on skills,
+ teamwork, and communication; exercises and projects engage students in building,
+ implementing, and testing their designs. Prerequisite: None. Annually.
+
+ MECH 220   Dynamics                                                 3(3,0)
+ Brief review of statics; proper use of different coordinate systems: Cartesian and
+ normal/tangential axes; kinematics of a particle: rectilinear, curvilinear, and relative
+ motion; kinetics of a particle: force and acceleration, work and energy, impulse and
+ momentum; planar kinematics of a rigid body: translating and rotating axes, absolute
+ and relative motion; planar kinetics of a rigid body: force and acceleration, work and
+ energy, impulse and momentum. Prerequisite: CIVE 211. Annually.
+
+ MECH 224   Mechanical Engineering Graphics and CAD             3(3,0)
+ Drafting principles; part and assembly drawings; generating 2D and 3D drawings and
+ solid models  using AutoCAD;  customizing AutoCAD  for  specific  applications;
+ generating 2D drawings using CAD/CAM software; generating parametric, feature-
+ based solids using Autodesk Mechanical Desktop. Introducing mechanical Revit, a
+ Building Information Modeling (BIM) software tailored for the mechanical, electrical,
+ and plumbing (MEP) disciplines. Prerequisite: None. Annually.
+
+ MECH 320   Mechanics of Materials                                  3(3,0)
+ Mechanical stress, strain, and stress/strain relations under pure tension, compression,
+ pure bending, and pure torsion of circular bars; 1-D thermal strain & stress; combined
+ stresses; basic thin-walled cylindrical and spherical shells under internal pressure;
+ principal stresses; plane stress transformation & Mohr’s circles; basic 3-D elastic
+ stress/strain   relations;   strain  measurement  using   strain  gauge  technique.
+ Prerequisite: CIVE 211. Annually.
+
+ MECH 320L   Mechanics of Materials Lab                            1(0,2)
+ This hands-on laboratory course complements theoretical concepts from Mechanics
+ of Materials (MECH 320) by providing practical experience in the experimental
+ analysis of material behavior under various loading conditions. Students will conduct
+ tests involving axial tension/compression, bending, shear, and torsion to investigate
+ stress-strain relationships, deformation, and failure modes in structural materials.
+ Emphasis  is placed on accurate measurement techniques using strain gauges,
+ extensometers, and deflection indicators, as well as data analysis, interpretation, and
+ comparison with theoretical predictions. Through structured experiments and lab
+ reports, students will develop skills in experimental design, data acquisition, critical
+ analysis, and technical communication. Co-requisite: MECH 320.
+
+Page 415
+
+========== ORIGINAL PDF PAGE 416 ==========
+MECH 321   Mechanisms and Dynamics of Machinery               3(3,0)
+ Mechanization  of motion; kinematic analysis  of linkage mechanisms; graphical
+ synthesis of planar mechanisms; synthesis of cam-follower mechanisms (graphical
+ and analytical designs); gear terminology and types of gears used in machines;
+ analysis and synthesis of gear trains; velocity, acceleration, and force analysis of
+ mechanisms. Prerequisite: MECH 200 and MECH 220. Annually.
+
+ MECH 333   Thermal Fluid Sciences                                  3(3,0)
+ This course imparts thermal-fluid fundamental concepts (including Thermodynamics,
+ Fluid Mechanics, and Heat Transfer) to non-mechanical engineering students. These
+ cover thermodynamic state and properties of pure substances; concepts of work and
+ heat; energy analysis of closed systems (First Law) and simple flow devices; fluid
+ statics; Bernoulli’s equation; Conservation of mass, momentum & energy; viscous flow
+ in  pipes;  introduction  to  conduction,  convection and  radiation  heat  transfer.
+ Prerequisite: MATH 216. Annually.
+
+MECH 421  Mechanical Design I                                       3(3,0)
+ Engineering  materials  properties;  tools  of machine  design;  stress,  strain, and
+ deformation of machine parts; buckling of columns; statistical methods and safety
+ consideration; static and fatigue failure theories; design of machine parts for strength
+ under steady loads; design of machine parts for rigidity, deflection of beams and
+ rotation of shafts; design of machine parts for strength under cyclic/dynamic loads;
+ codes and standards. Prerequisite: MECH 320. Annually.
+
+ MECH 422   Manufacturing Processes                                3(3,0)
+ General overview of manufacturing; properties of engineering materials; steelmaking;
+ dimensions and tolerances; manufacturing processes:  rolling, forging, extrusion,
+ powder metallurgy; mechanical assembly: welding, brazing,  soldering, bonding;
+ welding QA/QC; non-destructive testing (NDT); machining; casting; sheet metal
+ forming; plastic injection molding; polymers and composites. Prerequisite: MECH 320.
+ Annually.
+
+ PHYS 210   Fundamentals of Physics and Lab                       3(3,1)
+ Welcome to the Introductory Physics course. This course consists of a review of
+ Classical Mechanics, Fluid Mechanics, General Properties of Waves, Electric Forces,
+  Electric Fields for Discrete and Continuous Charge Distributions, Gauss’s Law,
+  Electric Potential, Kirchhoff’s Rules, Magnetic Fields and Forces, and a Qualitative
+ Discussion of Maxwell’s Equations. Prerequisite: None.
+
+Major Courses
+
+Mandatory mechatronics courses are described below.
+
+MECA 340  Dynamic Systems Modeling                               3(3,0)
+ Introduction to dynamic modeling of mechanical, electrical, electromechanical, thermal,
+ fluid, and  mixed-discipline  systems;  Block  diagrams and computer  simulation
+ (MATLAB); State-variable solution; Laplace Transform solution; Laplace transform
+
+Page 416
+
+========== ORIGINAL PDF PAGE 417 ==========
+properties; inverse Laplace transform; transfer function, frequency response, first- and
+ second-order systems. Prerequisite: MATH 314. Annually.
+
+MECA 341  Measurements and Instrumentation                      3(3,0)
+ This course covers the fundamentals of instrumentation and measurement of various
+ physical quantities. Topics include sensor types, technologies, characteristics, and
+ calibration; design of a measurement system; statistical analysis of measured data;
+ measurement noise and uncertainties; data acquisition, data storage and display
+ devices; signal conditioning and interface electronics concepts including filtering, A/D
+ and  D/A  conversion,   amplification,  modulation,  compensation;   applications;
+ Prerequisite: ELEC 320. Annually.
+
+MECA 341L  Measurements and Instrumentation Lab                 1(0,2)
+ The lab experience complements the topics covered in MECA 341. Students learn to
+ use the NI ELVIS platform, LabVIEW programming, and the characteristics of data
+ acquisition systems to build a measurement system, perform data analysis and sensor
+ calibration, and design and build signal-conditioning  circuits for various types of
+ measurements. The lab involves a team project to integrate all instrumentation and
+ measurement tools and techniques to build a measurement system and submit a
+ report. Co-requisite: MECA 341. Annually.
+
+MECA 400   Summative Learning (BS) Project                       3(3,0)
+ Team-oriented, project-based experience culminating in the creation of an artifact;
+ milestones include project selection and proposal, a creative solution, a report, a
+ presentation, and a demonstration of the device. Prerequisite: ENGL 217 for the last
+ semester of the BS Program. Annually.
+
+MECA 440    Control Systems Design                                3(3,0)
+ This course focuses on the analysis and design of control systems. Measure control
+ system performance; Transient and steady-state response analyses; Topics include
+ analytical solutions in the time and S domains, root locus, Bode, Nyquist, Lead-Lag
+ controller design, and PID compensator design; Analysis and design of control systems
+ in state space. Control system analysis and design using MATLAB and SIMULINK; set
+ up a control system, understand  it, and optimize  its performance; Prerequisites:
+MECA 340. Annually.
+
+MECA 440L   Control Systems Design Lab                            1(0,2)
+ This 1-credit laboratory course provides students with practical experience in the
+ design, analysis, and implementation of linear control systems. Students will gain
+ hands-on proficiency in using MATLAB and Simulink as powerful tools for modeling,
+ simulating, and analyzing control system behavior in both the time and frequency
+ domains. A  significant component  of  the  lab  involves  the  implementation  of
+ fundamental automatic controllers, including ON/OFF, Proportional-Derivative (PD),
+ Proportional-Integral (PI), and Proportional-Integral-Derivative (PID) controllers, using
+ Arduino microcontrollers  for various real-world applications such as temperature
+ control and speed regulation. Students will also be introduced to the diverse range of
+
+Page 417

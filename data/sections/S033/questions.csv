@@ -1,0 +1,29 @@
+qa_id,fact_id,question,question_style
+S033_Q0001,S033_F0001,What are the mandatory college courses for all business students?,direct
+S033_Q0002,S033_F0001,How many college requirement credits do BBA students take?,paraphrase
+S033_Q0003,S033_F0001,Is Business Law required for every business major?,contextual
+S033_Q0004,S033_F0002,Do marketing students take Quantitative Methods for Business?,direct
+S033_Q0005,S033_F0002,What replaces BADM 420 for Marketing and Advertising majors?,paraphrase
+S033_Q0006,S033_F0003,Do business students have to take MATH 207?,direct
+S033_Q0007,S033_F0003,"I passed the math placement test, do I still take College Algebra?",contextual
+S033_Q0008,S033_F0004,What is the prerequisite for BFIN 300?,direct
+S033_Q0009,S033_F0004,Do I need Financial Accounting before Financial Management I?,paraphrase
+S033_Q0010,S033_F0005,What does BACC 205 Financial Accounting cover?,direct
+S033_Q0011,S033_F0005,Which course teaches the accounting cycle and GAAP?,paraphrase
+S033_Q0012,S033_F0006,What is BACC 255 Managerial Accounting about?,direct
+S033_Q0013,S033_F0006,Which course covers cost-volume-profit analysis?,paraphrase
+S033_Q0014,S033_F0007,What is the prerequisite for BACC 255?,direct
+S033_Q0015,S033_F0007,Managerial Accounting prerequisite?,short
+S033_Q0016,S033_F0008,What does BADM 230 Business Law cover?,direct
+S033_Q0017,S033_F0008,Does Business Law focus on Lebanese law?,paraphrase
+S033_Q0018,S033_F0009,What is BADM 235 Business Research Methodology?,direct
+S033_Q0019,S033_F0009,How many credits is Business Research Methodology?,paraphrase
+S033_Q0020,S033_F0010,What does BFIN 300 Financial Management I cover?,direct
+S033_Q0021,S033_F0010,Which course covers time value of money and bond valuation?,paraphrase
+S033_Q0022,S033_F0011,How are BBA program requirements organized?,direct
+S033_Q0023,S033_F0011,What is the Student Study Plan for business students?,paraphrase
+S033_Q0024,S033_F0012,How do business course codes work at RHU?,direct
+S033_Q0025,S033_F0012,What does the B in BMKA stand for?,paraphrase
+S033_Q0026,S033_F0013,Where is the business college learning support center?,direct
+S033_Q0027,S033_F0013,Is there tutoring for business students?,paraphrase
+S033_Q0028,S033_F0013,"I'm struggling with accounting, where can I get peer help?",contextual

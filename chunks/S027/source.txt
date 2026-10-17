@@ -1,0 +1,199 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S027 | Healthcare information systems
+ORIGINAL PDF PAGES: 166 to 169 (inclusive)
+ONLY extract facts whose source page is between 166 and 169.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 166 ==========
+HCIS 342  Health Information Systems II                               3(3,0)
+In this course, students explore current technologies, regulations, and standards,
+including picture archiving and communication systems (PACS); the Health Insurance
+Portability and Accountability Act (HIPAA); 21CFR Part 11; FDA General Principles of
+Software Validation; and Health Level Seven (HL7), and examine their effects on
+software development. Other topics include information technologies for storing and
+maintaining data quality, ensuring safety, enforcing security, and electronic health
+record systems. Prerequisite: HCIS 341.
+
+HCIS 343  Information Security and Privacy in Healthcare             3(3,0)
+This course introduces students to emerging issues in healthcare information security,
+privacy, and regulatory compliance. It also provides the students with a substantive
+overview and analysis of relevant information security subject matter that directly and
+materially impacts the healthcare system. Prerequisite: HCIS 341.
+
+HCIS 399  Co-op Training Experience                                  1(1,0)
+Each student must complete 8 weeks of practical training in a field related to their
+interests. This Co-op work experience is usually fulfilled during the summer semester
+of the third year in the program. Students must submit a formal report and poster and
+make a formal presentation about their Co-op experience. Prerequisites: ENGL 217;
+Senior Standing.
+
+HCIS 444  Healthcare Business Intelligence and Data Analysis       3(3,0)
+This course enables students to learn how Healthcare Analytics and Health Information
+Exchange (HIE) solutions can help uncover new growth opportunities and gain an
+advantage in the profitable healthcare technology market. Other areas covered include
+providing quality patient care while complying with government regulations, controlling
+costs, and increasing your organization’s  visibility in a crowded healthcare  field.
+Prerequisite: HCIS 341.
+
+HCIS 445  Research in Healthcare Information Systems               1(1,0)
+This course focuses on current research trends in healthcare information systems. It
+may incorporate technical seminars, advanced readings, and special projects as
+required/approved by the department. Prerequisite: Senior Standing.
+
+HCIS 490  Summative Learning Experience                            3(3,0)
+This is a graduation project directed at individual problems and research. Each student
+must complete it in their emphasis area. Prerequisite: ENGL 217.
+
+
+
+
+
+                                                                  Page 166
+
+========== ORIGINAL PDF PAGE 167 ==========
+Business Required Courses
+
+As described below, the HCIS program requires two business courses, BMKA 200 and
+BMGT 300.
+
+ BMGT 300   Project Management                                      3(3,0)
+ This course provides students with the skills to manage their business projects using
+  effective techniques for leading, organizing, scheduling, and controlling tasks that
+ advance project goals. Topics include project selection and statement of work; project
+ managers'  skills and  task breakdown  structure; PERT/CPM  scheduling and
+ budgeting. Prerequisite: Junior Standing.
+
+ BMKA 200   Introduction to Marketing                                 3(3,0)
+ This course introduces the basic principles, theories, and marketing practices in our
+ modern, ever-changing business environment. The course covers the marketing
+ process activities of creating value for customers and capturing value from customers
+  in return. It also discusses the marketing mix and how to build long-term customer
+ relationships. Students will analyze case studies about a “real-life” product or service.
+ Videos and in-class discussions on current marketing topics will assist in the learning
+ experience. Co-requisite: ENGL 210
+
+II.  Elective Courses
+
+Descriptions of the major elective courses are given below.
+
+COSC 434   Advanced Web Programming                             3(3,0)
+ This course builds on the web programming course and prepares students to become
+ full-stack developers. It allows students to learn how to develop back-end programs,
+ connect their website or web application to a database, use regular expressions,
+ implement asynchronous client access to server data, work with structured data
+ formats such as JSON, and work  with  third-party media  like web  services.
+ Prerequisites: COSC 231 and COSC 333. Equivalent to CCEE 514
+
+COSC 435   Mobile Application Development                          3(2,2)
+ This course examines the principles of mobile application design, development, and
+ testing.  It covers memory management, user interface design, input methods, data
+ handling, and network techniques. Students are expected to work on a project that
+ produces a professional-quality mobile application. Projects will be deployed in real-
+ world applications. Prerequisite: COSC 214, Equivalent to CCEE 511
+
+COSC 436  Game Programming                                       3(2,2)
+ This course provides an overview of software technologies for game development. It
+ gives students a conceptual understanding of game design and practical experience in
+ game creation. Prerequisites: COSC 214, Senior standing.
+
+
+
+
+
+                                                                   Page 167
+
+========== ORIGINAL PDF PAGE 168 ==========
+COSC 438   Introduction to Software Testing                          3(3,0)
+This course will introduce students to software testing, its importance, goals, and
+approaches, as well as the roles of the major players (developers, testers, and users).
+Students will learn about the software testing life cycle, standards, types of testing
+(manual vs. automated), testing methods (black-box vs. white-box), testing levels
+(functional, unit testing…), and documentation. This course will also provide hands-on
+experience with automated testing tools. Prerequisite: COSC 341.
+
+COSC 451   Operating Systems                                        3(3,0)
+Students learn the concepts of operating systems theory and their implementations.
+Covered topics include computer and operating system structures, process and thread
+management, process synchronization, deadlocks, security and protection,  inter-
+process communication, memory management, and I/O control systems. A case study
+of a UNIX operating system will accompany the course. Prerequisite: COSC 214.
+Equivalent to CCEE 513.
+
+COSC 460L  Networking Lab 2                                          1(0,2)
+This Lab helps prepare students seeking to pass advanced Cisco Certifications (CCNA
+1). The student will learn the functionalities of network equipment and protocols, how
+to build a simple Ethernet network using routers, switches, and computers, and how to
+use router CLI commands to perform basic configuration and verification. The student
+will also learn valuable network problem-solving techniques and concepts through
+hands-on skills using hardware devices. Co-requisite: COSC 360L or CCEE 354L.
+Equivalent to CCEE 554L.
+
+COSC 461   Advanced Networking                                     3(3,0)
+This course prepares students to act as a System and Network Administrator by
+implementing Active Directory Domain Services (ADDS in distributed environments
+that can include complex network services and domain controllers. The covered
+materials help students efficiently automate the administration of users, groups, and
+computers. Prerequisite: COSC 360 or CCEE 354.
+
+COSC 461L  Networking Lab 3                                          1(0,2)
+This Lab helps prepare students seeking to pass the Cisco Routing and Switching
+Essentials (CCNA 3) Certification. The primary focus of this Lab is routers and switches
+in large and complex networks. The student will learn how to configure routers and
+switches with advanced functionalities. They will also learn how to configure and
+troubleshoot enhanced switching technologies, first-hop redundancy protocols in a
+switched network, wireless routers and clients, and routers in complex networks.
+Finally, they will learn to manage CISCO IOS software licensing and configuration files.
+Prerequisite: COSC 460L or CCEE 554L. Equivalent to CCEE 555L..
+
+
+
+
+
+                                                                  Page 168
+
+========== ORIGINAL PDF PAGE 169 ==========
+COSC 462L  Networking Lab 4                                          1(0,2)
+This lab helps prepare students seeking to pass the Cisco Routing and Switching
+Essentials (CCNA 3) Certification. The primary focus of this Lab is routers and switches
+in large and complex networks. The student will learn how to configure routers and
+switches with advanced functionalities. They will also learn how to configure and
+troubleshoot enhanced switching technologies, first-hop redundancy protocols in a
+switched network, wireless routers and clients, and routers in complex networks.
+Finally, they will learn to manage CISCO IOS software licensing and configuration files.
+Co-requisite: COSC 461L or CCEE 555L. Equivalent to CCEE 556L.
+
+COSC 463   Cybersecurity operations                                 3(3,0)
+This hands-on, career-oriented course focuses on practical topics to prepare students
+to acquire the required skills to work in the cybersecurity domain. The course will help
+students seeking to pass the Cisco Cybersecurity Operations Associate certification.
+Pre-requisite: COSC 360 (or CCEE 354).
+
+COSC 481    Artificial Intelligence                                       3(3,0)
+This course introduces students to the fundamentals of knowledge representation and
+learning in artificial intelligence. The emphasis will be on understanding fundamental
+concepts in  artificial intelligence and applying corresponding approaches to solve
+practical problems and develop useful software applications. Covered topics include
+Intelligent agents, informed and uninformed search strategies, and adversarial search.
+The Python language libraries  will also be introduced. Prerequisite: COSC 214.
+Equivalent to CCEE 562.
+
+COSC 482   Data Science and Web Scraping                          3(3,0)
+Data is becoming the fuel of the 21st century, and acquiring data processing and
+analysis skills is becoming necessary. This course introduces data science processes,
+with a focus on web scraping as an application. The course will combine different
+domains,  i.e., web programming, system programming, and machine learning. In
+particular, the course focuses on analyzing webpage HTML using Python, extracting
+available information, and generating dashboards. Co-requisite: COSC 333 (or CCEE
+411) and MATH 351 (or BADM 250).
+
+HCIS 498    Special Topics in Healthcare                         1-3 credits
+This special topic course will be defined based on current trends and departmental
+special interests.  It may incorporate technical seminars, advanced readings, and
+special  projects as required/approved by the department.  Prerequisite: Senior
+standing.
+
+
+
+
+
+                                                                  Page 169

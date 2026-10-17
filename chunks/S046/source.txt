@@ -1,0 +1,421 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S046 | Electrical engineering program
+ORIGINAL PDF PAGES: 301 to 308 (inclusive)
+ONLY extract facts whose source page is between 301 and 308.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 301 ==========
+ELECTRICAL  AND  COMPUTER  ENGINEERING
+DEPARTMENT (ECE)
+
+Faculty Members
+
+Chairperson:         Mohamad Diab
+Professor:           Mohamad Diab, Mohamad Taha, Rached Zantout, Toufic
+                             Hijazi
+Associate Professor:   Bassam Moslem, Maher Sabbah, Ousama Mustafa
+Assistant Professor:    Roaa El Chammaa
+Lecturer:             Amani Fawaz, Amal Arid, Milana Kassab
+
+Vision
+
+The Electrical and Computer Engineering Department (ECE) envisages being a leader
+in shaping intellectual and human capital in electrical, computer, communication, and
+biomedical  engineering. The  department  seeks  to  produce  application-oriented
+graduates  in  all  fields  of  electrical,  computer,  communication, and  biomedical
+engineering. Our graduates are trained to enrich Lebanon, the Middle East, and the world
+in general, technologically, economically, and socially.
+
+Mission
+
+The mission of the department is to be recognized as one of the best departments of
+electrical and computer engineering. Such excellence is not limited to education but
+should also encompass research, especially in translating research outcomes to the
+community at large.
+
+Programs Offered
+
+The ECE Department offers three programs – Electrical Engineering, Computer and
+Communications Engineering, and Biomedical Engineering. Each program grants three
+degrees: Bachelor of Science, Bachelor of Engineering, and Master of Science.
+
+
+
+
+
+                                                           Page 301
+
+========== ORIGINAL PDF PAGE 302 ==========
+ELECTRICAL ENGINEERING PROGRAM
+
+Mission
+
+The Electrical Engineering program at RHU aims to help students explore their innate
+creativity and potential and endow them with the knowledge, skills and abilities to: pursue
+successful careers in electrical engineering and related fields; think critically in solving
+complex problems using modern tools and technologies; communicate and work
+effectively with diverse groups; learn more every day, and succeed in graduate studies
+in renowned institutions if they so choose.
+
+Program Educational Objectives
+
+The program's educational objectives are to enable graduates to:
+
+1.  Foster an environment that encourages excellence in endeavor.
+
+2.  Provide quality and professional education that prepares leaders.
+
+3.  Solve problems facing society and industry in Lebanon, the Middle East, and the
+    world.
+
+4.  Engage in multidisciplinary research.
+
+Student Outcomes
+
+The Electrical Engineering program adopts the learning outcomes of ABET, so our
+graduates will have:
+
+1.  An ability to identify, formulate, and solve complex engineering problems by
+    applying principles of engineering, science, and mathematics.
+
+2.  An ability to apply engineering design to produce solutions that meet specified
+    needs with consideration of public health, safety, and welfare, as well as global,
+     cultural, social, environmental, and economic factors.
+
+3.  An ability to communicate effectively with a range of audiences.
+
+4.  An ability to recognize ethical and professional responsibilities in engineering
+     situations and make informed judgments, which must consider the impact of
+    engineering solutions in global, economic, environmental, and societal contexts.
+
+5.  An ability to function effectively on a team whose members together provide
+    leadership, create a collaborative and inclusive environment, establish goals, plan
+     tasks, and meet objectives.
+
+                                                           Page 302
+
+========== ORIGINAL PDF PAGE 303 ==========
+6.  An ability to develop and conduct appropriate experimentation, analyze and
+     interpret data, and use engineering judgment to draw conclusions.
+
+7.  An ability to acquire and apply new knowledge as needed, using appropriate
+    learning strategies.
+
+Accreditation
+
+The Bachelor of Engineering program in Electrical Engineering is accredited by the
+Engineering  Accreditation Commission  of ABET  (https://www.abet.org) under  the
+commission’s General Criteria and Program Criteria for Electrical and Similarly Named
+Engineering Programs.
+
+Career Opportunities
+
+An Electrical engineer could develop components for some of the most fun things in our
+lives (MP3 players, digital cameras, or roller coasters) as well as the most essential
+(medical  tests  or  communications  systems).  This  largest  field  of  engineering
+encompasses the macro (such as large power grids that light up cities) as well as the
+micro (including devices smaller than a millimeter that trigger a car’s airbags to inflate).
+An electrical engineer may work in robotics, computer networks, electric transportation
+systems, medical imaging, or renewable energy systems—at the very forefront of
+technological innovation—as well as in the low-power industry and power plants.
+
+Program Overview
+
+The Electrical (ELEC) Engineering Program at Rafik Hariri University puts students' best
+interests first. Every little experience the student gains represents a block in building a
+competent,  confident,  purposeful,  problem-solving,  competitive,  responsible, and
+conscientious individual. This is accomplished through a curriculum and facilities that
+meet the highest standards, faculty members committed to students' academic and
+personal growth, and an environment that inspires learning and drives creativity.
+
+The Bachelor of Engineering (BE) program in Electrical Engineering comprises 152
+credit hours across eight regular semesters and three summer semesters. The Bachelor
+of Science (BS) program comprises 118 credit hours across six regular semesters and
+three summer semesters. In addition to completing the credit requirements, a BS or a
+BE degree is conferred upon a student if the earned Cumulative GPA, Major GPA, and
+the Summative Learning Project grade are all 70 or above.
+
+The required credit hours span three categories: General Education requirements (UR),
+College requirements (CR), and Program requirements (PR). The allocation of the credit
+hours for the BS and the BE programs is shown in the following tables:
+
+
+
+                                                           Page 303
+
+========== ORIGINAL PDF PAGE 304 ==========
+BS in Electrical Engineering (118 Credits)
+                          Major              Non-Major
+ Courses Category                                                 Credits  Percent
+                  Mandatory  Electives  Mandatory   Electives
+ General Education
+                 0         0        20         7        27     23
+ Requirement
+ College
+                 3         0        18         3        24     20
+ Requirement
+ Program
+                 46        0        21         0        67     57
+ Requirement
+ Credits          49        0        59         10       118    100
+
+BE in Electrical Engineering (152 Credits)
+                          Major              Non-Major
+ Courses Category                                                 Credits  Percent
+                  Mandatory  Electives  Mandatory   Electives
+ General
+                 0         0        20         10       30     20
+ Education
+ College
+                 3         0        21         3        27     18
+ Requirement
+ Program
+                 56        15       24         0        95     62
+ Requirement
+ Credits          59        15       65         13       152    100
+
+I.  General Education Requirements
+
+The list of the GE required courses and their descriptions is presented in the introductory
+pages of the College of Engineering section in this catalog.
+
+II.  College Requirements
+
+The  list of the College-required courses and their descriptions is presented on the
+introductory pages of the College of Engineering section in this catalog.
+
+III. Program Requirements
+
+The program  requirements  for a  Bachelor  of  Engineering degree  in  Electrical
+Engineering encompass 95 credits (67 credits for the BS degree), distributed as follows:
+80 credits (67 credits for the BS degree) of mandatory courses and 15 credits of
+engineering technical electives for BE only.
+
+A.  Mandatory requirements
+
+The mandatory courses for the major and non-major ELEC programs are listed in the
+table below.
+
+ Course #          Title                               Credits Prerequisites
+ CCEE 221        Logic Design                     3
+                                                                       Pre-req.: CCEE
+ CCEE 221L       Logic Design Lab                 1
+                                                       221
+                                                           Page 304
+
+========== ORIGINAL PDF PAGE 305 ==========
+CCEE 331        Signals and Systems               3     MATH 216
+ CCEE 341       Communication Systems            3     CCEE 331
+ CCEE 426       Design of Embedded Systems       3     CCEE 221
+                                                                    Co-req.: CCEE
+ CCEE 426L      Design of Embedded Systems Lab    1
+                                                       426
+ CCEE 460           Artificial Intelligence                3     CCEE 214
+                                                                    Co-req.: CCEE
+ CCEE 460L         Artificial Intelligence Lab            1
+                                                       460
+ CCEE 534        Signal Processing                 2     CCEE 331
+                     Introduction    to    Electrical   and
+ ELEC 200                                       3
+                 Computer Engineering
+ ELEC 301        Sensors and Sensor Circuit Design   3     ELEC 210
+                 Sensors and Sensor Circuit Design           Co-req.:  ELEC
+ ELEC 301L                                      1
+                Lab                                    301
+ ELEC 320         Electronics                       3     ELEC 210
+                                                                    Co-req.: ELEC
+ ELEC 320L        Electronics Lab                   1
+                                                       320
+                                               ELEC 301,
+ ELEC 323         Electronics Circuit Design           3
+                                               ELEC 320
+ ELEC 330       Power Systems                   3     ELEC 210
+ ELEC 331          Electric Machines                 3     ELEC 210
+                                                                    Co-req.:  ELEC
+ ELEC 331L        Electric Machines Lab              1
+                                                       331
+ ELEC 340        Engineering Electromagnetics        3     PHYS 211
+ ELEC 400      BS Summative Learning Project*     3     ENGL 217
+ ELEC 405          Electrical System Design            3     ELEC 210
+ ELEC 406        Modeling and Simulation            3     ELEC 210
+                     Introduction  to Renewable  Energy
+ ELEC 431                                       3     ELEC 210
+                 Systems
+ ELEC 432       Power Electronics                 3     ELEC 320
+                                                                    Co-req.:  ELEC
+ ELEC 432L      Power Electronics Lab              1
+                                                       432
+ ELEC 451         Control Systems                  3     CCEE 331
+ ELEC 499       Co-op Work Experience            3     ENGL 217
+ ELEC 533       Advanced Machines and Drives      3     ELEC 331, 432
+ ELEC 534       Advanced Power Systems          3     ELEC 330
+ ELEC 563       Smart Grid Technology             3     ELEC 432
+ ELEC 595A     BE Summative Learning Project 1    1     ENGL 217
+ ELEC 595B     BE Summative Learning Project 2    3     ELEC 595A
+ MECH 333       Thermal Fluid Sciences             3     MATH 216
+* Required for BS-bound students. BE students take a technical elective instead.
+
+B.  Technical Electives
+
+As part of the Bachelor of Engineering in ELEC Engineering program, the student is
+required to take 15 credit hours of engineering technical electives. Students must be of
+
+                                                           Page 305
+
+========== ORIGINAL PDF PAGE 306 ==========
+senior standing  to take engineering technical  electives. Technical electives allow
+students to focus on a specific area to develop in-depth knowledge and understanding.
+The student can also mix and match elective courses from different areas to gain broader
+exposure  to  the  various ELEC Engineering  disciplines. The  student  should,  in
+cooperation with their academic advisor, select a list of electives that best meet their
+needs and aspirations. The listed engineering technical elective courses and other
+courses from other engineering programs, in addition to the required program courses,
+are designed to allow the student to develop in-depth knowledge and understanding in
+the following areas: (1) Power, (2) Renewable Energy, (3) Intelligent Systems.
+
+It is highly recommended that students take elective courses from the list below after
+completing the mandatory requirements in their respective areas. Students may select
+technical electives from other programs, subject to approval of the academic advisor and
+the corresponding course instructor.
+
+ Course #    Title                                  Credits  Prerequisites
+ ELEC 433  High Voltage Engineering             3      ELEC 330
+ ELEC 434   Electrical Power Distribution           3      ELEC 330
+ ELEC 444  Electromagnetic Compatibility          3      ELEC 210
+ ELEC 498   Special Topics in Electrical Engineering  3          Instructor’s consent
+ ELEC 503   Artificial Neural Systems              3      MATH 311
+            Lasers  and  Laser   Applications   in
+ ELEC 504                                    3
+             Engineering
+               Electrical    Power    Systems     for
+ ELEC 531                                    3      ELEC 432
+             Transportation Applications
+              Application  of  Power  Electronics  in        ELEC 330,
+ ELEC 532                                    3
+           Power Systems                         ELEC 432
+           Renewable Energy Systems for the Built
+ ELEC 535                                    3
+            Environment
+ ELEC 536  Renewable Energy Systems           3      ELEC 431
+ ELEC 542  Advanced Power Electronics           3      ELEC 432
+ ELEC 551  Nonlinear Adaptive Control            3      ELEC 451
+ ELEC 560  Sustainable Energy                  3       None
+                                             ELEC  431  and
+ ELEC 561  Wind Energy Technology              3
+                                             ELEC 432
+ ELEC 562   Solar Energy Technology              3      ELEC 210
+                                                                        Instructor’s
+           Advanced    Topics     in     Electrical
+ ELEC 597                                    3        Consent    Senior
+             Engineering
+                                                            Standing
+
+C.  Summative Learning Project SLP
+
+Students must complete a 3-credit-hour course for BS (4 credits for BE; taken 1 credit in
+the first regular semester and 3 credits in the following regular semester) in which they
+work, preferably in groups, on a problem of concern to industry or the community at large,
+or to innovate a promising idea. The SLP could be an extension of the projects students
+had worked on in previous courses, bringing them to a more useful outcome.
+
+                                                           Page 306
+
+========== ORIGINAL PDF PAGE 307 ==========
+D.  Co-op Experience
+
+Students must complete 8 weeks of practical training in a field related to their interests.
+The Co-op experience is usually fulfilled during the summer semester of the third year in
+the program. The Co-op office matches the Co-op assignment with the student’s field of
+study and the employer’s interest. A faculty member follows up on students’ progress
+throughout the Co-op period by conducting field visits and ensuring that students’
+performance  is aligned with their aspirations and employers’ needs. Students are
+required to submit a formal report and a poster and to give a formal presentation about
+their Co-op experience. While ENGL 217 and Senior Standing are the essential
+prerequisites for co-op training, the program may stipulate additional conditions.
+
+Course Coding
+
+The courses offered in the ELEC Engineering program are designated code numbers in
+the form of (ELEC abc), where:
+
+ a:   Designates course year/level
+ b:   Designates the focus area as follows:
+       0: General; 1: Electrical; 2: Electronics; 3: Power; 4: Magnetism; 5: Control
+  c:   Designates the course sequence in the area
+For example, ELEC 320  is the  first Electronics course offered by the  electrical
+engineering program in the second year.
+
+Study Plan
+
+The following study plan summarizes the courses and credit distribution for the Bachelor
+of Science (BS) and Bachelor of Engineering (BE) in ELEC Engineering. The study plan
+serves as a roadmap to facilitate students’ smooth progression toward graduation.
+
+ Course #    Title                                  Credits Prerequisites
+ Year 1, Fall Semester (14 Credits)
+ ARAB 212   Arabic Language and Communication    2
+CCEE 214   Introduction to Programming           3
+ ENGL 210   English Composition and Rhetoric       3       Placement
+MATH 215  Calculus III                         3
+ PHYS 211   Physics: Electricity and Magnetism & Lab 3
+ Year 1, Spring Semester (15 Credits)
+CCEE 221   Logic Design                        3
+               Introduction  to  Electrical & Computer
+ ELEC 200                                     3
+             Engineering
+                                           PHYS   191    or
+ ELEC 210   Electric Circuits                      3
+                                                               Equivalent
+MATH 216  Calculus IV                         3     MATH 215
+ PHYS 312  Modern Physics                     3
+
+                                                           Page 307
+
+========== ORIGINAL PDF PAGE 308 ==========
+Year 1, Summer Semester (10 Credits)
+CCEE 221L Logic Design Lab                    1     CCEE 221
+MATH 311   Linear Algebra and Applications         3
+             Humanities/ Fine Arts Elective I         3
+            Science Elective                     3
+Year 2, Fall Semester (17 Credits)
+CCEE 331   Signals and Systems                 3     MATH 216
+ELEC 301   Sensors and Sensor Circuit Design      3     ELEC 210
+ELEC 301L  Sensors and Sensor Circuit Design Lab   1        Co-req.: ELEC 301
+ELEC 320   Electronics                         3     ELEC 210
+ELEC 320L  Electronics Lab                      1        Co-req.: ELEC 320
+ENGL 217   Professional English                  3     ENGL 210
+MATH 351   Probability and Statistics              3     MATH 216
+Year 2, Spring Semester (17 Credits)
+ELEC 323   Electronics Circuit Design              3     ELEC 301, ELEC
+                                                    320
+ELEC 330  Power Systems                      3     ELEC 210
+ELEC 331   Electric Machines                    3     ELEC 210
+ELEC 331L  Electric Machines Lab                1        Co-req.: ELEC 331
+ELEC 340   Engineering Electromagnetics          3     PHYS 211
+MATH 314  Ordinary Differential Equations          3     MATH 216
+           Community and Sustainability Elective    1
+Year 2, Summer Semester (9 Credits)
+ENGR 300  Engineering Economics and            3
+          Management
+MATH 421  Numerical Analysis                   3     MATH 311
+             Social Science Elective I              3
+Year 3, Fall Semester (16 Credits)
+CCEE 426  Design of Embedded Systems          3     CCEE 221
+CCEE 426L Design of Embedded Systems Lab      1        Co-req.: CCEE 426
+ELEC 405   Electrical System Design              3     ELEC 210
+ELEC 406   Modeling and Simulation              3     ELEC 210
+ELEC 431   Introduction to Renewable Energy       3     ELEC 210
+           Systems
+ELEC 451   Control Systems                     3     CCEE 331
+Year 3, Spring Semester (17 Credits)
+CCEE 341  Communication Systems              3     CCEE 331
+CEE 460      Artificial Intelligence                  3     CCEE 214
+CCEE 460L  Artificial Intelligence Lab               1        Co-req.:   CCEE
+                                                    460
+ELEC 432  Power Electronics                    3     ELEC 320
+ELEC 432L Power Electronics Lab                1        Co-req.: ELEC 432
+ELEC       Engineering Technical Elective 1* or BS  3
+              Project
+MECH 333  Thermal Fluid Sciences               3     MATH 216
+
+                                                          Page 308

@@ -1,0 +1,97 @@
+qa_id,fact_id,question,question_style
+S016_Q0001,S016_F0001,What is PHIL 310 Philosophers of Peace about?,direct
+S016_Q0002,S016_F0001,Is there a philosophy elective on peacebuilding?,paraphrase
+S016_Q0003,S016_F0002,What does PHIL 480 Special Topics in Philosophy involve?,direct
+S016_Q0004,S016_F0002,Do I need instructor consent for PHIL 480?,paraphrase
+S016_Q0005,S016_F0003,What is THEA 301 Introduction to Theatre?,direct
+S016_Q0006,S016_F0003,Can I act in a play as part of a gen ed course?,contextual
+S016_Q0007,S016_F0004,Which courses count as Social Sciences/Culture gen ed electives?,direct
+S016_Q0008,S016_F0004,Can I take a psychology course to satisfy the social sciences domain?,contextual
+S016_Q0009,S016_F0005,What does BECN 301 Microeconomics cover?,direct
+S016_Q0010,S016_F0005,Which gen ed course covers monopoly and oligopoly?,paraphrase
+S016_Q0011,S016_F0006,What is the prerequisite for BECN 301?,direct
+S016_Q0012,S016_F0006,Can a second-year student take Microeconomics?,contextual
+S016_Q0013,S016_F0007,What is BECN 302 Macroeconomics about?,direct
+S016_Q0014,S016_F0007,Which course covers inflation and fiscal policy and what does it require?,paraphrase
+S016_Q0015,S016_F0008,What does BMGT 200 Introduction to Management cover?,direct
+S016_Q0016,S016_F0008,Is Introduction to Management a social sciences elective?,paraphrase
+S016_Q0017,S016_F0009,What is CMNS 310 Persuasion in a Mediated World?,direct
+S016_Q0018,S016_F0009,Which elective teaches Aristotle's rhetoric for negotiation?,paraphrase
+S016_Q0019,S016_F0010,What is the prerequisite of CMNS 350?,direct
+S016_Q0020,S016_F0010,Do I need CMNS 301 before Mass and Digital Communication Ethics?,paraphrase
+S016_Q0021,S016_F0011,What does CMNS 380 Social Media Campaigns and Strategies cover?,direct
+S016_Q0022,S016_F0011,Is there an elective about social media strategy?,paraphrase
+S016_Q0023,S016_F0012,What is CMNS 401 Peace Communication about?,direct
+S016_Q0024,S016_F0012,Which course involves online projects with US university students?,paraphrase
+S016_Q0025,S016_F0013,What does CMNS 410 Public Speaking cover?,direct
+S016_Q0026,S016_F0013,Is there a public speaking course I can take as gen ed?,paraphrase
+S016_Q0027,S016_F0014,What is EDUC 210 Educational Psychology about?,direct
+S016_Q0028,S016_F0014,Which elective covers classroom management and learning theories?,paraphrase
+S016_Q0029,S016_F0015,What does EDUC 351 cover?,direct
+S016_Q0030,S016_F0015,Is there a course on motivating students with special needs?,paraphrase
+S016_Q0031,S016_F0016,What is EDUC 415 Factors in Student Motivation?,direct
+S016_Q0032,S016_F0016,Which course discusses attribution theory and cooperative learning?,paraphrase
+S016_Q0033,S016_F0017,What is required before EDUC 480 Special Topics in Education?,direct
+S016_Q0034,S016_F0017,Can I take EDUC 480 without EDUC 201?,contextual
+S016_Q0035,S016_F0018,What does JRSM 210 Arabic News Writing & Reporting cover?,direct
+S016_Q0036,S016_F0018,Is there a journalism course on writing Arabic news?,paraphrase
+S016_Q0037,S016_F0019,What is JRSM 240 Media and Public Relations Writing?,direct
+S016_Q0038,S016_F0019,Which elective teaches PR and advertising copywriting?,paraphrase
+S016_Q0039,S016_F0020,What does JRSM 300 Mass Media Essentials cover?,direct
+S016_Q0040,S016_F0020,Is there an intro to mass communication elective?,paraphrase
+S016_Q0041,S016_F0021,What is JRSM 310 about?,direct
+S016_Q0042,S016_F0021,Which course covers advanced news reporting and interviewing?,paraphrase
+S016_Q0043,S016_F0022,What does JRSM 320 Media and Society cover?,direct
+S016_Q0044,S016_F0022,Is there a course on how media and society influence each other?,paraphrase
+S016_Q0045,S016_F0023,What is JRSM 380 Arab and International Media?,direct
+S016_Q0046,S016_F0023,Which elective compares Arab and Western media?,paraphrase
+S016_Q0047,S016_F0024,What does POSC 301 Introduction to Political Science cover?,direct
+S016_Q0048,S016_F0024,Is there a political science gen ed elective?,paraphrase
+S016_Q0049,S016_F0025,What is PSYC 301 Introduction to Psychology about?,direct
+S016_Q0050,S016_F0025,Which psychology course is the general introduction for sophomores and above?,paraphrase
+S016_Q0051,S016_F0026,What does PSYC 302 Social Psychology cover?,direct
+S016_Q0052,S016_F0026,Is there a course on conformity and prejudice?,paraphrase
+S016_Q0053,S016_F0027,What is PSYC 303 Psychology of Personality?,direct
+S016_Q0054,S016_F0027,Which course covers psychoanalytic and humanist personality theories?,paraphrase
+S016_Q0055,S016_F0028,What does PSYC 304 Child Psychology cover?,direct
+S016_Q0056,S016_F0028,Is there an elective on child development?,paraphrase
+S016_Q0057,S016_F0029,What is PSYC 306 Psychology of Women about?,direct
+S016_Q0058,S016_F0029,Which elective covers gender roles and violence against women?,paraphrase
+S016_Q0059,S016_F0030,What does PSYC 310 Positive Psychology cover?,direct
+S016_Q0060,S016_F0030,Is there a course about happiness and well-being?,paraphrase
+S016_Q0061,S016_F0031,What is PSYC 312 Children and War about?,direct
+S016_Q0062,S016_F0031,Which course covers PTSD in children affected by war?,paraphrase
+S016_Q0063,S016_F0032,What does PSYC 313 Adolescent Psychology cover?,direct
+S016_Q0064,S016_F0032,Is there an elective on teenage development?,paraphrase
+S016_Q0065,S016_F0033,What is PSYC 400 Conflict Transformation?,direct
+S016_Q0066,S016_F0033,Which course teaches mediation and dialogue in conflicts?,paraphrase
+S016_Q0067,S016_F0034,What does PSYC 401 Emotional Intelligence cover?,direct
+S016_Q0068,S016_F0034,Is there a course on EQ at RHU?,paraphrase
+S016_Q0069,S016_F0035,What is PSYC 410 Abnormal Psychology about?,direct
+S016_Q0070,S016_F0035,Which course covers depression and schizophrenia?,paraphrase
+S016_Q0071,S016_F0036,What does PSYC 480 Special Topics in Psychology require?,direct
+S016_Q0072,S016_F0036,Is PSYC 480 open without instructor consent?,paraphrase
+S016_Q0073,S016_F0037,What is the prerequisite for SOCI 210 Research Methods in the Social Sciences?,direct
+S016_Q0074,S016_F0037,Do I need MATH 220 before social science research methods?,paraphrase
+S016_Q0075,S016_F0038,What does SOCI 301 Introduction to Sociology cover?,direct
+S016_Q0076,S016_F0038,Is there a sociology gen ed elective for upper-level students?,paraphrase
+S016_Q0077,S016_F0039,What is SOCI 302 Political Sociology?,direct
+S016_Q0078,S016_F0039,Which course covers the social bases of political ideologies?,paraphrase
+S016_Q0079,S016_F0040,What does SOCI 304 Introduction to Educational Sociology cover?,direct
+S016_Q0080,S016_F0040,Is there a course on class and poverty in education?,paraphrase
+S016_Q0081,S016_F0041,What is SOCI 310 Intercultural Communication about?,direct
+S016_Q0082,S016_F0041,Which course deals with culture shock and acculturation?,paraphrase
+S016_Q0083,S016_F0042,What does SOCI 313 Interpersonal Communication cover?,direct
+S016_Q0084,S016_F0042,Is there a course to improve relationship communication skills?,paraphrase
+S016_Q0085,S016_F0043,What is SOCI 340 Arab Culture and Society?,direct
+S016_Q0086,S016_F0043,Which elective studies contemporary Arab society?,paraphrase
+S016_Q0087,S016_F0044,What does SOCI 410 Culture and Identity cover?,direct
+S016_Q0088,S016_F0044,Is there a course on culture and identity in the Middle East?,paraphrase
+S016_Q0089,S016_F0045,What is SOCI 420 Social Inequalities about?,direct
+S016_Q0090,S016_F0045,Which elective covers class and gender inequality?,paraphrase
+S016_Q0091,S016_F0046,What does SOCI 480 Special Topics in Sociology require?,direct
+S016_Q0092,S016_F0046,Is SOCI 480 a senior-level course?,paraphrase
+S016_Q0093,S016_F0047,What is BIOL 210 Human Anatomy and Physiology and Lab?,direct
+S016_Q0094,S016_F0047,Does BIOL 210 have a lab and any prerequisite?,paraphrase
+S016_Q0095,S016_F0048,What does BIOL 211 General Biology cover?,direct
+S016_Q0096,S016_F0048,Is General Biology a natural sciences gen ed option?,paraphrase

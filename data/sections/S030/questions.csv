@@ -1,0 +1,73 @@
+qa_id,fact_id,question,question_style
+S030_Q0001,S030_F0001,What does GRDS 222 Advanced Digital Media cover?,direct
+S030_Q0002,S030_F0001,Which graphic design course teaches InDesign layout?,paraphrase
+S030_Q0003,S030_F0002,What is the prerequisite for GRDS 222?,direct
+S030_Q0004,S030_F0002,Do I need Introduction to Digital Media before Advanced Digital Media?,paraphrase
+S030_Q0005,S030_F0003,What is GRDS 300 Illustration about?,direct
+S030_Q0006,S030_F0003,Which course teaches watercolor and scraperboard illustration?,paraphrase
+S030_Q0007,S030_F0004,What are the prerequisites for GRDS 300?,direct
+S030_Q0008,S030_F0004,Do I need Drawing II before Illustration?,paraphrase
+S030_Q0009,S030_F0005,What does GRDS 305 Type II cover?,direct
+S030_Q0010,S030_F0005,Which type course combines Arabic and Latin fonts?,paraphrase
+S030_Q0011,S030_F0006,What is the prerequisite of GRDS 305?,direct
+S030_Q0012,S030_F0006,Type II prerequisite?,short
+S030_Q0013,S030_F0007,What is GRDS 306 Type III about?,direct
+S030_Q0014,S030_F0007,Which course focuses on Arabic typography and graffiti?,paraphrase
+S030_Q0015,S030_F0008,What do I need before GRDS 306?,direct
+S030_Q0016,S030_F0008,Are Type II and Advanced Digital Media both required for Type III?,paraphrase
+S030_Q0017,S030_F0009,What does GRDS 310 Design I cover?,direct
+S030_Q0018,S030_F0009,Which design course covers logos and corporate identity?,paraphrase
+S030_Q0019,S030_F0010,What are the prerequisites for GRDS 310?,direct
+S030_Q0020,S030_F0010,Can I take Design I without Introduction to Graphic Design?,contextual
+S030_Q0021,S030_F0011,What is GRDS 311 Design II about?,direct
+S030_Q0022,S030_F0011,Which course teaches packaging design?,paraphrase
+S030_Q0023,S030_F0012,What is the prerequisite for GRDS 311?,direct
+S030_Q0024,S030_F0012,Design II prerequisite?,short
+S030_Q0025,S030_F0013,What does GRDS 345 History of Graphic Design cover?,direct
+S030_Q0026,S030_F0013,What do I need before History of Graphic Design?,paraphrase
+S030_Q0027,S030_F0014,What is GRDS 409 Design Writing Research?,direct
+S030_Q0028,S030_F0014,In which course do I write my graphic design senior project proposal?,paraphrase
+S030_Q0029,S030_F0015,What does GRDS 411 Design III cover?,direct
+S030_Q0030,S030_F0015,Which design course covers editorial layouts and on-screen interfaces?,paraphrase
+S030_Q0031,S030_F0016,What are the prerequisites for GRDS 411?,direct
+S030_Q0032,S030_F0016,Do I need Type III before Design III?,paraphrase
+S030_Q0033,S030_F0017,What is GRDS 412 Design IV about?,direct
+S030_Q0034,S030_F0017,Which course is the graphic design senior project?,paraphrase
+S030_Q0035,S030_F0018,What are the prerequisites for GRDS 412?,direct
+S030_Q0036,S030_F0018,Can I start Design IV before Design Writing Research?,contextual
+S030_Q0037,S030_F0019,What does GRDS 423 Motion Graphics cover?,direct
+S030_Q0038,S030_F0019,Which course uses After Effects for animation?,paraphrase
+S030_Q0039,S030_F0020,What is GRDS 424 Web and Interactive Design about?,direct
+S030_Q0040,S030_F0020,What is the prerequisite for Web and Interactive Design?,paraphrase
+S030_Q0041,S030_F0021,What does GRDS 450 Branding & Advertising cover?,direct
+S030_Q0042,S030_F0021,Do I create a full ad campaign in Branding & Advertising?,paraphrase
+S030_Q0043,S030_F0022,How many credits is GRDS 452 Digital Illustration?,direct
+S030_Q0044,S030_F0022,What does Digital Illustration cover and what does it require?,paraphrase
+S030_Q0045,S030_F0023,What is GRDS 320 UI/UX Design about?,direct
+S030_Q0046,S030_F0023,Which elective uses Adobe XD for app prototypes?,paraphrase
+S030_Q0047,S030_F0024,What does GRDS 330 Photography II cover?,direct
+S030_Q0048,S030_F0024,Is there a photography course for social media?,paraphrase
+S030_Q0049,S030_F0025,What is GRDS 331 Digital Processing?,direct
+S030_Q0050,S030_F0025,Which course teaches Lightroom photo processing?,paraphrase
+S030_Q0051,S030_F0026,What does GRDS 350 3D Printing & Prototyping cover?,direct
+S030_Q0052,S030_F0026,Is there a 3D printing course in graphic design?,paraphrase
+S030_Q0053,S030_F0027,What is GRDS 355 Calligraphy about?,direct
+S030_Q0054,S030_F0027,What is the prerequisite for the Calligraphy elective?,paraphrase
+S030_Q0055,S030_F0028,What does GRDS 375 3D Animation cover?,direct
+S030_Q0056,S030_F0028,Which course teaches Maya and fluid simulation?,paraphrase
+S030_Q0057,S030_F0029,What is GRDS 385 VR Illustration & Sculpting?,direct
+S030_Q0058,S030_F0029,Is there a virtual reality design course at RHU?,paraphrase
+S030_Q0059,S030_F0030,What does GRDS 381 Bookbinding cover?,direct
+S030_Q0060,S030_F0030,Is there a course on Japanese binding techniques?,paraphrase
+S030_Q0061,S030_F0031,What is GRDS 402 Silkscreen about?,direct
+S030_Q0062,S030_F0031,Which elective teaches silkscreen printmaking?,paraphrase
+S030_Q0063,S030_F0032,What does GRDS 403 Painting cover?,direct
+S030_Q0064,S030_F0032,What is required before the Painting elective?,paraphrase
+S030_Q0065,S030_F0033,What is GRDS 431 Critical Theory about?,direct
+S030_Q0066,S030_F0033,Is there a graphic design theory course?,paraphrase
+S030_Q0067,S030_F0034,What are the prerequisites for GRDS 431?,direct
+S030_Q0068,S030_F0034,Do I need Type II and Design I before Critical Theory?,paraphrase
+S030_Q0069,S030_F0035,What does GRDS 436 Game Design cover?,direct
+S030_Q0070,S030_F0035,Do graphic design students work with CS students on a game?,paraphrase
+S030_Q0071,S030_F0036,What is GRDS 498 Special Topics in Graphic Design?,direct
+S030_Q0072,S030_F0036,Is there a special topics course in graphic design?,paraphrase

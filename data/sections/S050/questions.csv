@@ -1,0 +1,35 @@
+qa_id,fact_id,question,question_style
+S050_Q0001,S050_F0001,What is the mission of the Computer and Communications Engineering program?,direct
+S050_Q0002,S050_F0001,What are the educational objectives of CCE?,paraphrase
+S050_Q0003,S050_F0002,What are the student outcomes of CCE?,direct
+S050_Q0004,S050_F0002,Does the CCE program follow ABET outcomes?,paraphrase
+S050_Q0005,S050_F0003,Is the CCE BE ABET accredited?,direct
+S050_Q0006,S050_F0003,Under which ABET criteria is computer and communications engineering accredited?,paraphrase
+S050_Q0007,S050_F0004,How many credits are the BS and BE in CCE?,direct
+S050_Q0008,S050_F0004,Is the CCE BS 116 or 118 credits?,paraphrase
+S050_Q0009,S050_F0005,How are credits distributed in the CCE BS?,direct
+S050_Q0010,S050_F0005,How many gen ed credits are in the BS in computer and communications engineering?,paraphrase
+S050_Q0011,S050_F0006,What is the credit distribution of the CCE BE?,direct
+S050_Q0012,S050_F0006,How many technical elective credits are in the CCE BE?,paraphrase
+S050_Q0013,S050_F0007,What are the mandatory courses in Computer and Communications Engineering?,direct
+S050_Q0014,S050_F0007,Is Wireless Communications required for CCE students?,paraphrase
+S050_Q0015,S050_F0008,What standing do CCE students need for technical electives?,direct
+S050_Q0016,S050_F0008,What focus areas are available for CCE technical electives?,paraphrase
+S050_Q0017,S050_F0009,Which technical electives can CCE students choose?,direct
+S050_Q0018,S050_F0009,Is Robotics a CCE elective?,paraphrase
+S050_Q0019,S050_F0010,Does RHU offer CISCO certificates?,direct
+S050_Q0020,S050_F0010,Can networking labs count as a technical elective in CCE?,paraphrase
+S050_Q0021,S050_F0011,Can undergraduate CCE students take 600-level courses?,direct
+S050_Q0022,S050_F0011,How many technical elective credits can CCE students take from other programs?,paraphrase
+S050_Q0023,S050_F0012,What is the CCE co-op requirement?,direct
+S050_Q0024,S050_F0012,How many credits is CCEE 499 Co-op?,paraphrase
+S050_Q0025,S050_F0013,What does the middle digit in a CCEE course code mean?,direct
+S050_Q0026,S050_F0013,Which CCEE code digit means Computer Networks?,paraphrase
+S050_Q0027,S050_F0014,What courses do CCE students take in year 1?,direct
+S050_Q0028,S050_F0014,When do CCE students take Advanced Programming and Data Structure?,paraphrase
+S050_Q0029,S050_F0015,What courses are in CCE year 2?,direct
+S050_Q0030,S050_F0015,When do CCE students take Computer Networks and Computer Organization?,paraphrase
+S050_Q0031,S050_F0016,What courses are in CCE year 3?,direct
+S050_Q0032,S050_F0016,When do CCE students take Digital Communications and Antennas?,paraphrase
+S050_Q0033,S050_F0017,What is in the CCE BE fourth year?,direct
+S050_Q0034,S050_F0017,When do CCE BE students take Computer Architecture and Mobile Communications?,paraphrase

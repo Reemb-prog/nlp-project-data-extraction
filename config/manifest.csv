@@ -1,0 +1,69 @@
+﻿chunk_id,topic,original_start,original_end,page_count,approx_input_tokens,text_chars,txt_path,pdf_path,sha256_text
+S001,Front matter and governance,1,10,10,4909,19636,chunks/S001/source.txt,chunks/S001/chunk.pdf,d032c78c1372328e843021398bef27447d09ae8b8fd637f3bfaec1a49fd7634a
+S002,Front matter and governance,11,17,7,3738,14950,chunks/S002/source.txt,chunks/S002/chunk.pdf,15fde6b8faaaa39c13bf510843d015dfcd4e17760a058ae36d26399aededfa2a
+S003,Academic calendar and directory,18,20,3,1429,5716,chunks/S003/source.txt,chunks/S003/chunk.pdf,520d20a86c45740ec8d0e20fb344b3d81f3db0eaab5714485ad65a16b74717fe
+S004,University and campus overview,21,27,7,2187,8745,chunks/S004/source.txt,chunks/S004/chunk.pdf,994f251781e8fb3828718395d0bc3d9f555629a933f21c7d2f9dfa3d38944b21
+S005,Admissions and entry requirements,28,36,9,5363,21452,chunks/S005/source.txt,chunks/S005/chunk.pdf,1f6943971176ba596a12c1945862408f39042a25c6da126391ec3bcbc6c3e181
+S006,Fees and expenses,37,39,3,1854,7415,chunks/S006/source.txt,chunks/S006/chunk.pdf,a1832a115f98d0e15664b0ff74177ee77355230cf6f03a96f4587c908f0a18fa
+S007,Library IT and quality services,40,45,6,3216,12862,chunks/S007/source.txt,chunks/S007/chunk.pdf,b4fc3b22c61f6c3c50f728dc0275e81d81974e77af91b208bd02e9fb6464e37b
+S008,Student affairs and financial aid,46,50,5,2610,10439,chunks/S008/source.txt,chunks/S008/chunk.pdf,28f45a4d71c32079c1d48cb3b603e19a66f9a1a420ab7575237ecbc78531f2e2
+S009,Registrar,51,52,2,1019,4073,chunks/S009/source.txt,chunks/S009/chunk.pdf,e208950db250f4c3153a7e60811a154d824ec1f848a53605567a6480de1ab892
+S010,Academic regulations,53,60,8,5239,20954,chunks/S010/source.txt,chunks/S010/chunk.pdf,0fab0c1be58423f0e999e42da8966d15066fbfaa225f2d4a58ea2473d8c18c5e
+S011,Academic regulations,61,69,9,5453,21809,chunks/S011/source.txt,chunks/S011/chunk.pdf,eeca6dd697b62705f93a284dd0df9f118de5a8ccc9147d6545df9aecf7dec027
+S012,Co-op and career services,70,75,6,3899,15594,chunks/S012/source.txt,chunks/S012/chunk.pdf,0697ce3fe38f48dbed68133f100916866d11c6b0a8a6e03e622c596e5e529225
+S013,Freshman program,76,83,8,5053,20212,chunks/S013/source.txt,chunks/S013/chunk.pdf,76e3b956a6294118f0a6f729678dce16ecc4e964bbf10202eb3914b6f9d651c8
+S014,Freshman program,84,89,6,3461,13841,chunks/S014/source.txt,chunks/S014/chunk.pdf,d562edce4ba61f8ac35e270286bdda0884912650c9618ad57100b0fd60587173
+S015,General education,90,96,7,5046,20183,chunks/S015/source.txt,chunks/S015/chunk.pdf,264f15f44e52450f01d4dba5da713a76632478bf32b944fca8bf9ccd0e725f0f
+S016,General education,97,103,7,5185,20737,chunks/S016/source.txt,chunks/S016/chunk.pdf,fd65480e32cd2bcbc227b69e15d240dcfe485032881e0976461d8e677239a246
+S017,General education,104,108,5,3913,15649,chunks/S017/source.txt,chunks/S017/chunk.pdf,7e91160e93d7bd8220f240a11850b55a74d72f29e67904a9deda0754c69c3273
+S018,Arts and Sciences college requirements,109,117,9,5205,20819,chunks/S018/source.txt,chunks/S018/chunk.pdf,45819e2b9f9983e2263732e2081e94304722b25bbe427acdfa28df96aeae88ba
+S019,Arts and Sciences college requirements,118,121,4,2380,9520,chunks/S019/source.txt,chunks/S019/chunk.pdf,7b00b15a62cdd8e8950ecf2d47d39e01cce7c40730c466fa0c8931538aa6e40a
+S020,English language degree,122,130,9,5634,22534,chunks/S020/source.txt,chunks/S020/chunk.pdf,60eba3ab6acbf8f414fb7d649e2b34876b0f1c465b40294240aa26e71ea24749
+S021,English language degree,131,132,2,1356,5423,chunks/S021/source.txt,chunks/S021/chunk.pdf,3d706597897c967f1e342cf83393ecec13e3821f5dea40b994d930ffa9b72cc6
+S022,English and psychology minors,133,136,4,1516,6063,chunks/S022/source.txt,chunks/S022/chunk.pdf,06ace28cbf41676fceae30d43b50fb527a78fef9e492d859cf199a73a374635e
+S023,Computer science degree,137,145,9,5205,20819,chunks/S023/source.txt,chunks/S023/chunk.pdf,8f609c5b3a17f23d1feef35342f05fa03131e3bcf7b57d74ff56f4e30a054f06
+S024,Computer science degree,146,149,4,3068,12272,chunks/S024/source.txt,chunks/S024/chunk.pdf,84b9d9b9c7fb0eaff7d01c4d11c85470feed8a74566a1d788a0979f13c6542f8
+S025,Computer science and data analytics minors,150,157,8,4894,19573,chunks/S025/source.txt,chunks/S025/chunk.pdf,0e9cdf4120b02e91accc21a68fbb26d104e9e27eac6326b6f953515ebc78c5e1
+S026,Healthcare information systems,158,165,8,5221,20881,chunks/S026/source.txt,chunks/S026/chunk.pdf,5458b210f4e2ca3f3381d9abce17a68c961289e44add615f4b746c926af92987
+S027,Healthcare information systems,166,169,4,2847,11386,chunks/S027/source.txt,chunks/S027/chunk.pdf,18cc23f1e24ea6c5ecb4a271e6057492222f8709262250da20e3c6e07ebfdd53
+S028,Mathematics minor,170,173,4,2419,9674,chunks/S028/source.txt,chunks/S028/chunk.pdf,a7a62ea2a531effafecc8c8c97d85bdad255b39180a1e82e06bc856ea7592002
+S029,Graphic design degree,174,182,9,5474,21895,chunks/S029/source.txt,chunks/S029/chunk.pdf,e9ef8471a81bab0f3a94ec43b323815bb2fe13d204581b9aa51f692ec26bae90
+S030,Graphic design degree,183,189,7,5167,20668,chunks/S030/source.txt,chunks/S030/chunk.pdf,71c6fc4993fb265d127c2f74e36776b396083516f1117d65b86250bcc6547166
+S031,Graphic design minor and Arts faculty,190,194,5,1935,7740,chunks/S031/source.txt,chunks/S031/chunk.pdf,2e74afaa6814a49d26fbad9f6324f7579537d917ba1cf16f4d5ea75a822fb59f
+S032,Business college requirements,195,203,9,5148,20589,chunks/S032/source.txt,chunks/S032/chunk.pdf,cd5cbf4faa52bb7aaeef197348197a085627116058752863c0069cf9afc4d28a
+S033,Business college requirements,204,208,5,3641,14564,chunks/S033/source.txt,chunks/S033/chunk.pdf,b7056ed48e735ffddf684f9a3afdfb94fa1fbc3ff22368be5ac1fd31ba54a18b
+S034,Accounting,209,217,9,5143,20570,chunks/S034/source.txt,chunks/S034/chunk.pdf,af27118302326181db99e71c3513dd0be3a1fe67bb8ac81b155e2906b9278f4b
+S035,Business IT management,218,225,8,5302,21207,chunks/S035/source.txt,chunks/S035/chunk.pdf,337e5054fa2b5c78b2d7376ba1fb023b9499b1c41973879a444a77850c166225
+S036,Finance and banking,226,233,8,5495,21977,chunks/S036/source.txt,chunks/S036/chunk.pdf,d1a4a6b2054f2d15bb0991be6a32f60556a19106e2b2a1e2f9c8fa1d170f6f86
+S037,Human resources management,234,242,9,5038,20149,chunks/S037/source.txt,chunks/S037/chunk.pdf,1e4e9d3dfd9197884b288c26de6a8574e54b8c474a87b2ef555a337b5f4ea4d5
+S038,Management,243,250,8,5179,20715,chunks/S038/source.txt,chunks/S038/chunk.pdf,82a0aa456478799ac0b2a269f50dd1ddb34624fd9b76dc272c14cba485293c78
+S039,Marketing and advertising,251,258,8,5191,20762,chunks/S039/source.txt,chunks/S039/chunk.pdf,999bd3d45248bb0ed8662eb61ba7a95ca2c7e43c1d15b18e91484f5f8f7cd330
+S040,Business minors and faculty,259,264,6,2296,9183,chunks/S040/source.txt,chunks/S040/chunk.pdf,27ab66ed672ce9dd902380f2c75e9a042eb7652295ba91683227e10c8151dcb8
+S041,Engineering college requirements,265,273,9,5336,21343,chunks/S041/source.txt,chunks/S041/chunk.pdf,aa8c80cd24942ac9ad50b06db950f454f5474be9cc1189c5640eb598dcb317e2
+S042,Engineering college requirements,274,279,6,4285,17139,chunks/S042/source.txt,chunks/S042/chunk.pdf,a995b772b252d700c7aa327997cd20a5423ef5192fd88e74df66b45b1e31e383
+S043,Civil engineering program,280,288,9,5572,22286,chunks/S043/source.txt,chunks/S043/chunk.pdf,6141d98f6091bf77660fbfec0bf6f16fde2a26b4618e4982e9a14f3686c53f6e
+S044,Civil engineering courses,289,295,7,5289,21156,chunks/S044/source.txt,chunks/S044/chunk.pdf,58d39398ae74c061c3aaaa2f994651b6ef772d0d463a2eeba135862d800e95f7
+S045,Civil engineering courses,296,300,5,3320,13278,chunks/S045/source.txt,chunks/S045/chunk.pdf,ea75aa2ac2c8d650b7b11eca6eaad19a8597061a3e0ae310cbdfc740212eb002
+S046,Electrical engineering program,301,308,8,5250,20999,chunks/S046/source.txt,chunks/S046/chunk.pdf,d1211ae76a8b47920684c310596010ecbf4e888f6b39bc30b86d41f37cd4bd7a
+S047,Electrical engineering courses,309,315,7,5257,21026,chunks/S047/source.txt,chunks/S047/chunk.pdf,5390410ea55a888603467810af064b2dd4997dc01f9a960e9b00f4919e5ab7e1
+S048,Electrical engineering courses,316,319,4,2977,11907,chunks/S048/source.txt,chunks/S048/chunk.pdf,7421572e0d7b9927d4f5901bc39a494f8fbc98173f4deb5245834f036356e079
+S049,Renewable energy systems minor,320,323,4,2566,10261,chunks/S049/source.txt,chunks/S049/chunk.pdf,64ea6d506fbad3d98df18c1e61eec7999a02bb5a72a1587f9fd85673e1de63ac
+S050,Computer and communications engineering program,324,331,8,5215,20859,chunks/S050/source.txt,chunks/S050/chunk.pdf,e8518857e90c1d177577d6c23515f21428a81b86356755cfd20e55ffe86cc4c1
+S051,Computer and communications engineering courses,332,338,7,5414,21654,chunks/S051/source.txt,chunks/S051/chunk.pdf,936d3b5929e66acdfc4a743ba84bd0d6012af893173e43dd3af83e8018c0a85f
+S052,Computer and communications engineering courses,339,344,6,4540,18158,chunks/S052/source.txt,chunks/S052/chunk.pdf,d10c1b464f0fbe958bfeabbde0af44e8328d0edafcbaea683f80211578d484ce
+S053,Artificial intelligence minor,345,348,4,2207,8826,chunks/S053/source.txt,chunks/S053/chunk.pdf,e5b9f5ae45db804ae825c7b61e44570d4eac9a5e3380594dec3ce178808254ea
+S054,Computer networks minor,349,353,5,2792,11165,chunks/S054/source.txt,chunks/S054/chunk.pdf,a9b69c46bfac740cd952ea8d7b8d34e2d4ccad063324c5ce1e31bf1e63c77563
+S055,Biomedical engineering program,354,360,7,4617,18468,chunks/S055/source.txt,chunks/S055/chunk.pdf,32d3ec58e3029cf10ca29961b220990154d33ef41e58c7c2a3fea2892d01d99e
+S056,Biomedical engineering courses,361,367,7,5222,20886,chunks/S056/source.txt,chunks/S056/chunk.pdf,6fb51a230384d539f0bfacc874bfb1ebe0479c42205a986bc0f08848f6092fd9
+S057,Biomedical engineering courses,368,372,5,3382,13527,chunks/S057/source.txt,chunks/S057/chunk.pdf,648cae604a313949bfea7a04e8df2d138e154cfbec99f940cfcc92a520fc85f1
+S058,Mechanical engineering program,373,380,8,5076,20304,chunks/S058/source.txt,chunks/S058/chunk.pdf,72068e2e56aaf4e2ad56c3fdea53230785fc5901e078911b88c29e761b84e060
+S059,Mechanical engineering program,381,381,1,832,3327,chunks/S059/source.txt,chunks/S059/chunk.pdf,4399f4b7b303b30fe04822477c0897cabd985d9f422300a180289d07a6955c9f
+S060,Mechanical engineering courses,382,388,7,5511,22043,chunks/S060/source.txt,chunks/S060/chunk.pdf,8dbf0aded7fa7d39bf41c9df51fe4bd165457af84cc9d22a4c6299bb89742364
+S061,Mechanical engineering courses,389,395,7,4904,19615,chunks/S061/source.txt,chunks/S061/chunk.pdf,7dd997d40bf0fd067540cd8066feaf039d2156e2928aa3d281260dde53d2332a
+S062,Applied petroleum engineering minor,396,399,4,2569,10276,chunks/S062/source.txt,chunks/S062/chunk.pdf,e77805f8a716aa78e924d3d14a27c3222f6ae804d92100f5e4de6c44344d2419
+S063,Industrial engineering and management minor,400,403,4,2250,8998,chunks/S063/source.txt,chunks/S063/chunk.pdf,a03a41b3d123909af744721a9deeb6cf3b08407e72a74577328d65c413b308dc
+S064,Mechatronics engineering program,404,410,7,4825,19297,chunks/S064/source.txt,chunks/S064/chunk.pdf,7fda40c4ea71c4594358388d9bc6be88baa54865a3ce91a6d6aeba6c4d844ee6
+S065,Mechatronics engineering courses,411,417,7,5448,21792,chunks/S065/source.txt,chunks/S065/chunk.pdf,5f243d353344f9b5253dd3cf78bb7eb3463d331b88a139d65676a1be40eb72a2
+S066,Mechatronics engineering courses,418,422,5,3914,15656,chunks/S066/source.txt,chunks/S066/chunk.pdf,9e84877cba9eadeb1a2d10136407850d8e3774b0bbad42c0e951134fd4cd3ae8
+S067,Manufacturing and automation minor,423,426,4,2363,9452,chunks/S067/source.txt,chunks/S067/chunk.pdf,dc4a9c1bb874febfc9806d1993f0128891701af6655c225209e38389a5a32c4e
+S068,Engineering faculty list,427,429,3,678,2711,chunks/S068/source.txt,chunks/S068/chunk.pdf,90906fdb8e2c3d93fb0da93e9065f269cbe8a2b40b58131742c787f5bb9f3749

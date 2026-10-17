@@ -1,0 +1,353 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S047 | Electrical engineering courses
+ORIGINAL PDF PAGES: 309 to 315 (inclusive)
+ONLY extract facts whose source page is between 309 and 315.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 309 ==========
+Year 3, Summer Semester (3 Credits)
+ ELEC 499   Co‐op Work Experience               3     ENGL 217
+ The above 118 credits complete the requirements for a Bachelor of Science degree in
+ Electrical Engineering.
+ Year 4, Fall Semester (16 Credits)
+CCEE 534   Signal Processing                    3     CCEE 331
+ ELEC 534   Advanced Power Systems             3     ELEC 330
+ ELEC 595A BE Summative Learning Project 1       1     ENGL 217,
+                                                             Senior standing
+ENGR 510  Engineering Project Management       3     ENGR 300
+             Engineering Technical Elective 2        3
+             Engineering Technical Elective 3        3
+ Year 4, Spring Semester (18 Credits)
+ ELEC 533   Advanced Machines and Drives         3     ELEC 331, 432
+ ELEC 563   Smart Grid Technology                3     ELEC 432
+ ELEC 595B BE Summative Learning Project 2       3     ELEC 595A
+             Engineering Technical Elective 4        3
+             Engineering Technical Elective 5        3
+              Social Sciences/ Humanities Elective II   3
+ Total BE credits: 152
+* BS-bound students are required to take ELEC 400 – Summative Learning (BS) Project
+instead.
+Note: Engineering Technical Electives (levels 400 or above) are selected as such:
+6 credits restricted Departmental Electives
+9 credits from any Engineering discipline at the 400 level or above.
+
+Courses Description
+
+I.  Mandatory Courses
+
+Non-Major Courses
+
+Description of the mandatory, non-major courses follows.
+
+CCEE 214     Introduction to Programming                            3(2,2)
+ This course presents the fundamentals of structured programming concepts. It covers
+ primitive data types, expressions, control statements, functions, arrays, basic search
+ and sorting algorithms, and an introduction to pointers. Prerequisite: None. Equivalent
+ to COSC 214.
+
+CCEE 221    Logic Design                                             3(3,0)
+ This course addresses Boolean algebra and logic simplification techniques, data
+ representation, and the design of combinational logic networks for decoders, encoders,
+ multiplexers, and demultiplexers. Design of sequential logic devices, including flip-
+ flops, registers, and counters, as well as analysis of devices used to build logic
+ networks, including programmable logic devices. Equivalent to COSC 351.
+
+                                                           Page 309
+
+========== ORIGINAL PDF PAGE 310 ==========
+CCEE 221L   Logic Design Lab                                        1(0,2)
+This Lab covers design techniques and implementation of combinational and sequential
+logic circuits. Experiments include logic gates; the design and implementation of logic
+circuits; combinational logic circuits (decoders, encoders, multiplexers, demultiplexers,
+and adders); and the design of sequential logic devices using flip-flops, registers, and
+counters. Prerequisite: CCEE 221. Prerequisite: CCEE 221. Equivalent to COSC
+351L.
+
+CCEE 331    Signals and Systems                                     3(3,0)
+This course covers the mathematical description and classification of continuous and
+discrete signals and systems. Topics include types of signals and systems, Fourier
+series, Fourier transforms, Discrete-Time Fourier transforms (DTFT), Discrete and Fast
+Fourier Transforms (DFT and FFT), Laplace transforms, z-transforms, and transfer
+functions. Prerequisite: MATH 216
+
+CCEE 341    Communication Systems                                3(3,0)
+This  course  introduces  the  fundamentals  of  transmission  and  reception  in
+communication systems, as well as the effects of noise. Topics include power spectral
+density; amplitude modulation and demodulation; angle modulation and demodulation;
+analog communication system performance in the presence of noise; sampling and
+analog‐to‐digital conversion; introduction to digital modulation; and channel capacity.
+Prerequisite: CCEE 331.
+
+CCEE 426    Design of Embedded Systems                          3(3,0)
+This course addresses the design  of embedded  real-time systems, models  of
+computation, validation techniques, and automatic synthesis. Finite-state machines,
+synchronous languages, data-flow networks, Petri nets, software optimization and
+performance estimation, operating systems and scheduling, system-level simulation,
+and interface-based design. Prerequisite: CCEE 221. Equivalent to COSC 356.
+
+CCEE 426L   Design of Embedded Systems Lab                     1(0,2)
+This lab complements topics covered in the CCEE 426 course. It involves the design
+of embedded real-time systems, models of computation, validation techniques, and
+automatic  synthesis.  Experiments  include  design  using  finite-state  machines,
+synchronous languages, data-flow networks, Petri nets, software optimization and
+performance estimation, scheduling, system-level simulation, and interface-based
+design. Co-requisite: CCEE 426. Equivalent to COSC 356L.
+
+CCEE 460   Artificial Intelligence                                      3(3,0)
+ This course introduces students to the fundamentals of knowledge representation and
+ learning methods in  artificial intelligence. The emphasis will be on understanding
+ fundamental concepts in artificial intelligence and applying corresponding approaches
+ to solve practical problems and develop useful software applications. Covered topics
+ include intelligent agents, informed and uninformed search strategies, and adversarial
+ search. Prerequisite: CCEE 214 or equivalent.
+
+
+                                                          Page 310
+
+========== ORIGINAL PDF PAGE 311 ==========
+CCEE 460L  Artificial Intelligence Lab                                 1(0,2)
+This lab will help prepare students to handle the huge amount of data produced by
+both humans and machines today. The student will learn to use state-of-the-art AI tools
+to analyze data and make complex decisions based on that data using real-world
+practical examples and case studies. At the end of the lab, the student will be able to
+apply AI knowledge in their field at work or in day-to-day life to make better decisions.
+Co-req.: CCEE 460.
+
+CCEE 534    Signal Processing                                      3(3,0)
+ This course covers time series analysis, frequency analysis, time-frequency, and
+ time-scale analysis. It also covers the design of digital filters and signal modeling.
+ Prerequisite: CCEE 331.
+
+ENGL 210      English Composition and Rhetoric                  3(3,0)
+This course reviews the fundamentals of good academic writing in English, teaches
+essay writing essentials and research skills in two rhetorical modes (persuasion and
+argumentation), and provides practice in writing essays in these modes, a research
+paper, and an oral presentation. Prerequisite: ENGL 101 or TOEFL 550+ (paper) or
+80+ (computer).
+
+ENGL 217     Professional English Communication                 3(3,0)
+This required course is designed to help students develop effective professional
+communication skills, both orally and in writing. In this course, students learn how to
+write emails, memos, letters, proposals, reports, and other forms of employment
+correspondence. In addition, this course helps students sharpen their presentation
+skills. Broadly, this course enables students to behave professionally and effectively in
+their prospective jobs. Prerequisite: ENGL 210.
+
+ENGR 300    Engineering Economics and Management             3(3,0)
+Concepts and techniques in basic Engineering economy principles and applications.
+Interest and financial mathematics; present worth, annual worth, benefit/cost ratio,
+internal rate of return, multiple alternatives, income tax,  inflation, Risk analysis,
+Investment and investment choice, equivalence, loans, cost of capital, retirement and
+replacement, sector analysis and viewpoint, sensitivity analysis, accounting, and
+financial statements.
+
+ENGR 510    Engineering Project Management                       3(3,0)
+The course covers key components of engineering project management including
+projects election and planning, project time management, cost estimation and pricing,
+contract and specifications, quality management, engineering ethics and professional
+conduct,  realizing impact  of engineering  solutions  in  various  contexts  (global,
+economic, environmental, societal, etc...), sustainability in engineering designs, human
+resources  consideration,  communications,  risk management, and  procurement
+management. Prerequisite: ENGR 300.
+
+
+                                                          Page 311
+
+========== ORIGINAL PDF PAGE 312 ==========
+MATH 215    Calculus III                                                3(3,0)
+This course covers complex numbers, trigonometric functions, inverse trigonometric
+functions, hyperbolic functions, and integration techniques. The course also covers
+infinite sequences and series: limits of sequences of numbers, bounded sequences,
+integral test for series, comparison tests, ratio and root tests, alternating series,
+absolute and conditional convergence, power series, Taylor and MacLaurin series, and
+applications of power series. Polar functions, polar coordinates, and graphing of polar
+curves are also covered. In addition, topics from multivariable calculus are introduced:
+double integrals, applications to double integrals, and double integrals in polar form.
+
+MATH 216    Calculus IV                                               3(3,0)
+Multivariable calculus and vector analysis for three-dimensional problems. Topics
+include 3-D vectors, dot and cross products; quadratic surfaces; limits, continuity, and
+partial derivatives; gradient, chain rule, and directional derivatives; tangent planes,
+differentials, extrema, and saddle points; triple integrals in rectangular, cylindrical, and
+spherical coordinates with applications to mass and moments; vector fields, work, flux,
+and Green’s Theorem; and an introduction to Fourier series. Prerequisite: MATH 215.
+
+MATH 311    Linear Algebra with Applications                       3(3,0)
+Systems of linear equations, matrix algebra, linear transformations, determinants,
+vector spaces, eigenvalues and eigenvectors, symmetric matrices, orthogonality,
+diagonalization.
+
+MATH 314    Ordinary Differential Equations                         3(3,0)
+First-order linear differential equations; linear differential equations of second and
+higher order; linear differential equations with variable coefficients; series solutions;
+systems of differential equations; Laplace transforms and their inverses. Prerequisite:
+MATH 216.
+
+MATH 351     Probability and Statistics                                3(3,0)
+Probability and conditional probability; discrete and continuous random variables;
+marginal  distributions;  expectation,  variance,  mean,  median,  covariance,  and
+correlation;  conditional  expectation;  Normal  distribution;  sampling  distribution;
+prediction and confidence  intervals; hypothesis  testing; and regression  line and
+correlation coefficients. Prerequisite: MATH 215
+
+MATH 421    Numerical Analysis                                      3(3,0)
+Error Analysis, solutions of nonlinear equations using fixed-point, Newton-Raphson-
+Muller’s methods, solution of linear systems using Gaussian elimination-iterative
+methods,   interpolation  and   approximation   using   Taylor   series-Lagrange
+approximation-Newton  polynomials,  numerical   differentiation  and   integration,
+numerical optimization, solutions of ordinary and partial differential equations using
+Euler’s and Heun’s and Rung-Kutta methods, MATLAB codes related to the above-
+mentioned topics. Prerequisite: MATH 311.
+
+
+
+                                                          Page 312
+
+========== ORIGINAL PDF PAGE 313 ==========
+MECH 333   Thermal Fluid Sciences                                  3(3,0)
+ This  course  seeks  to  impart  thermal-fluid  fundamental  concepts  (including
+ Thermodynamics,  Fluid  Mechanics,  and  Heat  Transfer)  to  non-mechanical
+ engineering students. These cover: thermodynamic state and properties of pure
+ substances; concepts of work and heat; energy analysis of closed systems (First Law)
+ and simple flow devices; fluid statics; Bernoulli’s equation; Conservation of mass,
+ momentum & energy; viscous flow in pipes; introduction to conduction, convection and
+ radiation heat transfer. Prerequisite: MATH 216. Annually.
+
+ PHYS 211     Physics: Electricity and Magnetism and Lab           3(3,1)
+ This course covers fundamental topics in Electricity and Magnetism: Electric forces
+ and Electric Fields for discrete and continuous charge distributions; Gauss’s Law;
+ Electric Potential; Capacitance and Dielectrics; Kirchhoff’s rules; Magnetic Fields and
+ Forces;  Biot-Savart Law; Ampere’s Law; Magnetic Flux and Gauss’s Law  in
+ Magnetism. It also includes a laboratory component that introduces students to the
+ “real world” through experiments in electricity and magnetism. Prerequisite: None.
+
+ PHYS 312    Modern Physics                                         3(3,0)
+ This course introduces the principles of revolutionary developments of the 20th
+ century. It covers the interaction of light and matter (Photoelectric effect, Compton
+ effect, Auger effect, etc.), the dual nature of light, various models of atomic description,
+ quantum numbers, the relativistic approach, the Heisenberg Uncertainty Principle, the
+ Schrödinger Equation, and an introduction to the band theory of solids and to particle
+ physics.
+
+Major Courses
+
+Mandatory electrical engineering courses are described below.
+
+ ELEC 200   Introduction   to    Electrical   and   Computer      3(3,0)
+            Engineering
+ In this course, the student will be trained in core skills to excel in electrical, biomedical,
+ computer, and communications engineering. The student will be trained in application
+ programming using an appropriate programming environment. Students will build on
+ the basics of Programming learned  in the introductory programming course to
+ implement Digital Signal Processing applications and perform data analysis. Students
+ will also be introduced to basic lab equipment such as Oscilloscopes, Function
+ Generators, and Multi-Meters. Students will be introduced to microcontroller-based
+ projects to explore more of the Electrical and Computer Engineering majors (CCE,
+ BIOM,  and ELEC  majors).  Throughout  the  course,  students   will  work  in
+ multidisciplinary teams to study engineering cases for the community and implement
+ a project to address a community need.
+
+ ELEC 210     Electric Circuits                                         3(3,0)
+ This course covers circuit elements and laws; mesh and node equations; network
+ theorems; energy-storage elements; RC, RL, and RLC  circuits;  transformers;
+
+                                                           Page 313
+
+========== ORIGINAL PDF PAGE 314 ==========
+sinusoidal (AC) steady-state analysis; power calculation; and an introduction to three-
+ phase circuits. Prerequisite: PHYS 191 or Equivalent.
+
+ELEC 301    Sensors and Sensor Circuit Design                     3(3,0)
+This course provides an introductory overview of the multidisciplinary field of sensors.
+ It includes interpreting relevant signals; measuring noise, pressure, flow, motion, and
+force; and electrode theory. Prerequisite: ELEC 210
+
+ELEC 301L   Sensors and Sensor Circuit Design Lab                1(0,2)
+The lab teaches students how to measure and interpret signals. Experiments include
+signal, noise, pressure (strain gauge), and temperature measurements; fluid and gas
+flow, motion, and force measurements; and applications of electrodes in medical
+equipment and in research and simulation kits—co-requisite: ELEC 301.
+
+ELEC 320     Electronics                                              3(3,0)
+ This course covers semiconductors, PN junctions, diode theory and circuits, bipolar
+ junction transistors, transistor fundamentals, transistor biasing, amplifiers, MOSFETs,
+ and operational amplifiers. Prerequisite: ELEC 210.
+
+ELEC 320L    Electronics Lab                                          1(0,2)
+ This is a Lab course with experiments in Electrical and Electronic Circuits. It covers
+ passive electrical elements and sources; lab instruments; voltage divider circuits;
+ Thevenin’s theorem; RC circuits; diode circuits; Op-Amp circuits; BJT and MOSFET
+ characteristics. Co-requisite: ELEC 320.
+
+ELEC 323    Electronics Circuit Design                                3(3,0)
+This course offers students a methodology for the design process with an emphasis
+on the feasibility and preliminary design phases, including conditioning circuits, Op-
+amps and feedback systems, filters, oscillators, sample/hold, DAC/ADC, and data
+acquisition Boards. Students will learn how to write proposals and reports and increase
+their  creativity through industry-based group projects on  interdisciplinary  topics.
+Prerequisite: ELEC 301; ELEC 320.
+
+ELEC 330    Power Systems                                          3(3,0)
+ This  course  covers  three-phase  power  systems,  symmetrical  components,
+ transmission lines, power transformers, power system modeling, per-unit analysis,
+ power flow studies, and fault analysis. Prerequisite: ELEC 210.
+
+ELEC 331     Electric Machines                                       3(3,0)
+ This course covers magnetic circuits; fundamentals of electromechanical energy
+ conversion; and the construction, testing, steady-state analysis, and operational
+ characteristics of DC machines, transformers, induction machines, and synchronous
+ machines. Prerequisite: ELEC 210.
+
+
+
+
+                                                          Page 314
+
+========== ORIGINAL PDF PAGE 315 ==========
+ELEC 331L    Electric Machines Lab                                   1(0,2)
+ This is a Lab course with experiments on electric machines. It covers the following
+ topics: the basics of DC motors and generators; DC series, shunt, and separately
+ excited motors and generators; single-phase AC induction machines; and 3-phase
+ machines. Co-requisite: ELEC 331.
+
+ELEC 340    Engineering Electromagnetics                          3(3,0)
+ This course covers vector analysis, static electric fields, static magnetic fields, time-
+ varying fields, Maxwell’s equations, and electromagnetic waves. Prerequisite: PHYS
+ 211.
+
+ELEC 400   Summative Learning (BS) Project                       3(3,0)
+Team-oriented, project-based experience culminating in the creation of an artifact;
+milestones include project selection and proposal, a creative solution, a report, a
+presentation, and a demonstration of the device. Prerequisite: ENGL 217 taken in
+the last semester of the BS Program. Annually.
+
+ELEC 405    Electrical System Design                                 3(3,0)
+This course aims to teach students how to design various electrical systems, including
+equipment selection, protection systems, EMC and safety requirements, international
+standards,  drawing  and  interpreting  schematics  and  wiring  diagrams,  cost
+considerations, and energy efficiency. Prerequisite: ELEC 210.
+
+ELEC 406   Modeling and Simulation                                 3(3,0)
+This course aims to teach students how to represent, characterize, understand,
+analyze, and solve real-world problems through modeling and simulation. In this
+course, students are introduced to the tools and techniques for modeling and simulating
+systems, ranging from basic circuits to more complex technical systems across various
+engineering domains. Prerequisite: PHYS 211 and ELEC 210.
+
+ELEC 431    Introduction to Renewable Energy Systems             3(3,0)
+ This course aims to provide students with information on renewable energy sources,
+ including solar, wind, and wave energy, as well as biomass energy. This course will
+ also illustrate how to link these sources to the grid and synchronize them to deliver
+ electricity reliably and efficiently. Prerequisite: ELEC 210.
+
+ELEC 432   Power Electronics                                        3(3,0)
+ This course  familiarizes the students with basic power switch technology and
+ associated electronic circuits. In this course, power electronic circuits and switching
+ devices are studied. Their applications in AC/DC, DC/DC, DC/AC, and AC/AC
+ converters, as well as switching power supplies, are studied. Prerequisite: ELEC
+ 320.
+
+ELEC 432L  Power Electronics Lab                                   1(0,2)
+ This Lab course is designed to teach students the fundamentals of power electronics.
+ It covers the following topics: uncontrolled single- and 3-phase rectifiers using diodes;
+                                                          Page 315

@@ -1,0 +1,269 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S014 | Freshman program
+ORIGINAL PDF PAGES: 84 to 89 (inclusive)
+ONLY extract facts whose source page is between 84 and 89.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 84 ==========
+CVLN 181  Arab Renaissance                                         3(3,0)
+The Arab Renaissance is studied through historical and socio-political texts.
+
+CVLN 190  Freshman Art History                                      3(3,0)
+This course provides an overview of art and its development in the Western world. It
+covers the main art periods from “Prehistoric Art” through “Contemporary Art,” as well
+as the effects of the socio-political cultures of the times.
+
+ELEC 101   Electrical Drawing                                        3(3,0)
+ This course covers reading and interpreting electrical installation drawings and
+ performing electrical installation, machines, and electronic circuit drawings using
+ standard symbols. This course also covers the use of standard computer packages
+ for electrical drawings. This course  will also enable students to understand the
+ installation of various electrical and electronic systems and wiring in buildings.
+
+ELEC 111   Industrial Electricity                                       3(3,0)
+The course will introduce and cover circuit variables and elements; methods and
+ techniques  for  analyzing DC and AC  circuits; 3-phase systems; and power
+ calculations. Fundamentals of industrial devices and equipment will be introduced,
+ along with topics related to their safety.
+
+ELEC 121   Digital Electronics                                        3(3,0)
+ This course introduces different logic gates, develops truth tables for combinational
+ logic circuits, covers simple Boolean expressions for logic gates, and describes the
+ fundamental concepts of ICs.
+
+ELEC 122  Analog Electronics                                        3(3,0)
+ This course aims to provide a basic understanding of the principles of analog
+ electronics and the operation of diodes, transistors, and Op Amps. This course also
+ covers the basic design of analog amplifiers and gain stages.
+
+ELEC 123   Industrial Electronics                                     3(3,0)
+ This course provides a basic knowledge of circuitry for the control and conversion of
+ electrical power with high-efficiency converters. Converters convert and regulate
+ voltage, current, or power; examples include DC-DC converters, AC-DC rectifiers, and
+DC-AC inverters.
+
+ELEC 131   Electrical Power Generation and Distribution            3(3,0)
+This course covers the principles of electrical power generation and distribution, as
+well as the methods used to protect electrical power systems.
+
+ELEC 132   Electric Machines                                         3(3,0)
+This course covers the construction, principles of operation, characteristics, and
+applications  of DC  machines;  the  basic  principles  of  transformers; and  the
+construction, principles of operation, and applications of AC machines.
+
+
+                                                                   Page 84
+
+========== ORIGINAL PDF PAGE 85 ==========
+FADR 100  Basic Drawing                                             3(2,2)
+This course teaches students the basics of drawing with lines, shapes, tones, shadows,
+and colors. Still life set-ups are used to develop the student’s observational skills and
+drawing techniques. Students experiment with various drawing media (charcoal, pencil,
+graphite, and ink) to develop their technical abilities and creativity.
+
+FADR 115   History of Art Overview                                    3(3,0)
+This course  is a comprehensive overview of  artistic movements throughout the
+centuries, with an emphasis on the 20th century.  It explores the forms, purposes,
+meanings, and principles of the artistic styles that influenced cultures across the globe.
+The course also introduces students to basic analytical tools for critically analyzing art
+within its cultural, political, and historical contexts.
+
+FADR 120   Introduction to Color Theory                              3(3,0)
+This course focuses on the principles, theories, and applications of additive and
+subtractive colors in the visual communication design process. Students investigate
+color schemes, color mixing, color properties, and color relationships, and examine the
+psychological, cultural, and symbolic aspects of color and their relation to visual
+communication.
+
+FADR 130  Basic Digital Photography                                 3(2,2)
+This course introduces students  to the basic concepts and practices  of  digital
+photography. Students learn to use the camera, lenses, and other basic photographic
+equipment to create professional images.  It introduces students to the aesthetic
+principles of composition, space, exposure, light, and color. Students also acquire skills
+in digital manipulation and learn the technological requirements of digital formats and
+resolution.
+
+GRDS 150  Introduction to Arabic Calligraphy                        3(2,2)
+This course introduces students to Arabic Calligraphy, one of the highest art forms in
+the Arab world and a primary medium of Islamic visual expression and creativity.
+Students will learn about the history of Islamic Calligraphy, its origin, tools, and styles
+(Riqa, Naskh, Deewani, Thuluth, and Kufi). In addition, students will gain hands-on
+experience with basic lettering and Kufic compositions.
+
+GRDS 160  Principles of Advertising                                  3(3,0)
+This course introduces the basic principles of advertising and their role in media and
+society. It provides an overview of the advertising industry, functions, and practices
+within  the broader communications  context.  This course examines  advertising
+agencies,  advertising  professionals'  roles,  agency-client  relationships,  target
+audiences, media, ethics, and creative and strategic thinking. A brief historical analysis
+of advertising is included to shed light on the important role social forces have played
+in its evolution.
+
+
+
+
+                                                                   Page 85
+
+========== ORIGINAL PDF PAGE 86 ==========
+HIST 100    History of the Ancient World                              3(3,0)
+This course examines various topics, including the origins of civilization in Egypt and
+Mesopotamia,  the  civilizations  of  Ancient Greece and Rome,  the  origins and
+development of Judaism, and the early Christian Church. Co-requisite: ENGL 101.
+
+HIST 102   Europe from the Reformation to the French Revolution     3(3,0)
+A survey of European history begins with the 16th-century Protestant Reformation and
+includes absolutism, the scientific revolution, the Enlightenment, the Old Regime, and
+the French Revolution. Co-requisite: ENGL 101.
+
+HIST 103   Europe in the 19th and 20th Centuries                     3(3,0)
+Topics include the Industrial Revolution; the rise of political ideologies, social classes,
+nationalism, and imperialism; the Russian Revolution; the two world wars; the interwar
+period; and the Cold War era. Co-requisite: ENGL 101.
+
+HIST 108   Issues and Themes in U.S. History: 1607-1877           3(3,0)
+American history from 1607 to 1877 examines the development of the United States
+from early settlement through the Civil War era. Emphasis is placed on the evolution of
+American  politics,  race  relations,  economic and  social  trends, and  Western
+expansionism. Co-requisite: ENGL 101.
+
+GEOL 160  Earth Geology                                             3(3,0)
+This introductory course is designed to provide a general overview of some aspects of
+the Earth’s natural environment and system. It introduces the processes and physical
+systems of the Earth that are important in controlling its environment. In addition, the
+course discusses the relationships among Earth systems and processes and their
+environmental effects.
+
+PHIL 102   Freshman Philosophy                                     3(3,0)
+This course is an introduction to the part of philosophy concerned with questions about
+the ultimate nature of our world and our knowledge of it. The issues discussed include
+the existence and nature of God, the place of human beings in the universe, the nature
+of reality, human nature, human knowledge and skepticism, freedom and determinism,
+and the relationship between mind and body. The emphasis of the course varies from
+instructor to instructor. Co-requisite: ENGL 101.
+
+PHIL110     Critical Thinking                                           3(3,0)
+This course introduces the basic rules of clear and rational thought. Students are
+offered an extensive analysis of examples on how to detect false reasoning, illegitimate
+appeals to emotions, inconsistencies, and contradictions. This course aims to develop
+logical awareness to the point that the rhetoric of everyday life can no longer victimize
+a person, and can develop arguments with clarity and confidence. Prerequisite: Native
+English speakers or English 098. Co-requisite: ENGL 101.
+
+
+
+
+
+                                                                   Page 86
+
+========== ORIGINAL PDF PAGE 87 ==========
+POSC 190  Freshman Politics                                         3(3,0)
+ This survey course is recommended for students interested in discovering how politics
+ impacts their lives and how they, in turn, can affect politics. Students are introduced to
+ the basic concepts of Political Theory, Comparative Politics, International Relations,
+ and Public Policy. Co-requisite: ENGL 101.
+
+ PSYC 190  Freshman Psychology                                     3(3,0)
+ This course aims to develop an understanding of human psychology by focusing on
+ the factors that influence human behavior and mental processes.  It covers cognition,
+ emotions, learning, human development, biological bases of behavior, personality,
+ psychological disorders, psychotherapy and behavior change, and social behavior. Co-
+ requisite: ENGL 101.
+
+ PSYC 195  Freshman Stress Management                            3(3,0)
+ This course addresses the basic principles, theories, and techniques to manage
+ personal stress effectively. Students will better understand the mind-body relationship,
+ learn to employ a holistic approach to stress, and adopt effective cognitive, coping, and
+ relaxation techniques. Co-requisite: ENGL 101.
+
+ SOCI 190   Freshman Sociology                                      3(3,0)
+ This course  is designed to give freshman students an overview of the field and
+ familiarize them with essential sociological concepts. It focuses on the individual in
+ society, the study of society, social institutions, and human agency.  In particular, the
+ course will focus on how people's lived experiences are shaped by social forces and
+ reshaped through human action. Co-requisite: ENGL 101.
+
+Academic Guidelines
+
+Courseload:
+
+1.  Students are expected to finish the Freshman Program in two regular semesters.
+2.  Students can register for up to 15 credits per semester.
+3.  Students on probation can register for up to a maximum of 12 credits.
+
+Transfer from Freshman Science to Arts:
+
+Students must take BECN 190 and achieve a minimum grade of 70.
+
+Repeating courses:
+
+A course may not be repeated more than two times, including withdrawals.
+
+English courses:
+
+Students’ English level upon acceptance determines the number of credits students can
+register for per semester, along with the English course as follows:
+
+                                                                    Page 87
+
+========== ORIGINAL PDF PAGE 88 ==========
+English level                   Number of Credits
+ IELP 085                       10
+ IELP 095                       10
+ IELP 100                       13
+If the students’ English level upon acceptance is ENGL 210, ENGL 210 replaces ENGL
+101, and ENGL 210 should be replaced with a humanities elective in their degree
+program.
+
+Humanities/Social Sciences Courses:
+
+To take humanities or social sciences courses, students should consider the following:
+
+ Humanities/Social   Sciences   course    Co-requisite      Pre-requisite
+ code starting with
+ 100                           ENGL 101
+ 200                                       ENGL 101
+
+ 300                           ENGL 210
+
+Joining Degree Programs
+
+Students may join a degree-granting program at RHU after completing the freshman
+program   if they obtain the freshman-year-to-Lebanese Baccalaureate equivalency
+certificate from the Equivalence Committee of the Lebanese MoEHE. Students on the
+Freshman Arts track may  join any program offered  at the College  of Business
+Administration, or the Graphic Design Program or English Program offered at the College
+of Arts and Sciences. Students on the Freshman Science track are eligible to join any
+degree-granting program offered at the University. Additional requirements to  join
+specific programs are summarized below.
+
+College of Arts and Sciences:
+
+Graphic Design Program. A GPA of at least 70 and a passing score on the RHU
+Graphic Design Aptitude Test.
+
+Computer Science Program: A GPA of at least 70 and a minimum grade of 70 in MATH
+190 and MATH 191.
+
+Healthcare Information Systems Program: A GPA of at least 70 and a minimum grade
+of 70 in MATH 190 and MATH 191.
+
+
+College of Business Administration:
+
+Business Administration programs. A GPA of at least 70 and a grade of at least 70 in
+MATH 189 or MATH 190 and BECN 190.
+
+
+                                                                    Page 88
+
+========== ORIGINAL PDF PAGE 89 ==========
+College of Engineering:
+
+Engineering Programs. A GPA of at least 70 and a minimum grade of 70 in MATH 190,
+MATH 191, PHYS 190, and PHYS 191.
+
+
+
+
+
+                                                                    Page 89

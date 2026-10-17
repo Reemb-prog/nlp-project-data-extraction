@@ -1,0 +1,19 @@
+qa_id,fact_id,question,question_style
+S040_Q0001,S040_F0001,What is the Minor in Business Administration?,direct
+S040_Q0002,S040_F0001,Can non-business students take a business minor?,paraphrase
+S040_Q0003,S040_F0002,How do I complete a minor in Business Administration?,direct
+S040_Q0004,S040_F0002,What GPA do I need in the business administration minor?,paraphrase
+S040_Q0005,S040_F0003,Which courses are in the Business Administration minor?,direct
+S040_Q0006,S040_F0003,Do I take microeconomics or macroeconomics for the business minor?,paraphrase
+S040_Q0007,S040_F0004,Can engineering students substitute courses in the business minor?,direct
+S040_Q0008,S040_F0004,"I'm a CS student, can I take Project Management instead of Entrepreneurship for the business minor?",contextual
+S040_Q0009,S040_F0005,What are the learning objectives of the business minor?,direct
+S040_Q0010,S040_F0005,Will the business minor teach me about startups?,paraphrase
+S040_Q0011,S040_F0006,What is the purpose of the HRM minor?,direct
+S040_Q0012,S040_F0006,Who is the human resources minor designed for?,paraphrase
+S040_Q0013,S040_F0007,What are the requirements for the Human Resources Management minor?,direct
+S040_Q0014,S040_F0007,Which courses do I take for the HR minor?,paraphrase
+S040_Q0015,S040_F0008,How many extra courses do management majors need for the HRM minor?,direct
+S040_Q0016,S040_F0008,"I'm an accounting major, how many courses do I need for the HR minor?",contextual
+S040_Q0017,S040_F0009,What are the goals of the HRM minor?,direct
+S040_Q0018,S040_F0009,Does the HR minor prepare for professional certification?,paraphrase

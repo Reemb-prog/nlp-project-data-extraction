@@ -1,0 +1,73 @@
+qa_id,fact_id,question,question_style
+S061_Q0001,S061_F0001,What does MECH 421 Mechanical Design I cover?,direct
+S061_Q0002,S061_F0001,What is the prerequisite for Mechanical Design I?,paraphrase
+S061_Q0003,S061_F0002,What is MECH 422 Manufacturing Processes about?,direct
+S061_Q0004,S061_F0002,Which course covers forging casting and welding?,paraphrase
+S061_Q0005,S061_F0003,What does MECH 423 Mechanical Design II cover?,direct
+S061_Q0006,S061_F0003,What are the prerequisites for Mechanical Design II?,paraphrase
+S061_Q0007,S061_F0004,What is MECH 431 Heat Transfer about?,direct
+S061_Q0008,S061_F0004,What do I need before Heat Transfer?,paraphrase
+S061_Q0009,S061_F0005,What is done in MECH 431L Heat Transfer Lab?,direct
+S061_Q0010,S061_F0005,What is the co-requisite of the heat transfer lab?,paraphrase
+S061_Q0011,S061_F0006,What does MECH 435 HVAC cover?,direct
+S061_Q0012,S061_F0006,What is the prerequisite for HVAC?,paraphrase
+S061_Q0013,S061_F0007,What is MECH 499 Co-op Work Experience?,direct
+S061_Q0014,S061_F0007,How long is the mechanical co-op according to the course description?,paraphrase
+S061_Q0015,S061_F0008,What does MECH 520 Finite Element Method for Engineers cover?,direct
+S061_Q0016,S061_F0008,What are the prerequisites for the finite element course?,paraphrase
+S061_Q0017,S061_F0009,What is MECH 521 Vibrations and Acoustics about?,direct
+S061_Q0018,S061_F0009,What do I need before Vibrations and Acoustics?,paraphrase
+S061_Q0019,S061_F0010,What are MECH 595A and MECH 595B?,direct
+S061_Q0020,S061_F0010,What is required to start the mechanical BE project?,paraphrase
+S061_Q0021,S061_F0011,What does MECH 436 Petroleum Refining Technology cover?,direct
+S061_Q0022,S061_F0011,What are the prerequisites for the petroleum refining elective?,paraphrase
+S061_Q0023,S061_F0012,What is MECH 437 about?,direct
+S061_Q0024,S061_F0012,Is there a course on heat exchanger design and TEMA standards?,paraphrase
+S061_Q0025,S061_F0013,What does MECH 445 Automotive Engineering cover?,direct
+S061_Q0026,S061_F0013,What do I need before Automotive Engineering?,paraphrase
+S061_Q0027,S061_F0014,What is MECH 448 Plumbing Engineering about?,direct
+S061_Q0028,S061_F0014,What is the prerequisite for Plumbing Engineering?,paraphrase
+S061_Q0029,S061_F0015,What does MECH 451 Fluid Mechanics II cover?,direct
+S061_Q0030,S061_F0015,Which elective covers pumps turbines and open channel flow?,paraphrase
+S061_Q0031,S061_F0016,What is MECH 453 Buildings and Energy about?,direct
+S061_Q0032,S061_F0016,Is there an elective on low-energy building design?,paraphrase
+S061_Q0033,S061_F0017,What does MECH 455 Gas Turbines cover?,direct
+S061_Q0034,S061_F0017,What is the prerequisite for Gas Turbines?,paraphrase
+S061_Q0035,S061_F0018,What is MECH 461 Thermal Systems Design?,direct
+S061_Q0036,S061_F0018,What do I need before Thermal Systems Design?,paraphrase
+S061_Q0037,S061_F0019,What does MECH 468 Internal Combustion Engines cover?,direct
+S061_Q0038,S061_F0019,What is the prerequisite for Internal Combustion Engines?,paraphrase
+S061_Q0039,S061_F0020,What is MECH 470 Product Design and Development about?,direct
+S061_Q0040,S061_F0020,Can I take Product Design and Development together with Mechanical Design I?,contextual
+S061_Q0041,S061_F0021,What does MECH 471 Refrigeration cover?,direct
+S061_Q0042,S061_F0021,What do I need before Refrigeration?,paraphrase
+S061_Q0043,S061_F0022,What is MECH 498 Special Topics in Mechanical Engineering?,direct
+S061_Q0044,S061_F0022,What is required to take MECH 498?,paraphrase
+S061_Q0045,S061_F0023,What does MECH 523 Mechanics of Composite Materials cover?,direct
+S061_Q0046,S061_F0023,Is there a course on laminates and composites?,paraphrase
+S061_Q0047,S061_F0024,What is MECH 524 Elasticity and Plasticity about?,direct
+S061_Q0048,S061_F0024,Which elective covers hardening models in plasticity?,paraphrase
+S061_Q0049,S061_F0025,What does MECH 525 Advanced Dynamics cover?,direct
+S061_Q0050,S061_F0025,Which course covers Lagrange equations and Hamilton's principle?,paraphrase
+S061_Q0051,S061_F0026,What is MECH 527 Modern Material Science?,direct
+S061_Q0052,S061_F0026,What is the prerequisite for Modern Material Science?,paraphrase
+S061_Q0053,S061_F0027,What does MECH 530 Computational Fluid Dynamics cover?,direct
+S061_Q0054,S061_F0027,Does the CFD course use ANSYS Fluent?,paraphrase
+S061_Q0055,S061_F0028,What is MECH 541 Renewable Energy about?,direct
+S061_Q0056,S061_F0028,What do I need before the mechanical renewable energy elective?,paraphrase
+S061_Q0057,S061_F0029,What does MECH 570 Digital Manufacturing cover?,direct
+S061_Q0058,S061_F0029,What are the prerequisites for Digital Manufacturing?,paraphrase
+S061_Q0059,S061_F0030,What is MECH 571 Optimization in Engineering Design?,direct
+S061_Q0060,S061_F0030,What is the prerequisite for Optimization in Engineering Design?,paraphrase
+S061_Q0061,S061_F0031,What are the AI-restricted electives in mechanical engineering?,direct
+S061_Q0062,S061_F0031,How many AI-restricted credits must mechanical BE students take?,paraphrase
+S061_Q0063,S061_F0032,What does MECA 445 Advanced Programming for AI & Robotics cover?,direct
+S061_Q0064,S061_F0032,Which course teaches ROS and Jetson Nano?,paraphrase
+S061_Q0065,S061_F0033,What is MECA 535 Expert Systems and Applied Intelligence about?,direct
+S061_Q0066,S061_F0033,Which elective covers fuzzy logic and Prolog expert systems?,paraphrase
+S061_Q0067,S061_F0034,What does MECA 536 Applied Deep Learning for Intelligent Systems cover?,direct
+S061_Q0068,S061_F0034,What is the prerequisite for Applied Deep Learning for Intelligent Systems?,paraphrase
+S061_Q0069,S061_F0035,What is MECA 546 Smart Energy Management Systems?,direct
+S061_Q0070,S061_F0035,What do I need before Smart Energy Management Systems?,paraphrase
+S061_Q0071,S061_F0036,What does MECH 522 Mechanism Synthesis cover?,direct
+S061_Q0072,S061_F0036,Which elective uses genetic algorithms for linkage design?,paraphrase

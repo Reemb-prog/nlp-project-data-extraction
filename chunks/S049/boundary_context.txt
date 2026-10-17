@@ -1,0 +1,93 @@
+PREVIOUS PAGE 319 (reference only; do not make a fact for this page):
+ELEC 551    Nonlinear Adaptive Control                               3(3,0)
+This course presents a comprehensive exposition of the theory of nonlinear dynamical
+systems and their control. It will focus on methods for characterizing and understanding
+the behavior of systems described by nonlinear ordinary differential equations, as well
+as methods for designing controllers for such systems. In this course, both classical
+and modern concepts from nonlinear system theory will be introduced. Prerequisite:
+ELEC 451.
+
+ELEC 560    Sustainable Energy                                      3(3,0)
+This course is designed to provide you with the methods, tools, and perspectives to
+understand, critique, and ultimately influence the management of technical, economic,
+and policy choices regarding energy generation and use. We will focus equally on the
+technical, economic, political, and environmental impacts of energy. Prerequisites:
+ELEC 431
+
+ELEC 561   Wind Energy Technology                                3(3,0)
+This course aims to provide the students with an in-depth understanding of the
+theoretical, technological, and economic aspects of wind energy systems. Upon
+successful completion of this course, students will be able to identify, assess, and
+select the types of wind turbines, estimate the power output of specific wind energy
+devices and systems, assess the structural suitability of wind towers, and evaluate the
+key aspects of onshore (urban) and offshore wind energy systems. Prerequisite:
+ELEC 210.
+
+ELEC 562    Solar Energy Technology                                 3(3,0)
+This course aims to provide students with a systematic understanding of current
+knowledge, problems, and insights in solar photovoltaic technologies; enable students
+to evaluate current research and advances  in the  field; and assess solar PV
+technologies, develop critiques, and propose solutions. Prerequisite: ELEC 210.
+
+ELEC 597   Advanced Topics in Electrical Engineering             3(3,0)
+ This course is designed to enable students to study a specific advanced topic of
+ interest in Electrical Engineering. The content outline for such a topic  is to be
+ determined by the instructor and approved by the department Chair. Prerequisite:
+ Instructor’s consent. On demand.
+
+
+
+
+
+                                                          Page 319
+
+NEXT PAGE 324 (reference only; do not make a fact for this page):
+COMPUTER     AND      COMMUNICATIONS
+ENGINEERING PROGRAM
+
+Mission
+
+The CCE program aims to help students explore their innate creativity and potential and
+endow them with the knowledge, skills, and abilities to pursue successful careers in
+computer and communication engineering and related fields; think critically in solving
+complex problems using modern tools and technologies; communicate and work
+effectively with diverse groups; learn more every day, and succeed in graduate studies
+in renowned institutions if they so choose.
+
+Program Educational Objectives
+
+The program's educational objectives are to enable graduates to:
+
+1.  Foster an environment that encourages excellence in endeavor.
+
+2.  Provide quality and professional education that prepares leaders.
+
+3.  Solve problems facing society and industry in Lebanon, the Middle East, and the
+    world.
+
+4.  Engage in multidisciplinary research.
+
+Student Outcomes
+
+The Computer and Communication Engineering program adopts the learning outcomes
+of ABET, so our graduates will have:
+
+1.  An ability to identify, formulate, and solve complex engineering problems by
+    applying principles of engineering, science, and mathematics.
+
+2.  An ability to apply engineering design to produce solutions that meet specified
+    needs with consideration of public health, safety, and welfare, as well as global,
+     cultural, social, environmental, and economic factors.
+
+3.  An ability to communicate effectively with a range of audiences
+
+4.  An ability to recognize ethical and professional responsibilities in engineering
+     situations and make informed judgments, which must consider the impact of
+    engineering solutions in global, economic, environmental, and societal contexts.
+
+5.  An ability to function effectively on a team whose members together provide
+    leadership, create a collaborative and inclusive environment, establish goals, plan
+     tasks, and meet objectives.
+
+
+                                                           Page 324

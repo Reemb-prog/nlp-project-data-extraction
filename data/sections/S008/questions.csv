@@ -1,0 +1,43 @@
+qa_id,fact_id,question,question_style
+S008_Q0001,S008_F0001,How do I contact the Student Affairs Office?,direct
+S008_Q0002,S008_F0001,What is the student affairs email at RHU?,paraphrase
+S008_Q0003,S008_F0002,What does the Student Affairs Office do?,direct
+S008_Q0004,S008_F0002,Which office handles clubs and student elections at RHU?,paraphrase
+S008_Q0005,S008_F0003,Are there student clubs and activities at RHU?,direct
+S008_Q0006,S008_F0003,I'd like to join a theatre or sports activity. Who organizes these on campus?,contextual
+S008_Q0007,S008_F0004,Does RHU offer counseling for students?,direct
+S008_Q0008,S008_F0004,"I'm feeling anxious and stressed, can I talk to someone at RHU?",contextual
+S008_Q0009,S008_F0004,Is one-to-one counseling available at the university?,paraphrase
+S008_Q0010,S008_F0005,How are student representatives chosen at RHU?,direct
+S008_Q0011,S008_F0005,What is the Student Representative Committee?,paraphrase
+S008_Q0012,S008_F0006,Does RHU have dorms for male and female students?,direct
+S008_Q0013,S008_F0006,What facilities are in the RHU dormitories?,paraphrase
+S008_Q0014,S008_F0006,"I'm an international student, who do I contact about housing?",contextual
+S008_Q0015,S008_F0007,What sports facilities does RHU have?,direct
+S008_Q0016,S008_F0007,Can I join a varsity team at RHU?,paraphrase
+S008_Q0017,S008_F0007,How do I contact the athletic department?,paraphrase
+S008_Q0018,S008_F0008,What is the ushers program?,direct
+S008_Q0019,S008_F0008,Can I volunteer at graduation ceremonies and open days?,contextual
+S008_Q0020,S008_F0009,Is there a free shuttle from the dorms to the Damour highway?,direct
+S008_Q0021,S008_F0009,Does RHU provide bus transportation from different areas of Lebanon?,paraphrase
+S008_Q0022,S008_F0009,Where can I get the bus schedule?,contextual
+S008_Q0023,S008_F0010,Are there student lounges on campus?,direct
+S008_Q0024,S008_F0010,Can I play ping-pong or chess at RHU?,paraphrase
+S008_Q0025,S008_F0011,Is there a cafeteria at RHU?,direct
+S008_Q0026,S008_F0011,Until what time does the RHU cafeteria serve food?,paraphrase
+S008_Q0027,S008_F0012,Is there a medical clinic on campus?,direct
+S008_Q0028,S008_F0012,Is a nurse available at night at RHU?,paraphrase
+S008_Q0029,S008_F0012,"If I get sick on campus, where do I go?",contextual
+S008_Q0030,S008_F0013,What rights do students have at RHU?,direct
+S008_Q0031,S008_F0013,Do I have the right to appeal a decision I think is unfair?,contextual
+S008_Q0032,S008_F0013,Is my academic information kept confidential?,paraphrase
+S008_Q0033,S008_F0014,What are student responsibilities at RHU?,direct
+S008_Q0034,S008_F0014,Am I responsible for knowing my own study plan and graduation requirements?,paraphrase
+S008_Q0035,S008_F0015,Can I smoke on the RHU campus?,direct
+S008_Q0036,S008_F0015,What behavior is expected from RHU students?,paraphrase
+S008_Q0037,S008_F0016,Can I work on campus to support myself?,direct
+S008_Q0038,S008_F0016,How many hours per week can work-study students work?,paraphrase
+S008_Q0039,S008_F0016,Work study program hours limit?,short
+S008_Q0040,S008_F0017,Does RHU offer financial aid?,direct
+S008_Q0041,S008_F0017,"I can't afford tuition, who do I ask about financial assistance?",contextual
+S008_Q0042,S008_F0017,Who is eligible for financial aid at RHU?,paraphrase

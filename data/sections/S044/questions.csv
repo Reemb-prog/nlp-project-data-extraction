@@ -1,0 +1,67 @@
+qa_id,fact_id,question,question_style
+S044_Q0001,S044_F0001,How are civil engineering technical electives chosen?,direct
+S044_Q0002,S044_F0001,How many civil electives can come from other engineering disciplines?,paraphrase
+S044_Q0003,S044_F0002,What do the digits in CIVE course codes mean?,direct
+S044_Q0004,S044_F0002,Which CIVE digit indicates the Public Works area?,paraphrase
+S044_Q0005,S044_F0003,What does MECH 220 Dynamics cover?,direct
+S044_Q0006,S044_F0003,Which course covers kinematics of rigid bodies?,paraphrase
+S044_Q0007,S044_F0004,What is the prerequisite for MECH 220?,direct
+S044_Q0008,S044_F0004,Do I need Statics before Dynamics?,paraphrase
+S044_Q0009,S044_F0005,What is MECH 320 Mechanics of Materials about?,direct
+S044_Q0010,S044_F0005,Which course covers Mohr's circle and buckling?,paraphrase
+S044_Q0011,S044_F0006,What does MECH 333 Thermal Fluid Sciences cover?,direct
+S044_Q0012,S044_F0006,What do I need before Thermal Fluid Sciences?,paraphrase
+S044_Q0013,S044_F0007,What is CIVE 200 Introduction to Civil Engineering?,direct
+S044_Q0014,S044_F0007,How many credits is Introduction to Civil Engineering?,paraphrase
+S044_Q0015,S044_F0008,What does CIVE 202 Civil and Architectural Drawings cover?,direct
+S044_Q0016,S044_F0008,Which civil course teaches 2D and 3D drafting?,paraphrase
+S044_Q0017,S044_F0009,What is CIVE 211 Statics about?,direct
+S044_Q0018,S044_F0009,Does Statics have a prerequisite?,paraphrase
+S044_Q0019,S044_F0010,What does CIVE 240 Surveying cover?,direct
+S044_Q0020,S044_F0010,Does the surveying course include field work?,paraphrase
+S044_Q0021,S044_F0011,What is CIVE 312 Structural Analysis I about?,direct
+S044_Q0022,S044_F0011,Which course covers influence lines for determinate structures?,paraphrase
+S044_Q0023,S044_F0012,What is the prerequisite for CIVE 312?,direct
+S044_Q0024,S044_F0012,Structural Analysis I prerequisite?,short
+S044_Q0025,S044_F0013,What does CIVE 314 Concrete I cover?,direct
+S044_Q0026,S044_F0013,Which course covers design of one-way slabs?,paraphrase
+S044_Q0027,S044_F0014,What is the prerequisite of CIVE 314?,direct
+S044_Q0028,S044_F0014,Do I need Mechanics of Materials before Concrete I?,paraphrase
+S044_Q0029,S044_F0015,What is CIVE 321 Construction Materials about?,direct
+S044_Q0030,S044_F0015,Which course covers concrete mix design?,paraphrase
+S044_Q0031,S044_F0016,What is done in CIVE 321L Construction Materials Laboratory?,direct
+S044_Q0032,S044_F0016,What is the co-requisite of the construction materials lab?,paraphrase
+S044_Q0033,S044_F0017,What does CIVE 341 Highway Engineering cover?,direct
+S044_Q0034,S044_F0017,What do I need before Highway Engineering?,paraphrase
+S044_Q0035,S044_F0018,What is CIVE 342 Traffic Engineering about?,direct
+S044_Q0036,S044_F0018,What is the prerequisite for Traffic Engineering?,paraphrase
+S044_Q0037,S044_F0019,What is CIVE 400 Summative Learning (BS) Project?,direct
+S044_Q0038,S044_F0019,What are the prerequisites of the civil BS project?,paraphrase
+S044_Q0039,S044_F0020,What does CIVE 413 Computer Modeling of Structures cover?,direct
+S044_Q0040,S044_F0020,What do I need before Computer Modeling of Structures?,paraphrase
+S044_Q0041,S044_F0021,What is CIVE 415 Concrete II about?,direct
+S044_Q0042,S044_F0021,Which course covers slender columns and two-way slabs?,paraphrase
+S044_Q0043,S044_F0022,What are the prerequisites for CIVE 415?,direct
+S044_Q0044,S044_F0022,Can I take Concrete II without Structural Analysis I?,contextual
+S044_Q0045,S044_F0023,What does CIVE 417 Steel Structures cover?,direct
+S044_Q0046,S044_F0023,What is the prerequisite for Steel Structures?,paraphrase
+S044_Q0047,S044_F0024,What is CIVE 423 Soil Mechanics about?,direct
+S044_Q0048,S044_F0024,Which course covers consolidation and shear strength of soil?,paraphrase
+S044_Q0049,S044_F0025,What are the prerequisites for CIVE 423?,direct
+S044_Q0050,S044_F0025,Do I need Geology before Soil Mechanics?,paraphrase
+S044_Q0051,S044_F0026,What tests are done in CIVE 423L?,direct
+S044_Q0052,S044_F0026,What is the co-requisite of the soil mechanics lab?,paraphrase
+S044_Q0053,S044_F0027,What does CIVE 424 Foundation Engineering cover?,direct
+S044_Q0054,S044_F0027,What do I need before Foundation Engineering?,paraphrase
+S044_Q0055,S044_F0028,What is CIVE 432 Environmental Engineering about?,direct
+S044_Q0056,S044_F0028,What is the prerequisite for Environmental Engineering in civil?,paraphrase
+S044_Q0057,S044_F0029,What does CIVE 435 Hydraulics cover?,direct
+S044_Q0058,S044_F0029,What do I need before Hydraulics?,paraphrase
+S044_Q0059,S044_F0030,What is CIVE 499 Co-op Work Experience?,direct
+S044_Q0060,S044_F0030,How many credits is the civil engineering co-op course?,paraphrase
+S044_Q0061,S044_F0031,What does CIVE 501 Construction Planning and Management cover?,direct
+S044_Q0062,S044_F0031,Which civil course covers CPM scheduling?,paraphrase
+S044_Q0063,S044_F0032,What is CIVE 507 Structural Analysis II about?,direct
+S044_Q0064,S044_F0032,Which course covers slope-deflection and moment distribution?,paraphrase
+S044_Q0065,S044_F0033,What does CIVE 508 AI Applications in Civil Engineering cover?,direct
+S044_Q0066,S044_F0033,What is the prerequisite for AI Applications in Civil Engineering?,paraphrase

@@ -1,0 +1,96 @@
+PREVIOUS PAGE 165 (reference only; do not make a fact for this page):
+COSC 341  Software Engineering                                       3(3,0)
+This course provides a deep and comprehensive understanding of the fundamentals
+of software engineering. The course introduces students to software process models,
+project management, software requirements, and engineering processes. The course
+covers SDLC stages, UML diagrams, and the use of CASE tools. Prerequisite: COSC
+214. Equivalent to CCEE 310.
+
+COSC 360  Networking                                                  3(3,0)
+This course enables students to gain fundamental knowledge of computer networks,
+appreciate various tradeoffs and choices in networking, learn to design and analyze
+protocols, and prepare to study advanced topics in the field of networks. Prerequisite:
+COSC 214. Equivalent to CCEE 354.
+
+COSC 360L Networking Lab                                            1(0,2)
+This Lab helps prepare students seeking to pass advanced Cisco Certifications. The
+student will acquire knowledge of network equipment and protocol functionality, how to
+build a simple Ethernet network using routers, switches, and computers, and how to
+use router CLI commands to perform basic configuration and verification. The student
+will also learn valuable network problem-solving techniques and concepts. This course
+is an accompanying Lab for COSC 360. Co-requisite: COSC 360 or CCEE 354.
+Equivalent to CCEE 354L.
+
+COSC 480  Machine Learning and Data Mining                        3(3,0)
+This course introduces students to the basic knowledge representation and learning
+techniques. The emphasis is on understanding the data mining process, applying
+appropriate approaches  to solve  practical problems, and developing  intelligent
+software applications. The course covers several topics about classification, prediction,
+and clustering. Prerequisites: COSC 214; MATH 351 or BADM 250. Equivalent to
+CCEE 564.
+
+HCIS 240   Medical Terminology                                       3(3,0)
+This course introduces elements of medical terminology, including the foundations of
+words used to describe the human body and its conditions, terminology for medical
+procedures,  and  the  names  of  commonly  prescribed  medications.  Spelling,
+pronunciation, and meanings of terms used in a professional healthcare system are
+covered, as well as the recognition of common abbreviations. Prerequisite: None.
+
+HCIS 341   Health Information Systems I                               3(3,0)
+This course introduces healthcare, medical, and business processes from a software
+design perspective. Topics include the history of – and current topics related to – the
+healthcare  delivery  process,  healthcare  functions  supported  by  hospital  IT
+departments, and interactions between healthcare and business data domains, as well
+as between medical and allied health professionals.
+
+
+
+
+                                                                  Page 165
+
+NEXT PAGE 170 (reference only; do not make a fact for this page):
+MINOR IN MATHEMATICS
+
+Rationale
+
+The CMS Department offers a Mathematics minor for RHU students. It is designed to
+give students a solid foundation in mathematics and some advanced-level experience in
+the discipline.
+
+Program Objectives
+
+The aims of a minor in Mathematics are:
+
+ •   Provide RHU graduates with a basic proficiency in Mathematics to compete at the
+      university level.
+ •   Support RHU graduates with essential mathematical  skills to enhance  their
+     knowledge and understanding of their majors.
+
+Learning Outcomes
+
+At the end of this minor, the student is expected to demonstrate:
+
+ •   An ability to analyze mathematically experimental or physical results
+ •   An ability to use mathematical techniques, skills, and facts in their respective
+     research
+
+Entrance Requirements
+
+Interested RHU students must complete the appropriate form declaring their intent to
+minor in Mathematics while completing their regular major.
+
+Mathematics Minor Policies
+
+ •   Obtain a Minor Cumulative Grade Point Average of no less than 70 %.
+ •  Up to four courses between student major requirements and mathematics minor
+     requirements are counted to fulfill the mathematics minor requirements
+
+Career Options
+
+This minor allows its holders to pursue careers across various sectors, regardless of their
+major. Graduates of  this minor can seek jobs  in teaching, banking and finance,
+computing, and statistics.
+
+
+
+                                                                   Page 170

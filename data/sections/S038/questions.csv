@@ -1,0 +1,33 @@
+qa_id,fact_id,question,question_style
+S038_Q0001,S038_F0001,What is the Management program at RHU about?,direct
+S038_Q0002,S038_F0001,How many credits is the BBA in Management?,paraphrase
+S038_Q0003,S038_F0002,What are the mandatory courses in the Management major?,direct
+S038_Q0004,S038_F0002,Do management majors take Operations Management?,paraphrase
+S038_Q0005,S038_F0003,What electives can management students choose?,direct
+S038_Q0006,S038_F0003,Can a management major take Quality Management as an elective?,contextual
+S038_Q0007,S038_F0004,When do management students do their co-op?,direct
+S038_Q0008,S038_F0004,What are the co-op requirements in the Management program?,paraphrase
+S038_Q0009,S038_F0005,What jobs can management graduates get?,direct
+S038_Q0010,S038_F0005,Can management graduates work in banking or retail?,paraphrase
+S038_Q0011,S038_F0006,What are the learning outcomes of the Management program?,direct
+S038_Q0012,S038_F0006,Will management students learn to launch a business?,paraphrase
+S038_Q0013,S038_F0007,What do management students take in their first year?,direct
+S038_Q0014,S038_F0007,Management BBA year 1 courses?,short
+S038_Q0015,S038_F0008,What courses are in management year 2 fall?,direct
+S038_Q0016,S038_F0008,When do management majors take Human Resources Management?,paraphrase
+S038_Q0017,S038_F0009,What is in management year 2 spring?,direct
+S038_Q0018,S038_F0009,When do management students take Project Management?,paraphrase
+S038_Q0019,S038_F0010,What courses are in management year 3 fall?,direct
+S038_Q0020,S038_F0010,When is International Business taken by management majors?,paraphrase
+S038_Q0021,S038_F0011,What is in the last semester of the management study plan?,direct
+S038_Q0022,S038_F0011,When do management majors take Managerial Economics?,paraphrase
+S038_Q0023,S038_F0012,What does BADM 410 International Business cover?,direct
+S038_Q0024,S038_F0012,Which course covers foreign direct investment and export/import?,paraphrase
+S038_Q0025,S038_F0013,What is BMGT 400 Operations Management about?,direct
+S038_Q0026,S038_F0013,Which course covers inventory control and JIT?,paraphrase
+S038_Q0027,S038_F0014,What does BMGT 410 Quality Management cover?,direct
+S038_Q0028,S038_F0014,Is there a course on Six Sigma and TQM?,paraphrase
+S038_Q0029,S038_F0015,What is BMKA 365 Sales Management about?,direct
+S038_Q0030,S038_F0015,What do I need before Sales Management?,paraphrase
+S038_Q0031,S038_F0016,What is BMGT 210 SME Management?,direct
+S038_Q0032,S038_F0016,Is there a small business management course for non-business students?,paraphrase

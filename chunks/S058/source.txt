@@ -1,0 +1,405 @@
+RHU UNDERGRADUATE CATALOG 2026-2027
+SECTION: S058 | Mechanical engineering program
+ORIGINAL PDF PAGES: 373 to 380 (inclusive)
+ONLY extract facts whose source page is between 373 and 380.
+The text is a machine extraction; check chunk.pdf for tables or unclear layouts.
+
+========== ORIGINAL PDF PAGE 373 ==========
+MECHANICAL AND MECHATRONICS ENGINEERING
+DEPARTMENT (MME)
+
+Chairperson:          Nadim Diab
+Professor:           Ahmad Chaaban, Nadim Diab,
+Associate Professor:   Ahmad Kobeissi
+Assistant Professor:    Manar Younis
+Lecturer:            Mohamad Al Kaderi
+Adjunct Faculty:       Omar Berjaoui, Maya Maaotuk
+
+Programs Offered
+
+The Mechanical and Mechatronics Engineering (MME) Department offers two programs
+– Mechanical Engineering (MECH) and Mechatronics Engineering (MECA). Each
+program grants three degrees: Bachelor of Science, Bachelor of Engineering, and
+Master of Science. The details of each program follow.
+
+Vision
+
+To be recognized for the ability, agility, and tenacity of its graduates in confronting the
+challenges of a changing workplace.
+
+
+
+
+
+                                                           Page 373
+
+========== ORIGINAL PDF PAGE 374 ==========
+MECHANICAL ENGINEERING PROGRAM
+
+Mission
+
+The mission of the Mechanical Engineering program at RHU is to provide a solid
+education that enables students to start a professional career and/or continue graduate
+studies in mechanical engineering. The program seeks to instill in students a sense of
+and understanding of moral and professional responsibilities, the ability to learn more,
+and the leadership required in their calling, primarily in Lebanon and the Middle East.
+
+Objectives
+
+In a few years after graduation, Mechanical Engineering program graduates will:
+
+ 1.  Apply  their  multidisciplinary knowledge  in Mechanical engineering  to meet
+     employers’ expectations.
+ 2.  Possess self-learning motivation and qualifications to pursue advanced studies.
+ 3.  Demonstrate professional skills and embrace leadership roles in their profession
+     and/or communities.
+
+Program Outcomes
+
+Upon  successful completion  of  the BS/BE program  in Mechanical  Engineering,
+graduates will have:
+
+ 1.   Ability to identify, formulate, and solve complex engineering problems by applying
+      principles of engineering, science, and mathematics
+ 2.   Ability to apply engineering design to produce solutions that meet specified needs
+      with consideration of public health, safety, and welfare, as well as global, cultural,
+      social, environmental, and economic factors
+ 3.   Ability to communicate effectively with a range of audiences
+ 4.   Ability  to  recognize  ethical and  professional  responsibilities  in  engineering
+      situations and make informed judgments, which must consider the impact of
+     engineering solutions in global, economic, environmental, and societal contexts
+ 5.   Ability  to  function  effectively on a team whose members together provide
+      leadership, create a collaborative and inclusive environment, establish goals, plan
+      tasks, and meet objectives
+ 6.   Ability to develop and conduct appropriate experimentation, analyze and interpret
+      data, and use engineering judgment to draw conclusions
+ 7.   Ability to acquire and apply new knowledge as needed, using appropriate learning
+      strategies.
+
+
+
+
+
+                                                           Page 374
+
+========== ORIGINAL PDF PAGE 375 ==========
+Accreditation
+
+The Bachelor of Engineering program in Mechanical Engineering is accredited by the
+Engineering  Accreditation Commission  of ABET  (https://www.abet.org) under  the
+commission’s General Criteria and Program Criteria for Mechanical and Similarly Named
+Engineering Programs.
+
+Career Opportunities
+
+Mechanical engineers attain a broad spectrum of skills sought after by a wide range of
+professions. Industrial sectors, enterprises, and services in which a mechanical engineer
+can pursue a career include power generation and distribution, building and construction,
+medicine and pharmacology,  aerospace,  automotive,  chemicals, computers and
+electronics, renewable energy, entertainment, water resources, sports, environmental
+institutions, and government.
+
+Mechanical engineering also serves as an excellent foundation for careers in business
+management and business consulting.
+
+Program Overviews
+
+The Mechanical Engineering Program at Rafik Hariri University puts students’ best
+interests first and foremost. Every little experience the student gains represents a block
+in the building of a competent, confident, purposeful, problem-solving, competitive,
+responsible, and conscientious individual. This is accomplished through a curriculum and
+facilities that meet the highest standards, faculty members committed to students'
+academic and personal growth, and an environment that inspires learning and drives
+creativity.
+
+The Bachelor of Engineering (BE) program in Mechanical Engineering comprises 152
+credit hours across eight regular semesters and three summer semesters. The Bachelor
+of Science (BS) program comprises 118 credit hours across six regular semesters and
+three summer semesters. In addition to completing the credit requirements, a BS or a
+BE degree is conferred upon a student if the earned Cumulative GPA, Major GPA, and
+the Summative Learning Project grade are all 70 or above.
+
+The required credit hours span three categories: University requirements (UR), College
+requirements (CR), and Program requirements (PR). The allocation of the credit hours
+for the BS and BE programs is shown in the following table:
+
+BS in Mechanical Engineering (118 Credits)
+                     Major               Non-Major
+ Category                                                           Credits Percent
+                    Mandatory  Electives Mandatory  Electives
+ General
+                   0         0       21        6       27     23
+ Education
+ College
+                   0         0       24        0       24     20
+ Requirements
+                                                           Page 375
+
+========== ORIGINAL PDF PAGE 376 ==========
+Program
+                   49        0       18        0       67     57
+ Requirements
+ Credits             49        0       63        6       118    100
+
+BE in Mechanical Engineering (152 Credits)
+                    Major               Non-Major
+ Category                                                           Credits Percent
+                    Mandatory  Electives Mandatory  Electives
+ General
+                  0         0       21        9        30     20
+ Education
+ College
+                  0         0       27        0        27     18
+ Requirements
+ Program
+                  59        15      21        0        95     62
+ Requirements
+ Credits            59        15      69        9        152    100
+
+I.   University Requirements (General Education)
+
+The list of the University-required courses and their descriptions is presented in the
+introductory pages of the College of Engineering section in this catalog.
+
+II.  College Requirements
+
+The list of college-required courses and their descriptions is presented in the introductory
+pages of the College of Engineering section in this catalog.
+
+III. Program Requirements
+
+The program requirements for a Bachelor of Engineering degree in Mechanical
+Engineering
+
+Engineering encompasses 95 credits (67 credits for the BS degree) distributed as
+follows: 80 credits (67 credits for the BS degree) of mandatory courses and 15 credits
+for elective courses.
+
+A.  Mandatory Requirements
+
+The mandatory courses for the major and non-major Mechanical Engineering programs
+are listed in the table below.
+
+ Course #         Title                                 Credits  Prerequisites
+ CIVE 211         Statics                           3
+ ELEC 320        Electronics                        3      ELEC 210
+                                                                     Co-req.: ELEC
+ ELEC 320L       Electronics Lab                    1
+                                                        320
+ MECA 340      Dynamic Systems Modeling          3      MATH 314
+ MECA 341      Measurements and Instrumentation    3      ELEC 320
+                Measurements  and  Instrumentation            Co-req.: MECA
+ MECA 341L                                      1
+                Lab                                      340
+
+                                                           Page 376
+
+========== ORIGINAL PDF PAGE 377 ==========
+MECH 400*     Summative Learning (BS) Project      3      ENGL 217
+MECA 440        Control Systems Design             3     MECA 340
+MECA 440L      Control Systems Design Lab          1     MECA 440
+MECH 200        Introduction to Mechanical Engineering  3
+MECH 220      Dynamics                         3       CIVE 211
+MECH 223        Material Science                   3
+                Mechanical Engineering Graphics and
+MECH 224                                       3
+            CAD
+MECH 320      Mechanics of Materials              3       CIVE 211
+                                                                    Co-req.: MECH
+MECH 320L     Mechanics of Materials Lab           1
+                                                       320
+               Mechanisms   and   Dynamics    of       MECH 200 and
+MECH 321                                       3
+                Machinery                        MECH 220
+MECH 330      Thermodynamics I                  3      MATH 215
+MECH 334      Thermodynamics II                 3     MECH 330
+                                                                    Co-req.: MECH
+MECH 334L     Thermodynamics II Lab              1
+                                                       334
+MECH 335        Fluid Mechanics                    3     MECH 330
+                                                                    Co-req.: MECH
+MECH 335L       Fluid Mechanics Lab                1
+                                                       335
+MECH 421       Mechanical Design I                3     MECH 320
+MECH 422       Manufacturing processes             3     MECH 320
+                                          MECH    223,
+MECH 423       Mechanical Design II                3     MECH    321,
+                                                        and MECH 421
+                                          MECH 333 or
+MECH 431      Heat Transfer                      3     MECH 335 and
+                                            MATH 317
+                                                                    Co-req.: MECH
+MECH 431L     Heat Transfer Lab                  1
+                                                       341
+MECH 435     HVAC                            3     MECH 431
+                                              ENGL    217;
+MECH 499      Co-op Work Experience              3        Senior
+                                                               Standing
+                                          MECH 320
+MECH 520        Finite Element Method for Engineers    3      MATH 421
+                                          MECH 431
+MECH 521        Vibrations and Acoustics             3     MECA 340
+                                          MECH    224,
+MECA 541      CAD/CAM/CAE                    3
+                                          MECH 421
+                                              ENGL 217
+MECH 595A    BE Summative Learning Project - I     1        Senior
+                                                               Standing
+MECH 595B    BE Summative Learning Project - II     3     MECH 595A
+                                                         Course
+MECH 4xx/5xx    Technical Electives                 15
+                                                                requirement
+                                                          Page 377
+
+========== ORIGINAL PDF PAGE 378 ==========
+* Required for BS-bound students. BE students take a Technical Elective instead.
+
+B.  Technical Electives
+
+As part of the Bachelor of Engineering in Mechanical Engineering program, the student
+is required to take 15 credit hours of technical electives. These courses allow students
+to focus on a specific area to develop in-depth knowledge and understanding. The
+student can also mix and match elective courses from different areas to gain a broader
+exposure to the various Mechanical Engineering disciplines. The student should, in
+cooperation with the academic advisor, select a  list of electives that best meet their
+needs and aspirations. The listed technical elective courses and other courses from other
+engineering programs, in addition to the required program courses, are designed to allow
+the student to develop in-depth knowledge and understanding in the following areas:
+
+    •   Mechanical Design and Manufacturing
+    •   Energy and Thermo-fluid Systems
+
+It is highly recommended that the student take elective courses from the list below after
+completing the mandatory requirements  in the related area. Students may select
+technical electives from other programs, subject to approval of the academic advisor and
+the corresponding course instructor.
+
+ Course #    Title                              Credits  Prerequisites
+ Mechanical Design and Manufacturing
+ MECH 445  Automotive Engineering            3     MECH 330 or 333 and
+                                      MECH 321
+ MECH 470  Product Design and Development    3     MECH 421
+ MECH 498  Special   Topics    in   Mechanical 3
+             Engineering
+ MECH 522  Mechanism   Synthesis:   Classical 3     MECH 321
+             Kinematics to AI-Driven Optimization
+ MECH 523  Mechanics of Composite Materials   3     MECH 320
+ MECH 524   Elasticity and Plasticity            3     MECH 320
+ MECH 525  Advanced Dynamics              3     MECH 220
+ MECH 527  Modern Material Science           3     MECH 223
+ MECH 570   Digital Manufacturing              3     MECH 422 and MECA
+                                                  541
+ MECH 571  Optimization in Engineering Design   3      MATH 421
+ Energy and Thermo-fluid Systems
+ MECH 436  Petroleum Refining Technology for 3     CHEM           211,
+             Mechanical Engineers                   MECH320, MECH 330
+ MECH 437  Heat      Exchanger      Design, 3     MECH 320, MECH 431
+             Performance, and Inspection
+ MECH 445  Automotive Engineering            3     MECH 330 or 333 and
+                                      MECH 321
+ MECH 448  Plumbing Engineering             3     MECH 335 or MECH
+                                                  333
+ MECH 451  Fluid Mechanics II                3     MECH 335
+
+                                                           Page 378
+
+========== ORIGINAL PDF PAGE 379 ==========
+MECH 453  Buildings and Energy              3     MECH 330 or MECH
+                                                  333
+ MECH 455  Gas Turbines                    3     MECH 330 or MECH
+                                                  333
+ MECH 461  Thermal Systems Design           3     MECH 431
+ MECH 468   Internal Combustion Engines        3     MECH 334
+ MECH 471  Refrigeration                    3     MECH 334
+ MECH 498  Special   Topics    in   Mechanical 3
+             Engineering
+ MECH 530  Computational Fluid Dynamics      3     MECH 431
+ MECH 541  Renewable Energy               3     MECH 330 or MECH
+                                                  333
+
+C.  Summative Learning Project
+
+Students must complete a 3-credit-hour course for the BS (4 credits for the BE; taken 1
+credit in the first regular semester and 3 credits in the following regular semester) in
+which they work, preferably in groups, on a problem of concern to industry or the
+community at large, or to develop a promising idea. The SLP could be an extension of
+the projects students worked on in the Engineering for the Community course, bringing
+them to a more useful outcome.
+
+D.  Co-op Experience
+
+Students must complete 8 weeks of practical training in a field related to their interests.
+The Co-op experience is usually fulfilled during the summer semester of the third year in
+the program. The Co-op office matches the Co-op assignment with the student’s field of
+study and the employer’s interest. A faculty member follows up on a student’s progress
+throughout the Co-op period by conducting field visits and ensuring that the student’s
+performance is aligned with their aspirations and the employer’s needs. Students are
+required to submit a formal report and a poster and to give a formal presentation about
+their Co-op experience. While ENGL 217 and Senior Standing are the essential
+prerequisites for co-op training, the program may stipulate additional conditions.
+
+Study Plan
+
+The following study plan summarizes the courses and credit distribution for the Bachelor
+of Science (BS) and Bachelor of Engineering (BE) in Mechanical Engineering. The
+following study plan serves as a roadmap for smooth progression toward graduation.
+
+ Course #      Title                                    Credits Prerequisites
+ Year 1, Fall Semester (15 Credits)
+CCEE 214    Introduction to Programming             3
+ CIVE 211     Statics                              3
+ ENGL 210    English Composition and Rhetoric         3       Placement
+MATH 215    Calculus III                           3
+ PHYS 210    Fundamentals of Physics and Lab         3
+
+                                                           Page 379
+
+========== ORIGINAL PDF PAGE 380 ==========
+Year 1, Spring Semester (15 Credits)
+ELEC 210     Electric Circuits                       3     PHYS  191  or
+                                                                 Equivalent
+MATH 216    Calculus IV                           3     MATH 215
+MECH 200    Introduction to Mechanical Engineering     3
+MECH 220   Dynamics                            3      CIVE 211
+MECH 223    Material Science                      3
+Year 1, Summer Semester (9 Credits)
+CHEM 211   Environmental Chemistry and Lab         3
+MECH 224   Mechanical Engineering Graphics and CAD 3
+MATH 311    Linear Algebra with Applications          3
+Year 2, Fall Semester (17 Credits)
+ELEC 320     Electronics                           3     ELEC 210
+ELEC 320L   Electronic Lab                        1       Co-req:  ELEC
+                                                       320
+MATH 314    Ordinary Differential Equations           3     MATH 216
+MECH 330   Thermodynamics I                     3     MATH 215
+MECH 320   Mechanics of Materials                 3      CIVE 211
+             Mechanics of Materials Lab              1        Co-req.: MECH
+MECH 320L
+                                                       320
+MECH 321   Mechanisms and Dynamics of Machinery   3     MECH 200 and
+                                         MECH 220
+Year 2, Spring Semester (17 Credits)
+ENGL 217    Professional English                   3     ENGL 210
+MATH 351    Probability and Statistics                3     MATH 215
+MECA 340   Dynamic Systems Modeling             3     MATH 314
+MECH 334   Thermodynamics II                    3     MECH 330
+MECH 334L  Thermodynamics II Lab                 1       Co-req: MECH
+                                                       334
+MECH 335    Fluid Mechanics                       3     MECH 330
+MECH 335L   Fluid Mechanics Lab                   1        Co-req.: MECH
+                                                       335
+Year 2, Summer Semester (9 Credits)
+ENGR 300    Engineering Economics and Management  3
+MATH 317    Partial Differential Equations             3     MATH 314
+               Social Sciences/Cultural Elective I        3
+Year 3, Fall Semester (16 Credits)
+MATH 421    Numerical Analysis                    3     MATH 311
+MECA 440    Control Systems Design                3     MECA 340
+MECA 541   CAD/CAM/CAE                       3     MECH    224,
+                                         MECH 421
+MECH 421   Mechanical Design I                   3     MECH 320
+MECH 431   Heat Transfer                         3     MECH 333  or
+                                         MECH 335 and
+                                           MATH 317
+
+                                                          Page 380
